@@ -1,0 +1,14 @@
+{
+  "generatedAt": "2026-05-20T05:52:10.070Z",
+  "count": 162,
+  "withDescription": 162,
+  "totalDescriptionWords": 15848,
+  "avgDescriptionWords": 98,
+  "withHighlights": 160,
+  "gstcMentions": 6,
+  "files": [
+    "excursion-copy-analysis-input.json",
+    "excursion-copy-analysis-input.jsonl",
+    "excursion-copy-analysis-input.csv"
+  ]
+}

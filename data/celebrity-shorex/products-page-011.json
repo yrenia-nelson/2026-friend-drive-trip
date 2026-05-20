@@ -1,0 +1,2351 @@
+{
+  "data": {
+    "products": {
+      "commerceProducts": [
+        {
+          "activityLevel": {
+            "code": "MILD",
+            "description": "Full participation may require leisurely walking over primarily even surfaces. There may be a limited number of steps, a minimal amount of cobblestones or uneven surfaces, and some standing for extended periods of time.",
+            "name": "Mild",
+            "__typename": "CommerceActivityLevel"
+          },
+          "ageRanges": [
+            {
+              "guestType": "INFANT",
+              "maxValue": 3,
+              "minValue": 0,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "CHILD",
+              "maxValue": 12,
+              "minValue": 4,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "ADULT",
+              "maxValue": 120,
+              "minValue": 13,
+              "__typename": "AgeRangeItem"
+            }
+          ],
+          "approvalStatus": null,
+          "bookingEligibility": null,
+          "categories": [
+            {
+              "code": "shorex",
+              "name": "Shore Excursions",
+              "description": "Discover new worlds.",
+              "subCategories": [
+                {
+                  "code": "m_excursions",
+                  "name": "Excursions",
+                  "description": null,
+                  "order": null,
+                  "__typename": "CommerceSubCategory"
+                }
+              ],
+              "__typename": "CommerceCategory"
+            }
+          ],
+          "classifications": [],
+          "dayPorts": [
+            {
+              "day": 4,
+              "name": "Day 4 | JUNEAU, ALASKA",
+              "portCode": "JNU",
+              "port": "Juneau, Alaska",
+              "__typename": "DayPort"
+            }
+          ],
+          "media": [
+            {
+              "source": {
+                "altText": "a field of fireweed in bloom leading to Mendenhall Glacier in Juneau, Alaska.",
+                "path": "/content/dam/shore-x/juneau-jnu/ju38-mendenhall-glacier-and-gardens/stock-photo-juneau-alaska-mendenhall-glacier-viewpoint-with-fireweed-in-bloom-342932288.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            },
+            {
+              "source": {
+                "altText": "a tour of Mendenhall Glacier and gardens.",
+                "path": "/vod/pdp/content/dam/videos/shore-x-videos/tours/ports/juneau-jnu/JU38-mendenhall-glacier-gardens/main.m3u8",
+                "__typename": "MediaSource"
+              },
+              "type": "video",
+              "placement": null,
+              "__typename": "Media"
+            }
+          ],
+          "price": [
+            {
+              "currency": "USD",
+              "promotionalPrice": "156.99",
+              "shipboardPrice": null,
+              "formattedPromotionalPrice": "$156.99",
+              "formattedBasePrice": "$174.99",
+              "formattedDailyPrice": null,
+              "formattedPromoDailyPrice": null,
+              "salesUnit": {
+                "code": "perSeat",
+                "name": "Per Seat",
+                "label": "Per Adult",
+                "__typename": "PriceSalesUnit"
+              },
+              "displayPrices": {
+                "formattedBasePrice": "$174.99",
+                "formattedPromotionalPrice": "$156.99",
+                "__typename": "DisplayPrices"
+              },
+              "__typename": "Price"
+            }
+          ],
+          "isAtYourLeisure": false,
+          "restrictions": [],
+          "references": [],
+          "stock": {
+            "stockLevel": 9999,
+            "stockLevelStatus": "IN_STOCK",
+            "__typename": "Stock"
+          },
+          "type": {
+            "id": "pt_shoreX",
+            "name": "ShoreX",
+            "__typename": "CommerceType"
+          },
+          "variantOptions": [
+            {
+              "code": "JUR9",
+              "offer": null,
+              "options": [
+                {
+                  "code": null,
+                  "name": "vvc_standard",
+                  "label": null,
+                  "sequence": null,
+                  "__typename": "ProductVariantOptionQualifier"
+                }
+              ],
+              "__typename": "ProductVariantOption"
+            }
+          ],
+          "accessible": false,
+          "id": "JUR9",
+          "baseId": "B-JUR9",
+          "defaultVariantId": "JUR9",
+          "variantType": "services",
+          "categoryIds": [
+            "vvc_standard"
+          ],
+          "title": "Destination Highlight: Mendenhall Glacier and Gardens",
+          "shortDescription": null,
+          "recommended": false,
+          "mostPopular": false,
+          "productInterests": [
+            {
+              "code": "itf_cultural",
+              "name": "Cultural",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_sustainable",
+              "name": "Sustainable",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_naturewildlife",
+              "name": "Nature & Wildlife",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_destinationHighlights",
+              "name": "Destination Highlights",
+              "__typename": "ProductInterest"
+            }
+          ],
+          "complimentary": false,
+          "promotion": {
+            "description": "PRE-CRUISE SAVINGS",
+            "value": 10,
+            "type": "PERCENT_OFF",
+            "title": "CEL Shorex Evergreen Destination Highlights 60-79% booked",
+            "displayName": "(10% OFF) PRE-CRUISE SAVINGS",
+            "code": "ALL_C_E_ALL_SX_ALL_0_30_60_79_USD_20",
+            "__typename": "Promotion"
+          },
+          "isALaCarte": false,
+          "diningType": null,
+          "productStatus": null,
+          "description": "Take a fully narrated tour of Alaska's Glacier Gardens Rainforest and visit the famous Mendenhall Glacier. Hear how local owners came to develop the area and the history behind their notorious upside down trees. Then, embark on a mile long journey into the rainforest. Enjoy a brief stop in the greenhouse at the bottom of the mountain before traveling to Mendenhall Glacier, where you'll walk along the trails and watch a short movie about its history. ",
+          "highlights": [
+            "Ascend to the heart of the rainforest at an elevation of 580 feet, and soak in the breathtaking views.",
+            "Visit Mendenhall Glacier, a massive river of compressed blue ice, and the largest, most rugged glacier accessible by road.",
+            "Explore Rainforest Gardens' colorful history as you walk through its lower garden, amazingly designed landscapes, and cascading stream."
+          ],
+          "__typename": "CommerceProduct"
+        },
+        {
+          "activityLevel": {
+            "code": "MILD",
+            "description": "Full participation may require leisurely walking over primarily even surfaces. There may be a limited number of steps, a minimal amount of cobblestones or uneven surfaces, and some standing for extended periods of time.",
+            "name": "Mild",
+            "__typename": "CommerceActivityLevel"
+          },
+          "ageRanges": [
+            {
+              "guestType": "INFANT",
+              "maxValue": 3,
+              "minValue": 0,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "CHILD",
+              "maxValue": 12,
+              "minValue": 4,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "ADULT",
+              "maxValue": 120,
+              "minValue": 13,
+              "__typename": "AgeRangeItem"
+            }
+          ],
+          "approvalStatus": null,
+          "bookingEligibility": null,
+          "categories": [
+            {
+              "code": "shorex",
+              "name": "Shore Excursions",
+              "description": "Discover new worlds.",
+              "subCategories": [
+                {
+                  "code": "m_excursions",
+                  "name": "Excursions",
+                  "description": null,
+                  "order": null,
+                  "__typename": "CommerceSubCategory"
+                }
+              ],
+              "__typename": "CommerceCategory"
+            }
+          ],
+          "classifications": [],
+          "dayPorts": [
+            {
+              "day": 3,
+              "name": "Day 3 | KETCHIKAN, ALASKA",
+              "portCode": "KTN",
+              "port": "Ketchikan, Alaska",
+              "__typename": "DayPort"
+            }
+          ],
+          "media": [
+            {
+              "source": {
+                "altText": "View of vessel cruising through the open bay area.",
+                "path": "/content/dam/shore-x/ketchikan-ktn/kebp-coastal-wildlife-cruise/KEBP-Coastal-Wildlife-Cruise.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            },
+            {
+              "source": {
+                "altText": "View of vessel cruising through the open bay area.",
+                "path": "/content/dam/shore-x/ketchikan-ktn/kebp-coastal-wildlife-cruise/KEBP-Coastal-Wildlife-Cruise-Closeup.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            },
+            {
+              "source": {
+                "altText": "Aerial view of vessel cruising through the ope bay area.",
+                "path": "/content/dam/shore-x/ketchikan-ktn/kebp-coastal-wildlife-cruise/KEBP-Coastal-Wildlife-Cruise-Aerial-Bay.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            },
+            {
+              "source": {
+                "altText": "Misty mountains with clouds as seen from water in Ketchikan.",
+                "path": "/content/dam/shore-x/ketchikan-ktn/ke62-misty-fjords-and-wilderness-explorer/KE62-Misty-Fjords-and-Wilderness-Explorer-Misty-Fjord.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            },
+            {
+              "source": {
+                "altText": "Seals basking on rocks in the harbor area in Ketchikan.",
+                "path": "/content/dam/shore-x/ketchikan-ktn/ke62-misty-fjords-and-wilderness-explorer/KE62-Misty-Fjords-and-Wilderness-Explorer-Harbor-Seals.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            },
+            {
+              "source": {
+                "altText": "Eagles lock talons mid air in Ketchikan.",
+                "path": "/content/dam/shore-x/ketchikan-ktn/ket6-wildlife-safari-and-beach-bonfire/KET6-Wildlife-Safari-and-Beach-Eagles-Gripping-Talons-Ketchikan.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            },
+            {
+              "source": {
+                "altText": "Black bear with fish in mouth in Ketchikan, Alaska.",
+                "path": "/content/dam/shore-x/ketchikan-ktn/y588-alaskan-bear-encounter-by-land-and-sea/Y588-Alaskan-Bear-Encounter-Bear-Eating-Fish-Ketchikan.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            }
+          ],
+          "price": [
+            {
+              "currency": "USD",
+              "promotionalPrice": "244.99",
+              "shipboardPrice": null,
+              "formattedPromotionalPrice": "$244.99",
+              "formattedBasePrice": "$257.99",
+              "formattedDailyPrice": null,
+              "formattedPromoDailyPrice": null,
+              "salesUnit": {
+                "code": "perSeat",
+                "name": "Per Seat",
+                "label": "Per Adult",
+                "__typename": "PriceSalesUnit"
+              },
+              "displayPrices": {
+                "formattedBasePrice": "$257.99",
+                "formattedPromotionalPrice": "$244.99",
+                "__typename": "DisplayPrices"
+              },
+              "__typename": "Price"
+            }
+          ],
+          "isAtYourLeisure": false,
+          "restrictions": [
+            {
+              "maxValue": null,
+              "minValue": "5",
+              "operator": "GREATER_THAN_OR_EQUAL",
+              "restrictionDisplayText": "Are you greater than or equal to 5.0 years ?",
+              "unit": "years",
+              "__typename": "CommerceRestriction"
+            },
+            {
+              "maxValue": "320",
+              "minValue": null,
+              "operator": "LESS_THAN_OR_EQUAL",
+              "restrictionDisplayText": "Are you less than or equal to 320.0 lbs ?",
+              "unit": "lbs",
+              "__typename": "CommerceRestriction"
+            }
+          ],
+          "references": [],
+          "stock": {
+            "stockLevel": 1,
+            "stockLevelStatus": "LOW_STOCK",
+            "__typename": "Stock"
+          },
+          "type": {
+            "id": "pt_shoreX",
+            "name": "ShoreX",
+            "__typename": "CommerceType"
+          },
+          "variantOptions": [
+            {
+              "code": "KEBP",
+              "offer": null,
+              "options": [
+                {
+                  "code": null,
+                  "name": "vvc_standard",
+                  "label": null,
+                  "sequence": null,
+                  "__typename": "ProductVariantOptionQualifier"
+                }
+              ],
+              "__typename": "ProductVariantOption"
+            }
+          ],
+          "accessible": false,
+          "id": "KEBP",
+          "baseId": "B-KEBP",
+          "defaultVariantId": "KEBP",
+          "variantType": "services",
+          "categoryIds": [
+            "vvc_standard"
+          ],
+          "title": "Small Group: Coastal Wildlife Cruise",
+          "shortDescription": null,
+          "recommended": false,
+          "mostPopular": false,
+          "productInterests": [
+            {
+              "code": "itf_naturewildlife",
+              "name": "Nature & Wildlife",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_smallgroupdiscoveries",
+              "name": "Small Group Discoveries",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_aquaticsandwateractivity ",
+              "name": "Aquatics & Water Activity ",
+              "__typename": "ProductInterest"
+            }
+          ],
+          "complimentary": false,
+          "promotion": {
+            "description": "PRE-CRUISE SAVINGS",
+            "value": 5,
+            "type": "PERCENT_OFF",
+            "title": "CEL Shorex Evergreen Destination Highlights 80-100% booked",
+            "displayName": "(5% OFF) PRE-CRUISE SAVINGS",
+            "code": "ALL_C_E_ALL_SX_ALL_0_30_80_100_USD_25",
+            "__typename": "Promotion"
+          },
+          "isALaCarte": false,
+          "diningType": null,
+          "productStatus": "lowStock",
+          "description": "See a variety of wildlife up close from onboard a unique, high speed boat specially designed for viewing wildlife. Although bear viewing is the primary objective, you’ll see a variety of other wildlife. In early summer, bears come out of the forest to forage while whales, seals, porpoise, and eagles follow schools of Herring and Needlefish. Later in the season, bears gather near creek mouths waiting for fish to move upstream. ",
+          "highlights": [
+            "Enjoy a high-speed boat ride in search of Black bears, eagles, seals, sea lions, porpoise, orca and Humpback whales."
+          ],
+          "__typename": "CommerceProduct"
+        },
+        {
+          "activityLevel": {
+            "code": "MODERATE",
+            "description": "Full participation may require extended periods of walking over even and uneven surfaces, steep terrain and/or water activity in a slight current. There may be steps, inclines, cobblestone surfaces, and extended periods of standing. Participants with physical limitations should take this into account.",
+            "name": "Moderate",
+            "__typename": "CommerceActivityLevel"
+          },
+          "ageRanges": [
+            {
+              "guestType": "INFANT",
+              "maxValue": 3,
+              "minValue": 0,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "CHILD",
+              "maxValue": 12,
+              "minValue": 4,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "ADULT",
+              "maxValue": 120,
+              "minValue": 13,
+              "__typename": "AgeRangeItem"
+            }
+          ],
+          "approvalStatus": null,
+          "bookingEligibility": null,
+          "categories": [
+            {
+              "code": "shorex",
+              "name": "Shore Excursions",
+              "description": "Discover new worlds.",
+              "subCategories": [
+                {
+                  "code": "m_excursions",
+                  "name": "Excursions",
+                  "description": null,
+                  "order": null,
+                  "__typename": "CommerceSubCategory"
+                }
+              ],
+              "__typename": "CommerceCategory"
+            }
+          ],
+          "classifications": [],
+          "dayPorts": [
+            {
+              "day": 3,
+              "name": "Day 3 | KETCHIKAN, ALASKA",
+              "portCode": "KTN",
+              "port": "Ketchikan, Alaska",
+              "__typename": "DayPort"
+            }
+          ],
+          "media": [
+            {
+              "source": {
+                "altText": "floatplane in Alaska.",
+                "path": "/content/dam/shore-x/ketchikan-ktn/ke22-alaska-bear-adventure-by-floatplane/stock-photo-float-plane-on-the-naknek-river-king-salmon-alaska-1322854412.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            }
+          ],
+          "price": [
+            {
+              "currency": "USD",
+              "promotionalPrice": null,
+              "shipboardPrice": null,
+              "formattedPromotionalPrice": null,
+              "formattedBasePrice": "$733.99",
+              "formattedDailyPrice": null,
+              "formattedPromoDailyPrice": null,
+              "salesUnit": {
+                "code": "perSeat",
+                "name": "Per Seat",
+                "label": "Per Adult",
+                "__typename": "PriceSalesUnit"
+              },
+              "displayPrices": {
+                "formattedBasePrice": "$733.99",
+                "formattedPromotionalPrice": null,
+                "__typename": "DisplayPrices"
+              },
+              "__typename": "Price"
+            }
+          ],
+          "isAtYourLeisure": false,
+          "restrictions": [
+            {
+              "maxValue": null,
+              "minValue": "8",
+              "operator": "GREATER_THAN_OR_EQUAL",
+              "restrictionDisplayText": "Are you greater than or equal to 8.0 years ?",
+              "unit": "years",
+              "__typename": "CommerceRestriction"
+            },
+            {
+              "maxValue": "250",
+              "minValue": null,
+              "operator": "LESS_THAN_OR_EQUAL",
+              "restrictionDisplayText": "Are you less than or equal to 250.0 lbs ?",
+              "unit": "lbs",
+              "__typename": "CommerceRestriction"
+            }
+          ],
+          "references": [],
+          "stock": {
+            "stockLevel": 4,
+            "stockLevelStatus": "LOW_STOCK",
+            "__typename": "Stock"
+          },
+          "type": {
+            "id": "pt_shoreX",
+            "name": "ShoreX",
+            "__typename": "CommerceType"
+          },
+          "variantOptions": [
+            {
+              "code": "KEBJ",
+              "offer": null,
+              "options": [
+                {
+                  "code": null,
+                  "name": "vvc_standard",
+                  "label": null,
+                  "sequence": null,
+                  "__typename": "ProductVariantOptionQualifier"
+                }
+              ],
+              "__typename": "ProductVariantOption"
+            }
+          ],
+          "accessible": false,
+          "id": "KEBJ",
+          "baseId": "B-KEBJ",
+          "defaultVariantId": "KEBJ",
+          "variantType": "services",
+          "categoryIds": [
+            "vvc_standard"
+          ],
+          "title": "Small Group: Alaska Bear Adventure by Floatplane",
+          "shortDescription": null,
+          "recommended": false,
+          "mostPopular": false,
+          "productInterests": [
+            {
+              "code": "itf_active",
+              "name": "Active",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_flightseeing",
+              "name": "Flightseeing",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_naturewildlife",
+              "name": "Nature & Wildlife",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_smallgroupdiscoveries",
+              "name": "Small Group Discoveries",
+              "__typename": "ProductInterest"
+            }
+          ],
+          "complimentary": false,
+          "promotion": null,
+          "isALaCarte": false,
+          "diningType": null,
+          "productStatus": "lowStock",
+          "description": "Take off by floatplane as your pilot guides you to a remote site in the Tongass National Forest noted for its salmon rich streams and abundant wildlife. A 20 minute flight takes you by historic homesteads and over the sparkling waters of Alaska’s Inside Passage. Then a short hike with an Alaskan naturalist leads you to your viewing platform overlooking a Salmon spawning stream. Look down to see schools of salmon, Black bears and other wildlife. ",
+          "highlights": [
+            "Look down from your viewing platform to see large numbers of salmon congregate to complete their spawning journey.",
+            "Travel by floatplane, viewing a landscape of forested mountains and pristine lakes on your way to the viewing location.",
+            "See Black Bears feed on Salmon while viewing a variety of birds, Sitka Black-tailed deer, mink and Marten."
+          ],
+          "__typename": "CommerceProduct"
+        },
+        {
+          "activityLevel": {
+            "code": "MILD",
+            "description": "Full participation may require leisurely walking over primarily even surfaces. There may be a limited number of steps, a minimal amount of cobblestones or uneven surfaces, and some standing for extended periods of time.",
+            "name": "Mild",
+            "__typename": "CommerceActivityLevel"
+          },
+          "ageRanges": [
+            {
+              "guestType": "INFANT",
+              "maxValue": 3,
+              "minValue": 0,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "CHILD",
+              "maxValue": 12,
+              "minValue": 4,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "ADULT",
+              "maxValue": 120,
+              "minValue": 13,
+              "__typename": "AgeRangeItem"
+            }
+          ],
+          "approvalStatus": null,
+          "bookingEligibility": null,
+          "categories": [
+            {
+              "code": "shorex",
+              "name": "Shore Excursions",
+              "description": "Discover new worlds.",
+              "subCategories": [
+                {
+                  "code": "m_excursions",
+                  "name": "Excursions",
+                  "description": null,
+                  "order": null,
+                  "__typename": "CommerceSubCategory"
+                }
+              ],
+              "__typename": "CommerceCategory"
+            }
+          ],
+          "classifications": [],
+          "dayPorts": [
+            {
+              "day": 4,
+              "name": "Day 4 | JUNEAU, ALASKA",
+              "portCode": "JNU",
+              "port": "Juneau, Alaska",
+              "__typename": "DayPort"
+            }
+          ],
+          "media": [
+            {
+              "source": {
+                "altText": "Canoe approaching the Mendenhall Lake.",
+                "path": "/content/dam/shore-x/juneau-jnu/jupv-mendenhall-lake-canoe/JUPV-Mendenhall-Lake-Canoe.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            },
+            {
+              "source": {
+                "altText": "A view of the Mendenhall glacier shoreline.",
+                "path": "/content/dam/shore-x/juneau-jnu/jus2-destination-highlight-mendenhall-glacier-whale-watching-and-wildlife-quest/JUS2-Destination-Highlight-Mendenhall-Glacier-Whale-Watching-and-Wildlife-Quest-Mendenhall-Glacier.JPG",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            },
+            {
+              "source": {
+                "altText": "Group rafting in lake with snow covered mountains in the background.",
+                "path": "/content/dam/shore-x/juneau-jnu/jup2-mendenhall-glacier-river-rafting/JUP2-Mendenhall-Glacier-River-Rafting.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            }
+          ],
+          "price": [
+            {
+              "currency": "USD",
+              "promotionalPrice": "72.99",
+              "shipboardPrice": null,
+              "formattedPromotionalPrice": "$72.99",
+              "formattedBasePrice": "$76.99",
+              "formattedDailyPrice": null,
+              "formattedPromoDailyPrice": null,
+              "salesUnit": {
+                "code": "perSeat",
+                "name": "Per Seat",
+                "label": "Per Adult",
+                "__typename": "PriceSalesUnit"
+              },
+              "displayPrices": {
+                "formattedBasePrice": "$76.99",
+                "formattedPromotionalPrice": "$72.99",
+                "__typename": "DisplayPrices"
+              },
+              "__typename": "Price"
+            }
+          ],
+          "isAtYourLeisure": false,
+          "restrictions": [],
+          "references": [],
+          "stock": {
+            "stockLevel": 9999,
+            "stockLevelStatus": "IN_STOCK",
+            "__typename": "Stock"
+          },
+          "type": {
+            "id": "pt_shoreX",
+            "name": "ShoreX",
+            "__typename": "CommerceType"
+          },
+          "variantOptions": [
+            {
+              "code": "Y8VB",
+              "offer": null,
+              "options": [
+                {
+                  "code": null,
+                  "name": "vvc_standard",
+                  "label": null,
+                  "sequence": null,
+                  "__typename": "ProductVariantOptionQualifier"
+                }
+              ],
+              "__typename": "ProductVariantOption"
+            }
+          ],
+          "accessible": false,
+          "id": "Y8VB",
+          "baseId": "SX-HUB-JNU-364817",
+          "defaultVariantId": "Y8VB",
+          "variantType": "services",
+          "categoryIds": [
+            "vvc_standard"
+          ],
+          "title": "Destination Highlight: Discover the Mendenhall Glacier",
+          "shortDescription": null,
+          "recommended": false,
+          "mostPopular": false,
+          "productInterests": [
+            {
+              "code": "itf_destinationHighlights",
+              "name": "Destination Highlights",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_sightseeing",
+              "name": "Sightseeing",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_sustainable",
+              "name": "Sustainable",
+              "__typename": "ProductInterest"
+            }
+          ],
+          "complimentary": false,
+          "promotion": {
+            "description": "PRE-CRUISE SAVINGS",
+            "value": 5,
+            "type": "PERCENT_OFF",
+            "title": "CEL Shorex Evergreen Destination Highlights 80-100% booked",
+            "displayName": "(5% OFF) PRE-CRUISE SAVINGS",
+            "code": "ALL_C_E_ALL_SX_ALL_0_30_80_100_USD_25",
+            "__typename": "Promotion"
+          },
+          "isALaCarte": false,
+          "diningType": null,
+          "productStatus": null,
+          "description": "Behold the rugged beauty of the Alaskan wilderness with an intrepid shore excursion to the Mendenhall Glacier, where you embark on a self-guided exploration of the region and experience the awe-inspiring grandeur of this icy giant.",
+          "highlights": [
+            "Enjoy a narrated motor coach drive along the Gastineau Channel to one of Juneau's most incredible landmarks - the Mendenhall Glacier, a magnificent 13-mile expanse of shimmering blue ice. Along the way, pass by the infamous Gold Creek and listen to your knowledgeable driver talk about the history of the capital.",
+            "Once you reach the glacier, enjoy free time to soak in the beauty of this natural wonder; walk along the trails and keep your camera at the ready to capture unobstructed views of the river of ice. Make sure to stay vigilant for any local wildlife sightings, including porcupines, bears, Arctic Terns, beavers and mountain goats.",
+            "You can also explore the visitor’s center, which sits along a cliff over the valley floor and offers a number of interpretive exhibits related to the glacier's history. Browse the gift shop for a souvenir to bring back home, before another scenic drive brings your Mendenhall Glacier excursion to a conclusion."
+          ],
+          "__typename": "CommerceProduct"
+        },
+        {
+          "activityLevel": {
+            "code": "MILD",
+            "description": "Full participation may require leisurely walking over primarily even surfaces. There may be a limited number of steps, a minimal amount of cobblestones or uneven surfaces, and some standing for extended periods of time.",
+            "name": "Mild",
+            "__typename": "CommerceActivityLevel"
+          },
+          "ageRanges": [
+            {
+              "guestType": "INFANT",
+              "maxValue": 3,
+              "minValue": 0,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "CHILD",
+              "maxValue": 12,
+              "minValue": 4,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "ADULT",
+              "maxValue": 120,
+              "minValue": 13,
+              "__typename": "AgeRangeItem"
+            }
+          ],
+          "approvalStatus": null,
+          "bookingEligibility": null,
+          "categories": [
+            {
+              "code": "shorex",
+              "name": "Shore Excursions",
+              "description": "Discover new worlds.",
+              "subCategories": [
+                {
+                  "code": "m_excursions",
+                  "name": "Excursions",
+                  "description": null,
+                  "order": null,
+                  "__typename": "CommerceSubCategory"
+                }
+              ],
+              "__typename": "CommerceCategory"
+            }
+          ],
+          "classifications": [],
+          "dayPorts": [
+            {
+              "day": 3,
+              "name": "Day 3 | KETCHIKAN, ALASKA",
+              "portCode": "KTN",
+              "port": "Ketchikan, Alaska",
+              "__typename": "DayPort"
+            }
+          ],
+          "media": [
+            {
+              "source": {
+                "altText": "Entrance to Creek Street, popular shopping tourist attraction landmark in Ketchikan, Alaska..",
+                "path": "/content/dam/excalibur/digital-stock/royalty-free/shutterstock/2024/05/stock-photo-entrance-sign-creek-street-boardwalk-ketchikan-alaska-1275413779.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            },
+            {
+              "source": {
+                "altText": "Creek Street, the historic broadwalk in Ketchikan, Alaska. ",
+                "path": "/content/dam/excalibur/digital-stock/royalty-free/shutterstock/2024/05/stock-photo-historic-broadwalk-creek-street-ketchikan-alaska-1523710460.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            },
+            {
+              "source": {
+                "altText": "Historic wooden buildings of Creek Street in Ketchikan, built on a raised boardwalk above Ketchikan Creek, Alaska.",
+                "path": "/content/dam/excalibur/digital-stock/royalty-free/shutterstock/2024/05/stock-photo-historic-wooden-buildings-creek-street-ketchikan-alaska-2394188693.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            },
+            {
+              "source": {
+                "altText": "Historic wooden buildings of Creek Street in Ketchikan, built on a raised boardwalk above Ketchikan Creek Street.",
+                "path": "/content/dam/excalibur/digital-stock/royalty-free/shutterstock/2024/05/stock-photo-historic-wooden-buildings-creek-street-ketchikan-alaska-2394188667.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            }
+          ],
+          "price": [
+            {
+              "currency": "USD",
+              "promotionalPrice": "190.99",
+              "shipboardPrice": null,
+              "formattedPromotionalPrice": "$190.99",
+              "formattedBasePrice": "$224.99",
+              "formattedDailyPrice": null,
+              "formattedPromoDailyPrice": null,
+              "salesUnit": {
+                "code": "perSeat",
+                "name": "Per Seat",
+                "label": "Per Adult",
+                "__typename": "PriceSalesUnit"
+              },
+              "displayPrices": {
+                "formattedBasePrice": "$224.99",
+                "formattedPromotionalPrice": "$190.99",
+                "__typename": "DisplayPrices"
+              },
+              "__typename": "Price"
+            }
+          ],
+          "isAtYourLeisure": false,
+          "restrictions": [
+            {
+              "maxValue": null,
+              "minValue": "21",
+              "operator": "GREATER_THAN_OR_EQUAL",
+              "restrictionDisplayText": "Are you greater than or equal to 21.0 years ?",
+              "unit": "years",
+              "__typename": "CommerceRestriction"
+            }
+          ],
+          "references": [],
+          "stock": {
+            "stockLevel": 9999,
+            "stockLevelStatus": "IN_STOCK",
+            "__typename": "Stock"
+          },
+          "type": {
+            "id": "pt_shoreX",
+            "name": "ShoreX",
+            "__typename": "CommerceType"
+          },
+          "variantOptions": [
+            {
+              "code": "YN75",
+              "offer": null,
+              "options": [
+                {
+                  "code": null,
+                  "name": "vvc_standard",
+                  "label": null,
+                  "sequence": null,
+                  "__typename": "ProductVariantOptionQualifier"
+                }
+              ],
+              "__typename": "ProductVariantOption"
+            }
+          ],
+          "accessible": false,
+          "id": "YN75",
+          "baseId": "SX-HUB-KTN-385301",
+          "defaultVariantId": "YN75",
+          "variantType": "services",
+          "categoryIds": [
+            "vvc_standard"
+          ],
+          "title": "Whispers of Ketchikan: A Burlesque Journey Through History",
+          "shortDescription": null,
+          "recommended": false,
+          "mostPopular": false,
+          "productInterests": [
+            {
+              "code": "itf_historyandculture",
+              "name": "History & Culture Highlights",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_foodwine",
+              "name": "Food and Wine",
+              "__typename": "ProductInterest"
+            }
+          ],
+          "complimentary": false,
+          "promotion": {
+            "description": "PRE-CRUISE SAVINGS",
+            "value": 15,
+            "type": "PERCENT_OFF",
+            "title": "CEL Shorex Evergreen Destination Highlights 0-59% booked",
+            "displayName": "(15% OFF) PRE-CRUISE SAVINGS",
+            "code": "ALL_C_E_ALL_SX_ALL_0_30_40_59_USD_15",
+            "__typename": "Promotion"
+          },
+          "isALaCarte": false,
+          "diningType": null,
+          "productStatus": null,
+          "description": "Experience the intoxicating charm of Ketchikan’s Creek Street – once the beating heart of the town’s red-light district and now a waterfront stage for an unforgettable shore excursion, featuring a captivating burlesque experience.",
+          "highlights": [
+            "Your burlesque journey through history begins with a stroll along Creek Street, your guide painting vivid scenes of the prohibition-era heyday, when the district bustled with dance halls, speakeasies, and legendary personalities. ",
+            "Inside an intimate local venue, the lights dim, the band strikes its first note, and the ‘Whispers of Ketchikan’ cast takes the stage. ",
+            "The show unfolds in a series of captivating acts—from hypnotic fan dances and skillful hula hoop artistry to juggling and sultry, slow-burn performances—all woven seamlessly with tales of the women who made Creek Street famous. ",
+            "As the final number brings the crowd to cheers, leave with a new appreciation for Ketchikan’s colorful history and a night of entertainment that’s as bold and unforgettable as the women who inspired it."
+          ],
+          "__typename": "CommerceProduct"
+        },
+        {
+          "activityLevel": {
+            "code": "MILD",
+            "description": "Full participation may require leisurely walking over primarily even surfaces. There may be a limited number of steps, a minimal amount of cobblestones or uneven surfaces, and some standing for extended periods of time.",
+            "name": "Mild",
+            "__typename": "CommerceActivityLevel"
+          },
+          "ageRanges": [
+            {
+              "guestType": "INFANT",
+              "maxValue": 3,
+              "minValue": 0,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "CHILD",
+              "maxValue": 12,
+              "minValue": 4,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "ADULT",
+              "maxValue": 120,
+              "minValue": 13,
+              "__typename": "AgeRangeItem"
+            }
+          ],
+          "approvalStatus": null,
+          "bookingEligibility": null,
+          "categories": [
+            {
+              "code": "shorex",
+              "name": "Shore Excursions",
+              "description": "Discover new worlds.",
+              "subCategories": [
+                {
+                  "code": "m_excursions",
+                  "name": "Excursions",
+                  "description": null,
+                  "order": null,
+                  "__typename": "CommerceSubCategory"
+                }
+              ],
+              "__typename": "CommerceCategory"
+            }
+          ],
+          "classifications": [],
+          "dayPorts": [
+            {
+              "day": 3,
+              "name": "Day 3 | KETCHIKAN, ALASKA",
+              "portCode": "KTN",
+              "port": "Ketchikan, Alaska",
+              "__typename": "DayPort"
+            }
+          ],
+          "media": [
+            {
+              "source": {
+                "altText": "a movie theater with rows of blue chairs in a theater.",
+                "path": "/content/dam/excalibur/digital-stock/royalty-free/shutterstock/2022/2022-03/stock-photo-cinema-hall-movie-theater-rows-of-blue-chairs-in-theatre-copy-space-for-your-design-635709242.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            }
+          ],
+          "price": [
+            {
+              "currency": "USD",
+              "promotionalPrice": "59.99",
+              "shipboardPrice": null,
+              "formattedPromotionalPrice": "$59.99",
+              "formattedBasePrice": "$70.99",
+              "formattedDailyPrice": null,
+              "formattedPromoDailyPrice": null,
+              "salesUnit": {
+                "code": "perSeat",
+                "name": "Per Seat",
+                "label": "Per Adult",
+                "__typename": "PriceSalesUnit"
+              },
+              "displayPrices": {
+                "formattedBasePrice": "$70.99",
+                "formattedPromotionalPrice": "$59.99",
+                "__typename": "DisplayPrices"
+              },
+              "__typename": "Price"
+            }
+          ],
+          "isAtYourLeisure": false,
+          "restrictions": [
+            {
+              "maxValue": null,
+              "minValue": "4",
+              "operator": "GREATER_THAN_OR_EQUAL",
+              "restrictionDisplayText": "Are you greater than or equal to 4.0 years ?",
+              "unit": "years",
+              "__typename": "CommerceRestriction"
+            }
+          ],
+          "references": [],
+          "stock": {
+            "stockLevel": 9999,
+            "stockLevelStatus": "IN_STOCK",
+            "__typename": "Stock"
+          },
+          "type": {
+            "id": "pt_shoreX",
+            "name": "ShoreX",
+            "__typename": "CommerceType"
+          },
+          "variantOptions": [
+            {
+              "code": "YNB8",
+              "offer": null,
+              "options": [
+                {
+                  "code": null,
+                  "name": "vvc_standard",
+                  "label": null,
+                  "sequence": null,
+                  "__typename": "ProductVariantOptionQualifier"
+                }
+              ],
+              "__typename": "ProductVariantOption"
+            }
+          ],
+          "accessible": false,
+          "id": "YNB8",
+          "baseId": "SX-HUB-KTN-387301",
+          "defaultVariantId": "YNB8",
+          "variantType": "services",
+          "categoryIds": [
+            "vvc_standard"
+          ],
+          "title": "Alaska: Edge of the Wild",
+          "shortDescription": null,
+          "recommended": false,
+          "mostPopular": false,
+          "productInterests": [
+            {
+              "code": "itf_adventure",
+              "name": "Adventure",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_historyandculture",
+              "name": "History & Culture Highlights",
+              "__typename": "ProductInterest"
+            }
+          ],
+          "complimentary": false,
+          "promotion": {
+            "description": "PRE-CRUISE SAVINGS",
+            "value": 15,
+            "type": "PERCENT_OFF",
+            "title": "CEL Shorex Evergreen Destination Highlights 0-59% booked",
+            "displayName": "(15% OFF) PRE-CRUISE SAVINGS",
+            "code": "ALL_C_E_ALL_SX_ALL_0_30_40_59_USD_15",
+            "__typename": "Promotion"
+          },
+          "isALaCarte": false,
+          "diningType": null,
+          "productStatus": null,
+          "description": "Discover the essence of Alaska with an exhilarating 4D theater shore excursion that brings the Last Frontier to life like never before.",
+          "highlights": [
+            "After a short walk to the theater, your experience begins with an engaging interactive pre-show, setting the stage with fun facts, surprises, and a preview of the wild beauty that awaits. ",
+            "Once inside the state-of-the-art theater, the adventure launches into \"Edge of the Wild,\" a 20-minute cinematic journey designed to thrill all your senses. ",
+            "As you buckle in, prepare to soar above ancient glaciers, plunge into roaring whitewater rapids, and sweep across the rugged wilderness teeming with wildlife. ",
+            "Thanks to cutting-edge 4D effects, you can feel the wind in your face, the mist of waterfalls on your skin, and even the chill of falling snow — all while comfortably seated. ",
+            "After the curtains close on your Alaska: Edge of the Wild excursion, walk away with an unforgettable impression of Alaska’s raw beauty and adventurous spirit."
+          ],
+          "__typename": "CommerceProduct"
+        },
+        {
+          "activityLevel": {
+            "code": "MILD",
+            "description": "Full participation may require leisurely walking over primarily even surfaces. There may be a limited number of steps, a minimal amount of cobblestones or uneven surfaces, and some standing for extended periods of time.",
+            "name": "Mild",
+            "__typename": "CommerceActivityLevel"
+          },
+          "ageRanges": [
+            {
+              "guestType": "INFANT",
+              "maxValue": 3,
+              "minValue": 0,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "CHILD",
+              "maxValue": 12,
+              "minValue": 4,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "ADULT",
+              "maxValue": 120,
+              "minValue": 13,
+              "__typename": "AgeRangeItem"
+            }
+          ],
+          "approvalStatus": null,
+          "bookingEligibility": null,
+          "categories": [
+            {
+              "code": "shorex",
+              "name": "Shore Excursions",
+              "description": "Discover new worlds.",
+              "subCategories": [
+                {
+                  "code": "m_excursions",
+                  "name": "Excursions",
+                  "description": null,
+                  "order": null,
+                  "__typename": "CommerceSubCategory"
+                }
+              ],
+              "__typename": "CommerceCategory"
+            }
+          ],
+          "classifications": [],
+          "dayPorts": [
+            {
+              "day": 8,
+              "name": "Day 8 | SEATTLE, WASHINGTON",
+              "portCode": "SEA",
+              "port": "Seattle, Washington",
+              "__typename": "DayPort"
+            }
+          ],
+          "media": [
+            {
+              "source": {
+                "altText": "Seattle skyline.",
+                "path": "/content/dam/shore-x/seattle-sea/se17-grand-city-tour-by-land-and-sea/stock-photo-seattle-downtown-skyline-and-mt-rainier-washington-503999926.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            },
+            {
+              "source": {
+                "altText": "signage of Pike's Place Market.",
+                "path": "/content/dam/shore-x/seattle-sea/se54-seattle-quest-tour-in-transit-only/stock-photo-pike-s-place-market-seattle-washington-1114080530.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            },
+            {
+              "source": {
+                "altText": "Various seafood on the shelves of the fish market in Norway, Bergen.",
+                "path": "/content/dam/excalibur/digital-stock/royalty-free/shutterstock/2024/02/stock-photo-fish-market-bergen-norway-300214019.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            }
+          ],
+          "price": [
+            {
+              "currency": "USD",
+              "promotionalPrice": "178.99",
+              "shipboardPrice": null,
+              "formattedPromotionalPrice": "$178.99",
+              "formattedBasePrice": "$210.99",
+              "formattedDailyPrice": null,
+              "formattedPromoDailyPrice": null,
+              "salesUnit": {
+                "code": "perSeat",
+                "name": "Per Seat",
+                "label": "Per Adult",
+                "__typename": "PriceSalesUnit"
+              },
+              "displayPrices": {
+                "formattedBasePrice": "$210.99",
+                "formattedPromotionalPrice": "$178.99",
+                "__typename": "DisplayPrices"
+              },
+              "__typename": "Price"
+            }
+          ],
+          "isAtYourLeisure": false,
+          "restrictions": [
+            {
+              "maxValue": "99",
+              "minValue": "1",
+              "operator": "BETWEEN",
+              "restrictionDisplayText": "Are you between 1.0 and 99.0 years ?",
+              "unit": "years",
+              "__typename": "CommerceRestriction"
+            }
+          ],
+          "references": [],
+          "stock": {
+            "stockLevel": 9999,
+            "stockLevelStatus": "IN_STOCK",
+            "__typename": "Stock"
+          },
+          "type": {
+            "id": "pt_shoreX",
+            "name": "ShoreX",
+            "__typename": "CommerceType"
+          },
+          "variantOptions": [
+            {
+              "code": "YNLX",
+              "offer": null,
+              "options": [
+                {
+                  "code": null,
+                  "name": "vvc_standard",
+                  "label": null,
+                  "sequence": null,
+                  "__typename": "ProductVariantOptionQualifier"
+                }
+              ],
+              "__typename": "ProductVariantOption"
+            }
+          ],
+          "accessible": false,
+          "id": "YNLX",
+          "baseId": "SX-HUB-SEA-392801",
+          "defaultVariantId": "YNLX",
+          "variantType": "services",
+          "categoryIds": [
+            "vvc_standard"
+          ],
+          "title": "Space Needle, Pike Place Market & City Tour-Airport\t\t\t\t\t\t\t\t",
+          "shortDescription": null,
+          "recommended": false,
+          "mostPopular": false,
+          "productInterests": [
+            {
+              "code": "itf_sightseeing",
+              "name": "Sightseeing",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_destinationHighlights",
+              "name": "Destination Highlights",
+              "__typename": "ProductInterest"
+            }
+          ],
+          "complimentary": false,
+          "promotion": {
+            "description": "PRE-CRUISE SAVINGS",
+            "value": 15,
+            "type": "PERCENT_OFF",
+            "title": "CEL Shorex Evergreen Destination Highlights 0-59% booked",
+            "displayName": "(15% OFF) PRE-CRUISE SAVINGS",
+            "code": "ALL_C_E_ALL_SX_ALL_0_30_40_59_USD_15",
+            "__typename": "Promotion"
+          },
+          "isALaCarte": false,
+          "diningType": null,
+          "productStatus": null,
+          "description": "The “Emerald City” shines with energy, culture, and spectacular scenery — and this post-cruise shore excursion is the perfect way to experience its highlights before you head home.",
+          "highlights": [
+            "Your journey begins as you board a comfortable motor coach with your knowledgeable local guide, who brings the city’s past and present to life through engaging stories and fun facts. ",
+            "The tour kicks off with a drive through downtown Seattle, where modern glass towers rise alongside the city’s bustling sports stadiums, home to the Mariners, Seahawks, and Sounders.",
+            "The route continues through the International District, also known as Seattle’s Chinatown, a vibrant neighborhood where the aromas of dim sum and pho mingle with the sounds of traditional music and the chatter of locals. ",
+            "Next, step back in time in Pioneer Square, the birthplace of modern Seattle. After the Great Fire of 1889, the area was rebuilt with stately brick architecture that still stands today, making it a national historic district. ",
+            "The tour then takes you to Seattle’s most famous landmark – the Space Needle. Built for the 1962 World’s Fair, this futuristic structure has become an enduring symbol of innovation. ",
+            "In just 43 seconds, a high-speed elevator whisks you 520 feet into the sky to the observation deck, where you’re greeted by a 360-degree panorama of the city. ",
+            "Back at street level, time to dive into Seattle’s heart and soul — the Pike Place Market. ",
+            "Open since 1907, this vibrant, nine-acre public market buzzes with life. Watch fishmongers hurl salmon through the air in their famous fish toss, browse artisan stalls filled with handmade crafts and local produce, and sample fresh seafood, flowers, and pastries. ",
+            "Don’t miss a stop at the original Starbucks, where you can sip a cappuccino and take in the birthplace of the global coffee culture.",
+            "Enjoy some free time to wander, shop, and soak up the market’s energy, before heading to Seattle-Tacoma International Airport and concluding your Space Needle, Pike Palace Market, and City Tour excursion."
+          ],
+          "__typename": "CommerceProduct"
+        },
+        {
+          "activityLevel": {
+            "code": "MODERATE",
+            "description": "Full participation may require extended periods of walking over even and uneven surfaces, steep terrain and/or water activity in a slight current. There may be steps, inclines, cobblestone surfaces, and extended periods of standing. Participants with physical limitations should take this into account.",
+            "name": "Moderate",
+            "__typename": "CommerceActivityLevel"
+          },
+          "ageRanges": [
+            {
+              "guestType": "INFANT",
+              "maxValue": 3,
+              "minValue": 0,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "CHILD",
+              "maxValue": 12,
+              "minValue": 4,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "ADULT",
+              "maxValue": 120,
+              "minValue": 13,
+              "__typename": "AgeRangeItem"
+            }
+          ],
+          "approvalStatus": null,
+          "bookingEligibility": null,
+          "categories": [
+            {
+              "code": "shorex",
+              "name": "Shore Excursions",
+              "description": "Discover new worlds.",
+              "subCategories": [
+                {
+                  "code": "m_excursions",
+                  "name": "Excursions",
+                  "description": null,
+                  "order": null,
+                  "__typename": "CommerceSubCategory"
+                }
+              ],
+              "__typename": "CommerceCategory"
+            }
+          ],
+          "classifications": [],
+          "dayPorts": [
+            {
+              "day": 3,
+              "name": "Day 3 | KETCHIKAN, ALASKA",
+              "portCode": "KTN",
+              "port": "Ketchikan, Alaska",
+              "__typename": "DayPort"
+            }
+          ],
+          "media": [
+            {
+              "source": {
+                "altText": "four zodiac boats traveling toward mountain.",
+                "path": "/content/dam/shore-x/icy-strait-point-pso/ic49-coastal-exploration-by-zodiac/stock-photo-coastal-exploration-by-zodiac-icy-strait-point-alaska-excursion-by-motor-boat-four-boats-with-1456434551.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            },
+            {
+              "source": {
+                "altText": "View from Rainbird Hiking Trail looking at West End, Ketchikan International Airport on Gravina Island across the Tongass Narrows, ferry terminal, Ketchikan, Alaska.",
+                "path": "/content/dam/excalibur/digital-stock/royalty-free/shutterstock/2025/11/stock-photo-aerial-view-ketchikan-alaska-north-america-2349071993.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            },
+            {
+              "source": {
+                "altText": "Peaceful bliss on a whitewashed foggy summer morning in Ketchikan, Alaska.",
+                "path": "/content/dam/excalibur/digital-stock/royalty-free/shutterstock/2025/11/stock-photo-shoreline-pier-ketchikan-alaska-north-america-2504092805.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            }
+          ],
+          "price": [
+            {
+              "currency": "USD",
+              "promotionalPrice": "271.99",
+              "shipboardPrice": null,
+              "formattedPromotionalPrice": "$271.99",
+              "formattedBasePrice": "$302.99",
+              "formattedDailyPrice": null,
+              "formattedPromoDailyPrice": null,
+              "salesUnit": {
+                "code": "perSeat",
+                "name": "Per Seat",
+                "label": "Per Adult",
+                "__typename": "PriceSalesUnit"
+              },
+              "displayPrices": {
+                "formattedBasePrice": "$302.99",
+                "formattedPromotionalPrice": "$271.99",
+                "__typename": "DisplayPrices"
+              },
+              "__typename": "Price"
+            }
+          ],
+          "isAtYourLeisure": false,
+          "restrictions": [
+            {
+              "maxValue": "75",
+              "minValue": "6",
+              "operator": "BETWEEN",
+              "restrictionDisplayText": "Are you between 6.0 and 75.0 years ?",
+              "unit": "years",
+              "__typename": "CommerceRestriction"
+            },
+            {
+              "maxValue": "300",
+              "minValue": "40",
+              "operator": "BETWEEN",
+              "restrictionDisplayText": "Are you between 40.0 and 300.0 lbs ?",
+              "unit": "lbs",
+              "__typename": "CommerceRestriction"
+            },
+            {
+              "maxValue": "75",
+              "minValue": "42",
+              "operator": "BETWEEN",
+              "restrictionDisplayText": "Are you between 42.0 and 75.0 inches ?",
+              "unit": "inches",
+              "__typename": "CommerceRestriction"
+            }
+          ],
+          "references": [],
+          "stock": {
+            "stockLevel": 9999,
+            "stockLevelStatus": "IN_STOCK",
+            "__typename": "Stock"
+          },
+          "type": {
+            "id": "pt_shoreX",
+            "name": "ShoreX",
+            "__typename": "CommerceType"
+          },
+          "variantOptions": [
+            {
+              "code": "YNP6",
+              "offer": null,
+              "options": [
+                {
+                  "code": null,
+                  "name": "vvc_standard",
+                  "label": null,
+                  "sequence": null,
+                  "__typename": "ProductVariantOptionQualifier"
+                }
+              ],
+              "__typename": "ProductVariantOption"
+            }
+          ],
+          "accessible": false,
+          "id": "YNP6",
+          "baseId": "SX-HUB-KTN-394303",
+          "defaultVariantId": "YNP6",
+          "variantType": "services",
+          "categoryIds": [
+            "vvc_standard"
+          ],
+          "title": "Wilderness Zodiac Quest\t\t\t\t\t\t\t\t\t\t\t\t",
+          "shortDescription": null,
+          "recommended": false,
+          "mostPopular": false,
+          "productInterests": [
+            {
+              "code": "itf_destinationHighlights",
+              "name": "Destination Highlights",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_active",
+              "name": "Active",
+              "__typename": "ProductInterest"
+            }
+          ],
+          "complimentary": false,
+          "promotion": {
+            "description": "PRE-CRUISE SAVINGS",
+            "value": 10,
+            "type": "PERCENT_OFF",
+            "title": "CEL Shorex Evergreen Destination Highlights 60-79% booked",
+            "displayName": "(10% OFF) PRE-CRUISE SAVINGS",
+            "code": "ALL_C_E_ALL_SX_ALL_0_30_60_79_USD_20",
+            "__typename": "Promotion"
+          },
+          "isALaCarte": false,
+          "diningType": null,
+          "productStatus": null,
+          "description": "Feel the rush of freedom on this unforgettable Alaskan shore excursion, as you pilot your own Zodiac boat through the rugged beauty of the George Inlet Fjords, surrounded by towering cliffs, emerald forests, and pristine waters alive with wildlife.",
+          "highlights": [
+            "Your journey begins with a guided tour through historic downtown Ketchikan, where your driver points out the city’s highlights — colorful totem poles, the artistry of Saxman Native Village, and the shimmering waters of the Tongass Narrows. ",
+            "Your scenic drive winds along the coastline to Beaver Falls Salmon Cannery, where the crisp rainforest air welcomes you to the heart of wild Alaska. ",
+            "From here, take a short walk through a lush, moss-draped trail leading to the Zodiac basecamp. ",
+            "After a safety orientation and gear fitting, suit up in rain gear, rubber boots, and a life jacket before stepping aboard your own Zodiac — a nimble, four- or six-passenger inflatable boat built for speed and maneuverability. ",
+            "Following your expert guide, cruise through the stunning George Inlet Fjords, where waterfalls, dense forests, and rocky shorelines tell the story of Alaska’s untamed beauty. ",
+            "After a thrilling experience on the water, return to the cannery for well-earned snacks and refreshments, reflecting on your Wilderness Zodiac Quest excursion and the wonders of Ketchikan’s wild coast."
+          ],
+          "__typename": "CommerceProduct"
+        },
+        {
+          "activityLevel": {
+            "code": "MODERATE",
+            "description": "Full participation may require extended periods of walking over even and uneven surfaces, steep terrain and/or water activity in a slight current. There may be steps, inclines, cobblestone surfaces, and extended periods of standing. Participants with physical limitations should take this into account.",
+            "name": "Moderate",
+            "__typename": "CommerceActivityLevel"
+          },
+          "ageRanges": [
+            {
+              "guestType": "INFANT",
+              "maxValue": 3,
+              "minValue": 0,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "CHILD",
+              "maxValue": 12,
+              "minValue": 4,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "ADULT",
+              "maxValue": 120,
+              "minValue": 13,
+              "__typename": "AgeRangeItem"
+            }
+          ],
+          "approvalStatus": null,
+          "bookingEligibility": null,
+          "categories": [
+            {
+              "code": "shorex",
+              "name": "Shore Excursions",
+              "description": "Discover new worlds.",
+              "subCategories": [
+                {
+                  "code": "m_excursions",
+                  "name": "Excursions",
+                  "description": null,
+                  "order": null,
+                  "__typename": "CommerceSubCategory"
+                }
+              ],
+              "__typename": "CommerceCategory"
+            }
+          ],
+          "classifications": [],
+          "dayPorts": [
+            {
+              "day": 3,
+              "name": "Day 3 | KETCHIKAN, ALASKA",
+              "portCode": "KTN",
+              "port": "Ketchikan, Alaska",
+              "__typename": "DayPort"
+            }
+          ],
+          "media": [
+            {
+              "source": {
+                "altText": "a utv and the alaskan backdrop in ketchikan.",
+                "path": "/content/dam/shore-x/ketchikan-ktn/y3vo-utv-safari-cruise-craft-beer-and-dungeness-crab-feast/ketchikan-alaska-utv-adventure-kart.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            }
+          ],
+          "price": [
+            {
+              "currency": "USD",
+              "promotionalPrice": "308.99",
+              "shipboardPrice": null,
+              "formattedPromotionalPrice": "$308.99",
+              "formattedBasePrice": "$412.99",
+              "formattedDailyPrice": null,
+              "formattedPromoDailyPrice": null,
+              "salesUnit": {
+                "code": "perSeat",
+                "name": "Per Seat",
+                "label": "Per Adult",
+                "__typename": "PriceSalesUnit"
+              },
+              "displayPrices": {
+                "formattedBasePrice": "$412.99",
+                "formattedPromotionalPrice": "$308.99",
+                "__typename": "DisplayPrices"
+              },
+              "__typename": "Price"
+            }
+          ],
+          "isAtYourLeisure": false,
+          "restrictions": [
+            {
+              "maxValue": "99",
+              "minValue": "6",
+              "operator": "BETWEEN",
+              "restrictionDisplayText": "Are you between 6.0 and 99.0 years ?",
+              "unit": "years",
+              "__typename": "CommerceRestriction"
+            },
+            {
+              "maxValue": "300",
+              "minValue": "50",
+              "operator": "BETWEEN",
+              "restrictionDisplayText": "Are you between 50.0 and 300.0 lbs ?",
+              "unit": "lbs",
+              "__typename": "CommerceRestriction"
+            },
+            {
+              "maxValue": "75",
+              "minValue": "40",
+              "operator": "BETWEEN",
+              "restrictionDisplayText": "Are you between 40.0 and 75.0 inches ?",
+              "unit": "inches",
+              "__typename": "CommerceRestriction"
+            }
+          ],
+          "references": [],
+          "stock": {
+            "stockLevel": 9999,
+            "stockLevelStatus": "IN_STOCK",
+            "__typename": "Stock"
+          },
+          "type": {
+            "id": "pt_shoreX",
+            "name": "ShoreX",
+            "__typename": "CommerceType"
+          },
+          "variantOptions": [
+            {
+              "code": "YNP5",
+              "offer": null,
+              "options": [
+                {
+                  "code": null,
+                  "name": "vvc_standard",
+                  "label": null,
+                  "sequence": null,
+                  "__typename": "ProductVariantOptionQualifier"
+                }
+              ],
+              "__typename": "ProductVariantOption"
+            }
+          ],
+          "accessible": false,
+          "id": "YNP5",
+          "baseId": "SX-HUB-KTN-394301",
+          "defaultVariantId": "YNP5",
+          "variantType": "services",
+          "categoryIds": [
+            "vvc_standard"
+          ],
+          "title": "Mahoney Lake UTV Offroad Safari\t\t\t\t\t\t\t\t\t\t\t\t",
+          "shortDescription": null,
+          "recommended": false,
+          "mostPopular": false,
+          "productInterests": [
+            {
+              "code": "itf_destinationHighlights",
+              "name": "Destination Highlights",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_adventure",
+              "name": "Adventure",
+              "__typename": "ProductInterest"
+            }
+          ],
+          "complimentary": false,
+          "promotion": {
+            "description": "FLASH SALE",
+            "value": 25,
+            "type": "PERCENT_OFF",
+            "title": "Shorex Flash Sale",
+            "displayName": "(25% OFF) FLASH SALE",
+            "code": "CEL_05_18_2026_SHOREX_FLASHSALE_25_EG20260724",
+            "__typename": "Promotion"
+          },
+          "isALaCarte": false,
+          "diningType": null,
+          "productStatus": null,
+          "description": "Get ready to rev your engine and experience Alaska like never before on this thrilling off-road UTV shore excursion through the rugged wilderness of the Tongass National Forest - America’s largest temperate rainforest.",
+          "highlights": [
+            "Your journey begins at port, where private transportation takes you along a scenic route toward the White River base camp. ",
+            "Upon arrival, meet your UTV leader, gear up, and receive a quick orientation before hopping into your off-road vehicle. ",
+            "With seatbelts fastened and cameras ready, set off in single-file formation, following your guide through five miles of rugged mountain trails that wind through the George Inlet Fjords and into the heart of the Tongass. ",
+            "At the end of the trail lies Mahoney Lake, a secluded mountain gem fed by the cascading waters of Mahoney Falls. ",
+            "After exploring and taking in the peaceful wilderness, time to refuel with a hearty outdoor lunch back at base camp, featuring a hot smoked reindeer link on a bun or a steaming cup of chili - paired with coffee, tea, or water. ",
+            "Satisfied and smiling, re-board your vehicle for the scenic return to your ship—your heart still racing from your unforgettable Mahoney Lake UTV Offroad Safari excursion."
+          ],
+          "__typename": "CommerceProduct"
+        },
+        {
+          "activityLevel": {
+            "code": "MODERATE",
+            "description": "Full participation may require extended periods of walking over even and uneven surfaces, steep terrain and/or water activity in a slight current. There may be steps, inclines, cobblestone surfaces, and extended periods of standing. Participants with physical limitations should take this into account.",
+            "name": "Moderate",
+            "__typename": "CommerceActivityLevel"
+          },
+          "ageRanges": [
+            {
+              "guestType": "INFANT",
+              "maxValue": 3,
+              "minValue": 0,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "CHILD",
+              "maxValue": 12,
+              "minValue": 4,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "ADULT",
+              "maxValue": 120,
+              "minValue": 13,
+              "__typename": "AgeRangeItem"
+            }
+          ],
+          "approvalStatus": null,
+          "bookingEligibility": null,
+          "categories": [
+            {
+              "code": "shorex",
+              "name": "Shore Excursions",
+              "description": "Discover new worlds.",
+              "subCategories": null,
+              "__typename": "CommerceCategory"
+            }
+          ],
+          "classifications": [],
+          "dayPorts": [
+            {
+              "day": 4,
+              "name": "Day 4 | JUNEAU, ALASKA",
+              "portCode": "JNU",
+              "port": "Juneau, Alaska",
+              "__typename": "DayPort"
+            }
+          ],
+          "media": [
+            {
+              "source": {
+                "altText": "A view inside the underground gold mine walkway.",
+                "path": "/content/dam/shore-x/juneau-jnu/y7zw-historic-underground-gold-mine-and-panning-adventure/Y7ZW-Historic-Underground-Gold-Mine-and-Panning-Adventure.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            },
+            {
+              "source": {
+                "altText": "Mining carts in the inside of a cave on tracks.",
+                "path": "/content/dam/excalibur/digital-stock/royalty-free/shutterstock/2024/03/stock-photo-mine-interior-cart-268734875.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            },
+            {
+              "source": {
+                "altText": "gold nuggets.",
+                "path": "/content/dam/excalibur/digital-stock/royalty-free/shutterstock/2019-01/stock-photo-gold-mine-mining-rock-seminar-lecture-lump-of-gold-on-a-stone-floor-635415917.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            }
+          ],
+          "price": [
+            {
+              "currency": "USD",
+              "promotionalPrice": "89.99",
+              "shipboardPrice": null,
+              "formattedPromotionalPrice": "$89.99",
+              "formattedBasePrice": "$100.99",
+              "formattedDailyPrice": null,
+              "formattedPromoDailyPrice": null,
+              "salesUnit": {
+                "code": "perSeat",
+                "name": "Per Seat",
+                "label": "Per Adult",
+                "__typename": "PriceSalesUnit"
+              },
+              "displayPrices": {
+                "formattedBasePrice": "$100.99",
+                "formattedPromotionalPrice": "$89.99",
+                "__typename": "DisplayPrices"
+              },
+              "__typename": "Price"
+            }
+          ],
+          "isAtYourLeisure": false,
+          "restrictions": [],
+          "references": [],
+          "stock": {
+            "stockLevel": 9999,
+            "stockLevelStatus": "IN_STOCK",
+            "__typename": "Stock"
+          },
+          "type": {
+            "id": "pt_shoreX",
+            "name": "ShoreX",
+            "__typename": "CommerceType"
+          },
+          "variantOptions": [
+            {
+              "code": "YNQ9",
+              "offer": null,
+              "options": [
+                {
+                  "code": null,
+                  "name": "vvc_standard",
+                  "label": null,
+                  "sequence": null,
+                  "__typename": "ProductVariantOptionQualifier"
+                }
+              ],
+              "__typename": "ProductVariantOption"
+            }
+          ],
+          "accessible": true,
+          "id": "YNQ9",
+          "baseId": "SX-HUB-JNU-394901",
+          "defaultVariantId": "YNQ9",
+          "variantType": "services",
+          "categoryIds": [
+            "vvc_standard"
+          ],
+          "title": "Underground Gold Mine and Panning Tour",
+          "shortDescription": null,
+          "recommended": false,
+          "mostPopular": false,
+          "productInterests": [
+            {
+              "code": "itf_historyandculture",
+              "name": "History & Culture Highlights",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_accessible",
+              "name": "Accessible",
+              "__typename": "ProductInterest"
+            }
+          ],
+          "complimentary": false,
+          "promotion": {
+            "description": "PRE-CRUISE SAVINGS",
+            "value": 10,
+            "type": "PERCENT_OFF",
+            "title": "CEL Shorex Evergreen Destination Highlights 60-79% booked",
+            "displayName": "(10% OFF) PRE-CRUISE SAVINGS",
+            "code": "ALL_C_E_ALL_SX_ALL_0_30_60_79_USD_20",
+            "__typename": "Promotion"
+          },
+          "isALaCarte": false,
+          "diningType": null,
+          "productStatus": null,
+          "description": "Journey deep into Juneau’s mining history on this immersive shore excursion through the Alaska-Juneau Gold Mine, once part of the most productive gold-milling operation on Earth.",
+          "highlights": [
+            "Your tour begins with a narrated drive from port along the picturesque Gastineau Channel, setting the scene for the mining story ahead. ",
+            "Upon arrival at the Alaska Juneau Mine, gear up in a hard hat before following your experienced guide 360 feet into the mountain, where cool air and dim tunnels instantly transport you back to the early 1900s. ",
+            "Inside the mine, learn about hard-rock mining techniques, see historic equipment come to life, and hear how miners labored in these rugged underground passages. ",
+            "Above ground, explore the atmospheric ruins of the Gastineau Mill—opened in 1915 and once the world’s largest producing gold mill—and view the first steam locomotive ever brought to Alaska. ",
+            "Feel the thunder of the John Peterson Stamp Mill, as it demonstrates how ore was crushed during the gold-mining boom. Then, try your hand at gold panning, with guaranteed “pay dirt” and the thrill of keeping any gold you uncover. ",
+            "Before ending your Underground Gold Mine and Panning Tour excursion, browse historic relics and antiques displayed throughout the site, enjoy a complimentary hot beverage, and visit the General Store for unique souvenirs that honor Juneau’s golden legacy.\""
+          ],
+          "__typename": "CommerceProduct"
+        },
+        {
+          "activityLevel": {
+            "code": "MILD",
+            "description": "Full participation may require leisurely walking over primarily even surfaces. There may be a limited number of steps, a minimal amount of cobblestones or uneven surfaces, and some standing for extended periods of time.",
+            "name": "Mild",
+            "__typename": "CommerceActivityLevel"
+          },
+          "ageRanges": [
+            {
+              "guestType": "INFANT",
+              "maxValue": 3,
+              "minValue": 0,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "CHILD",
+              "maxValue": 12,
+              "minValue": 4,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "ADULT",
+              "maxValue": 120,
+              "minValue": 13,
+              "__typename": "AgeRangeItem"
+            }
+          ],
+          "approvalStatus": null,
+          "bookingEligibility": null,
+          "categories": [
+            {
+              "code": "shorex",
+              "name": "Shore Excursions",
+              "description": "Discover new worlds.",
+              "subCategories": null,
+              "__typename": "CommerceCategory"
+            }
+          ],
+          "classifications": [],
+          "dayPorts": [
+            {
+              "day": 3,
+              "name": "Day 3 | KETCHIKAN, ALASKA",
+              "portCode": "KTN",
+              "port": "Ketchikan, Alaska",
+              "__typename": "DayPort"
+            }
+          ],
+          "media": [
+            {
+              "source": {
+                "altText": "Person spreading tomato sauce on pizza dough.",
+                "path": "/content/dam/excalibur/digital-stock/royalty-free/shutterstock/2024/02/stock-photo-pizza-making-186345269.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            },
+            {
+              "source": {
+                "altText": "top down view of person making a pizza.",
+                "path": "/content/dam/excalibur/digital-stock/royalty-free/shutterstock/2018-11/stock-photo-pizza-making-workshop-hands-dough-wood-wooden-table-347660834.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            },
+            {
+              "source": {
+                "altText": "egg with flower on cutting board surrounded with ingredients.",
+                "path": "/content/dam/excalibur/digital-stock/royalty-free/shutterstock/2018-10/stock-photo-cook-cooking-culinary-class-classes-demonstration-demo-flour-egg-eggs-wood-wooden-spoon-spoons-pizza-flatbread-flat-bread-how-to-make-268441418.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            }
+          ],
+          "price": [
+            {
+              "currency": "USD",
+              "promotionalPrice": "109.99",
+              "shipboardPrice": null,
+              "formattedPromotionalPrice": "$109.99",
+              "formattedBasePrice": "$129.99",
+              "formattedDailyPrice": null,
+              "formattedPromoDailyPrice": null,
+              "salesUnit": {
+                "code": "perSeat",
+                "name": "Per Seat",
+                "label": "Per Adult",
+                "__typename": "PriceSalesUnit"
+              },
+              "displayPrices": {
+                "formattedBasePrice": "$129.99",
+                "formattedPromotionalPrice": "$109.99",
+                "__typename": "DisplayPrices"
+              },
+              "__typename": "Price"
+            }
+          ],
+          "isAtYourLeisure": false,
+          "restrictions": [
+            {
+              "maxValue": "99",
+              "minValue": "1",
+              "operator": "BETWEEN",
+              "restrictionDisplayText": "Are you between 1.0 and 99.0 years ?",
+              "unit": "years",
+              "__typename": "CommerceRestriction"
+            }
+          ],
+          "references": [],
+          "stock": {
+            "stockLevel": 9999,
+            "stockLevelStatus": "IN_STOCK",
+            "__typename": "Stock"
+          },
+          "type": {
+            "id": "pt_shoreX",
+            "name": "ShoreX",
+            "__typename": "CommerceType"
+          },
+          "variantOptions": [
+            {
+              "code": "YNQA",
+              "offer": null,
+              "options": [
+                {
+                  "code": null,
+                  "name": "vvc_standard",
+                  "label": null,
+                  "sequence": null,
+                  "__typename": "ProductVariantOptionQualifier"
+                }
+              ],
+              "__typename": "ProductVariantOption"
+            }
+          ],
+          "accessible": false,
+          "id": "YNQA",
+          "baseId": "SX-HUB-KTN-395001",
+          "defaultVariantId": "YNQA",
+          "variantType": "services",
+          "categoryIds": [
+            "vvc_standard"
+          ],
+          "title": "Alaskan Sourdough History & Brick Oven Pizza Making",
+          "shortDescription": null,
+          "recommended": false,
+          "mostPopular": false,
+          "productInterests": [
+            {
+              "code": "itf_historyandculture",
+              "name": "History & Culture Highlights",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_foodwine",
+              "name": "Food and Wine",
+              "__typename": "ProductInterest"
+            }
+          ],
+          "complimentary": false,
+          "promotion": {
+            "description": "PRE-CRUISE SAVINGS",
+            "value": 15,
+            "type": "PERCENT_OFF",
+            "title": "CEL Shorex Evergreen Destination Highlights 0-59% booked",
+            "displayName": "(15% OFF) PRE-CRUISE SAVINGS",
+            "code": "ALL_C_E_ALL_SX_ALL_0_30_40_59_USD_15",
+            "__typename": "Promotion"
+          },
+          "isALaCarte": false,
+          "diningType": null,
+          "productStatus": null,
+          "description": "From learning the age-old tradition of crafting sourdough starter to topping your own personal pizza, this shore excursion celebrates the region’s flavors in the most interactive way possible.",
+          "highlights": [
+            "Your journey begins as you arrive at Eagles Nest and are welcomed into the warm, wood-fired aroma of the brick oven kitchen. ",
+            "Your guide and chef shares the fascinating history of sourdough in Alaska—from Gold Rush-era miners who relied on their cherished starters to today’s tradition of transforming that tangy dough into perfect pizza crust. ",
+            "After learning how sourdough starter becomes pizza dough, roll up your sleeves and create your own personal masterpiece, choosing from familiar favorites like pepperoni, mozzarella, sausage, and peppers, or diving into local specialties, such as smoked salmon, lemon ricotta, hot honey, pickled red onions, and house-made meatballs. ",
+            "Once your pizza is baked to bubbling perfection, you settle onto the balcony with a locally brewed beer, a glass of wine, or a refreshing soda, taking in lively views of historic downtown Ketchikan and its colorful wooden storefronts. ",
+            "Be sure to indulge in the Cape Fox Cannoli for dessert—a crisp pastry filled with sweet cream and chocolate chips that perfectly completes the experience. ",
+            "After your meal, choose to end your Alaskan Sourdough History and Brick Oven Pizza Making excursion with a convenient ride back to port, or enjoy a leisurely walk to charming Creek Street, where boardwalks, galleries, and local history await your exploration."
+          ],
+          "__typename": "CommerceProduct"
+        },
+        {
+          "activityLevel": {
+            "code": "MILD",
+            "description": "Full participation may require leisurely walking over primarily even surfaces. There may be a limited number of steps, a minimal amount of cobblestones or uneven surfaces, and some standing for extended periods of time.",
+            "name": "Mild",
+            "__typename": "CommerceActivityLevel"
+          },
+          "ageRanges": [
+            {
+              "guestType": "INFANT",
+              "maxValue": 3,
+              "minValue": 0,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "CHILD",
+              "maxValue": 12,
+              "minValue": 4,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "ADULT",
+              "maxValue": 120,
+              "minValue": 13,
+              "__typename": "AgeRangeItem"
+            }
+          ],
+          "approvalStatus": null,
+          "bookingEligibility": null,
+          "categories": [
+            {
+              "code": "shorex",
+              "name": "Shore Excursions",
+              "description": "Discover new worlds.",
+              "subCategories": null,
+              "__typename": "CommerceCategory"
+            }
+          ],
+          "classifications": [],
+          "dayPorts": [
+            {
+              "day": 7,
+              "name": "Day 7 | VICTORIA, BRITISH COLUMBIA",
+              "portCode": "YVJ",
+              "port": "Victoria, British Columbia",
+              "__typename": "DayPort"
+            }
+          ],
+          "media": [
+            {
+              "source": {
+                "altText": "View of Macaloneys Whiskey Bottle.",
+                "path": "/content/dam/shore-x/victoria-yvj/yo0v-canadian-whiskey-and-chocolate-tasting/YO0W-Canadian-Whiskey-and-Chocolate-Tasting-Macaloneys-Bottle.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            },
+            {
+              "source": {
+                "altText": "View of dark and white chocolate stack on a white table.",
+                "path": "/content/dam/shore-x/victoria-yvj/yo0v-canadian-whiskey-and-chocolate-tasting/YO0W-Canadian-Whiskey-and-Chocolate-Tasting-Chocolate.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            }
+          ],
+          "price": [
+            {
+              "currency": "USD",
+              "promotionalPrice": "110.99",
+              "shipboardPrice": null,
+              "formattedPromotionalPrice": "$110.99",
+              "formattedBasePrice": "$130.99",
+              "formattedDailyPrice": null,
+              "formattedPromoDailyPrice": null,
+              "salesUnit": {
+                "code": "perSeat",
+                "name": "Per Seat",
+                "label": "Per Adult",
+                "__typename": "PriceSalesUnit"
+              },
+              "displayPrices": {
+                "formattedBasePrice": "$130.99",
+                "formattedPromotionalPrice": "$110.99",
+                "__typename": "DisplayPrices"
+              },
+              "__typename": "Price"
+            }
+          ],
+          "isAtYourLeisure": false,
+          "restrictions": [
+            {
+              "maxValue": null,
+              "minValue": "19",
+              "operator": "GREATER_THAN_OR_EQUAL",
+              "restrictionDisplayText": "Are you greater than or equal to 19.0 years ?",
+              "unit": "years",
+              "__typename": "CommerceRestriction"
+            }
+          ],
+          "references": [],
+          "stock": {
+            "stockLevel": 9999,
+            "stockLevelStatus": "IN_STOCK",
+            "__typename": "Stock"
+          },
+          "type": {
+            "id": "pt_shoreX",
+            "name": "ShoreX",
+            "__typename": "CommerceType"
+          },
+          "variantOptions": [
+            {
+              "code": "YO0W",
+              "offer": null,
+              "options": [
+                {
+                  "code": null,
+                  "name": "vvc_standard",
+                  "label": null,
+                  "sequence": null,
+                  "__typename": "ProductVariantOptionQualifier"
+                }
+              ],
+              "__typename": "ProductVariantOption"
+            }
+          ],
+          "accessible": false,
+          "id": "YO0W",
+          "baseId": "SX-HUB-YVJ-415905",
+          "defaultVariantId": "YO0W",
+          "variantType": "services",
+          "categoryIds": [
+            "vvc_standard"
+          ],
+          "title": "Canadian Whiskey & Chocolate Tasting",
+          "shortDescription": null,
+          "recommended": false,
+          "mostPopular": false,
+          "productInterests": [
+            {
+              "code": "itf_smallgroupdiscoveries",
+              "name": "Small Group Discoveries",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_foodwine",
+              "name": "Food and Wine",
+              "__typename": "ProductInterest"
+            }
+          ],
+          "complimentary": false,
+          "promotion": {
+            "description": "PRE-CRUISE SAVINGS",
+            "value": 15,
+            "type": "PERCENT_OFF",
+            "title": "CEL Shorex Evergreen Destination Highlights 0-59% booked",
+            "displayName": "(15% OFF) PRE-CRUISE SAVINGS",
+            "code": "ALL_C_E_ALL_SX_ALL_0_30_40_59_USD_15",
+            "__typename": "Promotion"
+          },
+          "isALaCarte": false,
+          "diningType": null,
+          "productStatus": null,
+          "description": "Experience the perfect mix of Victoria charm and flavor with this captivating shore excursion, as you visit an award-winning distillery for a delectable whisky and chocolate tasting, followed by a narrated drive past the city’s most important highlights.",
+          "highlights": [
+            "Hop aboard your luxury van and embark on a scenic drive through Victoria’s picturesque streets on your way to Macaloney’s Distillery and Brewery — an internationally acclaimed, Scottish-style craft distillery.",
+            "Here, enjoy an immersive tour of the distillery and learn about the single malt production process, from grain to glass, before savoring an award-winning whisky tasting, featuring local handcrafted chocolates from one of Victoria’s premier chocolatiers. ",
+            "Your palate satisfied, conclude your Canadian Whiskey and Chocolate Tasting excursion with another scenic drive back to the ship, highlighting the charm of Victoria’s Inner Harbour and Chinatown - North America’s oldest."
+          ],
+          "__typename": "CommerceProduct"
+        }
+      ],
+      "pageInfo": {
+        "totalResults": 162,
+        "totalPages": 14,
+        "__typename": "Page"
+      },
+      "__typename": "CommerceProductResultSuccess"
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "status": 200,
+  "error": null,
+  "warnings": null,
+  "payload": [
+    {
+      "id": "2026_CEL_FS_PHOTO_P35_CAROUSEL_50_NA",
+      "name": "2026_CEL_FS_PHOTO_P35_CAROUSEL",
+      "type": "MERCHANDISE",
+      "ranking": 1,
+      "categoryCode": null,
+      "startDate": "2026-05-19T00:00:00",
+      "endDate": "2026-05-27T00:00:00",
+      "legalText": null,
+      "footerText": null,
+      "templates": [
+        {
+          "type": "FOOTER",
+          "categoryCode": null,
+          "startDate": "2026-05-19T00:00:00",
+          "endDate": "2026-05-27T00:00:00",
+          "includeInCarousel": false,
+          "footerText": "*Sale Offer applies to purchases made May 19, 2026, through May 26, 2026,, and applies to select sailings departing May 21, 2026 – December 27, 2027. \"Exclusive Cabin Offer\" applies to Interior and Oceanview staterooms on select sailings. Offers are non-transferable and not combinable with Captain’s Club discounts or any other offer or promotion. Additional fees may apply to booking changes or cancellations. Prices and offers are subject to availability and change without notice, capacity controlled, and may be withdrawn at any time. Celebrity Cruises reserves the right to correct any errors, inaccuracies, or omissions and to change or update fares, fees and surcharges at any time without prior notice. "
+        },
+        {
+          "type": "SITEWIDE_BANNER",
+          "categoryCode": "shorex",
+          "startDate": "2026-05-19T00:00:00",
+          "endDate": "2026-05-25T00:00:00",
+          "includeInCarousel": false,
+          "heading1": "MEMORIAL DAY SALE",
+          "heading2": null,
+          "heading3": "UP TO 50% OFF",
+          "heading4": "CELEBRITY MUST-HAVES",
+          "subHeading1": null,
+          "subHeading3": null,
+          "hasExcludeBannerOnHomepage": true,
+          "countdownClock": {
+            "enabled": false,
+            "subHeading3": null,
+            "startDate": null,
+            "endDate": null,
+            "timeRemainingMillis": null,
+            "groupColorTheme": null
+          }
+        }
+      ]
+    }
+  ]
+}

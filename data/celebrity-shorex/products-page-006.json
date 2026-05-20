@@ -1,0 +1,2259 @@
+{
+  "data": {
+    "products": {
+      "commerceProducts": [
+        {
+          "activityLevel": {
+            "code": "MODERATE",
+            "description": "Full participation may require extended periods of walking over even and uneven surfaces, steep terrain and/or water activity in a slight current. There may be steps, inclines, cobblestone surfaces, and extended periods of standing. Participants with physical limitations should take this into account.",
+            "name": "Moderate",
+            "__typename": "CommerceActivityLevel"
+          },
+          "ageRanges": [
+            {
+              "guestType": "INFANT",
+              "maxValue": 3,
+              "minValue": 0,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "CHILD",
+              "maxValue": 12,
+              "minValue": 4,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "ADULT",
+              "maxValue": 120,
+              "minValue": 13,
+              "__typename": "AgeRangeItem"
+            }
+          ],
+          "approvalStatus": null,
+          "bookingEligibility": null,
+          "categories": [
+            {
+              "code": "shorex",
+              "name": "Shore Excursions",
+              "description": "Discover new worlds.",
+              "subCategories": [
+                {
+                  "code": "m_excursions",
+                  "name": "Excursions",
+                  "description": null,
+                  "order": null,
+                  "__typename": "CommerceSubCategory"
+                }
+              ],
+              "__typename": "CommerceCategory"
+            }
+          ],
+          "classifications": [],
+          "dayPorts": [
+            {
+              "day": 3,
+              "name": "Day 3 | KETCHIKAN, ALASKA",
+              "portCode": "KTN",
+              "port": "Ketchikan, Alaska",
+              "__typename": "DayPort"
+            }
+          ],
+          "media": [
+            {
+              "source": {
+                "altText": "black bear fishing for salmon in the river in Neets Bay.",
+                "path": "/content/dam/shore-x/ketchikan-ward-cove-wdc/4k05-neets-bay-bear-adventure-and-flightseeing/stock-photo-black-bear-stream-alaska_211678612.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            },
+            {
+              "source": {
+                "altText": "a black bear mother and her cub walking by the Neets Bay in Alaska.",
+                "path": "/content/dam/shore-x/ketchikan-ktn/ke74-bear-country-and-wildlife-expedition/stock-photo-black-bear-cub-and-mother-in-neets-bay-alaska-near-ketchikan-211678615.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            }
+          ],
+          "price": [
+            {
+              "currency": "USD",
+              "promotionalPrice": "708.99",
+              "shipboardPrice": null,
+              "formattedPromotionalPrice": "$708.99",
+              "formattedBasePrice": "$787.99",
+              "formattedDailyPrice": null,
+              "formattedPromoDailyPrice": null,
+              "salesUnit": {
+                "code": "perSeat",
+                "name": "Per Seat",
+                "label": "Per Adult",
+                "__typename": "PriceSalesUnit"
+              },
+              "displayPrices": {
+                "formattedBasePrice": "$787.99",
+                "formattedPromotionalPrice": "$708.99",
+                "__typename": "DisplayPrices"
+              },
+              "__typename": "Price"
+            }
+          ],
+          "isAtYourLeisure": false,
+          "restrictions": [],
+          "references": [],
+          "stock": {
+            "stockLevel": 9999,
+            "stockLevelStatus": "IN_STOCK",
+            "__typename": "Stock"
+          },
+          "type": {
+            "id": "pt_shoreX",
+            "name": "ShoreX",
+            "__typename": "CommerceType"
+          },
+          "variantOptions": [
+            {
+              "code": "Y4GY",
+              "offer": null,
+              "options": [
+                {
+                  "code": null,
+                  "name": "vvc_standard",
+                  "label": null,
+                  "sequence": null,
+                  "__typename": "ProductVariantOptionQualifier"
+                }
+              ],
+              "__typename": "ProductVariantOption"
+            }
+          ],
+          "accessible": false,
+          "id": "Y4GY",
+          "baseId": "SX-HUB-KTN-348477",
+          "defaultVariantId": "Y4GY",
+          "variantType": "services",
+          "categoryIds": [
+            "vvc_standard"
+          ],
+          "title": "Destination Highlight: Alaskan Bear Encounter by Land and Sea",
+          "shortDescription": null,
+          "recommended": false,
+          "mostPopular": false,
+          "productInterests": [
+            {
+              "code": "itf_wildlife",
+              "name": "Wildlife",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_sightseeing",
+              "name": "Sightseeing",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_destinationHighlights",
+              "name": "Destination Highlights",
+              "__typename": "ProductInterest"
+            }
+          ],
+          "complimentary": false,
+          "promotion": {
+            "description": "PRE-CRUISE SAVINGS",
+            "value": 10,
+            "type": "PERCENT_OFF",
+            "title": "CEL Shorex Evergreen Destination Highlights 60-79% booked",
+            "displayName": "(10% OFF) PRE-CRUISE SAVINGS",
+            "code": "ALL_C_E_ALL_SX_ALL_0_30_60_79_USD_20",
+            "__typename": "Promotion"
+          },
+          "isALaCarte": false,
+          "diningType": null,
+          "productStatus": null,
+          "description": "Experience the massive splendor of Alaskan wilderness as you boat to Neets Bay Observatory to see wild bears in their natural habitat, feasting on salmon in a pristine, seldom-visited environment.\n",
+          "highlights": [
+            "Enjoy Alaska's sublime natural beauty on a narrated drive to Clover Pass Resort to join an experienced captain and crew on a boat setting sail along the magnificent coast, passing Tongass National Forest on your way to Neets Bay Observatory, a pristine wilderness area that is limited to a small number of visitors each year, including you. ",
+            "Enjoy the serenity of the verdant forest as you walk along a well-maintained forest trail to a viewing platform and listen as your guide discusses the resident bear population, the surrounding forest, and the importance of hatcheries to enhance salmon production in southeast Alaska. ",
+            "Have your camera ready for the once-in-a-lifetime experience of co-existing with these incredible creatures as the bears teach their young to fish or relax after a big meal of fresh salmon.",
+            "After, board the boat for the return trip and another glimpse of Last Frontier scenery before returning to the port to meet your awaiting ship."
+          ],
+          "__typename": "CommerceProduct"
+        },
+        {
+          "activityLevel": {
+            "code": "MILD",
+            "description": "Full participation may require leisurely walking over primarily even surfaces. There may be a limited number of steps, a minimal amount of cobblestones or uneven surfaces, and some standing for extended periods of time.",
+            "name": "Mild",
+            "__typename": "CommerceActivityLevel"
+          },
+          "ageRanges": [
+            {
+              "guestType": "INFANT",
+              "maxValue": 3,
+              "minValue": 0,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "CHILD",
+              "maxValue": 12,
+              "minValue": 4,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "ADULT",
+              "maxValue": 120,
+              "minValue": 13,
+              "__typename": "AgeRangeItem"
+            }
+          ],
+          "approvalStatus": null,
+          "bookingEligibility": null,
+          "categories": [
+            {
+              "code": "shorex",
+              "name": "Shore Excursions",
+              "description": "Discover new worlds.",
+              "subCategories": [
+                {
+                  "code": "m_excursions",
+                  "name": "Excursions",
+                  "description": null,
+                  "order": null,
+                  "__typename": "CommerceSubCategory"
+                }
+              ],
+              "__typename": "CommerceCategory"
+            }
+          ],
+          "classifications": [],
+          "dayPorts": [
+            {
+              "day": 7,
+              "name": "Day 7 | VICTORIA, BRITISH COLUMBIA",
+              "portCode": "YVJ",
+              "port": "Victoria, British Columbia",
+              "__typename": "DayPort"
+            }
+          ],
+          "media": [
+            {
+              "source": {
+                "altText": "The Hop on Hop off bus passing underneath the Chinatown gate in Victoria, British Colombia.",
+                "path": "/content/dam/shore-x/victoria-yvj/y8sb-independent-exploration-hop-on-hop-off-city-sightseeing/Y8SB-Independent-Exploration-Hop-On-Hop-Off-City-Sightseeing-Chinatown.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            },
+            {
+              "source": {
+                "altText": "The Hop on Hop off bus passing by the Empress Hotel in Victoria, British Colombia.",
+                "path": "/content/dam/shore-x/victoria-yvj/y8sb-independent-exploration-hop-on-hop-off-city-sightseeing/Y8SB-Independent-Exploration-Hop-On-Hop-Off-City-Sightseeing-The-Empress-Hotel.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            }
+          ],
+          "price": [
+            {
+              "currency": "USD",
+              "promotionalPrice": "68.99",
+              "shipboardPrice": null,
+              "formattedPromotionalPrice": "$68.99",
+              "formattedBasePrice": "$92.99",
+              "formattedDailyPrice": null,
+              "formattedPromoDailyPrice": null,
+              "salesUnit": {
+                "code": "perSeat",
+                "name": "Per Seat",
+                "label": "Per Adult",
+                "__typename": "PriceSalesUnit"
+              },
+              "displayPrices": {
+                "formattedBasePrice": "$92.99",
+                "formattedPromotionalPrice": "$68.99",
+                "__typename": "DisplayPrices"
+              },
+              "__typename": "Price"
+            }
+          ],
+          "isAtYourLeisure": false,
+          "restrictions": [],
+          "references": [],
+          "stock": {
+            "stockLevel": 9999,
+            "stockLevelStatus": "IN_STOCK",
+            "__typename": "Stock"
+          },
+          "type": {
+            "id": "pt_shoreX",
+            "name": "ShoreX",
+            "__typename": "CommerceType"
+          },
+          "variantOptions": [
+            {
+              "code": "Y8SB",
+              "offer": null,
+              "options": [
+                {
+                  "code": null,
+                  "name": "vvc_standard",
+                  "label": null,
+                  "sequence": null,
+                  "__typename": "ProductVariantOptionQualifier"
+                }
+              ],
+              "__typename": "ProductVariantOption"
+            }
+          ],
+          "accessible": false,
+          "id": "Y8SB",
+          "baseId": "SX-HUB-YVJ-364635",
+          "defaultVariantId": "Y8SB",
+          "variantType": "services",
+          "categoryIds": [
+            "vvc_standard"
+          ],
+          "title": "Hop-On Hop-Off City Sightseeing",
+          "shortDescription": null,
+          "recommended": false,
+          "mostPopular": false,
+          "productInterests": [
+            {
+              "code": "itf_destinationHighlights",
+              "name": "Destination Highlights",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_evening",
+              "name": "Evening",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_sightseeing",
+              "name": "Sightseeing",
+              "__typename": "ProductInterest"
+            }
+          ],
+          "complimentary": false,
+          "promotion": {
+            "description": "FLASH SALE",
+            "value": 25,
+            "type": "PERCENT_OFF",
+            "title": "Shorex Flash Sale",
+            "displayName": "(25% OFF) FLASH SALE",
+            "code": "CEL_05_18_2026_SHOREX_FLASHSALE_25_EG20260724",
+            "__typename": "Promotion"
+          },
+          "isALaCarte": false,
+          "diningType": null,
+          "productStatus": null,
+          "description": "Tap into your inner explorer with this British Columbia shore excursion, as you hop aboard a double-decker bus and explore Victoria's charming landmarks at your leisure.",
+          "highlights": [
+            "Board your double-decker bus and begin your exploration of Victoria - with four stops to choose from and informative audio commentary, the magic of this capital city is your to discover.",
+            "Hop off at Cook Street Village, a charming shopping district where you can stroll along tree-lined streets, browse bustling boutiques and take in the relaxed atmosphere at one of the area's many cozy cafe's.",
+            "Feeling hungry? Stop at Victoria's Chinatown, the oldest in the counter, and wander the bustling neighborhood, as it comes alive with traditional Chinese architecture and the delicious aroma of fresh Asian cuisine.",
+            "Eager for a bit of culture? Pause at the iconic Empress Hotel, a luxurious four-star hotel with chateau-style architecture and a long history of distinguished guests. Just across the street, take in the beauty of the Inner Harbour, a scenic patch of waterfront.",
+            "Even more picturesque waterfront views await at the Fisherman's Wharf, which features lively restaurants, brightly-colored floating houses and a unique glimpse into Victoria's maritime heritage.",
+            "Once you've satisfied your curiosity, feel free to stay downtown and discover the capital city even further, or bring your Sightseeing City excursion to a close with a bus ride back to you awaiting ship."
+          ],
+          "__typename": "CommerceProduct"
+        },
+        {
+          "activityLevel": {
+            "code": "STRENUOUS",
+            "description": "This tour is not recommended for guests with pre-existing medical conditions such as cardiac, respiratory, or orthopedic conditions, including joint injuries or disease, or any other serious medical condition. Guests must consider their physical fitness level and medical history when determining whether this tour is appropriate. Guests who have concerns must consult with their personal physician before engaging in any activity that may be strenuous for them, particularly those involving water-based activities. Guests should consider their swimming ability when selecting tours involving water-based activities.",
+            "name": "Strenuous",
+            "__typename": "CommerceActivityLevel"
+          },
+          "ageRanges": [
+            {
+              "guestType": "INFANT",
+              "maxValue": 3,
+              "minValue": 0,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "CHILD",
+              "maxValue": 12,
+              "minValue": 4,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "ADULT",
+              "maxValue": 120,
+              "minValue": 13,
+              "__typename": "AgeRangeItem"
+            }
+          ],
+          "approvalStatus": null,
+          "bookingEligibility": null,
+          "categories": [
+            {
+              "code": "shorex",
+              "name": "Shore Excursions",
+              "description": "Discover new worlds.",
+              "subCategories": [
+                {
+                  "code": "m_excursions",
+                  "name": "Excursions",
+                  "description": null,
+                  "order": null,
+                  "__typename": "CommerceSubCategory"
+                }
+              ],
+              "__typename": "CommerceCategory"
+            }
+          ],
+          "classifications": [],
+          "dayPorts": [
+            {
+              "day": 4,
+              "name": "Day 4 | JUNEAU, ALASKA",
+              "portCode": "JNU",
+              "port": "Juneau, Alaska",
+              "__typename": "DayPort"
+            }
+          ],
+          "media": [
+            {
+              "source": {
+                "altText": "people paddling in kayaks near Alaskan glacier.",
+                "path": "/content/dam/shore-x/juneau-jnu/ju16-glacier-view-sea-kayaking/people-paddle-kayak-in-cold-water-near-glacier-in-alaska.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            },
+            {
+              "source": {
+                "altText": "a family enjoying a kayaking tour in Alaska with a view of a glacier.",
+                "path": "/vod/pdp/content/dam/videos/shore-x-videos/tours/ports/juneau-jnu/JU16-glacier-view-sea-kayaking/main.m3u8",
+                "__typename": "MediaSource"
+              },
+              "type": "video",
+              "placement": null,
+              "__typename": "Media"
+            }
+          ],
+          "price": [
+            {
+              "currency": "USD",
+              "promotionalPrice": "182.99",
+              "shipboardPrice": null,
+              "formattedPromotionalPrice": "$182.99",
+              "formattedBasePrice": "$261.99",
+              "formattedDailyPrice": null,
+              "formattedPromoDailyPrice": null,
+              "salesUnit": {
+                "code": "perSeat",
+                "name": "Per Seat",
+                "label": "Per Adult",
+                "__typename": "PriceSalesUnit"
+              },
+              "displayPrices": {
+                "formattedBasePrice": "$261.99",
+                "formattedPromotionalPrice": "$182.99",
+                "__typename": "DisplayPrices"
+              },
+              "__typename": "Price"
+            }
+          ],
+          "isAtYourLeisure": false,
+          "restrictions": [
+            {
+              "maxValue": "250",
+              "minValue": "40",
+              "operator": "BETWEEN",
+              "restrictionDisplayText": "Are you between 40.0 and 250.0 lbs ?",
+              "unit": "lbs",
+              "__typename": "CommerceRestriction"
+            }
+          ],
+          "references": [],
+          "stock": {
+            "stockLevel": 6,
+            "stockLevelStatus": "LOW_STOCK",
+            "__typename": "Stock"
+          },
+          "type": {
+            "id": "pt_shoreX",
+            "name": "ShoreX",
+            "__typename": "CommerceType"
+          },
+          "variantOptions": [
+            {
+              "code": "JUQ9",
+              "offer": null,
+              "options": [
+                {
+                  "code": null,
+                  "name": "vvc_standard",
+                  "label": null,
+                  "sequence": null,
+                  "__typename": "ProductVariantOptionQualifier"
+                }
+              ],
+              "__typename": "ProductVariantOption"
+            }
+          ],
+          "accessible": false,
+          "id": "JUQ9",
+          "baseId": "B-JUQ9",
+          "defaultVariantId": "JUQ9",
+          "variantType": "services",
+          "categoryIds": [
+            "vvc_standard"
+          ],
+          "title": "Small Group: Glacier View Sea Kayaking",
+          "shortDescription": null,
+          "recommended": false,
+          "mostPopular": false,
+          "productInterests": [
+            {
+              "code": "itf_active",
+              "name": "Active",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_naturewildlife",
+              "name": "Nature & Wildlife",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_smallgroupdiscoveries",
+              "name": "Small Group Discoveries",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_aquaticsandwateractivity ",
+              "name": "Aquatics & Water Activity ",
+              "__typename": "ProductInterest"
+            }
+          ],
+          "complimentary": false,
+          "promotion": {
+            "description": "LAST CHANCE SAVINGS",
+            "value": 30,
+            "type": "PERCENT_OFF",
+            "title": "CEL Shorex Evergreen",
+            "displayName": "(30% OFF) LAST CHANCE SAVINGS",
+            "code": "CEL_SHOREX_30%_90DTS_ALASKA_1",
+            "__typename": "Promotion"
+          },
+          "isALaCarte": false,
+          "diningType": null,
+          "productStatus": "lowStock",
+          "description": "Embark on a scenic sightseeing drive through a historic part of Juneau on your way to North Douglas Island, the launching point of your kayaking excursion. With forested slopes, peaks, and the Mendenhall Glacier as your backdrop, you'll paddle through the waters of Fritz Cove in search of local wildlife. Keep an eye out for eagles, herons, porpoise and even humpback whales. Then enjoy an Alaskan-Style snack before going back to the port.",
+          "highlights": [
+            "Kayak to the Mendenhall Wetlands, a protected habitat that's teeming with more than 40 species of birds and nearly a dozen different mammals.",
+            "Explore Fritz Cove and possibly view bald eagles, herons, shorebirds, waterfowl, porpoises and even humpback whales.",
+            "Kayak through local waters, getting up-close views of local wildlife and the Mendenhall Glacier eight miles away.",
+            "Learn about local flora and fauna, and the history behind landmarks such as Smuggler's Cove. Enjoy a tasty Alaskan snack before boarding the bus back to the port."
+          ],
+          "__typename": "CommerceProduct"
+        },
+        {
+          "activityLevel": {
+            "code": "STRENUOUS",
+            "description": "This tour is not recommended for guests with pre-existing medical conditions such as cardiac, respiratory, or orthopedic conditions, including joint injuries or disease, or any other serious medical condition. Guests must consider their physical fitness level and medical history when determining whether this tour is appropriate. Guests who have concerns must consult with their personal physician before engaging in any activity that may be strenuous for them, particularly those involving water-based activities. Guests should consider their swimming ability when selecting tours involving water-based activities.",
+            "name": "Strenuous",
+            "__typename": "CommerceActivityLevel"
+          },
+          "ageRanges": [
+            {
+              "guestType": "INFANT",
+              "maxValue": 3,
+              "minValue": 0,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "CHILD",
+              "maxValue": 12,
+              "minValue": 4,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "ADULT",
+              "maxValue": 120,
+              "minValue": 13,
+              "__typename": "AgeRangeItem"
+            }
+          ],
+          "approvalStatus": null,
+          "bookingEligibility": null,
+          "categories": [
+            {
+              "code": "shorex",
+              "name": "Shore Excursions",
+              "description": "Discover new worlds.",
+              "subCategories": [
+                {
+                  "code": "m_excursions",
+                  "name": "Excursions",
+                  "description": null,
+                  "order": null,
+                  "__typename": "CommerceSubCategory"
+                }
+              ],
+              "__typename": "CommerceCategory"
+            }
+          ],
+          "classifications": [],
+          "dayPorts": [
+            {
+              "day": 4,
+              "name": "Day 4 | JUNEAU, ALASKA",
+              "portCode": "JNU",
+              "port": "Juneau, Alaska",
+              "__typename": "DayPort"
+            }
+          ],
+          "media": [
+            {
+              "source": {
+                "altText": "the Medenhall Glacier on a sunny day in Juneau, Alaska.",
+                "path": "/content/dam/shore-x/juneau-jnu/jud4-bike-and-brew-glacier-view/mendenhall-glacier-daytime.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            }
+          ],
+          "price": [
+            {
+              "currency": "USD",
+              "promotionalPrice": "195.99",
+              "shipboardPrice": null,
+              "formattedPromotionalPrice": "$195.99",
+              "formattedBasePrice": "$217.99",
+              "formattedDailyPrice": null,
+              "formattedPromoDailyPrice": null,
+              "salesUnit": {
+                "code": "perSeat",
+                "name": "Per Seat",
+                "label": "Per Adult",
+                "__typename": "PriceSalesUnit"
+              },
+              "displayPrices": {
+                "formattedBasePrice": "$217.99",
+                "formattedPromotionalPrice": "$195.99",
+                "__typename": "DisplayPrices"
+              },
+              "__typename": "Price"
+            }
+          ],
+          "isAtYourLeisure": false,
+          "restrictions": [],
+          "references": [],
+          "stock": {
+            "stockLevel": 8,
+            "stockLevelStatus": "LOW_STOCK",
+            "__typename": "Stock"
+          },
+          "type": {
+            "id": "pt_shoreX",
+            "name": "ShoreX",
+            "__typename": "CommerceType"
+          },
+          "variantOptions": [
+            {
+              "code": "JUR2",
+              "offer": null,
+              "options": [
+                {
+                  "code": null,
+                  "name": "vvc_standard",
+                  "label": null,
+                  "sequence": null,
+                  "__typename": "ProductVariantOptionQualifier"
+                }
+              ],
+              "__typename": "ProductVariantOption"
+            }
+          ],
+          "accessible": false,
+          "id": "JUR2",
+          "baseId": "B-JUR2",
+          "defaultVariantId": "JUR2",
+          "variantType": "services",
+          "categoryIds": [
+            "vvc_standard"
+          ],
+          "title": "Small Group: Mendenhall Glacier Guide's Choice Trail Hike",
+          "shortDescription": null,
+          "recommended": false,
+          "mostPopular": false,
+          "productInterests": [
+            {
+              "code": "itf_active",
+              "name": "Active",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_sustainable",
+              "name": "Sustainable",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_naturewildlife",
+              "name": "Nature & Wildlife",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_smallgroupdiscoveries",
+              "name": "Small Group Discoveries",
+              "__typename": "ProductInterest"
+            }
+          ],
+          "complimentary": false,
+          "promotion": {
+            "description": "PRE-CRUISE SAVINGS",
+            "value": 10,
+            "type": "PERCENT_OFF",
+            "title": "CEL Shorex Evergreen Destination Highlights 60-79% booked",
+            "displayName": "(10% OFF) PRE-CRUISE SAVINGS",
+            "code": "ALL_C_E_ALL_SX_ALL_0_30_60_79_USD_20",
+            "__typename": "Promotion"
+          },
+          "isALaCarte": false,
+          "diningType": null,
+          "productStatus": "lowStock",
+          "description": "Get ready for an adventure of a lifetime. Follow a secluded trail on a 3.5-hour strenuous hike that takes you high above the Mendenhall Glacier. Depending on the days hiking conditions, your guide will choose the best trail for you to explore. Capture photos of the spectacular views of the Tongass National Forest and along the way watch for wildlife as you venture through the glacier-carved wilderness. Discover Alaska's ever-changing scenery on this unforgettable hiking adventure.",
+          "highlights": [
+            "Hike within the rainforest canopy on a secluded strenuous trail that offers spectacular views of the Mendenhall Glacier along the way. (tour does not hike on the glacier",
+            "Encounter a variety of wildflowers and wildlife in Tongass National Forest, the world's largest remaining temperate rainforest.",
+            "Work up a sweat as you earn the glaciers reward."
+          ],
+          "__typename": "CommerceProduct"
+        },
+        {
+          "activityLevel": {
+            "code": "MILD",
+            "description": "Full participation may require leisurely walking over primarily even surfaces. There may be a limited number of steps, a minimal amount of cobblestones or uneven surfaces, and some standing for extended periods of time.",
+            "name": "Mild",
+            "__typename": "CommerceActivityLevel"
+          },
+          "ageRanges": [
+            {
+              "guestType": "INFANT",
+              "maxValue": 3,
+              "minValue": 0,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "CHILD",
+              "maxValue": 12,
+              "minValue": 4,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "ADULT",
+              "maxValue": 120,
+              "minValue": 13,
+              "__typename": "AgeRangeItem"
+            }
+          ],
+          "approvalStatus": null,
+          "bookingEligibility": null,
+          "categories": [
+            {
+              "code": "shorex",
+              "name": "Shore Excursions",
+              "description": "Discover new worlds.",
+              "subCategories": [
+                {
+                  "code": "m_excursions",
+                  "name": "Excursions",
+                  "description": null,
+                  "order": null,
+                  "__typename": "CommerceSubCategory"
+                }
+              ],
+              "__typename": "CommerceCategory"
+            }
+          ],
+          "classifications": [],
+          "dayPorts": [
+            {
+              "day": 3,
+              "name": "Day 3 | KETCHIKAN, ALASKA",
+              "portCode": "KTN",
+              "port": "Ketchikan, Alaska",
+              "__typename": "DayPort"
+            }
+          ],
+          "media": [
+            {
+              "source": {
+                "altText": "A plate of homemade Smoked Salmon Dip with Chives and Crackers is set on a grew cloth on a table. ",
+                "path": "/content/dam/excalibur/digital-stock/royalty-free/shutterstock/2025/01/stock-photo-homemade-smoked-salmon-dip-chives-crackers-2109906083.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            }
+          ],
+          "price": [
+            {
+              "currency": "USD",
+              "promotionalPrice": "300.99",
+              "shipboardPrice": null,
+              "formattedPromotionalPrice": "$300.99",
+              "formattedBasePrice": "$334.99",
+              "formattedDailyPrice": null,
+              "formattedPromoDailyPrice": null,
+              "salesUnit": {
+                "code": "perSeat",
+                "name": "Per Seat",
+                "label": "Per Adult",
+                "__typename": "PriceSalesUnit"
+              },
+              "displayPrices": {
+                "formattedBasePrice": "$334.99",
+                "formattedPromotionalPrice": "$300.99",
+                "__typename": "DisplayPrices"
+              },
+              "__typename": "Price"
+            }
+          ],
+          "isAtYourLeisure": false,
+          "restrictions": [
+            {
+              "maxValue": null,
+              "minValue": "8",
+              "operator": "GREATER_THAN_OR_EQUAL",
+              "restrictionDisplayText": "Are you greater than or equal to 8.0 years ?",
+              "unit": "years",
+              "__typename": "CommerceRestriction"
+            }
+          ],
+          "references": [],
+          "stock": {
+            "stockLevel": 3,
+            "stockLevelStatus": "LOW_STOCK",
+            "__typename": "Stock"
+          },
+          "type": {
+            "id": "pt_shoreX",
+            "name": "ShoreX",
+            "__typename": "CommerceType"
+          },
+          "variantOptions": [
+            {
+              "code": "Y9AB",
+              "offer": null,
+              "options": [
+                {
+                  "code": null,
+                  "name": "vvc_standard",
+                  "label": null,
+                  "sequence": null,
+                  "__typename": "ProductVariantOptionQualifier"
+                }
+              ],
+              "__typename": "ProductVariantOption"
+            }
+          ],
+          "accessible": false,
+          "id": "Y9AB",
+          "baseId": "SX-HUB-KTN-368626",
+          "defaultVariantId": "Y9AB",
+          "variantType": "services",
+          "categoryIds": [
+            "vvc_standard"
+          ],
+          "title": "The Local Table - Hands on Salmon Cooking Class",
+          "shortDescription": null,
+          "recommended": false,
+          "mostPopular": false,
+          "productInterests": [
+            {
+              "code": "itf_smallgroupdiscoveries",
+              "name": "Small Group Discoveries",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_foodwine",
+              "name": "Food and Wine",
+              "__typename": "ProductInterest"
+            }
+          ],
+          "complimentary": false,
+          "promotion": {
+            "description": "PRE-CRUISE SAVINGS",
+            "value": 10,
+            "type": "PERCENT_OFF",
+            "title": "CEL Shorex Evergreen Destination Highlights 60-79% booked",
+            "displayName": "(10% OFF) PRE-CRUISE SAVINGS",
+            "code": "ALL_C_E_ALL_SX_ALL_0_30_60_79_USD_20",
+            "__typename": "Promotion"
+          },
+          "isALaCarte": false,
+          "diningType": null,
+          "productStatus": "lowStock",
+          "description": "Immerse yourself in the rich flavors and traditions of Alaska with a hands-on wild salmon cooking shore excursion along the picturesque Tongass Narrows.",
+          "highlights": [
+            "Begin your culinary journey with a short walk to The Local Table – a cozy venue overlooking the serene waters of the Tongass Narrows.",
+            "Greeted by your instructor, a third-generation fisherman with deep ties to Alaska’s fishing heritage, feel right at home as the warm aromas of fresh seafood and spices fill the air.",
+            "Under the expert guidance of your instructor, dive into the preparation of three simple yet extraordinary salmon dishes: classic grilled salmon, smoked salmon dip, and salmon cakes with two sauces.",
+            "The class features hands-on cooking stations, where you chop, marinate, and assemble alongside fellow participants.",
+            "Once the cooking is complete, gather around the communal dining table to enjoy the fruits of your labor.",
+            "The Tongass Narrows provides a stunning natural backdrop as you indulge in your homemade meal. Watch as float planes glide over the water, fishing boats return to the harbor, and wildlife, like seals or eagles, make the occasional appearance.",
+            "After your meal, conclude your Hands on Salmon Cooking Class with a satisfied palate, a wealth of new culinary skills, and a recipe booklet to recreate the dishes at home."
+          ],
+          "__typename": "CommerceProduct"
+        },
+        {
+          "activityLevel": {
+            "code": "STRENUOUS",
+            "description": "This tour is not recommended for guests with pre-existing medical conditions such as cardiac, respiratory, or orthopedic conditions, including joint injuries or disease, or any other serious medical condition. Guests must consider their physical fitness level and medical history when determining whether this tour is appropriate. Guests who have concerns must consult with their personal physician before engaging in any activity that may be strenuous for them, particularly those involving water-based activities. Guests should consider their swimming ability when selecting tours involving water-based activities.",
+            "name": "Strenuous",
+            "__typename": "CommerceActivityLevel"
+          },
+          "ageRanges": [
+            {
+              "guestType": "INFANT",
+              "maxValue": 3,
+              "minValue": 0,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "CHILD",
+              "maxValue": 12,
+              "minValue": 4,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "ADULT",
+              "maxValue": 120,
+              "minValue": 13,
+              "__typename": "AgeRangeItem"
+            }
+          ],
+          "approvalStatus": null,
+          "bookingEligibility": null,
+          "categories": [
+            {
+              "code": "shorex",
+              "name": "Shore Excursions",
+              "description": "Discover new worlds.",
+              "subCategories": [
+                {
+                  "code": "m_excursions",
+                  "name": "Excursions",
+                  "description": null,
+                  "order": null,
+                  "__typename": "CommerceSubCategory"
+                }
+              ],
+              "__typename": "CommerceCategory"
+            }
+          ],
+          "classifications": [],
+          "dayPorts": [
+            {
+              "day": 7,
+              "name": "Day 7 | VICTORIA, BRITISH COLUMBIA",
+              "portCode": "YVJ",
+              "port": "Victoria, British Columbia",
+              "__typename": "DayPort"
+            }
+          ],
+          "media": [
+            {
+              "source": {
+                "altText": "woman ziplining through forest.",
+                "path": "/content/dam/shore-x/victoria-yvj/vi45-adventure-zipline-tour/woman-ziplining-forest.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            }
+          ],
+          "price": [
+            {
+              "currency": "USD",
+              "promotionalPrice": "161.99",
+              "shipboardPrice": null,
+              "formattedPromotionalPrice": "$161.99",
+              "formattedBasePrice": "$202.99",
+              "formattedDailyPrice": null,
+              "formattedPromoDailyPrice": null,
+              "salesUnit": {
+                "code": "perSeat",
+                "name": "Per Seat",
+                "label": "Per Adult",
+                "__typename": "PriceSalesUnit"
+              },
+              "displayPrices": {
+                "formattedBasePrice": "$202.99",
+                "formattedPromotionalPrice": "$161.99",
+                "__typename": "DisplayPrices"
+              },
+              "__typename": "Price"
+            }
+          ],
+          "isAtYourLeisure": false,
+          "restrictions": [
+            {
+              "maxValue": null,
+              "minValue": "5",
+              "operator": "GREATER_THAN_OR_EQUAL",
+              "restrictionDisplayText": "Are you greater than or equal to 5.0 years ?",
+              "unit": "years",
+              "__typename": "CommerceRestriction"
+            },
+            {
+              "maxValue": "270",
+              "minValue": "65",
+              "operator": "BETWEEN",
+              "restrictionDisplayText": "Are you between 65.0 and 270.0 lbs ?",
+              "unit": "lbs",
+              "__typename": "CommerceRestriction"
+            }
+          ],
+          "references": [],
+          "stock": {
+            "stockLevel": 9999,
+            "stockLevelStatus": "IN_STOCK",
+            "__typename": "Stock"
+          },
+          "type": {
+            "id": "pt_shoreX",
+            "name": "ShoreX",
+            "__typename": "CommerceType"
+          },
+          "variantOptions": [
+            {
+              "code": "VIBH",
+              "offer": null,
+              "options": [
+                {
+                  "code": null,
+                  "name": "vvc_standard",
+                  "label": null,
+                  "sequence": null,
+                  "__typename": "ProductVariantOptionQualifier"
+                }
+              ],
+              "__typename": "ProductVariantOption"
+            }
+          ],
+          "accessible": false,
+          "id": "VIBH",
+          "baseId": "B-VIBH",
+          "defaultVariantId": "VIBH",
+          "variantType": "services",
+          "categoryIds": [
+            "vvc_standard"
+          ],
+          "title": "Small Group: Adventure Zipline Tour",
+          "shortDescription": null,
+          "recommended": false,
+          "mostPopular": false,
+          "productInterests": [
+            {
+              "code": "itf_smallgroupdiscoveries",
+              "name": "Small Group Discoveries",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_active",
+              "name": "Active",
+              "__typename": "ProductInterest"
+            }
+          ],
+          "complimentary": false,
+          "promotion": {
+            "description": "FLASH SALE",
+            "value": 20,
+            "type": "PERCENT_OFF",
+            "title": "Shorex Flash Sale",
+            "displayName": "(20% OFF) FLASH SALE",
+            "code": "CEL_05_18_2026_SHOREX_FLASHSALE_20_EG20260724",
+            "__typename": "Promotion"
+          },
+          "isALaCarte": false,
+          "diningType": null,
+          "productStatus": null,
+          "description": "Soar over British Columbia's majestic west coast rainforest on an exhilarating zipline ride. Professionally trained guides will emphasize safety and comfort before you glide 37 miles per hour at 150 feet off the ground. The eight zip lines range from 150 feet to an unforgettable 1000 feet in length. During your descent through the forest and over the Sooke Hills, your guides will share interesting facts and stories about the local ecology and wildlife.",
+          "highlights": [
+            "Soar up to 150 feet off the ground on eight ziplines ranging from 150 to1000 feet in length.",
+            "Professionally trained guides monitor your zipline experience, ensuring your safety, comfort, and enjoyment.",
+            "Reach the access point that descends across 100 acres of West Coast Rainforest via a short ATV ride."
+          ],
+          "__typename": "CommerceProduct"
+        },
+        {
+          "activityLevel": {
+            "code": "STRENUOUS",
+            "description": "This tour is not recommended for guests with pre-existing medical conditions such as cardiac, respiratory, or orthopedic conditions, including joint injuries or disease, or any other serious medical condition. Guests must consider their physical fitness level and medical history when determining whether this tour is appropriate. Guests who have concerns must consult with their personal physician before engaging in any activity that may be strenuous for them, particularly those involving water-based activities. Guests should consider their swimming ability when selecting tours involving water-based activities.",
+            "name": "Strenuous",
+            "__typename": "CommerceActivityLevel"
+          },
+          "ageRanges": [
+            {
+              "guestType": "INFANT",
+              "maxValue": 3,
+              "minValue": 0,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "CHILD",
+              "maxValue": 12,
+              "minValue": 4,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "ADULT",
+              "maxValue": 120,
+              "minValue": 13,
+              "__typename": "AgeRangeItem"
+            }
+          ],
+          "approvalStatus": null,
+          "bookingEligibility": null,
+          "categories": [
+            {
+              "code": "shorex",
+              "name": "Shore Excursions",
+              "description": "Discover new worlds.",
+              "subCategories": [
+                {
+                  "code": "m_excursions",
+                  "name": "Excursions",
+                  "description": null,
+                  "order": null,
+                  "__typename": "CommerceSubCategory"
+                }
+              ],
+              "__typename": "CommerceCategory"
+            }
+          ],
+          "classifications": [],
+          "dayPorts": [
+            {
+              "day": 4,
+              "name": "Day 4 | JUNEAU, ALASKA",
+              "portCode": "JNU",
+              "port": "Juneau, Alaska",
+              "__typename": "DayPort"
+            }
+          ],
+          "media": [
+            {
+              "source": {
+                "altText": "the front of a kayak floating on Mendenhall Lake with the view of a forrest and glaciers.",
+                "path": "/content/dam/shore-x/juneau-jnu/ju99-mendenhall-lake-canoe/canoe-kayak-in-icy-water-cold-ocean-alaska-mendenhall-juneau.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            }
+          ],
+          "price": [
+            {
+              "currency": "USD",
+              "promotionalPrice": "360.99",
+              "shipboardPrice": null,
+              "formattedPromotionalPrice": "$360.99",
+              "formattedBasePrice": "$481.99",
+              "formattedDailyPrice": null,
+              "formattedPromoDailyPrice": null,
+              "salesUnit": {
+                "code": "perSeat",
+                "name": "Per Seat",
+                "label": "Per Adult",
+                "__typename": "PriceSalesUnit"
+              },
+              "displayPrices": {
+                "formattedBasePrice": "$481.99",
+                "formattedPromotionalPrice": "$360.99",
+                "__typename": "DisplayPrices"
+              },
+              "__typename": "Price"
+            }
+          ],
+          "isAtYourLeisure": false,
+          "restrictions": [
+            {
+              "maxValue": "75",
+              "minValue": null,
+              "operator": "LESS_THAN_OR_EQUAL",
+              "restrictionDisplayText": "Are you less than or equal to 75.0 inches ?",
+              "unit": "inches",
+              "__typename": "CommerceRestriction"
+            },
+            {
+              "maxValue": null,
+              "minValue": "40",
+              "operator": "GREATER_THAN_OR_EQUAL",
+              "restrictionDisplayText": "Are you greater than or equal to 40.0 lbs ?",
+              "unit": "lbs",
+              "__typename": "CommerceRestriction"
+            }
+          ],
+          "references": [],
+          "stock": {
+            "stockLevel": 4,
+            "stockLevelStatus": "LOW_STOCK",
+            "__typename": "Stock"
+          },
+          "type": {
+            "id": "pt_shoreX",
+            "name": "ShoreX",
+            "__typename": "CommerceType"
+          },
+          "variantOptions": [
+            {
+              "code": "JUT3",
+              "offer": null,
+              "options": [
+                {
+                  "code": null,
+                  "name": "vvc_standard",
+                  "label": null,
+                  "sequence": null,
+                  "__typename": "ProductVariantOptionQualifier"
+                }
+              ],
+              "__typename": "ProductVariantOption"
+            }
+          ],
+          "accessible": false,
+          "id": "JUT3",
+          "baseId": "B-JUT3",
+          "defaultVariantId": "JUT3",
+          "variantType": "services",
+          "categoryIds": [
+            "vvc_standard"
+          ],
+          "title": "Small Group: Mendenhall Lake Kayak and Salmon Bake",
+          "shortDescription": null,
+          "recommended": false,
+          "mostPopular": false,
+          "productInterests": [
+            {
+              "code": "itf_active",
+              "name": "Active",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_foodwine",
+              "name": "Food and Wine",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_naturewildlife",
+              "name": "Nature & Wildlife",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_smallgroupdiscoveries",
+              "name": "Small Group Discoveries",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_aquaticsandwateractivity ",
+              "name": "Aquatics & Water Activity ",
+              "__typename": "ProductInterest"
+            }
+          ],
+          "complimentary": false,
+          "promotion": {
+            "description": "FLASH SALE",
+            "value": 25,
+            "type": "PERCENT_OFF",
+            "title": "Shorex Flash Sale",
+            "displayName": "(25% OFF) FLASH SALE",
+            "code": "CEL_05_18_2026_SHOREX_FLASHSALE_25_EG20260724",
+            "__typename": "Promotion"
+          },
+          "isALaCarte": false,
+          "diningType": null,
+          "productStatus": "lowStock",
+          "description": "Experience the wonder and majesty of the Mendenhall Glacier on this once-in-a-lifetime kayak journey to Mendenhall Lake, followed by a delicious meal at the Gold Creek Salmon Bake. Enjoy a narrated coach ride to the breathtaking Mendenhall Lake. Here, you’ll meet your guide, receive all equipment and instruction, and begin your kayak adventure. Be one of the select few to paddle across this incredible lake, passing stunning icebergs and viewing Alaskan wildlife in its natural habitat. Venture within a safe distance of the massive, awe-inspiring face of the Mendenhall Glacier. See the breathtaking Nugget Falls. Then, after your thrilling journey, you’ll transfer to Gold Creek Salmon Bake for an all-you-can-eat feast set in the Alaskan rainforest. With a marshmallow roasting pit, majestic waterfall, and mining relics, the Gold Creek Salmon Bake has something for everyone.",
+          "highlights": [
+            "Enjoy a salmon feast at the Gold Creek Salmon Bake.",
+            "Venture within a safe distance of the massive and awe-inspiring Mendenhall Glacier."
+          ],
+          "__typename": "CommerceProduct"
+        },
+        {
+          "activityLevel": {
+            "code": "STRENUOUS",
+            "description": "This tour is not recommended for guests with pre-existing medical conditions such as cardiac, respiratory, or orthopedic conditions, including joint injuries or disease, or any other serious medical condition. Guests must consider their physical fitness level and medical history when determining whether this tour is appropriate. Guests who have concerns must consult with their personal physician before engaging in any activity that may be strenuous for them, particularly those involving water-based activities. Guests should consider their swimming ability when selecting tours involving water-based activities.",
+            "name": "Strenuous",
+            "__typename": "CommerceActivityLevel"
+          },
+          "ageRanges": [
+            {
+              "guestType": "INFANT",
+              "maxValue": 3,
+              "minValue": 0,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "CHILD",
+              "maxValue": 12,
+              "minValue": 4,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "ADULT",
+              "maxValue": 120,
+              "minValue": 13,
+              "__typename": "AgeRangeItem"
+            }
+          ],
+          "approvalStatus": null,
+          "bookingEligibility": null,
+          "categories": [
+            {
+              "code": "shorex",
+              "name": "Shore Excursions",
+              "description": "Discover new worlds.",
+              "subCategories": [
+                {
+                  "code": "m_excursions",
+                  "name": "Excursions",
+                  "description": null,
+                  "order": null,
+                  "__typename": "CommerceSubCategory"
+                }
+              ],
+              "__typename": "CommerceCategory"
+            }
+          ],
+          "classifications": [],
+          "dayPorts": [
+            {
+              "day": 5,
+              "name": "Day 5 | SKAGWAY, ALASKA",
+              "portCode": "SGY",
+              "port": "Skagway, Alaska",
+              "__typename": "DayPort"
+            }
+          ],
+          "media": [
+            {
+              "source": {
+                "altText": "explorer rock climbing a mountain.",
+                "path": "/content/dam/shore-x/skagway-sgy/ske6-klondike-rock-climbing-adventure/stock-photo-a-young-woman-with-a-rope-engaged-in-the-sports-of-rock-climbing-on-the-rock-288699440.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            }
+          ],
+          "price": [
+            {
+              "currency": "USD",
+              "promotionalPrice": "169.99",
+              "shipboardPrice": null,
+              "formattedPromotionalPrice": "$169.99",
+              "formattedBasePrice": "$261.99",
+              "formattedDailyPrice": null,
+              "formattedPromoDailyPrice": null,
+              "salesUnit": {
+                "code": "perSeat",
+                "name": "Per Seat",
+                "label": "Per Adult",
+                "__typename": "PriceSalesUnit"
+              },
+              "displayPrices": {
+                "formattedBasePrice": "$261.99",
+                "formattedPromotionalPrice": "$169.99",
+                "__typename": "DisplayPrices"
+              },
+              "__typename": "Price"
+            }
+          ],
+          "isAtYourLeisure": false,
+          "restrictions": [
+            {
+              "maxValue": "300",
+              "minValue": "50",
+              "operator": "BETWEEN",
+              "restrictionDisplayText": "Are you between 50.0 and 300.0 lbs ?",
+              "unit": "lbs",
+              "__typename": "CommerceRestriction"
+            },
+            {
+              "maxValue": null,
+              "minValue": "8",
+              "operator": "GREATER_THAN_OR_EQUAL",
+              "restrictionDisplayText": "Are you greater than or equal to 8.0 years ?",
+              "unit": "years",
+              "__typename": "CommerceRestriction"
+            }
+          ],
+          "references": [],
+          "stock": {
+            "stockLevel": 9999,
+            "stockLevelStatus": "IN_STOCK",
+            "__typename": "Stock"
+          },
+          "type": {
+            "id": "pt_shoreX",
+            "name": "ShoreX",
+            "__typename": "CommerceType"
+          },
+          "variantOptions": [
+            {
+              "code": "SKE6",
+              "offer": null,
+              "options": [
+                {
+                  "code": null,
+                  "name": "vvc_standard",
+                  "label": null,
+                  "sequence": null,
+                  "__typename": "ProductVariantOptionQualifier"
+                }
+              ],
+              "__typename": "ProductVariantOption"
+            }
+          ],
+          "accessible": false,
+          "id": "SKE6",
+          "baseId": "B-SKE6",
+          "defaultVariantId": "SKE6",
+          "variantType": "services",
+          "categoryIds": [
+            "vvc_standard"
+          ],
+          "title": "Small Group: Klondike Rock Climbing Adventure",
+          "shortDescription": null,
+          "recommended": false,
+          "mostPopular": false,
+          "productInterests": [
+            {
+              "code": "itf_active",
+              "name": "Active",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_smallgroupdiscoveries",
+              "name": "Small Group Discoveries",
+              "__typename": "ProductInterest"
+            }
+          ],
+          "complimentary": false,
+          "promotion": {
+            "description": "FLASH SALE",
+            "value": 35,
+            "type": "PERCENT_OFF",
+            "title": "Shorex Flash Sale",
+            "displayName": "(35% OFF) FLASH SALE",
+            "code": "CEL_05_18_2026_SHOREX_FLASHSALE_35_EG20260724",
+            "__typename": "Promotion"
+          },
+          "isALaCarte": false,
+          "diningType": null,
+          "productStatus": null,
+          "description": "<p>Thrill seekers get their fill on a three-hour outdoor Alaskan adventure that includes a scenic Klondike Highway drive and rainforest nature hike, plus adrenaline-rushing rock climbing at White Pass, with all the necessary gear. A 20-minute van ride on the historic Klondike Highway leads you past picturesque lakes and rivers on a trail that prospectors once used during the 1898 Gold Rush. Hop off and follow your guide on an uphill hike through the rainforest across trails teeming with local plants and wildlife. Then meet your professional climbing guides, who will offer a safety briefing and outfit you with all the essential equipment. Climbing shoes, a helmet, and harness will keep you safe. You can choose from over a dozen climbing routes suited for all ability levels, as no experience is necessary. Then get ready for the thrill of a lifetime as you climb a rock face carved out over time by Alaska's mighty glaciers. Take in sweeping views of the river below during the climb and enjoy light snacks and hot cocoa as a tasty way to cap off the action-packed experience.</p>",
+          "highlights": [
+            "Choose from more than a dozen climbing routes, each one rewarding you with an amazing river view.",
+            "No experience required.",
+            "Enjoy a driving tour of downtown Skagway and a guided hike to the rock climbing site.",
+            "This tour offers great climbs and professional instruction for all abilities and skill levels."
+          ],
+          "__typename": "CommerceProduct"
+        },
+        {
+          "activityLevel": {
+            "code": "MODERATE",
+            "description": "Full participation may require extended periods of walking over even and uneven surfaces, steep terrain and/or water activity in a slight current. There may be steps, inclines, cobblestone surfaces, and extended periods of standing. Participants with physical limitations should take this into account.",
+            "name": "Moderate",
+            "__typename": "CommerceActivityLevel"
+          },
+          "ageRanges": [
+            {
+              "guestType": "INFANT",
+              "maxValue": 3,
+              "minValue": 0,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "CHILD",
+              "maxValue": 12,
+              "minValue": 4,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "ADULT",
+              "maxValue": 120,
+              "minValue": 13,
+              "__typename": "AgeRangeItem"
+            }
+          ],
+          "approvalStatus": null,
+          "bookingEligibility": null,
+          "categories": [
+            {
+              "code": "shorex",
+              "name": "Shore Excursions",
+              "description": "Discover new worlds.",
+              "subCategories": [
+                {
+                  "code": "m_excursions",
+                  "name": "Excursions",
+                  "description": null,
+                  "order": null,
+                  "__typename": "CommerceSubCategory"
+                }
+              ],
+              "__typename": "CommerceCategory"
+            }
+          ],
+          "classifications": [],
+          "dayPorts": [
+            {
+              "day": 3,
+              "name": "Day 3 | KETCHIKAN, ALASKA",
+              "portCode": "KTN",
+              "port": "Ketchikan, Alaska",
+              "__typename": "DayPort"
+            }
+          ],
+          "media": [
+            {
+              "source": {
+                "altText": "a close-up shot of the tail of a humpback whale as it submerges underwater.",
+                "path": "/content/dam/shore-x/ketchikan-ktn/ke18-knudson-cove-salmon-fishing/stock-photo-humpback-whale-megaptera-novaeangliae-tail-juneau-alaska-314988974.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            },
+            {
+              "source": {
+                "altText": "a salmon caught in a net and being held by fisherman.",
+                "path": "/content/dam/excalibur/digital-stock/royalty-free/shutterstock/2021/2021-08/stock-photo-an-image-of-rock-salmon-190331843.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            }
+          ],
+          "price": [
+            {
+              "currency": "USD",
+              "promotionalPrice": "334.99",
+              "shipboardPrice": null,
+              "formattedPromotionalPrice": "$334.99",
+              "formattedBasePrice": "$478.99",
+              "formattedDailyPrice": null,
+              "formattedPromoDailyPrice": null,
+              "salesUnit": {
+                "code": "perSeat",
+                "name": "Per Seat",
+                "label": "Per Adult",
+                "__typename": "PriceSalesUnit"
+              },
+              "displayPrices": {
+                "formattedBasePrice": "$478.99",
+                "formattedPromotionalPrice": "$334.99",
+                "__typename": "DisplayPrices"
+              },
+              "__typename": "Price"
+            }
+          ],
+          "isAtYourLeisure": false,
+          "restrictions": [
+            {
+              "maxValue": null,
+              "minValue": "5",
+              "operator": "GREATER_THAN_OR_EQUAL",
+              "restrictionDisplayText": "Are you greater than or equal to 5.0 years ?",
+              "unit": "years",
+              "__typename": "CommerceRestriction"
+            }
+          ],
+          "references": [],
+          "stock": {
+            "stockLevel": 9999,
+            "stockLevelStatus": "IN_STOCK",
+            "__typename": "Stock"
+          },
+          "type": {
+            "id": "pt_shoreX",
+            "name": "ShoreX",
+            "__typename": "CommerceType"
+          },
+          "variantOptions": [
+            {
+              "code": "KEBG",
+              "offer": null,
+              "options": [
+                {
+                  "code": null,
+                  "name": "vvc_standard",
+                  "label": null,
+                  "sequence": null,
+                  "__typename": "ProductVariantOptionQualifier"
+                }
+              ],
+              "__typename": "ProductVariantOption"
+            }
+          ],
+          "accessible": false,
+          "id": "KEBG",
+          "baseId": "B-KEBG",
+          "defaultVariantId": "KEBG",
+          "variantType": "services",
+          "categoryIds": [
+            "vvc_standard"
+          ],
+          "title": "Destination Highlight: Knudson Cove Salmon Fishing",
+          "shortDescription": null,
+          "recommended": false,
+          "mostPopular": false,
+          "productInterests": [
+            {
+              "code": "itf_active",
+              "name": "Active",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_smallgroupdiscoveries",
+              "name": "Small Group Discoveries",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_aquaticsandwateractivity ",
+              "name": "Aquatics & Water Activity ",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_sustainable",
+              "name": "Sustainable",
+              "__typename": "ProductInterest"
+            }
+          ],
+          "complimentary": false,
+          "promotion": {
+            "description": "FLASH SALE",
+            "value": 30,
+            "type": "PERCENT_OFF",
+            "title": "Shorex Flash Sale",
+            "displayName": "(30% OFF) FLASH SALE",
+            "code": "CEL_05_18_2026_SHOREX_FLASHSALE_30_EG20260724",
+            "__typename": "Promotion"
+          },
+          "isALaCarte": false,
+          "diningType": null,
+          "productStatus": null,
+          "description": "Don't miss this highlight of your Alaskan Cruise - fishing for salmon. Experience a narrated tour of the city and outlying areas, learning about the history and lifestyle of Ketchikan from a seasoned and knowledgeable charter Captain. What better way to spend your time in the 'Salmon Capital of the World'? The Knudson Cove Marina welcomes the opportunity to show you, your family and friends the charm and majestic beauty of Southeast Alaska. Located just 30 minutes from downtown Ketchikan, the marina boasts a locale on prime fishing grounds. You will have about 3 hours of fishing, and due to its convenient location, you'll only be a few minutes from the dock before your lines hit the water. With only 4 to 6 passengers assigned to each fishing boat, this fleet offers you the chance for individualized attention. Whether you're an experienced angler or a novice, your Coast Guard licensed Captain will treat you to a memorable excursion as he shows you the 'ins' and 'outs' of fishing in Alaska. In between reeling in your catch, you can marvel at the wildlife – seals, sea lions, otter, porpoise, and even whales might treat you to a show, while bald eagles will offer you a superb photo opportunity as they swoop down to grasp their own \"catch of the day.\" The type of fishing that you'll be doing is trolling for salmon with downriggers. Downriggers are used to hold the fishing lines deep in the water. Most of the time 4 to 5 rods will be used and boats hold 4-6 persons. The fishing lines will be clipped or connected to the downrigger system and then the lines are dropped to a specified depth using a large weight that is attached to the downrigger. The poles will be set or held in rod holders while the boat trolls or moves along. When a fish strikes, the line will come free of the downrigger the guest will then take the rod out of the rod holder, set the hook and play the fish. After a fish is played and landed guests will be asked to rotate over one position, sometimes one pole and type of lure catches the majority of the fish and by rotating everyone then has a fair chance of catching. To ship the daily catch home - Custom Fish Processing is available for an additional charge. Major credit card required.",
+          "highlights": [
+            "Embark on a guided fishing charter into the fertile waters of Knudson Cove.",
+            "Set out your lines and get ready to real in your fresh salmon catch.",
+            "Keep your eyes peeled for seals, whales, bald eagles and other Alaskan wildlife."
+          ],
+          "__typename": "CommerceProduct"
+        },
+        {
+          "activityLevel": {
+            "code": "MILD",
+            "description": "Full participation may require leisurely walking over primarily even surfaces. There may be a limited number of steps, a minimal amount of cobblestones or uneven surfaces, and some standing for extended periods of time.",
+            "name": "Mild",
+            "__typename": "CommerceActivityLevel"
+          },
+          "ageRanges": [
+            {
+              "guestType": "INFANT",
+              "maxValue": 1,
+              "minValue": 0,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "CHILD",
+              "maxValue": 12,
+              "minValue": 2,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "ADULT",
+              "maxValue": 120,
+              "minValue": 13,
+              "__typename": "AgeRangeItem"
+            }
+          ],
+          "approvalStatus": null,
+          "bookingEligibility": null,
+          "categories": [
+            {
+              "code": "shorex",
+              "name": "Shore Excursions",
+              "description": "Discover new worlds.",
+              "subCategories": [
+                {
+                  "code": "m_excursions",
+                  "name": "Excursions",
+                  "description": null,
+                  "order": null,
+                  "__typename": "CommerceSubCategory"
+                }
+              ],
+              "__typename": "CommerceCategory"
+            }
+          ],
+          "classifications": [],
+          "dayPorts": [
+            {
+              "day": 4,
+              "name": "Day 4 | JUNEAU, ALASKA",
+              "portCode": "JNU",
+              "port": "Juneau, Alaska",
+              "__typename": "DayPort"
+            }
+          ],
+          "media": [
+            {
+              "source": {
+                "altText": "a couple getting off a helicopter on Mendenhall Glacier in Alaska.",
+                "path": "/content/dam/shore-x/juneau-jnu/ju06-mendenhall-glacier-by-helicopter-and-guided-walk/man-woman-couple-getting-off-helicopter-in-alaska-on-mendenhall-glacier.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            },
+            {
+              "source": {
+                "altText": "a tour of Mendenhall Glacier by Helicopter.",
+                "path": "/vod/pdp/content/dam/videos/shore-x-videos/tours/ports/juneau-jnu/JU06-mendenhall-glacier-by-helicopter-guided-walk/main.m3u8",
+                "__typename": "MediaSource"
+              },
+              "type": "video",
+              "placement": null,
+              "__typename": "Media"
+            },
+            {
+              "source": {
+                "altText": "panoramic of Mendenhall Glacier in Juneau.",
+                "path": "/content/dam/shore-x/juneau-jnu/jun6-interactive-self-guided-jeep-tour-2-door/stock-photo-mendenhall-glacier-195166868.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            }
+          ],
+          "price": [
+            {
+              "currency": "USD",
+              "promotionalPrice": "436.99",
+              "shipboardPrice": null,
+              "formattedPromotionalPrice": "$436.99",
+              "formattedBasePrice": "$582.99",
+              "formattedDailyPrice": null,
+              "formattedPromoDailyPrice": null,
+              "salesUnit": {
+                "code": "perSeat",
+                "name": "Per Seat",
+                "label": "Per Adult",
+                "__typename": "PriceSalesUnit"
+              },
+              "displayPrices": {
+                "formattedBasePrice": "$582.99",
+                "formattedPromotionalPrice": "$436.99",
+                "__typename": "DisplayPrices"
+              },
+              "__typename": "Price"
+            }
+          ],
+          "isAtYourLeisure": false,
+          "restrictions": [
+            {
+              "maxValue": "250",
+              "minValue": null,
+              "operator": "LESS_THAN_OR_EQUAL",
+              "restrictionDisplayText": "Are you less than or equal to 250.0 lbs ?",
+              "unit": "lbs",
+              "__typename": "CommerceRestriction"
+            }
+          ],
+          "references": [],
+          "stock": {
+            "stockLevel": 9999,
+            "stockLevelStatus": "IN_STOCK",
+            "__typename": "Stock"
+          },
+          "type": {
+            "id": "pt_shoreX",
+            "name": "ShoreX",
+            "__typename": "CommerceType"
+          },
+          "variantOptions": [
+            {
+              "code": "JUQ4",
+              "offer": null,
+              "options": [
+                {
+                  "code": null,
+                  "name": "vvc_standard",
+                  "label": null,
+                  "sequence": null,
+                  "__typename": "ProductVariantOptionQualifier"
+                }
+              ],
+              "__typename": "ProductVariantOption"
+            }
+          ],
+          "accessible": false,
+          "id": "JUQ4",
+          "baseId": "B-JUQ4",
+          "defaultVariantId": "JUQ4",
+          "variantType": "services",
+          "categoryIds": [
+            "vvc_standard"
+          ],
+          "title": "Small Group: Mendenhall Glacier by Helicopter and Guided Walk",
+          "shortDescription": null,
+          "recommended": false,
+          "mostPopular": false,
+          "productInterests": [
+            {
+              "code": "itf_active",
+              "name": "Active",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_flightseeing",
+              "name": "Flightseeing",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_naturewildlife",
+              "name": "Nature & Wildlife",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_smallgroupdiscoveries",
+              "name": "Small Group Discoveries",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_sustainable",
+              "name": "Sustainable",
+              "__typename": "ProductInterest"
+            }
+          ],
+          "complimentary": false,
+          "promotion": {
+            "description": "LAST CHANCE SAVINGS",
+            "value": 25,
+            "type": "PERCENT_OFF",
+            "title": "CEL Shorex Evergreen",
+            "displayName": "(25% OFF) LAST CHANCE SAVINGS",
+            "code": "CEL_SHOREX_25%_90DTS_ALASKA",
+            "__typename": "Promotion"
+          },
+          "isALaCarte": false,
+          "diningType": null,
+          "productStatus": null,
+          "description": "Travel back in time to the Ice Age onboard a turbine powered helicopter to experience Alaska's world famous Mendenhall Glacier up close and personal. Your journey will take you through the lush rain forests and alpine ridges of the Mendenhall Valley until you reach the majestic Mendenhall Glacier itself. Soar over spellbinding ice spires and deep crevasses before landing on the ice to explore the glacier's unchartered territories by foot with your guide. ",
+          "highlights": [
+            "Experience the thrill of landing atop the illustrious Mendenhall Glacier.",
+            "Traverse the untouched glacial icefield on foot.",
+            "Relish in the mystery of Mendenhall Valley with a bird's-eye-view of mountains, forests and wilderness."
+          ],
+          "__typename": "CommerceProduct"
+        },
+        {
+          "activityLevel": {
+            "code": "MODERATE",
+            "description": "Full participation may require extended periods of walking over even and uneven surfaces, steep terrain and/or water activity in a slight current. There may be steps, inclines, cobblestone surfaces, and extended periods of standing. Participants with physical limitations should take this into account.",
+            "name": "Moderate",
+            "__typename": "CommerceActivityLevel"
+          },
+          "ageRanges": [
+            {
+              "guestType": "INFANT",
+              "maxValue": 1,
+              "minValue": 0,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "CHILD",
+              "maxValue": 12,
+              "minValue": 2,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "ADULT",
+              "maxValue": 120,
+              "minValue": 13,
+              "__typename": "AgeRangeItem"
+            }
+          ],
+          "approvalStatus": null,
+          "bookingEligibility": null,
+          "categories": [
+            {
+              "code": "shorex",
+              "name": "Shore Excursions",
+              "description": "Discover new worlds.",
+              "subCategories": [
+                {
+                  "code": "m_excursions",
+                  "name": "Excursions",
+                  "description": null,
+                  "order": null,
+                  "__typename": "CommerceSubCategory"
+                }
+              ],
+              "__typename": "CommerceCategory"
+            }
+          ],
+          "classifications": [],
+          "dayPorts": [
+            {
+              "day": 5,
+              "name": "Day 5 | SKAGWAY, ALASKA",
+              "portCode": "SGY",
+              "port": "Skagway, Alaska",
+              "__typename": "DayPort"
+            }
+          ],
+          "media": [
+            {
+              "source": {
+                "altText": "Sled dog puppies hanging out leaning over a fence with mountains in the background.",
+                "path": "/content/dam/shore-x/skagway-sgy/skij-glacier-and-sled-dog-experience-by-helicopter/SKIJ-Glacier-and-Sled-Dog-Experience-by-Helicopter.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            }
+          ],
+          "price": [
+            {
+              "currency": "USD",
+              "promotionalPrice": "907.99",
+              "shipboardPrice": null,
+              "formattedPromotionalPrice": "$907.99",
+              "formattedBasePrice": "$1,135.99",
+              "formattedDailyPrice": null,
+              "formattedPromoDailyPrice": null,
+              "salesUnit": {
+                "code": "perSeat",
+                "name": "Per Seat",
+                "label": "Per Adult",
+                "__typename": "PriceSalesUnit"
+              },
+              "displayPrices": {
+                "formattedBasePrice": "$1,135.99",
+                "formattedPromotionalPrice": "$907.99",
+                "__typename": "DisplayPrices"
+              },
+              "__typename": "Price"
+            }
+          ],
+          "isAtYourLeisure": false,
+          "restrictions": [],
+          "references": [],
+          "stock": {
+            "stockLevel": 9999,
+            "stockLevelStatus": "IN_STOCK",
+            "__typename": "Stock"
+          },
+          "type": {
+            "id": "pt_shoreX",
+            "name": "ShoreX",
+            "__typename": "CommerceType"
+          },
+          "variantOptions": [
+            {
+              "code": "Y9DA",
+              "offer": null,
+              "options": [
+                {
+                  "code": null,
+                  "name": "vvc_standard",
+                  "label": null,
+                  "sequence": null,
+                  "__typename": "ProductVariantOptionQualifier"
+                }
+              ],
+              "__typename": "ProductVariantOption"
+            }
+          ],
+          "accessible": false,
+          "id": "Y9DA",
+          "baseId": "SX-HUB-SGY-369308",
+          "defaultVariantId": "Y9DA",
+          "variantType": "services",
+          "categoryIds": [
+            "vvc_standard"
+          ],
+          "title": "Small Group: Glacier Dogsledding Demonstration by Helicopter",
+          "shortDescription": null,
+          "recommended": false,
+          "mostPopular": false,
+          "productInterests": [
+            {
+              "code": "itf_smallgroupdiscoveries",
+              "name": "Small Group Discoveries",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_flightseeing",
+              "name": "Flightseeing",
+              "__typename": "ProductInterest"
+            }
+          ],
+          "complimentary": false,
+          "promotion": {
+            "description": "FLASH SALE",
+            "value": 20,
+            "type": "PERCENT_OFF",
+            "title": "Shorex Flash Sale",
+            "displayName": "(20% OFF) FLASH SALE",
+            "code": "CEL_05_18_2026_SHOREX_FLASHSALE_20_EG20260724",
+            "__typename": "Promotion"
+          },
+          "isALaCarte": false,
+          "diningType": null,
+          "productStatus": null,
+          "description": "Fly deep into Alaska's glacier wilderness to meet the remarkable sled dogs and mushers of the Iditarod. Land on remote Denver Glacier, hear trail stories, watch an exciting dogsledding demonstration, and cuddle future champions on this unforgettable small‑group adventure.",
+          "highlights": [
+            "After a short drive from port, begin your journey at the helicopter base in Skagway, where you check in and gear up.",
+            "Board your helicopter and take to the skies for an awe-inspiring flight above the Taiya Inlet, weaving through towering mountain peaks, cascading waterfalls, and lush alpine forests.",
+            "After landing gently on Denver Glacier, step out and be greeted by an experienced musher and their team of eager sled dogs.",
+            "The musher shares fascinating stories about their life on the trail, the grueling Iditarod Race, and the incredible bond between musher and dog.",
+            "Watch as the musher demonstrates how these elite canine athletes work together to pull a sled across the glacier.",
+            "After the demonstration, meet the future champions—adorable sled dog puppies! Take time to cuddle with these playful pups and snap photos with them against the pristine glacier landscape.",
+            "Conclude your Glacier Sled Dog Experience excursion with another helicopter ride back to Skagway. Upon landing, de-gear and take a moment to savor the memories of this extraordinary day, before heading back to your ship."
+          ],
+          "__typename": "CommerceProduct"
+        },
+        {
+          "activityLevel": {
+            "code": "MILD",
+            "description": "Full participation may require leisurely walking over primarily even surfaces. There may be a limited number of steps, a minimal amount of cobblestones or uneven surfaces, and some standing for extended periods of time.",
+            "name": "Mild",
+            "__typename": "CommerceActivityLevel"
+          },
+          "ageRanges": [
+            {
+              "guestType": "INFANT",
+              "maxValue": 3,
+              "minValue": 0,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "CHILD",
+              "maxValue": 12,
+              "minValue": 4,
+              "__typename": "AgeRangeItem"
+            },
+            {
+              "guestType": "ADULT",
+              "maxValue": 120,
+              "minValue": 13,
+              "__typename": "AgeRangeItem"
+            }
+          ],
+          "approvalStatus": null,
+          "bookingEligibility": null,
+          "categories": [
+            {
+              "code": "shorex",
+              "name": "Shore Excursions",
+              "description": "Discover new worlds.",
+              "subCategories": [
+                {
+                  "code": "m_excursions",
+                  "name": "Excursions",
+                  "description": null,
+                  "order": null,
+                  "__typename": "CommerceSubCategory"
+                }
+              ],
+              "__typename": "CommerceCategory"
+            }
+          ],
+          "classifications": [],
+          "dayPorts": [
+            {
+              "day": 3,
+              "name": "Day 3 | KETCHIKAN, ALASKA",
+              "portCode": "KTN",
+              "port": "Ketchikan, Alaska",
+              "__typename": "DayPort"
+            }
+          ],
+          "media": [
+            {
+              "source": {
+                "altText": "Duck boat tour on port boarding guests.",
+                "path": "/content/dam/shore-x/ketchikan-ktn/kevm-ketchikan-duck-tour/KEVM-Ketchikan-Duck-Tour-Duck-Bus.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            },
+            {
+              "source": {
+                "altText": "Duck boat tours lined up in port area besides cruise.",
+                "path": "/content/dam/shore-x/ketchikan-ktn/kevm-ketchikan-duck-tour/KEVM-Ketchikan-Duck-Tour-Ducks-By-Port.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            },
+            {
+              "source": {
+                "altText": "The Miss Jillian amphibious vehicle washing up on the shore line harbor.",
+                "path": "/content/dam/shore-x/ketchikan-ktn/4k31-ketchikan-duck-tour/4K31-Ketchikan-Duck-Tour-Miss-Jillian-Harbor.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            },
+            {
+              "source": {
+                "altText": "Ketchikan street in Alaska.",
+                "path": "/content/dam/shore-x/ketchikan-ktn/ke29-ketchikan-duck-tour/stock-photo-view-of-ketchikan-street-alaska-71597116.jpg",
+                "__typename": "MediaSource"
+              },
+              "type": "image",
+              "placement": null,
+              "__typename": "Media"
+            }
+          ],
+          "price": [
+            {
+              "currency": "USD",
+              "promotionalPrice": "102.99",
+              "shipboardPrice": null,
+              "formattedPromotionalPrice": "$102.99",
+              "formattedBasePrice": "$137.99",
+              "formattedDailyPrice": null,
+              "formattedPromoDailyPrice": null,
+              "salesUnit": {
+                "code": "perSeat",
+                "name": "Per Seat",
+                "label": "Per Adult",
+                "__typename": "PriceSalesUnit"
+              },
+              "displayPrices": {
+                "formattedBasePrice": "$137.99",
+                "formattedPromotionalPrice": "$102.99",
+                "__typename": "DisplayPrices"
+              },
+              "__typename": "Price"
+            }
+          ],
+          "isAtYourLeisure": false,
+          "restrictions": [],
+          "references": [],
+          "stock": {
+            "stockLevel": 9999,
+            "stockLevelStatus": "IN_STOCK",
+            "__typename": "Stock"
+          },
+          "type": {
+            "id": "pt_shoreX",
+            "name": "ShoreX",
+            "__typename": "CommerceType"
+          },
+          "variantOptions": [
+            {
+              "code": "KEBL",
+              "offer": null,
+              "options": [
+                {
+                  "code": null,
+                  "name": "vvc_standard",
+                  "label": null,
+                  "sequence": null,
+                  "__typename": "ProductVariantOptionQualifier"
+                }
+              ],
+              "__typename": "ProductVariantOption"
+            }
+          ],
+          "accessible": false,
+          "id": "KEBL",
+          "baseId": "B-KEBL",
+          "defaultVariantId": "KEBL",
+          "variantType": "services",
+          "categoryIds": [
+            "vvc_standard"
+          ],
+          "title": "Destination Highlight: Ketchikan Duck Tour",
+          "shortDescription": null,
+          "recommended": false,
+          "mostPopular": false,
+          "productInterests": [
+            {
+              "code": "itf_active",
+              "name": "Active",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_destinationHighlights",
+              "name": "Destination Highlights",
+              "__typename": "ProductInterest"
+            },
+            {
+              "code": "itf_aquaticsandwateractivity ",
+              "name": "Aquatics & Water Activity ",
+              "__typename": "ProductInterest"
+            }
+          ],
+          "complimentary": false,
+          "promotion": {
+            "description": "LAST CHANCE SAVINGS",
+            "value": 25,
+            "type": "PERCENT_OFF",
+            "title": "CEL Shorex Evergreen",
+            "displayName": "(25% OFF) LAST CHANCE SAVINGS",
+            "code": "CEL_SHOREX_25%_90DTS_ALASKA",
+            "__typename": "Promotion"
+          },
+          "isALaCarte": false,
+          "diningType": null,
+          "productStatus": null,
+          "description": "Discover the history and beauty of Ketchikan, the “Salmon Capital of the World” by land and sea, aboard our Duck amphibious vehicle. Your journey begins with a scenic drive through Ketchikan’s rustic streets. View the salmon ladder on Ketchikan Creek, seeing the spawning grounds and live salmon in season. Learn about the importance of the salmon industry to the region. Then, pass breathtaking Whale Park with its lovely flowers and unique totem poles. See Creek Street, where you’ll hear tales of Ketchikan’s colorful past and salty beginnings. Then, marvel as your bus becomes a boat and your Duck bus literally drives into the scenic harbor of the Tongass Narrows. Pass the local fishing fleet. Motor down the channel for up-close views of canneries, seaplane docks, and the Ketchikan waterfront community. Take in the breathtaking scenery of southeast Alaska’s temperate rainforest, looking out for bald eagles and other majestic wildlife.",
+          "highlights": [
+            "Explore Ketchikan's most historic regions and rustic charms.",
+            "Travel past the Salmon ladder on Ketchikan Creek and catch fish leaping upstream.",
+            "Discover beautiful Whale Park with its striking totem poles and stunning flowers."
+          ],
+          "__typename": "CommerceProduct"
+        }
+      ],
+      "pageInfo": {
+        "totalResults": 162,
+        "totalPages": 14,
+        "__typename": "Page"
+      },
+      "__typename": "CommerceProductResultSuccess"
+    }
+  }
+}

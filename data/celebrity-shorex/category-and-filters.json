@@ -1,0 +1,343 @@
+{
+  "data": {
+    "categories": {
+      "categories": [
+        {
+          "id": "shorex",
+          "name": "Shore Excursions",
+          "description": "Discover new worlds.",
+          "childrenType": [
+            "PRODUCT"
+          ],
+          "filters": [
+            {
+              "code": "locations",
+              "__typename": "CategoryFilter"
+            },
+            {
+              "code": "accessible",
+              "__typename": "CategoryFilter"
+            },
+            {
+              "code": "activityLevels",
+              "__typename": "CategoryFilter"
+            },
+            {
+              "code": "durations",
+              "__typename": "CategoryFilter"
+            },
+            {
+              "code": "interests",
+              "__typename": "CategoryFilter"
+            }
+          ],
+          "pageSize": 12,
+          "order": 10,
+          "count": 160,
+          "mobileSectionType": "essentials",
+          "subCategories": [
+            {
+              "id": "m_excursions",
+              "name": "Excursions",
+              "description": "Discover new worlds.",
+              "childrenType": [
+                "PRODUCT"
+              ],
+              "order": 0,
+              "count": 152,
+              "__typename": "SubCategory"
+            },
+            {
+              "id": "m_privateJourneys",
+              "name": "Private Journeys and Arrangements",
+              "description": "Discover new worlds.",
+              "childrenType": [
+                "PRODUCT"
+              ],
+              "order": 0,
+              "count": 0,
+              "__typename": "SubCategory"
+            }
+          ],
+          "media": [
+            {
+              "primary": false,
+              "type": "image",
+              "placement": "productListPage",
+              "source": {
+                "altText": "Alaskan glacier.",
+                "path": "/content/dam/commerce/web-support/royal/shorex/plp/PLP-only-alaska-shutterstock_1739390531.jpg",
+                "__typename": "MediaSource"
+              },
+              "__typename": "Media"
+            },
+            {
+              "primary": false,
+              "type": "image",
+              "placement": "mainNavigation",
+              "source": {
+                "altText": "Alaskan glacier.",
+                "path": "/content/dam/commerce/web-support/royal/shorex/main-nav/MAIN-NAV-only-alaska-shutterstock_1739390531.jpg",
+                "__typename": "MediaSource"
+              },
+              "__typename": "Media"
+            },
+            {
+              "primary": false,
+              "type": "image",
+              "placement": "discoverScreen",
+              "source": {
+                "altText": "A yellow snorkel mask on a blue background.",
+                "path": "/content/dam/excalibur/app-support-assets/discover/celebrity/category-tiles/cel-discover-tile-shore-x.jpg",
+                "__typename": "MediaSource"
+              },
+              "__typename": "Media"
+            }
+          ],
+          "__typename": "Category"
+        }
+      ],
+      "__typename": "CategoryResultSuccess"
+    },
+    "products": {
+      "filterInfo": {
+        "locations": [
+          {
+            "code": "ASE",
+            "name": "Day 2 | AT SEA",
+            "count": 9,
+            "city": "At Sea",
+            "region": null,
+            "day": 2,
+            "__typename": "LocationFilter"
+          },
+          {
+            "code": "KTN",
+            "name": "Day 3 | KETCHIKAN, ALASKA",
+            "count": 53,
+            "city": "Ketchikan",
+            "region": "Alaska",
+            "day": 3,
+            "__typename": "LocationFilter"
+          },
+          {
+            "code": "ENC",
+            "name": "Day 4 | ENDICOTT ARM & DAWES GLACIER",
+            "count": 2,
+            "city": "Endicott Arm & Dawes Glacier",
+            "region": null,
+            "day": 4,
+            "__typename": "LocationFilter"
+          },
+          {
+            "code": "JNU",
+            "name": "Day 4 | JUNEAU, ALASKA",
+            "count": 46,
+            "city": "Juneau",
+            "region": "Alaska",
+            "day": 4,
+            "__typename": "LocationFilter"
+          },
+          {
+            "code": "SGY",
+            "name": "Day 5 | SKAGWAY, ALASKA",
+            "count": 36,
+            "city": "Skagway",
+            "region": "Alaska",
+            "day": 5,
+            "__typename": "LocationFilter"
+          },
+          {
+            "code": "ASE",
+            "name": "Day 6 | AT SEA",
+            "count": 12,
+            "city": "At Sea",
+            "region": null,
+            "day": 6,
+            "__typename": "LocationFilter"
+          },
+          {
+            "code": "YVJ",
+            "name": "Day 7 | VICTORIA, BRITISH COLUMBIA",
+            "count": 23,
+            "city": "Victoria",
+            "region": "British Columbia",
+            "day": 7,
+            "__typename": "LocationFilter"
+          },
+          {
+            "code": "SEA",
+            "name": "Day 8 | SEATTLE, WASHINGTON",
+            "count": 2,
+            "city": "Seattle",
+            "region": "Washington",
+            "day": 8,
+            "__typename": "LocationFilter"
+          }
+        ],
+        "activityLevels": [
+          {
+            "code": "MILD",
+            "name": "Mild",
+            "__typename": "FilterItem"
+          },
+          {
+            "code": "MODERATE",
+            "name": "Moderate",
+            "__typename": "FilterItem"
+          },
+          {
+            "code": "STRENUOUS",
+            "name": "Strenuous",
+            "__typename": "FilterItem"
+          }
+        ],
+        "durations": [
+          {
+            "code": "< 3 hours",
+            "name": "< 3 hours",
+            "__typename": "FilterItem"
+          },
+          {
+            "code": "3-6 hours",
+            "name": "3-6 hours",
+            "__typename": "FilterItem"
+          },
+          {
+            "code": "> 6 hours",
+            "name": "> 6 hours",
+            "__typename": "FilterItem"
+          }
+        ],
+        "interests": [
+          {
+            "code": "itf_accessible",
+            "name": "Accessible",
+            "__typename": "FilterItem"
+          },
+          {
+            "code": "itf_active",
+            "name": "Active",
+            "__typename": "FilterItem"
+          },
+          {
+            "code": "itf_adventure",
+            "name": "Adventure",
+            "__typename": "FilterItem"
+          },
+          {
+            "code": "itf_aquatic",
+            "name": "Aquatic",
+            "__typename": "FilterItem"
+          },
+          {
+            "code": "itf_aquaticsandwateractivity ",
+            "name": "Aquatics & Water Activity ",
+            "__typename": "FilterItem"
+          },
+          {
+            "code": "itf_cultural",
+            "name": "Cultural",
+            "__typename": "FilterItem"
+          },
+          {
+            "code": "itf_cycling",
+            "name": "Cycling",
+            "__typename": "FilterItem"
+          },
+          {
+            "code": "itf_destinationHighlights",
+            "name": "Destination Highlights",
+            "__typename": "FilterItem"
+          },
+          {
+            "code": "itf_evening",
+            "name": "Evening",
+            "__typename": "FilterItem"
+          },
+          {
+            "code": "itf_flightseeing",
+            "name": "Flightseeing",
+            "__typename": "FilterItem"
+          },
+          {
+            "code": "itf_foodwine",
+            "name": "Food and Wine",
+            "__typename": "FilterItem"
+          },
+          {
+            "code": "itf_history",
+            "name": "History",
+            "__typename": "FilterItem"
+          },
+          {
+            "code": "itf_historyandculture",
+            "name": "History & Culture Highlights",
+            "__typename": "FilterItem"
+          },
+          {
+            "code": "itf_land",
+            "name": "Land",
+            "__typename": "FilterItem"
+          },
+          {
+            "code": "itf_culinary",
+            "name": "Local Flavors",
+            "__typename": "FilterItem"
+          },
+          {
+            "code": "itf_naturewildlife",
+            "name": "Nature & Wildlife",
+            "__typename": "FilterItem"
+          },
+          {
+            "code": "itf_onboardtours",
+            "name": "Onboard Tours",
+            "__typename": "FilterItem"
+          },
+          {
+            "code": "itf_culturalimmersion",
+            "name": "Positive Impact",
+            "__typename": "FilterItem"
+          },
+          {
+            "code": "itf_sightseeing",
+            "name": "Sightseeing",
+            "__typename": "FilterItem"
+          },
+          {
+            "code": "itf_smallgroupdiscoveries",
+            "name": "Small Group Discoveries",
+            "__typename": "FilterItem"
+          },
+          {
+            "code": "itf_sustainable",
+            "name": "Sustainable",
+            "__typename": "FilterItem"
+          },
+          {
+            "code": "itf_walking",
+            "name": "Walking",
+            "__typename": "FilterItem"
+          },
+          {
+            "code": "itf_wildlife",
+            "name": "Wildlife",
+            "__typename": "FilterItem"
+          }
+        ],
+        "subcategories": [
+          {
+            "code": "m_excursions",
+            "name": "Excursions",
+            "order": null,
+            "count": 177,
+            "__typename": "SubCategoryFilter"
+          }
+        ],
+        "__typename": "FilterInfo"
+      },
+      "__typename": "CommerceProductResultSuccess"
+    }
+  }
+}

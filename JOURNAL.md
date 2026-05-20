@@ -36,6 +36,13 @@ Running notes for trip-planning changes made by humans and coding agents.
 - Another agent or human updated and verified independent e-bike alternatives with dock alignments and cleaner URLs in `30819f4 Update and verify independent e-bike alternatives with dock alignments and clean URLs`.
 - Another agent or human fixed markdown strikethrough rendering by replacing unescaped tildes in `0509568 Fix strikethrough rendering bug by replacing unescaped tildes with approx. and about`.
 
+### Sled Dog Activity Research and Comparison
+
+- Antigravity researched Juneau and Skagway dog sledding excursions from the Celebrity catalog and compared them to independent booking options.
+- Added a comprehensive `Independent Sled Dog Alternatives to Compare` table in the main itinerary.
+- Highlighted the critical distinction that Skagway's glacier helicopter tour is a **demonstration only** (no guest rides), whereas Juneau's glacier tour includes an actual mushing ride on snow.
+- Documented land-based summer musher camps (wheeled carts) in Juneau and Skagway as highly reliable, more affordable alternatives that aren't subject to weather cancellations.
+
 ### Agent Coordination Convention
 
 - Codex added this journal and updated `AGENTS.md` with agent coordination guidance.

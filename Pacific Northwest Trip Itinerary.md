@@ -108,7 +108,11 @@
 * **July 25:** At Sea  
 * **July 26:** Ketchikan, AK  
 * **July 27:** Endicott Arm & Dawes Glacier / Juneau, AK  
+  * ❓ **JUS4 - Small Group: Mendenhall Glacier by Helicopter and Dog Sledding** *(unpurchased interest)*: **$956.99/person**, **Moderate**, **in stock**. Helicopter flight, walking on Mendenhall Glacier, and a real dog sled ride on snow. *(Save over $240/person by booking TEMSCO or Coastal independently!)*  
+  * ❓ **JUS7 - Destination Highlight: Alaska Sled Dogs and Musher's Camp** *(unpurchased interest)*: **$266.99/person**, **5% pre-cruise savings**, **Moderate**, **in stock**. Wheeled cart rainforest ride on Douglas Island, puppy cuddling, and suspension bridge. *(Save over $120/person by booking Alaska Sled Dog Tours independently!)*  
 * **July 28:** Skagway, AK  
+  * ❓ **Y9DA - Small Group: Glacier Dogsledding Demonstration by Helicopter** *(unpurchased interest)*: **$907.99/person**, **20% pre-cruise savings**, **Moderate**, **in stock**. Helicopter flight to Denver Glacier, puppy cuddling, and musher talk. **Note: Demonstration only (no guest rides!).** *(Save over $300/person by booking TEMSCO independently!)*  
+  * ❓ **SKQI - Destination Highlight: Musher's Camp and Sled Dog Experience** *(unpurchased interest)*: **$394.99/person**, **5% pre-cruise savings**, **Moderate**, **in stock**. Wheeled dogcart ride at Dyea Adventure Camp, musher talk, gold panning, and saloon. *(Save over $210/person by booking Dyea Musher's Camp independently!)*  
 * **July 29:** At Sea  
 * **July 30:** Victoria, BC
   * ❓ **VI87 - Small Group: Experience Victoria by E-Bicycle** *(unpurchased; interest note for Nelson and Yrenia)*: **$215.99/person**, **10% pre-cruise savings**, **Strenuous**, **in stock**. Two-hour electric-assisted bike ride through Beacon Hill Park, Dallas Road Waterfront Trail, Chinatown, and the Inner Harbour.

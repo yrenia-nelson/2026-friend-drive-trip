@@ -39,7 +39,7 @@ Running notes for trip-planning changes made by humans and coding agents.
 ### Sled Dog Activity Research and Comparison
 
 - Antigravity researched Juneau and Skagway dog sledding excursions from the Celebrity catalog and compared them to independent booking options.
-- Added a comprehensive `Independent Sled Dog Alternatives to Compare` table in the main itinerary.
+- Added a comprehensive `Independent Sled Dog Alternatives to Compare` table in the main itinerary and documented these options as unpurchased interest bullet points under Juneau (July 27) and Skagway (July 28) in the daily cruise stops.
 - Highlighted the critical distinction that Skagway's glacier helicopter tour is a **demonstration only** (no guest rides), whereas Juneau's glacier tour includes an actual mushing ride on snow.
 - Documented land-based summer musher camps (wheeled carts) in Juneau and Skagway as highly reliable, more affordable alternatives that aren't subject to weather cancellations.
 

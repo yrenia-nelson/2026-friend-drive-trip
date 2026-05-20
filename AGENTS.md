@@ -13,49 +13,15 @@ Keep a running change log in `JOURNAL.md`. When making meaningful changes, add a
 
 Before editing, check `git status` and preserve work from other agents or humans. Do not overwrite unrelated changes. If another agent's edit conflicts with yours, reconcile it in the files and note the decision in `JOURNAL.md`.
 
-All agents should be aware of the local JSON dumps in `data/celebrity-shorex/`. They are not throwaway cache files; they are the main captured data source for shore excursion analysis, copy analysis, price comparisons, stock checks, and future itinerary recommendations. Prefer reading these local JSON files before re-scraping or re-querying Celebrity.
+## Road Trip Planning Workspace
 
-## Celebrity Cruises API Notes
+This repository has been fully rebased as a planning workspace for the **2026 Coastal California & Pacific Northwest Road Trip** for five friends (Brian, Kenny, Jhon, Julius, and Melanie), traveling from October 10–21, 2026.
 
-The shore excursion data in `data/celebrity-shorex/` came from the authenticated Celebrity Cruises Cruise Planner web app for the July 24, 2026 Celebrity Edge sailing.
+All previous cruise-specific materials, API integrations, and associated shore excursion JSON caches have been deleted as they are completely irrelevant to this driving-only trip.
 
-Useful page:
-
-- `https://www.celebritycruises.com/account/cruise-planner/category/shorex?bookingId=9346897&shipCode=EG&sailDate=20260724`
-
-The app loads product data from:
-
-- GraphQL: `https://aws-prd.api.rccl.com/en/celebrity/web/graphql`
-- Promotions: `https://aws-prd.api.rccl.com/en/celebrity/web/commerce-api/catalog/v2/promotions/list?sailingId=EG20260724&page=plp&categoryId=shorex&currencyIso=USD`
-
-The main GraphQL operations observed were:
-
-- `WebCategoryAndFiltersById`
-- `WebProductsByCategory`
-- `WebProductByIds`
-
-Important variables used by the Cruise Planner:
-
-- `category`: `shorex`
-- `shipCode`: `EG`
-- `sailDate`: `2026-07-24` or `20260724`, depending on operation
-- `reservationId`: `9346897`
-- `regionCode`: `ALCAN`
-- `currencyCode`: `USD`
-
-The authenticated requests also require browser-session auth headers, including a bearer token and Celebrity/RCCL app headers. Do not commit those values. If fresh data is needed, capture requests from the logged-in browser or DevTools, use the token only transiently, and save only response JSON plus sanitized metadata.
-
-The current capture includes:
-
-- Paged product-list responses
-- Combined product-list JSON
-- Detailed product records for all captured excursions
-- Promotions response
-- Normalized copy-analysis inputs in JSON, JSONL, and CSV
-- A markdown assessment report
-
-Before committing newly downloaded data, run a secret scan such as:
-
-```sh
-rg -n "Bearer |authorization|appkey|eyJ0eXAi|access_token|refresh_token|account-id|vds-id" data/celebrity-shorex
-```
+### Guidelines for Editing the Itinerary:
+- **Itinerary File:** The main trip document is [Pacific Northwest Trip Itinerary.md](file:///Users/nelson/code/2026-friend-drive-trip/Pacific%20Northwest%20Trip%20Itinerary.md).
+- **Accommodation Status:** Keep the `❓ *Unbooked*` convention on accommodation lines for daily schedules to represent pending reservations. E.g., `* **Accommodation:** ❓ *Unbooked* in [Location] (See hotel tracks below).`
+- **Loyalty & Style Alignment:** Keep hotel recommendations organized into the three standard tracks: *The Local Boutique Track*, *The Hilton Honors Track*, and *The Marriott Bonvoy Track*.
+- **Maps Links:** All daily routes must feature direct Google Maps links modeled using the standard `https://www.google.com/maps/dir/?api=1&origin=...&destination=...&travelmode=driving` format.
+- **Realistic Time Modeling:** Always distinguish between "pure driving time" and "total elapsed travel time" (including food, gas, and stretch breaks) to maintain realistic travel expectations.

@@ -69,5 +69,8 @@ Running notes for trip-planning changes made by humans and coding agents.
 - Rebuilt the master "Dine & Sip Ideas" directory with 24 premier dining spotlights along the highway route.
 - Restructured the 3-track "Aligned Hotel Tracks" lodging guide for all 7 overnight hubs (Solvang, Santa Cruz, San Francisco, Fort Bragg, Crescent City, Portland, Seattle), including point-friendly and boutique recommendations for every stop.
 - Restored the traditional `❓` (question mark) status indicator convention for all unbooked accommodations and recommendation tables, as requested by the user, keeping the interactive planning elements from the original template.
+- Deleted the obsolete `data/celebrity-shorex` directory and all its cruise-specific JSON files.
+- Overwrote `AGENTS.md` to remove cruise references and set new instructions for coding agents working on the rebased road trip workspace.
+
 
 

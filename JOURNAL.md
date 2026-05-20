@@ -92,5 +92,10 @@ Running notes for trip-planning changes made by humans and coding agents.
 - Researched hotel costs across boutique, Hilton/points-friendly, and Marriott tracks using subagents and Chrome-backed rate checks where applicable. Updated the lodging section with 3-room minimum and 4-room comfort estimates that assume Mel has her own room and Kenny likely has his own room.
 - Corrected the Crescent City points-friendly recommendation to Best Western Plus Northwoods Inn and noted that all hotel numbers are planning estimates requiring checkout verification.
 
+### Overnight Hub Corrections
+
+- Codex updated the itinerary after user clarification that **Solvang is only a lunch stop** and **Fort Bragg is only a visit stop**, not overnight hubs.
+- Moved the first overnight into Santa Cruz for October 10-12 and moved the former Fort Bragg overnight into Crescent City for October 13-16.
+- Updated the daily route timing, warning notes, winery/fishing guidance, and hotel track cost tables to reflect the revised overnight hubs.
 
 

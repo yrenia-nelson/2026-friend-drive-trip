@@ -72,5 +72,17 @@ Running notes for trip-planning changes made by humans and coding agents.
 - Deleted the obsolete `data/celebrity-shorex` directory and all its cruise-specific JSON files.
 - Overwrote `AGENTS.md` to remove cruise references and set new instructions for coding agents working on the rebased road trip workspace.
 
+### Vancouver Trip Extension & Remote Repository Disconnection
+
+- Antigravity integrated a two-day Vancouver, BC extension into the 12-day road trip schedule (October 19-20, 2026), followed by returning to Seattle for a departure flight back to Southern California on October 21.
+- Updated all itinerary components with customized Vancouver details:
+  - Added Day 9 (Seattle to Vancouver, BC) and Day 10 (Vancouver to Seattle) daily schedule blocks, complete with passport/Peace Arch warnings, e-bike and suspension bridge activities, public market food spotlights, and custom Google Maps route links with realistic border crossing buffer times.
+  - Expanded the "Outstanding Scenic Adventures & Local Rentals" table with Stanley Park Seawall cycling options in Vancouver.
+  - Expanded the "Master Dine & Sip Ideas" directory with Miku Vancouver and The Acorn.
+  - Added premier Vancouver hotels and customized multi-night Seattle/Vancouver lodging schedules to the Boutique, Hilton Honors, and Marriott Bonvoy lodging tracks.
+- Disconnected the legacy `cruise-origin` remote pointing to `yrenia-nelson/2026-cruise-drive-trip` to eliminate any risk of accidentally overwriting or clobbering the parallel cruise repository.
+- Rebased `README.md` to cleanly align with the driving-only, 12-day friends' road trip workspace.
+
+
 
 

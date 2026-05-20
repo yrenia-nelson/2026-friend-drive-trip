@@ -117,38 +117,45 @@
 
 ---
 
-### **October 18 (Sunday): Portland to Seattle (Heading to the Sound)**
+### **October 18 (Sunday): Portland to Seattle (Puget Sound Afternoon)**
 
-*   **10:00 AM:** Depart Portland for Seattle, driving north along Interstate 5.
-*   **Duration:** ~3 hours (175 miles) pure driving time (approx. 4 hours total elapsed travel time including a sit-down harbor lunch).
+*   **9:30 AM:** Depart Portland for Seattle, driving north along Interstate 5.
+*   **Duration:** ~3 hours (175 miles) pure driving time (approx. 4 hours total elapsed travel time including a harbor lunch along the way).
     *   [🗺️ View Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Portland,+OR&destination=Seattle,+WA&travelmode=driving)
-*   **2:00 PM:** Arrive in **Seattle, WA**. Check into your hotel and enjoy having the Space Needle or the Puget Sound right in your backyard.
+*   **1:30 PM:** Arrive in **Seattle, WA**. Check into your hotel, then spend a glorious afternoon exploring Pike Place Market (sampling local piroshkies or watching fishmongers throw giant salmon) and strolling the Seattle Waterfront.
 *   **🍴 Food Spotlight:**
-    *   *Lunch on the Road:* Stop in **Olympia, WA** (~2 hours from Portland). Enjoy a fresh seafood lunch at **Chelsea Farms Oyster Bar**—a chic, beautifully designed modern oyster bar in downtown Olympia serving fresh Puget Sound oysters, steamed clams, and fish tacos.
-    *   *Dinner:* Head to **Taylor Shellfish Oyster Bar** (Queen Anne location right next to the Space Needle) for the ultimate "tide-to-table" Seattle experience, offering fresh shucked-to-order oysters, steamed mussels, clams, and fresh whole Dungeness crab in a lively, modern space.
+    *   *Lunch on the Road:* Stop in **Olympia, WA** (~2 hours from Portland). Enjoy a fresh seafood lunch at **Chelsea Farms Oyster Bar**—a chic, beautifully designed modern oyster bar in downtown Olympia serving fresh local oysters, steamed clams, and fish tacos.
+    *   *Dinner:* Celebrate your evening in Seattle at **Taylor Shellfish Oyster Bar** (Queen Anne location right next to the Space Needle) for the ultimate "tide-to-table" experience, offering fresh shucked-to-order oysters, steamed mussels, clams, and fresh whole Dungeness crab in a lively, modern space.
 *   **Accommodation:** ❓ *Unbooked* in Seattle, WA (See hotel tracks below).
 
 ---
 
-### **October 19 (Monday): Seattle Waterfront & Pike Place Market**
+### **October 19 (Monday): Seattle to Vancouver, BC (Cross the International Border!)**
 
-*   **10:00 AM:** Walk to the world-famous **Pike Place Market**. Watch the fishmongers throw giant salmon, explore the flower and artisan stalls, and sample local street food.
-*   **1:00 PM:** Stroll down to the waterfront piers, take a ferry ride to Bainbridge Island for a scenic panoramic view of the Seattle skyline, or visit the breathtaking **Chihuly Garden and Glass** museum.
+> [!IMPORTANT]
+> **International Travel Requirement:** All travelers (Brian, Kenny, Jhon, Julius, and Melanie) **must have valid passports** ready for the Peace Arch border crossing into Canada. Be sure to check wait times online before arriving at the border!
+
+*   **9:00 AM:** Depart Seattle, driving north on Interstate 5 toward the US-Canada border.
+*   **Duration:** ~2.5 to 3 hours (140 miles) pure driving time (approx. 4 hours total elapsed travel time including the border crossing queue and stretch stops).
+    *   [🗺️ View Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Seattle,+WA&destination=Vancouver,+BC,+Canada&travelmode=driving)
+*   **1:00 PM:** Arrive in beautiful **Vancouver, BC, Canada**. Head to historic **Gastown** to see the famous steam clock, then explore the gorgeous, tree-lined streets of the downtown peninsula.
 *   **🍴 Food Spotlight:**
-    *   *Lunch:* Grab a table on the second floor of the market at **Matt's in the Market** for top-tier seasonal PNW seafood overlooking the famous market clock. Alternatively, grab casual cups of award-winning clam chowder at **Pike Place Chowder** or fresh-baked salmon pastries at **Piroshky Piroshky**.
-    *   *Dinner:* Dine at **Toulouse Petit** in Lower Queen Anne. This beautifully tiled, high-energy Creole-French candlelit bistro is famous for its outstanding shrimp and grits, Dungeness crab beignets, fresh oysters, and local seafood stews.
-*   **Accommodation:** ❓ *Unbooked* in Seattle, WA (See hotel tracks below).
+    *   *Lunch:* Stop at **Granville Island Public Market** (just inside Vancouver) to graze on fresh local cheese, artisan snacks, or famous gourmet pot pies from **A la Mode**.
+    *   *Dinner:* Treat yourselves to **Miku Vancouver** (Coal Harbour), an iconic waterfront destination famous for introducing aburi (flame-seared) sushi to Canada, offering spectacular, panoramic mountain and ocean views. Alternatively, visit **The Acorn** (Main St) for a Michelin-recommended, exceptionally creative fine-dining vegetarian menu.
+*   **Accommodation:** ❓ *Unbooked* in Vancouver, BC (See hotel tracks below).
 
 ---
 
-### **October 20 (Tuesday): Seattle Excursion Day (Cascades & Wood-Fired Pizza)**
+### **October 20 (Tuesday): Vancouver Exploration & Scenic Drive to Seattle**
 
-*   **Activity:** Take a scenic day excursion!
-    *   *Option A (Scenic Waterfall):* Take a short, beautiful 35-minute drive east to the majestic **Snoqualmie Falls**, a powerful 268-foot waterfall surrounded by lush forests (made famous by the TV show *Twin Peaks*).
-    *   *Option B (Bellevue & Redmond Stroll):* Head across the evergreen bridge to explore Bellevue's parks, then head north to Redmond for a relaxed afternoon with local friends.
+*   **9:30 AM – 1:30 PM: 🌲 Giant Forest Bridges & Public Markets**
+    *   Explore Vancouver's finest: walk the jaw-dropping **Capilano Suspension Bridge** (hanging 230 feet above the Capilano River canyon surrounded by ancient coastal Douglas firs), or rent e-bikes to cruise the famous 5.5-mile **Stanley Park Seawall loop** overlooking the Pacific.
+*   **2:00 PM:** Depart Vancouver, driving south on Highway 99, crossing the border back into Washington, and joining I-5 S to Seattle.
+*   **Duration:** ~2.5 to 3 hours (140 miles) pure driving time (approx. 4 hours total elapsed travel time including the border queue).
+    *   [🗺️ View Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Vancouver,+BC,+Canada&destination=Seattle,+WA&travelmode=driving)
+*   **6:00 PM:** Arrive in the Seattle / Redmond area.
 *   **🍴 Food Spotlight:**
-    *   *Lunch:* Stop in Redmond at **Woodblock**—a stylish, cozy neighborhood favorite serving elevated seasonal American cuisine, fantastic seafood (seared salmon, fresh cod), and artisan cocktails.
-    *   *Dinner:* Have a celebratory final dinner at **Spark Pizza** in Redmond. It features a fantastic, heated covered patio and serves outstanding, award-winning wood-fired Neapolitan-style custom pizzas, artisanal salads, and a rotating draft list of fresh local Pacific Northwest craft beers.
+    *   *Dinner (Celebratory Final Dinner):* Have a fantastic, high-energy final road trip dinner at **Spark Pizza** in Redmond. Enjoy their heated patio, world-class wood-fired Neapolitan-style custom pizzas, fresh seasonal salads, and top-tier local Pacific Northwest craft beers on draft. Or enjoy elevated seasonal bistro dining at **Woodblock** in Redmond.
 *   **Accommodation:** ❓ *Unbooked* in Seattle, WA (See hotel tracks below).
 
 ---
@@ -175,6 +182,7 @@ This active adventure guide outlines premier local outdoor activities and rental
 | **Crescent City** | Jedediah Smith Redwoods Hike | Self-Guided / Redwood Parks Info | Walk the cathedral-like Boy Scout Tree Trail (5.3 miles) and Stout Grove (0.6 miles). Drive unpaved Howland Hill Road. Free entry! |
 | **Portland** | Willamette River Waterfront Loop | [**Kerr Bikes**](https://www.kerrbikes.org/) (Waterfront Park) | Rent cruisers or e-bikes right next to the river and ride the scenic 3-mile paved loop across Portland's famous bridges. |
 | **Seattle** | Lake Union Kayak & Paddleboarding | [**Agua Verde Paddle Club**](https://aguaverdepaddleclub.com/) | Rent single/double sea kayaks or stand-up paddleboards to explore Lake Union, watch seaplanes land, and grab fresh fish tacos after. |
+| **Vancouver** | Stanley Park Seawall Cycling | [**Yes Cycle Bike Rentals**](https://yescycle.com/) | Rent e-bikes or cruisers right next to Stanley Park and ride the spectacular 5.5-mile paved Seawall loop along the Pacific Ocean. |
 
 ---
 
@@ -205,6 +213,8 @@ These are highly curated local restaurant recommendations, perfect for foodies w
 | | [**Toulouse Petit**](https://www.toulousepetit.com/) | Creole-French Bistro | Breathtaking candlelit tiled interior; shrimp and grits, crab beignets, and gumbo. |
 | **Redmond / Road** | [**Woodblock**](https://www.woodblockredmond.com/) | Cozy Neighborhood Bistro | Seared local salmon, fresh cod, seasonal grain bowls, and top-tier craft cocktails. |
 | | [**Spark Pizza**](https://www.sparkpizzaredmond.com/) | Wood-Fired Pizza Patio | Award-winning Neapolitan wood-fired custom pizzas, craft beers, and heated patio. |
+| **Vancouver, BC** | [**Miku Vancouver**](https://mikurestaurant.com/) | Waterfront Aburi Sushi | Flame-seared aburi sushi and exquisite sashimi overlooking Coal Harbour and mountains. |
+| | [**The Acorn**](https://www.theacornrestaurant.ca/) | Michelin-Starred Vegetarian | Breathtaking, award-winning upscale vegetable-forward dishes and cocktails. |
 
 ---
 
@@ -221,7 +231,8 @@ Select one cohesive track below to simplify booking, keep travel styles consiste
 *   **Fort Bragg (Oct 13-14):** [**Noyo Harbor Inn**](https://www.noyoharborinn.com/) — Richly detailed historic inn nestled in the trees above the active fishing harbor. Offers cozy fireplaces and elegant wood accents.
 *   **Crescent City (Oct 14-16):** [**Curly Redwood Lodge**](https://www.curlyredwoodlodge.com/) — Famous historic motel built entirely from a single giant curly redwood tree! Breathtaking retro-rustic wood detailing and immense local character.
 *   **Portland (Oct 16-18):** [**Inn at Northrup Station**](https://www.northrupstation.com/) — Funky, bright, mid-century retro suites in the highly walkable Alphabet District. Includes free streetcar tickets.
-*   **Seattle (Oct 18-21):** [**Mediterranean Inn**](https://www.mediterraneaninn.com/) — Highly popular stay in Queen Anne featuring a spectacular rooftop terrace looking directly at the Space Needle and Puget Sound.
+*   **Vancouver (Oct 19-20):** [**The Burrard**](https://theburrard.com/) — Hip, retro-modern boutique motel conversion in downtown Vancouver. Colorful, fun courtyard, and free cruiser bike rentals.
+*   **Seattle (Oct 18-19 & 20-21):** [**Mediterranean Inn**](https://www.mediterraneaninn.com/) — Highly popular stay in Queen Anne featuring a spectacular rooftop terrace looking directly at the Space Needle and Puget Sound.
 
 ---
 
@@ -234,7 +245,8 @@ Select one cohesive track below to simplify booking, keep travel styles consiste
 *   **Fort Bragg (Oct 13-14):** *Points Track Alternative:* [**Holiday Inn Express Fort Bragg**](https://www.ihg.com/holidayinnexpress/hotels/us/en/fort-bragg/fbgca/hoteldetail) — No Hilton properties exist in Fort Bragg; this newly renovated IHG property is the premier points-friendly equivalent in town (with indoor pool & free breakfast). *Alternatively, stop 1 hour early in Ukiah at the Hampton Inn Ukiah.*
 *   **Crescent City (Oct 14-16):** *Points Track Alternative:* [**Best Western Plus Crescent City Inn**](https://www.bestwestern.com/) — No Hilton properties in Crescent City; this highly rated property offers a reliable, points-friendly stop with free hot breakfast. *Alternatively, stop 1 hour early in Arcata/Eureka at the Hampton Inn Arcata.*
 *   **Portland (Oct 16-18):** [**Hampton Inn & Suites Portland-Pearl District**](https://www.hilton.com/en/hotels/pdxpdhx-hampton-suites-portland-pearl-district/) — Premier Pearl District location. Features a stunning indoor pool, a beautiful rooftop patio, and free hot breakfast.
-*   **Seattle (Oct 18-21):** [**Hampton Inn & Suites Seattle-Downtown**](https://www.hilton.com/en/hotels/seadnhx-hampton-suites-seattle-downtown/) — Set right at the foot of the Space Needle. Massive, comfortable suites with free hot breakfast and secure covered parking.
+*   **Vancouver (Oct 19-20):** [**Hilton Vancouver Downtown**](https://www.hilton.com/en/hotels/yvvrhhz-hilton-vancouver-downtown/) — Modern high-rise hotel in a premier central shopping district with a heated outdoor pool.
+*   **Seattle (Oct 18-19 & 20-21):** [**Hampton Inn & Suites Seattle-Downtown**](https://www.hilton.com/en/hotels/seadnhx-hampton-suites-seattle-downtown/) — Set right at the foot of the Space Needle. Massive, comfortable suites with free hot breakfast and secure covered parking.
 
 ---
 
@@ -247,4 +259,5 @@ Select one cohesive track below to simplify booking, keep travel styles consiste
 *   **Fort Bragg (Oct 13-14):** *Marriott Track Alternative:* [**Harbor Lite Lodge**](https://www.harborlitelodge.com/) — No Marriott properties in Fort Bragg; this highly-rated local harbor partner is the perfect premium alternative, offering private balconies looking directly out over Noyo Harbor.
 *   **Crescent City (Oct 14-16):** *Marriott Track Alternative:* [**Oceanfront Lodge**](https://www.oceanfrontlodge.com/) — No Marriott properties in Crescent City; this local partner is the premier waterfront option in town, offering spacious ocean-view suites and an indoor heated pool.
 *   **Portland (Oct 16-18):** [**Residence Inn Portland Pearl District**](https://www.marriott.com/en-us/hotels/pdxri-residence-inn-portland-downtown-pearl-district/) — Beautifully situated in the highly walkable Pearl District. Massive apartment-style suites with full kitchens, central courtyard fire pits, and a free hot breakfast buffet.
-*   **Seattle (Oct 18-21):** [**Residence Inn Seattle Downtown/Lake Union**](https://www.marriott.com/en-us/hotels/sealu-residence-inn-seattle-downtown-lake-union/) — Right on the Lake Union waterfront, close to Queen Anne. Features massive multi-room suites with full kitchens, hot breakfasts, and immediate access to the waterfront streetcar.
+*   **Vancouver (Oct 19-20):** [**Delta Hotels Vancouver Downtown Suites**](https://www.marriott.com/en-us/hotels/yvrdv-delta-hotels-vancouver-downtown-suites/) — A highly rated, all-suite hotel featuring separate living areas and full kitchens, perfect for groups.
+*   **Seattle (Oct 18-19 & 20-21):** [**Residence Inn Seattle Downtown/Lake Union**](https://www.marriott.com/en-us/hotels/sealu-residence-inn-seattle-downtown-lake-union/) — Right on the Lake Union waterfront, close to Queen Anne. Features massive multi-room suites with full kitchens, hot breakfasts, and immediate access to the waterfront streetcar.

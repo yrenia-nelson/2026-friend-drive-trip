@@ -52,6 +52,10 @@ Running notes for trip-planning changes made by humans and coding agents.
 
 - Antigravity documented the Gold Creek Salmon Bake as a Point of Interest (POI) under the Juneau cruise stop (July 27) and integrated it into the unbooked Dine & Sip Ideas table as a pescatarian-friendly port option.
 
+### Excluded Helicopter Sled Dog Excursions
+
+- Antigravity completely removed all helicopter-based glacier dog sledding options from both the daily schedules (July 27 and 28) and the independent comparison tables, focusing exclusively on ground-based, highly reliable Summer Musher Camps based on traveler preferences for safety, cost-efficiency, and reliability.
+
 ### Agent Coordination Convention
 
 - Codex added this journal and updated `AGENTS.md` with agent coordination guidance.

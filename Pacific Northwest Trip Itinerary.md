@@ -2,7 +2,7 @@
 
 **Travelers:** Brian, Kenny, Jhon, Julius, and Melanie.
 
-**Verified by Google Antigravity:** We have checked and verified all food spots, wineries, and hotel tracks. Every single listed option is confirmed active, open, highly reviewed as of May 2026, and aligned with Melanie's pescatarian needs and the group's budget. Detailed cost comparison and VRBO alternatives are now integrated in the lodging section below.
+**Verified by Google Antigravity:** We have checked and verified all food spots, wineries, and hotel tracks. Every single listed option is confirmed active, open, highly reviewed as of May 2026, and aligned with Melanie's pescatarian needs and the group's budget. Detailed cost comparison, VRBO alternatives, and curated price ranges for all dining options are now fully integrated.
 
 **Dietary Restrictions:** Melanie is pescatarian. Keep seafood and vegetarian/pescatarian-friendly meals available throughout the route, and avoid assuming meat-heavy restaurants work unless there are strong non-meat options.
 
@@ -198,31 +198,31 @@ This guide keeps the trip focused on what the group actually cares about: wine-c
 
 These are highly curated local restaurant recommendations, perfect for foodies who love fresh coastal seafood, farm-to-table ingredients, and vibrant vegetarian options.
 
-| Stop & Location | Restaurant & Website | Style / Vibe | Culinary Highlights & Tips |
-| :--- | :--- | :--- | :--- |
-| **Solvang, CA** | [**Paula's Pancake House**](https://www.paulaspancakehouse.com/) | Classic Danish Diner | Paper-thin Danish pancakes with warm berries, Danish sausage, and scrambles. |
-| | [**Mad & Vin at The Landsby**](https://www.thelandsby.com/dining.html) | Chic Scandinavian-California | Fresh local fish, duck breast, gourmet burgers, and Santa Ynez valley wines. |
-| **SLO / Road** | [**Firestone Grill**](https://www.firestonegrill.com/) | High-Energy Sports Grill | Legendary tri-tip steak sandwiches, seasoned fries, and giant salads. |
-| **Santa Cruz, CA** | [**Shadowbrook Restaurant**](https://www.shadowbrook-capitola.com/) | Historic Forest Riverside | Ride a red cable car funicular down a forest hill; spectacular wild salmon and prime rib. |
-| **Half Moon Bay** | [**Sam's Chowder House**](https://www.samschowderhouse.com/) | Cliffside Ocean-View Seafood | Award-winning warm buttered lobster rolls, clam chowder, and oysters. |
-| **San Francisco** | [**Greens Restaurant**](https://www.greensrestaurant.com/) | Fine-Dining Vegetarian | Creative, upscale vegetarian overlooking the Golden Gate Bridge through glass walls. |
-| | [**Hog Island Oyster Co.**](https://www.hogislandoysters.com/) | Waterfront Oyster Bar | Incredibly fresh local oysters, clam chowder, and a famous gourmet grilled cheese. |
-| **Boonville / Road** | [**Boonville General Store**](https://www.boonvillegeneralstore.com/) | Organic Valley Bakery | Local goat cheese paninis, hot soups, and fresh organic pastries in the redwoods. |
-| **Fort Bragg, CA** | [**Princess Seafood Restaurant**](https://www.princessseafoodmarket.com/) | Casual Harbor Seafood | Female-owned; fresh dungeness crab rolls, grilled rockfish, and wild salmon on the docks. |
-| **Eureka / Road** | [**Cafe Marina**](https://www.cafemarina.net/) | Waterfront Marina Diner | Local seafood chowder, fish tacos, and crab cakes overlooking Humboldt Bay. |
-| **Crescent City** | [**Chart Room Restaurant**](https://www.chartroomcrescentcity.com/) | Harbor Dockside Seafood | Local halibut and chips, clam chowder, while watching sea lions bark outside. |
-| | [**Fisherman's Restaurant**](https://www.fishermansrestaurant.info/) | Nautical Local Diner | Legendary beer-battered ling cod fish and chips, clam chowder, and shrimp bowls. |
-| **Eugene / Road** | [**Cafe Yumm!**](https://www.cafeyumm.com/) | Casual Oregon Bowls | Famous customizable warm grain and rice bowls with signature creamy Yumm! Sauce. |
-| **Portland, OR** | [**Jacqueline**](https://www.jacquelinepdx.com/) | Cozy Retro PNW Seafood | Shucked-to-order PNW oysters, Dungeness crab, and seasonal fish. Cozy neighborhood vibe. |
-| | [**Shalom Y'all**](https://www.shalomyallpdx.com/) | Vibrant Mediterranean | Fresh warm pita, wood-fired hummus, falafel, shakshuka, and grilled halloumi cheese. |
-| | [**Departure Restaurant**](https://www.departureportland.com/) | Rooftop Skyline Asian | Futuristic rooftop setting; premium sushi, sashimi, and wok-fired crab. |
-| **Olympia / Road** | [**Chelsea Farms Oyster Bar**](https://www.chelseafarms.com/) | Modern Shellfish Bar | Fresh local oysters, geoduck sashimi, clam chowder, and fish tacos in a market hall. |
-| **Seattle, WA** | [**Taylor Shellfish Oyster Bar**](https://www.taylorshellfishfarms.com/) | Tide-to-table Shellfish Bar | Local Queen Anne oyster bar next to Space Needle; fresh oysters, geoduck, and Dungeness crab. |
-| | [**Toulouse Petit**](https://www.toulousepetit.com/) | Creole-French Bistro | Breathtaking candlelit tiled interior; shrimp and grits, crab beignets, and gumbo. |
-| **Redmond / Road** | [**Woodblock**](https://www.woodblockredmond.com/) | Cozy Neighborhood Bistro | Seared local salmon, fresh cod, seasonal grain bowls, and top-tier craft cocktails. |
-| | [**Spark Pizza**](https://www.sparkpizzaredmond.com/) | Wood-Fired Pizza Patio | Award-winning Neapolitan wood-fired custom pizzas, craft beers, and heated patio. |
-| **Vancouver, BC** | [**Miku Vancouver**](https://mikurestaurant.com/) | Waterfront Aburi Sushi | Flame-seared aburi sushi and exquisite sashimi overlooking Coal Harbour and mountains. |
-| | [**The Acorn**](https://www.theacornrestaurant.ca/) | Michelin-Starred Vegetarian | Breathtaking, award-winning upscale vegetable-forward dishes and cocktails. |
+| Stop & Location | Restaurant & Website | Style / Vibe | Price Range | Culinary Highlights & Tips |
+| :--- | :--- | :--- | :---: | :--- |
+| **Solvang, CA** | [**Paula's Pancake House**](https://www.paulaspancakehouse.com/) | Classic Danish Diner | **$** (Casual / $10–$25) | Paper-thin Danish pancakes with warm berries, Danish sausage, and scrambles. |
+| | [**Mad & Vin at The Landsby**](https://www.thelandsby.com/dining.html) | Chic Scandinavian-California | **$$$** (Upscale / $40–$75) | Fresh local fish, duck breast, gourmet burgers, and Santa Ynez valley wines. |
+| **SLO / Road** | [**Firestone Grill**](https://www.firestonegrill.com/) | High-Energy Sports Grill | **$** (Casual / $15–$25) | Legendary tri-tip steak sandwiches, seasoned fries, and giant salads. |
+| **Santa Cruz, CA** | [**Shadowbrook Restaurant**](https://www.shadowbrook-capitola.com/) | Historic Forest Riverside | **$$$$** (Luxury / $75–$120+) | Ride a red cable car funicular down a forest hill; spectacular wild salmon and prime rib. |
+| **Half Moon Bay** | [**Sam's Chowder House**](https://www.samschowderhouse.com/) | Cliffside Ocean-View Seafood | **$$$** (Upscale / $35–$65) | Award-winning warm buttered lobster rolls, clam chowder, and oysters. |
+| **San Francisco** | [**Greens Restaurant**](https://www.greensrestaurant.com/) | Fine-Dining Vegetarian | **$$$** (Upscale / $45–$75) | Creative, upscale vegetarian overlooking the Golden Gate Bridge through glass walls. |
+| | [**Hog Island Oyster Co.**](https://www.hogislandoysters.com/) | Waterfront Oyster Bar | **$$$** (Upscale / $35–$65) | Incredibly fresh local oysters, clam chowder, and a famous gourmet grilled cheese. |
+| **Boonville / Road** | [**Boonville General Store**](https://www.boonvillegeneralstore.com/) | Organic Valley Bakery | **$** (Casual / $10–$25) | Local goat cheese paninis, hot soups, and fresh organic pastries in the redwoods. |
+| **Fort Bragg, CA** | [**Princess Seafood Restaurant**](https://www.princessseafoodmarket.com/) | Casual Harbor Seafood | **$$** (Moderate / $20–$40) | Female-owned; fresh dungeness crab rolls, grilled rockfish, and wild salmon on the docks. |
+| **Eureka / Road** | [**Cafe Marina**](https://www.cafemarina.net/) | Waterfront Marina Diner | **$$** (Moderate / $20–$35) | Local seafood chowder, fish tacos, and crab cakes overlooking Humboldt Bay. |
+| **Crescent City** | [**Chart Room Restaurant**](https://www.chartroomcrescentcity.com/) | Harbor Dockside Seafood | **$$** (Moderate / $20–$40) | Local halibut and chips, clam chowder, while watching sea lions bark outside. |
+| | [**Fisherman's Restaurant**](https://www.fishermansrestaurant.info/) | Nautical Local Diner | **$** (Casual / $15–$30) | Legendary beer-battered ling cod fish and chips, clam chowder, and shrimp bowls. |
+| **Eugene / Road** | [**Cafe Yumm!**](https://www.cafeyumm.com/) | Casual Oregon Bowls | **$** (Casual / $10–$20) | Famous customizable warm grain and rice bowls with signature creamy Yumm! Sauce. |
+| **Portland, OR** | [**Jacqueline**](https://www.jacquelinepdx.com/) | Cozy Retro PNW Seafood | **$$$** (Upscale / $45–$75) | Shucked-to-order PNW oysters, Dungeness crab, and seasonal fish. Cozy neighborhood vibe. |
+| | [**Shalom Y'all**](https://www.shalomyallpdx.com/) | Vibrant Mediterranean | **$$** (Moderate / $25–$45) | Fresh warm pita, wood-fired hummus, falafel, shakshuka, and grilled halloumi cheese. |
+| | [**Departure Restaurant**](https://www.departureportland.com/) | Rooftop Skyline Asian | **$$$$** (Luxury / $75–$120) | Futuristic rooftop setting; premium sushi, sashimi, and wok-fired crab. |
+| **Olympia / Road** | [**Chelsea Farms Oyster Bar**](https://www.chelseafarms.com/) | Modern Shellfish Bar | **$$$** (Upscale / $30–$60) | Fresh local oysters, geoduck sashimi, clam chowder, and fish tacos in a market hall. |
+| **Seattle, WA** | [**Taylor Shellfish Oyster Bar**](https://www.taylorshellfishfarms.com/) | Tide-to-table Shellfish Bar | **$$$** (Upscale / $35–$65) | Local Queen Anne oyster bar next to Space Needle; fresh oysters, geoduck, and Dungeness crab. |
+| | [**Toulouse Petit**](https://www.toulousepetit.com/) | Creole-French Bistro | **$$$** (Upscale / $35–$65) | Breathtaking candlelit tiled interior; shrimp and grits, crab beignets, and gumbo. |
+| **Redmond / Road** | [**Woodblock**](https://www.woodblockredmond.com/) | Cozy Neighborhood Bistro | **$$$** (Upscale / $30–$60) | Seared local salmon, fresh cod, seasonal grain bowls, and top-tier craft cocktails. |
+| | [**Spark Pizza**](https://www.sparkpizzaredmond.com/) | Wood-Fired Pizza Patio | **$$** (Moderate / $20–$35) | Award-winning Neapolitan wood-fired custom pizzas, craft beers, and heated patio. |
+| **Vancouver, BC** | [**Miku Vancouver**](https://mikurestaurant.com/) | Waterfront Aburi Sushi | **$$$$** (Luxury / $60–$110 USD / $80–$150+ CAD) | Flame-seared aburi sushi and exquisite sashimi overlooking Coal Harbour and mountains. |
+| | [**The Acorn**](https://www.theacornrestaurant.ca/) | Michelin-Starred Vegetarian | **$$$** (Upscale / $35–$65 USD / $50–$90 CAD) | Breathtaking, award-winning upscale vegetable-forward dishes and cocktails. |
 
 ---
 

@@ -47,3 +47,9 @@ Running notes for trip-planning changes made by humans and coding agents.
 - Antigravity completed the "TODO for Google Antigravity" at the top of the itinerary, thoroughly verifying all 23 listed restaurant/food spots and all 15 hotels. Confirmed they are active, highly rated, open, and aligned with Melanie's pescatarian needs and the group's budget.
 - Added a side-by-side **💰 Quick Lodging Track Cost Comparison** table under the lodging header, giving the group a high-level summary of Boutique, Hilton, Marriott, and VRBO costs and trade-offs.
 - Integrated a highly detailed **🏠 Track 4: The Shared Vacation Rental Track (VRBO & Group Homes)** outlining 4-5 bedroom home rental costs, neighborhood recommendations, cleaning fees, and watch-outs for Santa Cruz, Crescent City, Portland, Seattle, and Vancouver.
+
+### Curated Dining Price Ranges & Cost Tiers
+
+- Antigravity added accurate cost tiers and per-person price ranges to all 23 restaurant recommendations in the Master Dine & Sip Ideas Directory.
+- Verified that all recommendations remain pescatarian-friendly (great seafood/vegetarian options) for Melanie.
+- Categories include: Casual ($ / under $25), Moderate ($$ / $20-$45), Upscale ($$$ / $30-$75), and Luxury Splurge ($$$$ / $75-$120+), with explicit local currency ranges where appropriate (USD vs. CAD).

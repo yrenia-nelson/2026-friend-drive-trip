@@ -48,6 +48,10 @@ Running notes for trip-planning changes made by humans and coding agents.
 - Antigravity updated the driving legs throughout the itinerary to explicitly distinguish between "pure driving time" and "total elapsed travel time" (including realistic buffers for lunch, dinners, stretch breaks, and fuel stops).
 - Adjusted arrival times to match the realistic modeling, ensuring the travelers have accurate time expectations for their road segments.
 
+### Gold Creek Salmon Bake POI
+
+- Antigravity documented the Gold Creek Salmon Bake as a Point of Interest (POI) under the Juneau cruise stop (July 27) and integrated it into the unbooked Dine & Sip Ideas table as a pescatarian-friendly port option.
+
 ### Agent Coordination Convention
 
 - Codex added this journal and updated `AGENTS.md` with agent coordination guidance.

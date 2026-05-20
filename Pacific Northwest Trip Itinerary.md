@@ -200,29 +200,29 @@ These are highly curated local restaurant recommendations, perfect for foodies w
 
 | Stop & Location | Restaurant & Website | Style / Vibe | Price Range | Culinary Highlights & Tips |
 | :--- | :--- | :--- | :---: | :--- |
-| **Solvang, CA** | [**Paula's Pancake House**](https://www.paulaspancakehouse.com/) | Classic Danish Diner | **$** (Casual / $10–$25) | Paper-thin Danish pancakes with warm berries, Danish sausage, and scrambles. |
-| | [**Mad & Vin at The Landsby**](https://www.thelandsby.com/dining.html) | Chic Scandinavian-California | **$$$** (Upscale / $40–$75) | Fresh local fish, duck breast, gourmet burgers, and Santa Ynez valley wines. |
-| **SLO / Road** | [**Firestone Grill**](https://www.firestonegrill.com/) | High-Energy Sports Grill | **$** (Casual / $15–$25) | Legendary tri-tip steak sandwiches, seasoned fries, and giant salads. |
-| **Santa Cruz, CA** | [**Shadowbrook Restaurant**](https://www.shadowbrook-capitola.com/) | Historic Forest Riverside | **$$$$** (Luxury / $75–$120+) | Ride a red cable car funicular down a forest hill; spectacular wild salmon and prime rib. |
-| **Half Moon Bay** | [**Sam's Chowder House**](https://www.samschowderhouse.com/) | Cliffside Ocean-View Seafood | **$$$** (Upscale / $35–$65) | Award-winning warm buttered lobster rolls, clam chowder, and oysters. |
-| **San Francisco** | [**Greens Restaurant**](https://www.greensrestaurant.com/) | Fine-Dining Vegetarian | **$$$** (Upscale / $45–$75) | Creative, upscale vegetarian overlooking the Golden Gate Bridge through glass walls. |
-| | [**Hog Island Oyster Co.**](https://www.hogislandoysters.com/) | Waterfront Oyster Bar | **$$$** (Upscale / $35–$65) | Incredibly fresh local oysters, clam chowder, and a famous gourmet grilled cheese. |
-| **Boonville / Road** | [**Boonville General Store**](https://www.boonvillegeneralstore.com/) | Organic Valley Bakery | **$** (Casual / $10–$25) | Local goat cheese paninis, hot soups, and fresh organic pastries in the redwoods. |
-| **Fort Bragg, CA** | [**Princess Seafood Restaurant**](https://www.princessseafoodmarket.com/) | Casual Harbor Seafood | **$$** (Moderate / $20–$40) | Female-owned; fresh dungeness crab rolls, grilled rockfish, and wild salmon on the docks. |
-| **Eureka / Road** | [**Cafe Marina**](https://www.cafemarina.net/) | Waterfront Marina Diner | **$$** (Moderate / $20–$35) | Local seafood chowder, fish tacos, and crab cakes overlooking Humboldt Bay. |
-| **Crescent City** | [**Chart Room Restaurant**](https://www.chartroomcrescentcity.com/) | Harbor Dockside Seafood | **$$** (Moderate / $20–$40) | Local halibut and chips, clam chowder, while watching sea lions bark outside. |
-| | [**Fisherman's Restaurant**](https://www.fishermansrestaurant.info/) | Nautical Local Diner | **$** (Casual / $15–$30) | Legendary beer-battered ling cod fish and chips, clam chowder, and shrimp bowls. |
-| **Eugene / Road** | [**Cafe Yumm!**](https://www.cafeyumm.com/) | Casual Oregon Bowls | **$** (Casual / $10–$20) | Famous customizable warm grain and rice bowls with signature creamy Yumm! Sauce. |
-| **Portland, OR** | [**Jacqueline**](https://www.jacquelinepdx.com/) | Cozy Retro PNW Seafood | **$$$** (Upscale / $45–$75) | Shucked-to-order PNW oysters, Dungeness crab, and seasonal fish. Cozy neighborhood vibe. |
-| | [**Shalom Y'all**](https://www.shalomyallpdx.com/) | Vibrant Mediterranean | **$$** (Moderate / $25–$45) | Fresh warm pita, wood-fired hummus, falafel, shakshuka, and grilled halloumi cheese. |
-| | [**Departure Restaurant**](https://www.departureportland.com/) | Rooftop Skyline Asian | **$$$$** (Luxury / $75–$120) | Futuristic rooftop setting; premium sushi, sashimi, and wok-fired crab. |
-| **Olympia / Road** | [**Chelsea Farms Oyster Bar**](https://www.chelseafarms.com/) | Modern Shellfish Bar | **$$$** (Upscale / $30–$60) | Fresh local oysters, geoduck sashimi, clam chowder, and fish tacos in a market hall. |
-| **Seattle, WA** | [**Taylor Shellfish Oyster Bar**](https://www.taylorshellfishfarms.com/) | Tide-to-table Shellfish Bar | **$$$** (Upscale / $35–$65) | Local Queen Anne oyster bar next to Space Needle; fresh oysters, geoduck, and Dungeness crab. |
-| | [**Toulouse Petit**](https://www.toulousepetit.com/) | Creole-French Bistro | **$$$** (Upscale / $35–$65) | Breathtaking candlelit tiled interior; shrimp and grits, crab beignets, and gumbo. |
-| **Redmond / Road** | [**Woodblock**](https://www.woodblockredmond.com/) | Cozy Neighborhood Bistro | **$$$** (Upscale / $30–$60) | Seared local salmon, fresh cod, seasonal grain bowls, and top-tier craft cocktails. |
-| | [**Spark Pizza**](https://www.sparkpizzaredmond.com/) | Wood-Fired Pizza Patio | **$$** (Moderate / $20–$35) | Award-winning Neapolitan wood-fired custom pizzas, craft beers, and heated patio. |
-| **Vancouver, BC** | [**Miku Vancouver**](https://mikurestaurant.com/) | Waterfront Aburi Sushi | **$$$$** (Luxury / $60–$110 USD / $80–$150+ CAD) | Flame-seared aburi sushi and exquisite sashimi overlooking Coal Harbour and mountains. |
-| | [**The Acorn**](https://www.theacornrestaurant.ca/) | Michelin-Starred Vegetarian | **$$$** (Upscale / $35–$65 USD / $50–$90 CAD) | Breathtaking, award-winning upscale vegetable-forward dishes and cocktails. |
+| **Solvang, CA** | [**Paula's Pancake House**](https://www.paulaspancakehouse.com/) | Classic Danish Diner | **💲** (Casual / 10–25 USD) | Paper-thin Danish pancakes with warm berries, Danish sausage, and scrambles. |
+| | [**Mad & Vin at The Landsby**](https://www.thelandsby.com/dining.html) | Chic Scandinavian-California | **💲💲💲** (Upscale / 40–75 USD) | Fresh local fish, duck breast, gourmet burgers, and Santa Ynez valley wines. |
+| **SLO / Road** | [**Firestone Grill**](https://www.firestonegrill.com/) | High-Energy Sports Grill | **💲** (Casual / 15–25 USD) | Legendary tri-tip steak sandwiches, seasoned fries, and giant salads. |
+| **Santa Cruz, CA** | [**Shadowbrook Restaurant**](https://www.shadowbrook-capitola.com/) | Historic Forest Riverside | **💲💲💲💲** (Luxury / 75–120+ USD) | Ride a red cable car funicular down a forest hill; spectacular wild salmon and prime rib. |
+| **Half Moon Bay** | [**Sam's Chowder House**](https://www.samschowderhouse.com/) | Cliffside Ocean-View Seafood | **💲💲💲** (Upscale / 35–65 USD) | Award-winning warm buttered lobster rolls, clam chowder, and oysters. |
+| **San Francisco** | [**Greens Restaurant**](https://www.greensrestaurant.com/) | Fine-Dining Vegetarian | **💲💲💲** (Upscale / 45–75 USD) | Creative, upscale vegetarian overlooking the Golden Gate Bridge through glass walls. |
+| | [**Hog Island Oyster Co.**](https://www.hogislandoysters.com/) | Waterfront Oyster Bar | **💲💲💲** (Upscale / 35–65 USD) | Incredibly fresh local oysters, clam chowder, and a famous gourmet grilled cheese. |
+| **Boonville / Road** | [**Boonville General Store**](https://www.boonvillegeneralstore.com/) | Organic Valley Bakery | **💲** (Casual / 10–25 USD) | Local goat cheese paninis, hot soups, and fresh organic pastries in the redwoods. |
+| **Fort Bragg, CA** | [**Princess Seafood Restaurant**](https://www.princessseafoodmarket.com/) | Casual Harbor Seafood | **💲💲** (Moderate / 20–40 USD) | Female-owned; fresh dungeness crab rolls, grilled rockfish, and wild salmon on the docks. |
+| **Eureka / Road** | [**Cafe Marina**](https://www.cafemarina.net/) | Waterfront Marina Diner | **💲💲** (Moderate / 20–35 USD) | Local seafood chowder, fish tacos, and crab cakes overlooking Humboldt Bay. |
+| **Crescent City** | [**Chart Room Restaurant**](https://www.chartroomcrescentcity.com/) | Harbor Dockside Seafood | **💲💲** (Moderate / 20–40 USD) | Local halibut and chips, clam chowder, while watching sea lions bark outside. |
+| | [**Fisherman's Restaurant**](https://www.fishermansrestaurant.info/) | Nautical Local Diner | **💲** (Casual / 15–30 USD) | Legendary beer-battered ling cod fish and chips, clam chowder, and shrimp bowls. |
+| **Eugene / Road** | [**Cafe Yumm!**](https://www.cafeyumm.com/) | Casual Oregon Bowls | **💲** (Casual / 10–20 USD) | Famous customizable warm grain and rice bowls with signature creamy Yumm! Sauce. |
+| **Portland, OR** | [**Jacqueline**](https://www.jacquelinepdx.com/) | Cozy Retro PNW Seafood | **💲💲💲** (Upscale / 45–75 USD) | Shucked-to-order PNW oysters, Dungeness crab, and seasonal fish. Cozy neighborhood vibe. |
+| | [**Shalom Y'all**](https://www.shalomyallpdx.com/) | Vibrant Mediterranean | **💲💲** (Moderate / 25–45 USD) | Fresh warm pita, wood-fired hummus, falafel, shakshuka, and grilled halloumi cheese. |
+| | [**Departure Restaurant**](https://www.departureportland.com/) | Rooftop Skyline Asian | **💲💲💲💲** (Luxury / 75–120 USD) | Futuristic rooftop setting; premium sushi, sashimi, and wok-fired crab. |
+| **Olympia / Road** | [**Chelsea Farms Oyster Bar**](https://www.chelseafarms.com/) | Modern Shellfish Bar | **💲💲💲** (Upscale / 30–60 USD) | Fresh local oysters, geoduck sashimi, clam chowder, and fish tacos in a market hall. |
+| **Seattle, WA** | [**Taylor Shellfish Oyster Bar**](https://www.taylorshellfishfarms.com/) | Tide-to-table Shellfish Bar | **💲💲💲** (Upscale / 35–65 USD) | Local Queen Anne oyster bar next to Space Needle; fresh oysters, geoduck, and Dungeness crab. |
+| | [**Toulouse Petit**](https://www.toulousepetit.com/) | Creole-French Bistro | **💲💲💲** (Upscale / 35–65 USD) | Breathtaking candlelit tiled interior; shrimp and grits, crab beignets, and gumbo. |
+| **Redmond / Road** | [**Woodblock**](https://www.woodblockredmond.com/) | Cozy Neighborhood Bistro | **💲💲💲** (Upscale / 30–60 USD) | Seared local salmon, fresh cod, seasonal grain bowls, and top-tier craft cocktails. |
+| | [**Spark Pizza**](https://www.sparkpizzaredmond.com/) | Wood-Fired Pizza Patio | **💲💲** (Moderate / 20–35 USD) | Award-winning Neapolitan wood-fired custom pizzas, craft beers, and heated patio. |
+| **Vancouver, BC** | [**Miku Vancouver**](https://mikurestaurant.com/) | Waterfront Aburi Sushi | **💲💲💲💲** (Luxury / 60–110 USD / 80–150+ CAD) | Flame-seared aburi sushi and exquisite sashimi overlooking Coal Harbour and mountains. |
+| | [**The Acorn**](https://www.theacornrestaurant.ca/) | Michelin-Starred Vegetarian | **💲💲💲** (Upscale / 35–65 USD / 50–90 CAD) | Breathtaking, award-winning upscale vegetable-forward dishes and cocktails. |
 
 ---
 
@@ -234,11 +234,11 @@ Select one cohesive track below to simplify booking, keep travel styles consiste
 
 | Track Option | Researched Lodging Type | 3-Room / Minimum Plan | 4-Room / Comfort Plan | Key Trade-offs & Notes |
 | :--- | :--- | :--- | :--- | :--- |
-| **⭐ Track 1: Hybrid Track** | VRBO Hubs + Transit Hotels | **$6,300 – $9,700** | **$6,800 – $10,200** | **Highly Recommended.** Best balance of private rooms at hubs and zero cleaning fees for 1-night stops. |
-| **🌸 Track 2: Boutique Track** | Character-rich Independent Hotels | **$8,300 – $11,800** | **$10,700 – $15,200** | Unique stays, no standard points benefits, paid parking at major stops. |
-| **👑 Track 3: Hilton Track** | Reliable Chain with Free Breakfast | **$7,900 – $9,500** | **$10,400 – $12,300** | Point-friendly, free hot breakfasts, very consistent amenities. |
-| **🛡️ Track 4: Marriott Track** | Premium Comfort with Spacious Suites | **$11,100 – $12,700** | **$14,100 – $16,000** | Luxurious properties, spacious suite layouts, highest overall cost. |
-| **🏠 Track 5: VRBO Track** | Group Vacation Homes / Residences | **$7,600 – $11,700** | **$7,600 – $11,700** | Everyone gets a private bedroom, kitchen, but paying cleaning fees for single nights. |
+| **⭐ Track 1: Hybrid Track** | VRBO Hubs + Transit Hotels | **6,300 – 9,700 USD** | **6,800 – 10,200 USD** | **Highly Recommended.** Best balance of private rooms at hubs and zero cleaning fees for 1-night stops. |
+| **🌸 Track 2: Boutique Track** | Character-rich Independent Hotels | **8,300 – 11,800 USD** | **10,700 – 15,200 USD** | Unique stays, no standard points benefits, paid parking at major stops. |
+| **👑 Track 3: Hilton Track** | Reliable Chain with Free Breakfast | **7,900 – 9,500 USD** | **10,400 – 12,300 USD** | Point-friendly, free hot breakfasts, very consistent amenities. |
+| **🛡️ Track 4: Marriott Track** | Premium Comfort with Spacious Suites | **11,100 – 12,700 USD** | **14,100 – 16,000 USD** | Luxurious properties, spacious suite layouts, highest overall cost. |
+| **🏠 Track 5: VRBO Track** | Group Vacation Homes / Residences | **7,600 – 11,700 USD** | **7,600 – 11,700 USD** | Everyone gets a private bedroom, kitchen, but paying cleaning fees for single nights. |
 
 **Cost planning assumptions:** Rates were researched on May 20, 2026 using official hotel booking pages and major OTA references. Treat every number as a planning estimate until checkout, because October 2026 inventory, minimum-stay rules, taxes, exchange rates, and cancellability can move. Group estimates assume **Mel gets her own room**, **Kenny likely gets his own room**, and the other three guys either share one larger room (**3-room minimum plan**) or split into two rooms (**4-room comfort plan**). Totals below generally include researched hotel taxes/room fees where available, but **exclude parking unless noted**.
 
@@ -249,14 +249,14 @@ Select one cohesive track below to simplify booking, keep travel styles consiste
 
 | Stop | Recommended Hybrid Option | Researched Cost Estimate | Why it Fits & Booking Tips |
 | :--- | :--- | :--- | :--- |
-| **Santa Cruz (Oct 10-12)** | **VRBO Beach/Redwood House** (4-5 Bedrooms) | Approx. **$1,450-$2,100** total for 2 nights. | Multi-night stay absorbs the cleaning fee. Gives everyone a private room to unpack and rest after the long drive. |
-| **Crescent City (Oct 12-13)** | **Curly Redwood Lodge** (Boutique) or **Best Western Plus Northwoods Inn** (Hilton-Equivalent) | Approx. **$310-$495** (3 rooms) or **$406-$660** (4 rooms) for 1 night. | Quick 1-night transit stop. Skip VRBO cleaning fees and enjoy a simple, hassle-free hotel check-in right on the coast. |
-| **Portland (Oct 13-14)** | **Inn at Northrup Station** or **Hampton Inn Pearl District** | Approx. **$580-$588** (3 rooms) or **$766-$815** (4 rooms) for 1 night. | Another 1-night transit. Hotels in the Pearl District offer easy walking access and free parking/breakfast. |
-| **Seattle First Stay (Oct 14-17)** | **VRBO 4-Bedroom Townhouse/View Home** (Queen Anne or Lake Union) | Approx. **$2,100-$3,200** total for 3 nights. | 3-night hub is perfect for a shared home. Gives the group a kitchen, laundry, and awesome common spaces for group hangouts. |
-| **Vancouver (Oct 17-20)** | **VRBO 4-Bedroom Modern Townhome** (Mount Pleasant or Kitsilano) | Approx. **$1,300-$2,600** (CAD $1,800-$3,500) total for 3 nights. | High-quality 3-night Vancouver stay. Shared home is much cheaper than booking 4 hotel rooms in downtown Vancouver. |
-| **Seattle Last Stay (Oct 20-21)** | **Mediterranean Inn** or **Hampton Inn & Suites Downtown** | Approx. **$594-$692** (3 rooms) or **$747-$872** (4 rooms) for 1 night. | 1-night transit before the flight home. Easy drop-off, packing, and quick departure to SEA-TAC in the morning. |
+| **Santa Cruz (Oct 10-12)** | **VRBO Beach/Redwood House** (4-5 Bedrooms) | Approx. **1,450 – 2,100 USD** total for 2 nights. | Multi-night stay absorbs the cleaning fee. Gives everyone a private room to unpack and rest after the long drive. |
+| **Crescent City (Oct 12-13)** | **Curly Redwood Lodge** (Boutique) or **Best Western Plus Northwoods Inn** (Hilton-Equivalent) | Approx. **310 – 495 USD** (3 rooms) or **406 – 660 USD** (4 rooms) for 1 night. | Quick 1-night transit stop. Skip VRBO cleaning fees and enjoy a simple, hassle-free hotel check-in right on the coast. |
+| **Portland (Oct 13-14)** | **Inn at Northrup Station** or **Hampton Inn Pearl District** | Approx. **580 – 588 USD** (3 rooms) or **766 – 815 USD** (4 rooms) for 1 night. | Another 1-night transit. Hotels in the Pearl District offer easy walking access and free parking/breakfast. |
+| **Seattle First Stay (Oct 14-17)** | **VRBO 4-Bedroom Townhouse/View Home** (Queen Anne or Lake Union) | Approx. **2,100 – 3,200 USD** total for 3 nights. | 3-night hub is perfect for a shared home. Gives the group a kitchen, laundry, and awesome common spaces for group hangouts. |
+| **Vancouver (Oct 17-20)** | **VRBO 4-Bedroom Modern Townhome** (Mount Pleasant or Kitsilano) | Approx. **1,300 – 2,600 USD** (1,800 – 3,500 CAD) total for 3 nights. | High-quality 3-night Vancouver stay. Shared home is much cheaper than booking 4 hotel rooms in downtown Vancouver. |
+| **Seattle Last Stay (Oct 20-21)** | **Mediterranean Inn** or **Hampton Inn & Suites Downtown** | Approx. **594 – 692 USD** (3 rooms) or **747 – 872 USD** (4 rooms) for 1 night. | 1-night transit before the flight home. Easy drop-off, packing, and quick departure to SEA-TAC in the morning. |
 
-**Track 1 planning total:** approx. **$6,300-$9,700** for the 3-room minimum plan, or **$6,800-$10,200** for the 4-room comfort plan, before parking.
+**Track 1 planning total:** approx. **6,300 – 9,700 USD** for the 3-room minimum plan, or **6,800 – 10,200 USD** for the 4-room comfort plan, before parking.
 
 ---
 
@@ -265,13 +265,13 @@ Select one cohesive track below to simplify booking, keep travel styles consiste
 
 | Stop | Hotel | Researched Cost Estimate | Watch-Outs |
 | :--- | :--- | :--- | :--- |
-| **Santa Cruz (Oct 10-12)** | [**Dream Inn Santa Cruz**](https://www.dreaminnsantacruz.com/) | Approx. **$2,040-$4,060** for 3 rooms or **$2,720-$5,410** for 4 rooms across 2 nights, after Santa Cruz taxes/fees. | Oceanfront and pricier. Parking approx. **$35-$40 + tax/car/night**. Two-queen rooms can fit 3 guys but no guaranteed rollaway. |
-| **Crescent City (Oct 12-13)** | [**Curly Redwood Lodge**](https://www.curlyredwoodlodge.com/) | Approx. **$310-$343** for 3 rooms or about **$406** for 4 rooms across 1 night, after 10% lodging tax and service fee. | Best value and has 3-bed suite options. Possible cash deposit; parking appears free. |
-| **Portland (Oct 13-14)** | [**Inn at Northrup Station**](https://www.northrupstation.com/) | Approx. **$588-$815** for 3 rooms or **$766-$1,067** for 4 rooms, after estimated Portland/Oregon lodging taxes. | 3-room plan works via double-queen/sofa suite; free parking is a major plus. |
-| **Seattle (Oct 14-17 & 20-21)** | [**Mediterranean Inn**](https://www.mediterraneaninn.com/) | All 4 Seattle nights combined: approx. **$2,772-$3,958** for 3 rooms or **$3,486-$4,980** for 4 rooms, after observed room taxes/fees. | Parking approx. **$36 + tax/car/night**. Double Queen is the realistic 3-guys room. |
-| **Vancouver (Oct 17-20)** | [**The Burrard**](https://theburrard.com/) | Standard-rate estimate approx. **CAD $3,480-$3,648** for 3 rooms or **CAD $4,497-$4,584** for 4 rooms after lodging taxes. | 3-room plan may need extra-person/cot charges. Parking approx. **CAD $29.50 + tax/car/night**. |
+| **Santa Cruz (Oct 10-12)** | [**Dream Inn Santa Cruz**](https://www.dreaminnsantacruz.com/) | Approx. **2,040 – 4,060 USD** for 3 rooms or **2,720 – 5,410 USD** for 4 rooms across 2 nights, after Santa Cruz taxes/fees. | Oceanfront and pricier. Parking approx. **35 – 40 USD + tax/car/night**. Two-queen rooms can fit 3 guys but no guaranteed rollaway. |
+| **Crescent City (Oct 12-13)** | [**Curly Redwood Lodge**](https://www.curlyredwoodlodge.com/) | Approx. **310 – 343 USD** for 3 rooms or about **406 USD** for 4 rooms across 1 night, after 10% lodging tax and service fee. | Best value and has 3-bed suite options. Possible cash deposit; parking appears free. |
+| **Portland (Oct 13-14)** | [**Inn at Northrup Station**](https://www.northrupstation.com/) | Approx. **588 – 815 USD** for 3 rooms or **766 – 1,067 USD** for 4 rooms, after estimated Portland/Oregon lodging taxes. | 3-room plan works via double-queen/sofa suite; free parking is a major plus. |
+| **Seattle (Oct 14-17 & 20-21)** | [**Mediterranean Inn**](https://www.mediterraneaninn.com/) | All 4 Seattle nights combined: approx. **2,772 – 3,958 USD** for 3 rooms or **3,486 – 4,980 USD** for 4 rooms, after observed room taxes/fees. | Parking approx. **36 USD + tax/car/night**. Double Queen is the realistic 3-guys room. |
+| **Vancouver (Oct 17-20)** | [**The Burrard**](https://theburrard.com/) | Standard-rate estimate approx. **3,480 – 3,648 CAD** for 3 rooms or **4,497 – 4,584 CAD** for 4 rooms after lodging taxes. | 3-room plan may need extra-person/cot charges. Parking approx. **29.50 CAD + tax/car/night**. |
 
-**Track 2 planning total:** approx. **$8,300-$11,800** for the 3-room minimum plan, or **$10,700-$15,200** for the 4-room comfort plan, before parking. Canadian-dollar rows are rough USD-equivalent in the total.
+**Track 2 planning total:** approx. **8,300 – 11,800 USD** for the 3-room minimum plan, or **10,700 – 15,200 USD** for the 4-room comfort plan, before parking. Canadian-dollar rows are rough USD-equivalent in the total.
 
 ---
 
@@ -280,13 +280,13 @@ Select one cohesive track below to simplify booking, keep travel styles consiste
 
 | Stop | Hotel | Researched Cost Estimate | Watch-Outs |
 | :--- | :--- | :--- | :--- |
-| **Santa Cruz (Oct 10-12)** | [**Hampton Inn Santa Cruz West**](https://www.hilton.com/en/hotels/sjcmshx-hampton-santa-cruz-west/) | Approx. **$1,540-$2,072** for 3 rooms or **$2,052-$2,762** for 4 rooms across 2 nights, after taxes/fees. | Free self-parking. 2-queen rooms can fit 3 guys but still only two beds. |
-| **Crescent City (Oct 12-13)** | *Points Track Alternative:* [**Best Western Plus Northwoods Inn**](https://www.bestwestern.com/en_US/book/hotel-rooms.05435.html) | Approx. **$495-$645** for 3 rooms or **$660-$750** for 4 standard rooms across 1 night, after estimated 11% tax. | Cancellability language looked inconsistent, so verify at checkout. Free parking; possible incidental hold. |
-| **Portland (Oct 13-14)** | [**Hampton Inn & Suites Portland-Pearl District**](https://www.hilton.com/en/hotels/pdxpdhx-hampton-suites-portland-pearl-district/) | Approx. **$580-$905** for 3 rooms or **$673-$998** for 4 rooms after estimated lodging taxes/TID. | Good room fit if booking a 2 Queen Studio Suite with sofa bed. Valet approx. **$50/car/night**. |
-| **Seattle (Oct 14-17 & 20-21)** | [**Hampton Inn & Suites Seattle-Downtown**](https://www.hilton.com/en/hotels/seadthx-hampton-suites-seattle-downtown/) | All 4 Seattle nights combined: approx. **$2,378-$2,960** for 3 rooms or **$3,172-$3,946** for 4 rooms after estimated taxes/charges. | Parking approx. **$40/car/day**. Points inventory needs re-check across the new split stay. |
-| **Vancouver (Oct 17-20)** | [**Hilton Vancouver Downtown**](https://www.hilton.com/en/hotels/yvrwghh-hilton-vancouver-downtown/) | Approx. **CAD $4,020 / USD $2,925** for 3 rooms or **CAD $5,235-$5,325 / USD $3,804-$3,870** for 4 rooms after taxes. | 80k Hilton points/night was visible in the original check; re-check across 3 nights. Parking approx. **CAD $46 self / CAD $53 valet**. |
+| **Santa Cruz (Oct 10-12)** | [**Hampton Inn Santa Cruz West**](https://www.hilton.com/en/hotels/sjcmshx-hampton-santa-cruz-west/) | Approx. **1,540 – 2,072 USD** for 3 rooms or **2,052 – 2,762 USD** for 4 rooms across 2 nights, after taxes/fees. | Free self-parking. 2-queen rooms can fit 3 guys but still only two beds. |
+| **Crescent City (Oct 12-13)** | *Points Track Alternative:* [**Best Western Plus Northwoods Inn**](https://www.bestwestern.com/en_US/book/hotel-rooms.05435.html) | Approx. **495 – 645 USD** for 3 rooms or **660 – 750 USD** for 4 standard rooms across 1 night, after estimated 11% tax. | Cancellability language looked inconsistent, so verify at checkout. Free parking; possible incidental hold. |
+| **Portland (Oct 13-14)** | [**Hampton Inn & Suites Portland-Pearl District**](https://www.hilton.com/en/hotels/pdxpdhx-hampton-suites-portland-pearl-district/) | Approx. **580 – 905 USD** for 3 rooms or **673 – 998 USD** for 4 rooms after estimated lodging taxes/TID. | Good room fit if booking a 2 Queen Studio Suite with sofa bed. Valet approx. **50 USD/car/night**. |
+| **Seattle (Oct 14-17 & 20-21)** | [**Hampton Inn & Suites Seattle-Downtown**](https://www.hilton.com/en/hotels/seadthx-hampton-suites-seattle-downtown/) | All 4 Seattle nights combined: approx. **2,378 – 2,960 USD** for 3 rooms or **3,172 – 3,946 USD** for 4 rooms after estimated taxes/charges. | Parking approx. **40 USD/car/day**. Points inventory needs re-check across the new split stay. |
+| **Vancouver (Oct 17-20)** | [**Hilton Vancouver Downtown**](https://www.hilton.com/en/hotels/yvrwghh-hilton-vancouver-downtown/) | Approx. **4,020 CAD / 2,925 USD** for 3 rooms or **5,235 – 5,325 CAD / 3,804 – 3,870 USD** for 4 rooms after taxes. | 80k Hilton points/night was visible in the original check; re-check across 3 nights. Parking approx. **46 CAD self / 53 CAD valet**. |
 
-**Track 3 planning total:** approx. **$7,900-$9,500** for the 3-room minimum plan, or **$10,400-$12,300** for the 4-room comfort plan, before parking.
+**Track 3 planning total:** approx. **7,900 – 9,500 USD** for the 3-room minimum plan, or **10,400 – 12,300 USD** for the 4-room comfort plan, before parking.
 
 ---
 
@@ -295,13 +295,13 @@ Select one cohesive track below to simplify booking, keep travel styles consiste
 
 | Stop | Hotel | Researched Cost Estimate | Watch-Outs |
 | :--- | :--- | :--- | :--- |
-| **Santa Cruz (Oct 10-12)** | [**Hotel Paradox, Autograph Collection**](https://www.marriott.com/en-us/hotels/sjcak-hotel-paradox-autograph-collection/) | Approx. **$1,360-$1,640** for 3 rooms or **$1,780-$2,090** for 4 rooms across 2 nights, after taxes/fees. | Points inventory needs re-check across the updated dates. Parking approx. **$28/day**. |
-| **Crescent City (Oct 12-13)** | *Marriott Track Alternative:* [**Oceanfront Lodge**](https://www.oceanfrontlodge.com/) | Approx. **$452-$627** for 3 rooms or **$603-$761** for 4 rooms across 1 night, after 10% tax. | Family suite with 2 queens + futon is the cleaner 3-guys option. Free parking; breakfast may cost extra. |
-| **Portland (Oct 13-14)** | [**Residence Inn Portland Downtown/Pearl District**](https://www.marriott.com/en-us/hotels/pdxpd-residence-inn-portland-downtown-pearl-district/) | Approx. **$680-$692** for 3 rooms or about **$876** for 4 rooms after Expedia taxes/fees. | Strong suite layout; valet/covered parking around **$55-$59/night**. |
-| **Seattle (Oct 14-17 & 20-21)** | [**Residence Inn Seattle Downtown/Lake Union**](https://www.marriott.com/en-us/hotels/sealu-residence-inn-seattle-downtown-lake-union/) | All 4 Seattle nights combined: approx. **$5,040** for 3 rooms or **$6,096** for 4 rooms after room taxes/fees. | 3-room plan uses a shared 2BR suite for the guys. Parking approx. **$41 + tax/car/night**. |
-| **Vancouver (Oct 17-20)** | [**Delta Hotels Vancouver Downtown Suites**](https://www.marriott.com/en-us/hotels/yvrdv-delta-hotels-vancouver-downtown-suites/) | Approx. **CAD $4,869-$6,393 / USD $3,555-$4,668** for 3 rooms or **CAD $6,492-$8,523 / USD $4,740-$6,222** for 4 rooms after Vancouver lodging taxes. | Points inventory needs re-check across 3 nights. Parking approx. **CAD $52/day**. |
+| **Santa Cruz (Oct 10-12)** | [**Hotel Paradox, Autograph Collection**](https://www.marriott.com/en-us/hotels/sjcak-hotel-paradox-autograph-collection/) | Approx. **1,360 – 1,640 USD** for 3 rooms or **1,780 – 2,090 USD** for 4 rooms across 2 nights, after taxes/fees. | Points inventory needs re-check across the updated dates. Parking approx. **28 USD/day**. |
+| **Crescent City (Oct 12-13)** | *Marriott Track Alternative:* [**Oceanfront Lodge**](https://www.oceanfrontlodge.com/) | Approx. **452 – 627 USD** for 3 rooms or **603 – 761 USD** for 4 rooms across 1 night, after 10% tax. | Family suite with 2 queens + futon is the cleaner 3-guys option. Free parking; breakfast may cost extra. |
+| **Portland (Oct 13-14)** | [**Residence Inn Portland Downtown/Pearl District**](https://www.marriott.com/en-us/hotels/pdxpd-residence-inn-portland-downtown-pearl-district/) | Approx. **680 – 692 USD** for 3 rooms or about **876 USD** for 4 rooms after Expedia taxes/fees. | Strong suite layout; valet/covered parking around **55 – 59 USD/night**. |
+| **Seattle (Oct 14-17 & 20-21)** | [**Residence Inn Seattle Downtown/Lake Union**](https://www.marriott.com/en-us/hotels/sealu-residence-inn-seattle-downtown-lake-union/) | All 4 Seattle nights combined: approx. **5,040 USD** for 3 rooms or **6,096 USD** for 4 rooms after room taxes/fees. | 3-room plan uses a shared 2BR suite for the guys. Parking approx. **41 USD + tax/car/night**. |
+| **Vancouver (Oct 17-20)** | [**Delta Hotels Vancouver Downtown Suites**](https://www.marriott.com/en-us/hotels/yvrdv-delta-hotels-vancouver-downtown-suites/) | Approx. **4,869 – 6,393 CAD / 3,555 – 4,668 USD** for 3 rooms or **6,492 – 8,523 CAD / 4,740 – 6,222 USD** for 4 rooms after Vancouver lodging taxes. | Points inventory needs re-check across 3 nights. Parking approx. **52 CAD/day**. |
 
-**Track 4 planning total:** approx. **$11,100-$12,700** for the 3-room minimum plan, or **$14,100-$16,000** for the 4-room comfort plan, before parking.
+**Track 4 planning total:** approx. **11,100 – 12,700 USD** for the 3-room minimum plan, or **14,100 – 16,000 USD** for the 4-room comfort plan, before parking.
 
 ---
 
@@ -310,11 +310,11 @@ Select one cohesive track below to simplify booking, keep travel styles consiste
 
 | Stop | Recommended VRBO Type & Location | Researched Cost Estimate | Watch-Outs & Practical Tips |
 | :--- | :--- | :--- | :--- |
-| **Santa Cruz (Oct 10-12)** | **4-5 Bedroom Beach or Redwood House** (e.g., East Cliff, Capitola, or Santa Cruz Mountains) | Approx. **$450-$750 / night** (Total: **$1,450-$2,100** for 2 nights, including cleaning/service fees & local taxes). | Excellent value for 5 friends! Most homes feature private hot tubs, expansive decks, and free driveway parking. Check beach proximity and strict neighborhood quiet hours. |
-| **Crescent City (Oct 12-13)** | **4-Bedroom Oceanfront Cabin or Redwood Cottage** (e.g., near Redwood National Park or beachfront) | Approx. **$300-$450 / night** (Total: **$550-$750** for 1 night, including fees). | High cleaning fees make 1-night VRBOs less cost-effective. *Alternative: Curly Redwood Lodge ($406 for 4 rooms) is a simpler, cheaper transit choice.* |
-| **Portland (Oct 13-14)** | **4-Bedroom Central Townhouse** (e.g., Southeast Portland, Pearl District, or Mount Tabor) | Approx. **$350-$500 / night** (Total: **$650-$850** for 1 night, including fees). | Very spacious with full kitchens and quiet residential vibes. But 1-night stays are high-friction; *Alternative: Hampton Inn ($673 for 4 rooms).* |
-| **Seattle (Oct 14-17 & 20-21)** | **4-Bedroom View Home / Townhouse** (e.g., Queen Anne, Lake Union, or Capitol Hill) | All 4 Seattle nights combined (split 3-night and 1-night stays): Approx. **$2,850-$4,300** total after fees. | Look for homes with rooftop decks offering Space Needle views and dedicated garages/parking spaces. Split stays require paying cleaning fees twice; consider keeping Seattle transit nights in hotels. |
-| **Vancouver (Oct 17-20)** | **4-Bedroom Modern Townhome / Character House** (e.g., Mount Pleasant, Kitsilano, or East Vancouver) | Approx. **CAD $450-$850 / night** (Total: **USD $1,300-$2,600 / CAD $1,800-$3,500** for 3 nights, including fees). | Fantastic neighborhood feels. Free residential parking is common. Check Canada-specific entry rules and host communications early. |
+| **Santa Cruz (Oct 10-12)** | **4-5 Bedroom Beach or Redwood House** (e.g., East Cliff, Capitola, or Santa Cruz Mountains) | Approx. **450 – 750 USD / night** (Total: **1,450 – 2,100 USD** for 2 nights, including cleaning/service fees & local taxes). | Excellent value for 5 friends! Most homes feature private hot tubs, expansive decks, and free driveway parking. Check beach proximity and strict neighborhood quiet hours. |
+| **Crescent City (Oct 12-13)** | **4-Bedroom Oceanfront Cabin or Redwood Cottage** (e.g., near Redwood National Park or beachfront) | Approx. **300 – 450 USD / night** (Total: **550 – 750 USD** for 1 night, including fees). | High cleaning fees make 1-night VRBOs less cost-effective. *Alternative: Curly Redwood Lodge (406 USD for 4 rooms) is a simpler, cheaper transit choice.* |
+| **Portland (Oct 13-14)** | **4-Bedroom Central Townhouse** (e.g., Southeast Portland, Pearl District, or Mount Tabor) | Approx. **350 – 500 USD / night** (Total: **650 – 850 USD** for 1 night, including fees). | Very spacious with full kitchens and quiet residential vibes. But 1-night stays are high-friction; *Alternative: Hampton Inn (673 USD for 4 rooms).* |
+| **Seattle (Oct 14-17 & 20-21)** | **4-Bedroom View Home / Townhouse** (e.g., Queen Anne, Lake Union, or Capitol Hill) | All 4 Seattle nights combined (split 3-night and 1-night stays): Approx. **2,850 – 4,300 USD** total after fees. | Look for homes with rooftop decks offering Space Needle views and dedicated garages/parking spaces. Split stays require paying cleaning fees twice; consider keeping Seattle transit nights in hotels. |
+| **Vancouver (Oct 17-20)** | **4-Bedroom Modern Townhome / Character House** (e.g., Mount Pleasant, Kitsilano, or East Vancouver) | Approx. **450 – 850 CAD / night** (Total: **1,300 – 2,600 USD / 1,800 – 3,500 CAD** for 3 nights, including fees). | Fantastic neighborhood feels. Free residential parking is common. Check Canada-specific entry rules and host communications early. |
 
-**Track 5 planning total:** approx. **$7,600-$11,700** for a full VRBO stay across all 11 road trip nights.
+**Track 5 planning total:** approx. **7,600 – 11,700 USD** for a full VRBO stay across all 11 road trip nights.
 

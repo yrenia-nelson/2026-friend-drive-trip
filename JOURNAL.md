@@ -64,3 +64,9 @@ Running notes for trip-planning changes made by humans and coding agents.
   - Track 4: The Marriott Bonvoy Track
   - Track 5: The Shared Vacation Rental Track (VRBO & Group Homes)
 - Updated the **Quick Lodging Track Cost Comparison** summary table to reflect this new 5-track organization and added a detailed breakdown of hybrid costs.
+
+### Markdown Math-Mode Rendering Conflict Fix
+
+- Antigravity cleaned up all standard dollar signs (`$`) in the itinerary file to prevent conflicts with LaTeX math-mode parsing in the Antigravity markdown renderer (which caused tables to break and text to become italicized or missing).
+- Replaced raw dollar signs with math-mode-safe `USD`, `CAD`, and `💲` symbols across the Master Dine & Sip directory, lodging Quick Lodging comparison table, hotel track pricing tables, VRBO estimates, and total planning estimates.
+

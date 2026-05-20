@@ -97,5 +97,6 @@ Running notes for trip-planning changes made by humans and coding agents.
 - Codex updated the itinerary after user clarification that **Solvang is only a lunch stop** and **Fort Bragg is only a visit stop**, not overnight hubs.
 - Moved the first overnight into Santa Cruz for October 10-12 and moved the former Fort Bragg overnight into Crescent City for October 13-16.
 - Updated the daily route timing, warning notes, winery/fishing guidance, and hotel track cost tables to reflect the revised overnight hubs.
-
-
+- Codex then updated the itinerary after user clarification that the group still wants to visit San Francisco and Fort Bragg, but does not want a San Francisco hotel. Santa Cruz is now the October 10-13 lodging hub, San Francisco is a day trip from Santa Cruz, and the hotel track tables no longer include an SF overnight.
+- Codex compressed the middle of the route after the user clarified that the group wants to maximize time in Seattle and Vancouver. The revised lodging pattern is Santa Cruz Oct 10-12, Crescent City Oct 12-13, Portland Oct 13-14, Seattle Oct 14-17 and Oct 20-21, and Vancouver Oct 17-20.
+- Updated hotel cost tables by prorating the previous research against the new night counts. Follow-up: Google Antigravity should re-check live checkout pricing and inventory before booking, especially for the split Seattle stay and 3-night Vancouver stay.

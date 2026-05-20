@@ -6,9 +6,9 @@
 
 **Dietary Restrictions:** Melanie is pescatarian. Keep seafood and vegetarian/pescatarian-friendly meals available throughout the route, and avoid assuming meat-heavy restaurants work unless there are strong non-meat options.
 
-**Mega Route Map:** [🗺️ Visualize the rough full road trip on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Hacienda+Heights,+CA&destination=Seattle-Tacoma+International+Airport,+WA&waypoints=Solvang,+CA%7CSanta+Cruz,+CA%7CSan+Francisco,+CA%7CNapa+Valley,+CA%7CFort+Bragg,+CA%7CCrescent+City,+CA%7CPortland,+OR%7CVancouver,+BC,+Canada&travelmode=driving)
+**Mega Route Map:** [🗺️ Visualize the rough full road trip on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Hacienda+Heights,+CA&destination=Seattle-Tacoma+International+Airport,+WA&waypoints=Solvang,+CA%7CSanta+Cruz,+CA%7CSan+Francisco,+CA%7CNapa+Valley,+CA%7CFort+Bragg,+CA%7CCrescent+City,+CA%7CPortland,+OR%7CSeattle,+WA%7CVancouver,+BC,+Canada%7CSeattle,+WA&travelmode=driving)
 
-⚠️ **Friends Review Needed:** The route has several “decide before booking” situations: Solvang and Fort Bragg are currently planned as visit stops only, SLO/Paso wineries compete with the long push to Santa Cruz, Napa adds a meaningful detour on the San Francisco-to-Crescent City day, fishing charters depend on season/weather/licensing, and room sharing only works if everyone is honest about bed comfort.
+⚠️ **Friends Review Needed:** The route is now intentionally compressed through Northern California and Portland to maximize time in Seattle and Vancouver. Solvang and Fort Bragg are visit stops only, San Francisco is a day trip from Santa Cruz rather than an overnight, SLO/Paso wineries compete with the long push to Santa Cruz, Napa adds a meaningful detour on the Santa Cruz-to-Crescent City day, fishing charters depend on season/weather/licensing, and room sharing only works if everyone is honest about bed comfort.
 
 **Trip Concept:** A legendary 12-day, one-way coastal road trip from Hacienda Heights, California all the way up the Pacific Coast to Seattle, Washington. No cruise, purely a driving adventure! The group plans to drive the entire route, drop off the rental car, and fly back home from Seattle on October 21.
 
@@ -33,39 +33,29 @@
 
 ---
 
-### **October 11 (Sunday): Santa Cruz Coast, Boardwalks & Optional Winery Recovery Day**
+### **October 11 (Sunday): Santa Cruz Coast + San Francisco Day Trip**
 
-*   **Morning:** Sleep in after the long first driving day, then walk the historic **Santa Cruz Beach Boardwalk**, explore the wharf, or watch surfers ride the legendary waves at Steamer Lane.
+*   **Morning:** Sleep in after the long first driving day, then choose either a quick Santa Cruz Beach Boardwalk / wharf walk or a short redwood stop at **Henry Cowell Redwoods State Park** before heading north.
+*   **Late Morning:** Depart Santa Cruz for a **San Francisco day visit**. Take Highway 1 through Davenport, Pigeon Point, and Half Moon Bay if the group wants scenery; use the faster inland route if maximizing city time matters more.
+*   **Duration:** ~3 to 3.5 hours pure round-trip driving time between Santa Cruz and San Francisco (approx. 5 to 6 hours total elapsed travel time including lookouts, lunch, city traffic, and the return drive).
+    *   [🗺️ Santa Cruz to San Francisco](https://www.google.com/maps/dir/?api=1&origin=Santa+Cruz,+CA&destination=San+Francisco,+CA&travelmode=driving)
+    *   [🗺️ Return Route to Santa Cruz](https://www.google.com/maps/dir/?api=1&origin=San+Francisco,+CA&destination=Santa+Cruz,+CA&travelmode=driving)
+*   **Afternoon:** Drive across the Golden Gate Bridge, explore the Ferry Building, or keep the visit simple with one strong neighborhood stop before returning to Santa Cruz. No San Francisco hotel.
 *   **🍷 SLO / Paso Winery Detour Reality Check:** The main chance for **SLO / Edna Valley** or **Paso Robles** wineries is now on the October 10 drive north, not as a separate overnight. For a coastal SLO feel, consider [**Chamisal Vineyards**](https://chamisalvineyards.com/), [**Biddle Ranch Vineyard**](https://biddleranch.com/tasting-room/), or [**Edna Valley Vineyard**](https://www.ednavalleyvineyard.com/visit/tasting-room). For bigger reds, look at [**Robert Hall Winery**](https://www.roberthallwinery.com/visit/) or [**Vina Robles**](https://vinarobles.com/visit) in Paso Robles. Add approx. 1.5 to 2.5 hours to the Oct 10 elapsed travel day if the group actually does this.
 *   **🍴 Food Spotlight:**
-    *   *Lunch:* Keep it casual around the wharf or boardwalk, or grab a recovery meal after the previous day's long drive.
-    *   *Dinner:* If Shadowbrook was too much for arrival night, use it here instead; otherwise look for a seafood-forward Santa Cruz dinner that keeps Mel's pescatarian restriction easy.
+    *   *Lunch on the Road:* Stop at **Sam's Chowder House** in **Half Moon Bay**, perched high on a cliff overlooking the crashing waves. Enjoy their award-winning warm, buttered Maine lobster rolls, house-made New England clam chowder, and fish tacos.
+    *   *Dinner:* For the SF meal, choose **Greens Restaurant** (Fort Mason) for an especially Mel-friendly upscale vegetarian/pescatarian-compatible option with Golden Gate views, or **Hog Island Oyster Co.** in the Ferry Building for oysters, steamed clams, and seafood. Return to Santa Cruz afterward.
 *   **Accommodation:** ❓ *Unbooked* in Santa Cruz, CA (See hotel tracks below).
 
 ---
 
-### **October 12 (Monday): Redwood Forests & Scenic Coastal Highway 1 to San Francisco**
+### **October 12 (Monday): Santa Cruz to Crescent City via Fort Bragg (Big Coastal Push)**
 
-*   **9:00 AM – 11:00 AM: 🥾 Redwood Forest Walk at Henry Cowell Redwoods State Park**
-    *   Before heading to SF, take a short 10-minute drive north into the Santa Cruz Mountains to **Henry Cowell Redwoods State Park** (Felton, CA). Hike the flat, stunning **Redwood Grove Loop Trail** (0.8 miles). You will walk among awe-inspiring, ancient old-growth coast redwoods, including a tree over 1,500 years old and 277 feet tall!
-*   **11:15 AM:** Depart the redwoods for San Francisco. Take the incredibly scenic **Highway 1 coastal route** north, passing through Davenport, past the Pigeon Point Lighthouse, and winding through Half Moon Bay.
-*   **Duration:** ~1.5 hours (75 miles) pure driving time (approx. 2.5 hours total elapsed travel time including lookouts and lunch).
-    *   [🗺️ View Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Santa+Cruz,+CA&destination=San+Francisco,+CA&travelmode=driving)
-*   **1:45 PM:** Arrive in **San Francisco, CA**. Check into your hotel, then drive across the Golden Gate Bridge or explore the historic Ferry Building.
-*   **🍴 Food Spotlight:**
-    *   *Lunch on the Road:* Stop at **Sam's Chowder House** in **Half Moon Bay**, perched high on a cliff overlooking the crashing waves. Enjoy their award-winning warm, buttered Maine lobster rolls, house-made New England clam chowder, and fish tacos.
-    *   *Dinner:* Celebrate your arrival in SF at **Greens Restaurant** (Fort Mason), a legendary destination for upscale, creative vegetarian cuisine featuring dramatic, floor-to-ceiling glass windows looking directly out at the Golden Gate Bridge and SF Bay. Or visit **Hog Island Oyster Co.** in the Ferry Building for incredibly fresh local oysters, steamed clams, and their famous rustic grilled cheese.
-*   **Accommodation:** ❓ *Unbooked* in San Francisco, CA (See hotel tracks below).
-
----
-
-### **October 13 (Tuesday): San Francisco to Crescent City via Fort Bragg (Big Coastal Push)**
-
-*   **8:00 AM:** Depart San Francisco early. Cross the Golden Gate Bridge, head north through Marin and Anderson Valley, visit the Mendocino / Fort Bragg coast, then continue all the way to Crescent City for the overnight.
-*   **Duration:** ~7 to 7.5 hours pure driving time (approx. 9 to 10 hours total elapsed travel time including lunch, Fort Bragg sightseeing, fuel, and stretch breaks).
-    *   [🗺️ View Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=San+Francisco,+CA&destination=Crescent+City,+CA&waypoints=Fort+Bragg,+CA&travelmode=driving)
-*   **🍷 Napa Detour Option:** If Napa is a priority, leave very early and route through Napa Valley before cutting west to the Mendocino Coast. Use the [**Visit Napa Valley winery map**](https://www.visitnapavalley.com/wineries/winery-map/) to pick 1 reservation-friendly tasting and consider hiring a driver if more than one person wants to drink. This makes an already long day even longer, so treat Napa as a deliberate group decision rather than a casual add-on.
-    *   [🗺️ Napa + Fort Bragg Detour Route](https://www.google.com/maps/dir/?api=1&origin=San+Francisco,+CA&destination=Crescent+City,+CA&waypoints=Napa+Valley,+CA%7CFort+Bragg,+CA&travelmode=driving)
+*   **7:00 AM:** Depart Santa Cruz early. This is one of the biggest drive days: head through the Bay Area, cross the Golden Gate Bridge, visit the Mendocino / Fort Bragg coast, then continue all the way to Crescent City for the overnight.
+*   **Duration:** ~8.5 to 9 hours pure driving time (approx. 10.5 to 12 hours total elapsed travel time including Bay Area traffic, lunch, Fort Bragg sightseeing, fuel, and stretch breaks).
+    *   [🗺️ View Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Santa+Cruz,+CA&destination=Crescent+City,+CA&waypoints=Fort+Bragg,+CA&travelmode=driving)
+*   **🍷 Napa Detour Option:** If Napa is a priority, leave extremely early and route through Napa Valley before cutting west to the Mendocino Coast. Use the [**Visit Napa Valley winery map**](https://www.visitnapavalley.com/wineries/winery-map/) to pick 1 reservation-friendly tasting and consider hiring a driver if more than one person wants to drink. This makes an already long day even longer, so treat Napa as a deliberate group decision rather than a casual add-on.
+    *   [🗺️ Napa + Fort Bragg Detour Route](https://www.google.com/maps/dir/?api=1&origin=Santa+Cruz,+CA&destination=Crescent+City,+CA&waypoints=Napa+Valley,+CA%7CFort+Bragg,+CA&travelmode=driving)
 *   **Afternoon:** Visit the dramatic cliffs at **Mendocino Headlands State Park**, then head to **Fort Bragg** to walk **Glass Beach** and/or the Noyo Harbor waterfront. Fort Bragg is a visit stop, not an overnight.
 *   **🎣 Fishing Angle:** Fort Bragg's Noyo Harbor is one of the better fishing fits on the route, but without a Fort Bragg overnight it is more useful as a scouting/food stop than a charter base. [**Telstar Charters**](https://www.telstar-charters.com/) is worth saving only if the group later decides to add a Fort Bragg night.
 *   **🍴 Food Spotlight:**
@@ -75,70 +65,58 @@
 
 ---
 
-### **October 14 (Wednesday): Crescent City Recovery, Harbor & Redwoods Day**
+### **October 13 (Tuesday): Crescent City to Portland (Redwood Morning + Northbound Push)**
 
-*   **Morning:** Use this as a recovery morning after the long San Francisco-to-Crescent City push. Check tides for **Battery Point Lighthouse**, which is accessible on foot across a rocky causeway only at low tide.
-*   **🚗 Redwood Add-On:** If the group skipped **Avenue of the Giants** on the October 13 drive, this is the day to backfill a smaller redwoods experience nearby instead of trying to rewind the route.
-*   **🎣 Fishing Angle:** Crescent City is another strong fishing stop, especially for rockfish, lingcod, salmon, halibut, albacore, and crab when seasons are open. Check operators such as [**Crescent City Fishing**](https://crescentcityfishing.com/contact.html) or [**Crescent City Fishing Charters**](https://crescentcityfishingcharters.com/) before locking this day, since ocean conditions and California fishing seasons matter.
-*   **🍴 Food Spotlight:**
-    *   *Lunch:* Keep it easy around Crescent City Harbor with chowder, fish tacos, or a picnic near the waterfront.
-    *   *Dinner:* Dine at the **Chart Room Restaurant** located directly on the Crescent City Harbor docks. Enjoy fresh, local beer-battered halibut and chips, local crab legs, and clam chowder while watching the local sea lions play and bark right outside the window.
-*   **Accommodation:** ❓ *Unbooked* in Crescent City, CA (See hotel tracks below).
-
----
-
-### **October 15 (Thursday): Dedicated Redwood Exploration Day (Jedediah Smith Redwoods)**
-
-*   **9:00 AM – 3:00 PM: 🌲 Hike the Best Redwood Trails on Earth**
-    *   Crescent City is the gateway to the magnificent **Jedediah Smith Redwoods State Park**—home to the densest, most spectacular old-growth redwood forest remaining on earth.
-    *   *🚗 Scenic Drive:* Drive **Howland Hill Road**, a narrow, winding, unpaved 6-mile dirt road that tunnels directly through the heart of the giant trees. It is completely passable for normal cars, but you will drive at 10-15 mph surrounded by massive trunks.
-    *   *🥾 Stout Grove Trail:* Walk the **Stout Grove Loop** (0.6 miles, flat). It is a highly-photogenic, cathedral-like grove of straight, towering giants set along the clear waters of the Smith River.
-    *   *🥾 Boy Scout Tree Trail:* Hike this premier trail (5.3 miles round-trip, moderate). It leads deep into a primeval forest canyon of enormous trees, ferns, and waterfalls, culminating at the double-trunked "Boy Scout Tree."
-*   **🍴 Food Spotlight:**
-    *   *Lunch:* Pack a hearty grab-and-go picnic sandwich from **Crescent Seafood** or **Port O' Pints** to enjoy at a wooden picnic table under the giant forest canopy.
-    *   *Dinner:* Treat yourselves to **Fisherman's Restaurant** in Crescent City. This highly popular nautical-themed local favorite is famous for serving massive portions of fresh, local ling cod fish and chips dipped in house-made beer batter, hot clam chowder, and grilled seafood plates.
-*   **Accommodation:** ❓ *Unbooked* in Crescent City, CA (See hotel tracks below).
-
----
-
-### **October 16 (Friday): Crescent City to Portland (Smith River Canyon & Willamette Valley)**
-
-*   **8:30 AM:** Depart Crescent City, taking US-199 N through the breathtaking, narrow emerald gorges of the **Smith River Canyon**, crossing into Oregon and joining Interstate 5 north at Grants Pass.
-*   **Duration:** ~5.5 hours (320 miles) pure driving time (approx. 7 hours total elapsed travel time including a sit-down lunch and a stretch break).
+*   **8:00 AM:** If everyone has energy, do a short redwoods hit near Crescent City before leaving: **Stout Grove** or a quick scenic segment of **Howland Hill Road**. Keep this tight so the group reaches Portland at a humane hour.
+*   **10:00 AM:** Depart Crescent City, taking US-199 N through the emerald gorges of the **Smith River Canyon**, crossing into Oregon and joining Interstate 5 north at Grants Pass.
+*   **Duration:** ~5.5 hours (320 miles) pure driving time from Crescent City to Portland (approx. 7 to 8 hours total elapsed travel time including redwoods, lunch, fuel, and stretch breaks).
     *   [🗺️ View Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Crescent+City,+CA&destination=Portland,+OR&travelmode=driving)
-*   **3:30 PM:** Arrive in **Portland, OR**. Check into your hotel and head out to explore the trendy Pearl District or Nob Hill.
+*   **Evening:** Arrive in **Portland, OR**. Treat this as a staging night, not a deep Portland stay, because the group wants the extra time in Seattle and Vancouver.
 *   **🍴 Food Spotlight:**
     *   *Lunch on the Road:* Stop in **Eugene, OR** (~3.5 hours from Crescent City). Grab fresh local catches at **Fisherman's Market** or head to **Cafe Yumm!** for their legendary, healthy customizable warm grain and rice bowls with signature, creamy Yumm! Sauce.
-    *   *Dinner:* Enjoy a welcome dinner at **Jacqueline** in Southeast Portland. This cozy, stylish neighborhood gem features a beautiful retro-aesthetic and showcases fresh Pacific Northwest oysters, Dungeness crab, and exceptionally creative seafood dishes.
+    *   *Dinner:* Enjoy a welcome dinner at **Jacqueline** in Southeast Portland if timing and energy allow; otherwise keep it simple near the hotel and save stamina for Seattle.
 *   **Accommodation:** ❓ *Unbooked* in Portland, OR (See hotel tracks below).
 
 ---
 
-### **October 17 (Saturday): Portland City Discovery & Autumn Colors**
+### **October 14 (Wednesday): Portland to Seattle (Arrive Early in the PNW Hub)**
 
-*   **10:00 AM:** Visit the stunning **Portland Japanese Garden** in Washington Park, famous for its brilliant red and gold maples in mid-October.
-*   **1:00 PM:** Spend your afternoon exploring the tree-lined boutique streets of NW 23rd Ave (Alphabet District) or lose yourself inside the legendary **Powell’s City of Books** (occupying an entire city block with millions of books).
-*   **🍴 Food Spotlight:**
-    *   *Lunch:* Stop in the Pearl District at **Shalom Y'all** for outstanding, vibrant modern Mediterranean street food, serving freshly baked warm pita bread, wood-fired hummus plates, falafel, shakshuka, and grilled halloumi cheese.
-    *   *Dinner:* Head to the sleek **Departure Restaurant + Lounge** on the rooftop of The Nines Hotel. Enjoy sweeping panoramic views of the Portland skyline alongside a spectacular, modern Asian-fusion menu featuring premium sushi, sashimi, and fresh seafood.
-*   **Accommodation:** ❓ *Unbooked* in Portland, OR (See hotel tracks below).
-
----
-
-### **October 18 (Sunday): Portland to Seattle (Puget Sound Afternoon)**
-
-*   **9:30 AM:** Depart Portland for Seattle, driving north along Interstate 5.
-*   **Duration:** ~3 hours (175 miles) pure driving time (approx. 4 hours total elapsed travel time including a harbor lunch along the way).
+*   **9:00 AM:** Depart Portland for Seattle, driving north along Interstate 5.
+*   **Duration:** ~3 hours (175 miles) pure driving time (approx. 4 to 4.5 hours total elapsed travel time including lunch and traffic buffers).
     *   [🗺️ View Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Portland,+OR&destination=Seattle,+WA&travelmode=driving)
-*   **1:30 PM:** Arrive in **Seattle, WA**. Check into your hotel, then spend a glorious afternoon exploring Pike Place Market (sampling local piroshkies or watching fishmongers throw giant salmon) and strolling the Seattle Waterfront.
+*   **Early Afternoon:** Arrive in **Seattle, WA** and check in. This is the payoff for the compressed coastal route: the group gets a real Seattle block instead of a quick pass-through.
 *   **🍴 Food Spotlight:**
-    *   *Lunch on the Road:* Stop in **Olympia, WA** (~2 hours from Portland). Enjoy a fresh seafood lunch at **Chelsea Farms Oyster Bar**—a chic, beautifully designed modern oyster bar in downtown Olympia serving fresh local oysters, steamed clams, and fish tacos.
-    *   *Dinner:* Celebrate your evening in Seattle at **Taylor Shellfish Oyster Bar** (Queen Anne location right next to the Space Needle) for the ultimate "tide-to-table" experience, offering fresh shucked-to-order oysters, steamed mussels, clams, and fresh whole Dungeness crab in a lively, modern space.
+    *   *Lunch on the Road:* Stop in **Olympia, WA** (~2 hours from Portland). Enjoy a fresh seafood lunch at **Chelsea Farms Oyster Bar**.
+    *   *Dinner:* Celebrate the first Seattle night at **Taylor Shellfish Oyster Bar** (Queen Anne location right next to the Space Needle) for oysters, steamed mussels, clams, and fresh Dungeness crab.
 *   **Accommodation:** ❓ *Unbooked* in Seattle, WA (See hotel tracks below).
 
 ---
 
-### **October 19 (Monday): Seattle to Vancouver, BC (Cross the International Border!)**
+### **October 15 (Thursday): Seattle Full Day (Market, Waterfront & Neighborhoods)**
+
+*   **Morning:** Explore **Pike Place Market**, the Seattle Waterfront, and the downtown core at an unhurried pace.
+*   **Afternoon:** Choose a neighborhood lane: Queen Anne / Seattle Center for Space Needle energy, Capitol Hill for bars and coffee, or Ballard for breweries and seafood.
+*   **🎣 Fishing Angle:** This is the first realistic Seattle fishing window if the group wants a guided Puget Sound morning. Check season rules and departure marina before booking.
+*   **🍴 Food Spotlight:**
+    *   *Lunch:* Graze through Pike Place Market or grab chowder near the waterfront.
+    *   *Dinner:* Try **Toulouse Petit** for shrimp and grits, crab beignets, and a dramatic candlelit dining room.
+*   **Accommodation:** ❓ *Unbooked* in Seattle, WA (See hotel tracks below).
+
+---
+
+### **October 16 (Friday): Seattle Full Day (Fishing, Ferries, or Rainy-Day Culture)**
+
+*   **Morning:** Keep this flexible for a Puget Sound fishing charter, a ferry ride, or a slower coffee-and-waterfront morning.
+*   **Duration:** Local Seattle day; no major driving required unless the group books a charter from Edmonds, Everett, or another nearby marina.
+*   **Afternoon:** If the weather is good, consider the Ballard Locks and Golden Gardens. If the weather is rough, pivot to Museum of Pop Culture, Chihuly Garden and Glass, or a long seafood lunch.
+*   **🍴 Food Spotlight:**
+    *   *Lunch:* Keep it seafood-forward around Ballard, Fremont, or the waterfront.
+    *   *Dinner:* Repeat the strongest Seattle seafood pick or go casual with local beer and fish tacos.
+*   **Accommodation:** ❓ *Unbooked* in Seattle, WA (See hotel tracks below).
+
+---
+
+### **October 17 (Saturday): Seattle to Vancouver, BC (Cross the International Border!)**
 
 > [!IMPORTANT]
 > **International Travel Requirement:** All travelers (Brian, Kenny, Jhon, Julius, and Melanie) **must have valid passports** ready for the Peace Arch border crossing into Canada. Be sure to check wait times online before arriving at the border!
@@ -146,18 +124,41 @@
 *   **9:00 AM:** Depart Seattle, driving north on Interstate 5 toward the US-Canada border.
 *   **Duration:** ~2.5 to 3 hours (140 miles) pure driving time (approx. 4 hours total elapsed travel time including the border crossing queue and stretch stops).
     *   [🗺️ View Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Seattle,+WA&destination=Vancouver,+BC,+Canada&travelmode=driving)
-*   **1:00 PM:** Arrive in beautiful **Vancouver, BC, Canada**. Head to historic **Gastown** to see the famous steam clock, then explore the gorgeous, tree-lined streets of the downtown peninsula.
+*   **1:00 PM:** Arrive in beautiful **Vancouver, BC, Canada**. Head to historic **Gastown** to see the famous steam clock, then explore the downtown peninsula.
 *   **🍴 Food Spotlight:**
     *   *Lunch:* Stop at **Granville Island Public Market** (just inside Vancouver) to graze on fresh local cheese, artisan snacks, or famous gourmet pot pies from **A la Mode**.
-    *   *Dinner:* Treat yourselves to **Miku Vancouver** (Coal Harbour), an iconic waterfront destination famous for introducing aburi (flame-seared) sushi to Canada, offering spectacular, panoramic mountain and ocean views. Alternatively, visit **The Acorn** (Main St) for a Michelin-recommended, exceptionally creative fine-dining vegetarian menu.
+    *   *Dinner:* Treat yourselves to **Miku Vancouver** (Coal Harbour), an iconic waterfront destination famous for introducing aburi sushi to Canada.
 *   **Accommodation:** ❓ *Unbooked* in Vancouver, BC (See hotel tracks below).
 
 ---
 
-### **October 20 (Tuesday): Vancouver Exploration & Scenic Drive to Seattle**
+### **October 18 (Sunday): Vancouver Full Day (Stanley Park, Markets & Food)**
 
-*   **9:30 AM – 1:30 PM: 🌲 Giant Forest Bridges & Public Markets**
-    *   Explore Vancouver's finest: walk the jaw-dropping **Capilano Suspension Bridge** (hanging 230 feet above the Capilano River canyon surrounded by ancient coastal Douglas firs), or keep it easy with Granville Island, Coal Harbour, and Stanley Park viewpoints before the border drive back.
+*   **Morning:** Explore **Stanley Park**, Coal Harbour, and the seawall viewpoints without making the day feel like a border-crossing blur.
+*   **Duration:** Local Vancouver day; no major driving required unless the group chooses North Shore activities.
+*   **Afternoon:** Granville Island, Gastown, or an easy coffee / food crawl downtown.
+*   **🍴 Food Spotlight:**
+    *   *Lunch:* Graze at Granville Island Public Market or choose a sushi spot downtown.
+    *   *Dinner:* Visit **The Acorn** for a Michelin-recommended, exceptionally creative vegetarian menu that works well for Mel.
+*   **Accommodation:** ❓ *Unbooked* in Vancouver, BC (See hotel tracks below).
+
+---
+
+### **October 19 (Monday): Vancouver Full Day (North Shore or City Deep Dive)**
+
+*   **Morning:** Choose **Capilano Suspension Bridge** or a more relaxed North Shore / Lynn Canyon style day.
+*   **Duration:** Local Vancouver day; plan extra time if crossing bridges to North Vancouver during commute hours.
+*   **Afternoon:** Keep the rest of the day open for shopping, waterfront wandering, or a second serious Vancouver meal.
+*   **🍴 Food Spotlight:**
+    *   *Lunch:* Casual sushi, ramen, or market food depending on the chosen neighborhood.
+    *   *Dinner:* Use this night for the group's top Vancouver reservation if Miku or The Acorn was not used earlier.
+*   **Accommodation:** ❓ *Unbooked* in Vancouver, BC (See hotel tracks below).
+
+---
+
+### **October 20 (Tuesday): Vancouver Morning + Scenic Drive to Seattle**
+
+*   **Morning:** Enjoy one final Vancouver breakfast or waterfront walk before returning to Seattle.
 *   **2:00 PM:** Depart Vancouver, driving south on Highway 99, crossing the border back into Washington, and joining I-5 S to Seattle.
 *   **Duration:** ~2.5 to 3 hours (140 miles) pure driving time (approx. 4 hours total elapsed travel time including the border queue).
     *   [🗺️ View Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Vancouver,+BC,+Canada&destination=Seattle,+WA&travelmode=driving)
@@ -186,10 +187,10 @@ This guide keeps the trip focused on what the group actually cares about: wine-c
 | **Solvang / Santa Ynez Valley** | Lunch Stop / Light Wine Tasting | Santa Ynez / Ballard Canyon wineries | Currently planned as a lunch stop only. Keep any tasting short and sober-driver-friendly before continuing to Santa Cruz. |
 | **SLO / Edna Valley** | Cool-Climate Wineries | [**Chamisal Vineyards**](https://chamisalvineyards.com/), [**Biddle Ranch Vineyard**](https://biddleranch.com/tasting-room/), [**Edna Valley Vineyard**](https://www.ednavalleyvineyard.com/visit/tasting-room) | Strong stop on the Solvang-to-Santa Cruz drive for Chardonnay, Pinot Noir, and a polished tasting-room setting near San Luis Obispo. |
 | **Paso Robles** | Bigger Reds / Estate Tastings | [**Robert Hall Winery**](https://www.roberthallwinery.com/visit/), [**Vina Robles**](https://vinarobles.com/visit), [**Paso Robles Chamber Taste Guide**](https://www.pasorobleschamber.com/visit-paso/taste/) | Better for Cabernet, Rhone blends, and a more classic Central Coast wine-country feel; adds more drive time than Edna Valley. |
-| **Napa Valley** | Premium Wine Detour | [**Visit Napa Valley Winery Map**](https://www.visitnapavalley.com/wineries/winery-map/), [**NapaValley.com Winery Map**](https://www.napavalley.com/maps/) | Works only as a deliberate detour on the long San Francisco-to-Crescent City day. Reservations are strongly recommended; hire a driver if doing more than one tasting. |
+| **Napa Valley** | Premium Wine Detour | [**Visit Napa Valley Winery Map**](https://www.visitnapavalley.com/wineries/winery-map/), [**NapaValley.com Winery Map**](https://www.napavalley.com/maps/) | Works only as a deliberate detour on the long Santa Cruz-to-Crescent City day. Reservations are strongly recommended; hire a driver if doing more than one tasting. |
 | **Fort Bragg / Noyo Harbor** | Visit Stop / Fishing Scout | [**Telstar Charters**](https://www.telstar-charters.com/) | Great harbor stop for seafood and scouting, but not currently an overnight. A real charter likely requires adding a Fort Bragg night or reshaping the route. |
-| **Crescent City** | Ocean Fishing | [**Crescent City Fishing**](https://crescentcityfishing.com/contact.html), [**Crescent City Fishing Charters**](https://crescentcityfishingcharters.com/) | Strongest fishing hub now that the group sleeps here for three nights. Confirm open seasons for salmon, halibut, albacore, rockfish, lingcod, and crab. |
-| **Seattle / Puget Sound** | Salmon / Sound Fishing | [**All Star Fishing Charters**](https://seattlefishing.com/), [**Tengu Charters**](https://www.tengucharters.com/) | Good final fishing option if the group wants a guided Puget Sound morning. Salmon seasons vary, and Seattle charters may depart from Seattle, Edmonds, or nearby marinas. |
+| **Crescent City** | Ocean Fishing | [**Crescent City Fishing**](https://crescentcityfishing.com/contact.html), [**Crescent City Fishing Charters**](https://crescentcityfishingcharters.com/) | Strong fishing hub, but the new Seattle/Vancouver-max plan leaves only one night here. A real charter likely requires sacrificing PNW time. |
+| **Seattle / Puget Sound** | Salmon / Sound Fishing | [**All Star Fishing Charters**](https://seattlefishing.com/), [**Tengu Charters**](https://www.tengucharters.com/) | Best fishing fit under the new route because Seattle has multiple nights. Salmon seasons vary, and charters may depart from Seattle, Edmonds, or nearby marinas. |
 
 ---
 
@@ -239,13 +240,12 @@ Select one cohesive track below to simplify booking, keep travel styles consiste
 | Stop | Hotel | Researched Cost Estimate | Watch-Outs |
 | :--- | :--- | :--- | :--- |
 | **Santa Cruz (Oct 10-12)** | [**Dream Inn Santa Cruz**](https://www.dreaminnsantacruz.com/) | Approx. **$2,040-$4,060** for 3 rooms or **$2,720-$5,410** for 4 rooms across 2 nights, after Santa Cruz taxes/fees. | Oceanfront and pricier. Parking approx. **$35-$40 + tax/car/night**. Two-queen rooms can fit 3 guys but no guaranteed rollaway. |
-| **San Francisco (Oct 12-13)** | [**Hotel Kabuki, JDV by Hyatt**](https://www.hyatt.com/en-US/hotel/california/hotel-kabuki/sfojd) | Refundable setup approx. **$1,190-$1,205** for 3 rooms or **$1,570-$1,590** for 4 rooms, after estimated taxes/fees. | Destination fee approx. **$40.69/room/night**. Parking approx. **$49/car/night**. |
-| **Crescent City (Oct 13-16)** | [**Curly Redwood Lodge**](https://www.curlyredwoodlodge.com/) | Approx. **$930-$1,029** for 3 rooms or about **$1,218** for 4 rooms across 3 nights, after 10% lodging tax and service fee. | Best value and has 3-bed suite options. Possible cash deposit; parking appears free. |
-| **Portland (Oct 16-18)** | [**Inn at Northrup Station**](https://www.northrupstation.com/) | Approx. **$1,176-$1,629** for 3 rooms or **$1,531-$2,134** for 4 rooms, after estimated Portland/Oregon lodging taxes. | 3-room plan works via double-queen/sofa suite; free parking is a major plus. |
-| **Seattle (Oct 18-19 & 20-21)** | [**Mediterranean Inn**](https://www.mediterraneaninn.com/) | Both Seattle nights combined: approx. **$1,386-$1,979** for 3 rooms or **$1,743-$2,490** for 4 rooms, after observed room taxes/fees. | Parking approx. **$36 + tax/car/night**. Double Queen is the realistic 3-guys room. |
-| **Vancouver (Oct 19-20)** | [**The Burrard**](https://theburrard.com/) | Standard-rate estimate approx. **CAD $1,160-$1,216** for 3 rooms or **CAD $1,499-$1,528** for 4 rooms after lodging taxes. | 3-room plan may need extra-person/cot charges. Parking approx. **CAD $29.50 + tax/car/night**. |
+| **Crescent City (Oct 12-13)** | [**Curly Redwood Lodge**](https://www.curlyredwoodlodge.com/) | Approx. **$310-$343** for 3 rooms or about **$406** for 4 rooms across 1 night, after 10% lodging tax and service fee. | Best value and has 3-bed suite options. Possible cash deposit; parking appears free. |
+| **Portland (Oct 13-14)** | [**Inn at Northrup Station**](https://www.northrupstation.com/) | Approx. **$588-$815** for 3 rooms or **$766-$1,067** for 4 rooms, after estimated Portland/Oregon lodging taxes. | 3-room plan works via double-queen/sofa suite; free parking is a major plus. |
+| **Seattle (Oct 14-17 & 20-21)** | [**Mediterranean Inn**](https://www.mediterraneaninn.com/) | All 4 Seattle nights combined: approx. **$2,772-$3,958** for 3 rooms or **$3,486-$4,980** for 4 rooms, after observed room taxes/fees. | Parking approx. **$36 + tax/car/night**. Double Queen is the realistic 3-guys room. |
+| **Vancouver (Oct 17-20)** | [**The Burrard**](https://theburrard.com/) | Standard-rate estimate approx. **CAD $3,480-$3,648** for 3 rooms or **CAD $4,497-$4,584** for 4 rooms after lodging taxes. | 3-room plan may need extra-person/cot charges. Parking approx. **CAD $29.50 + tax/car/night**. |
 
-**Track 1 planning total:** approx. **$7,600-$10,800** for the 3-room minimum plan, or **$9,900-$14,700** for the 4-room comfort plan, before parking.
+**Track 1 planning total:** approx. **$8,300-$11,800** for the 3-room minimum plan, or **$10,700-$15,200** for the 4-room comfort plan, before parking. Canadian-dollar rows are rough USD-equivalent in the total.
 
 ---
 
@@ -255,13 +255,12 @@ Select one cohesive track below to simplify booking, keep travel styles consiste
 | Stop | Hotel | Researched Cost Estimate | Watch-Outs |
 | :--- | :--- | :--- | :--- |
 | **Santa Cruz (Oct 10-12)** | [**Hampton Inn Santa Cruz West**](https://www.hilton.com/en/hotels/sjcmshx-hampton-santa-cruz-west/) | Approx. **$1,540-$2,072** for 3 rooms or **$2,052-$2,762** for 4 rooms across 2 nights, after taxes/fees. | Free self-parking. 2-queen rooms can fit 3 guys but still only two beds. |
-| **San Francisco (Oct 12-13)** | [**Hilton San Francisco Financial District**](https://www.hilton.com/en/hotels/sfofdhf-hilton-san-francisco-financial-district/) | Approx. **$1,642-$1,924** for 3 rooms or **$2,189-$2,566** for 4 rooms after estimated taxes. | ⚠️ One-night availability looked restricted; confirm direct. Parking approx. **$74.10/car/day**. |
-| **Crescent City (Oct 13-16)** | *Points Track Alternative:* [**Best Western Plus Northwoods Inn**](https://www.bestwestern.com/en_US/book/hotel-rooms.05435.html) | Approx. **$1,485-$1,935** for 3 rooms or **$1,980-$2,250** for 4 standard rooms across 3 nights, after estimated 11% tax. | Cancellability language looked inconsistent, so verify at checkout. Free parking; possible incidental hold. |
-| **Portland (Oct 16-18)** | [**Hampton Inn & Suites Portland-Pearl District**](https://www.hilton.com/en/hotels/pdxpdhx-hampton-suites-portland-pearl-district/) | Approx. **$1,160-$1,810** for 3 rooms or **$1,346-$1,995** for 4 rooms after estimated lodging taxes/TID. | Good room fit if booking a 2 Queen Studio Suite with sofa bed. Valet approx. **$50/car/night**. |
-| **Seattle (Oct 18-19 & 20-21)** | [**Hampton Inn & Suites Seattle-Downtown**](https://www.hilton.com/en/hotels/seadthx-hampton-suites-seattle-downtown/) | Both Seattle nights combined: approx. **$1,189-$1,480** for 3 rooms or **$1,586-$1,973** for 4 rooms after estimated taxes/charges. | Parking approx. **$40/car/day**. 57k Hilton points/night visible for Oct 18. |
-| **Vancouver (Oct 19-20)** | [**Hilton Vancouver Downtown**](https://www.hilton.com/en/hotels/yvrwghh-hilton-vancouver-downtown/) | Approx. **CAD $1,340 / USD $975** for 3 rooms or **CAD $1,745-$1,775 / USD $1,268-$1,290** for 4 rooms after taxes. | 80k Hilton points/night visible for standard rooms. Parking approx. **CAD $46 self / CAD $53 valet**. |
+| **Crescent City (Oct 12-13)** | *Points Track Alternative:* [**Best Western Plus Northwoods Inn**](https://www.bestwestern.com/en_US/book/hotel-rooms.05435.html) | Approx. **$495-$645** for 3 rooms or **$660-$750** for 4 standard rooms across 1 night, after estimated 11% tax. | Cancellability language looked inconsistent, so verify at checkout. Free parking; possible incidental hold. |
+| **Portland (Oct 13-14)** | [**Hampton Inn & Suites Portland-Pearl District**](https://www.hilton.com/en/hotels/pdxpdhx-hampton-suites-portland-pearl-district/) | Approx. **$580-$905** for 3 rooms or **$673-$998** for 4 rooms after estimated lodging taxes/TID. | Good room fit if booking a 2 Queen Studio Suite with sofa bed. Valet approx. **$50/car/night**. |
+| **Seattle (Oct 14-17 & 20-21)** | [**Hampton Inn & Suites Seattle-Downtown**](https://www.hilton.com/en/hotels/seadthx-hampton-suites-seattle-downtown/) | All 4 Seattle nights combined: approx. **$2,378-$2,960** for 3 rooms or **$3,172-$3,946** for 4 rooms after estimated taxes/charges. | Parking approx. **$40/car/day**. Points inventory needs re-check across the new split stay. |
+| **Vancouver (Oct 17-20)** | [**Hilton Vancouver Downtown**](https://www.hilton.com/en/hotels/yvrwghh-hilton-vancouver-downtown/) | Approx. **CAD $4,020 / USD $2,925** for 3 rooms or **CAD $5,235-$5,325 / USD $3,804-$3,870** for 4 rooms after taxes. | 80k Hilton points/night was visible in the original check; re-check across 3 nights. Parking approx. **CAD $46 self / CAD $53 valet**. |
 
-**Track 2 planning total:** approx. **$8,000-$10,200** for the 3-room minimum plan, or **$10,400-$12,800** for the 4-room comfort plan, before parking.
+**Track 2 planning total:** approx. **$7,900-$9,500** for the 3-room minimum plan, or **$10,400-$12,300** for the 4-room comfort plan, before parking.
 
 ---
 
@@ -270,11 +269,10 @@ Select one cohesive track below to simplify booking, keep travel styles consiste
 
 | Stop | Hotel | Researched Cost Estimate | Watch-Outs |
 | :--- | :--- | :--- | :--- |
-| **Santa Cruz (Oct 10-12)** | [**Hotel Paradox, Autograph Collection**](https://www.marriott.com/en-us/hotels/sjcak-hotel-paradox-autograph-collection/) | Approx. **$1,360-$1,640** for 3 rooms or **$1,780-$2,090** for 4 rooms across 2 nights, after taxes/fees. | 46k Marriott points/stay visible. Parking approx. **$28/day**. |
-| **San Francisco (Oct 12-13)** | [**Palace Hotel, a Luxury Collection Hotel**](https://www.marriott.com/en-us/hotels/sfolc-palace-hotel-a-luxury-collection-hotel-san-francisco/) | Approx. **$2,841-$3,243** for 3 rooms or **$3,788-$4,324** for 4 rooms after taxes/fees. | ⚠️ Gorgeous but by far the splurge. Includes approx. **$40 daily destination fee/room**. Valet approx. **$89/day**. |
-| **Crescent City (Oct 13-16)** | *Marriott Track Alternative:* [**Oceanfront Lodge**](https://www.oceanfrontlodge.com/) | Approx. **$1,356-$1,881** for 3 rooms or **$1,809-$2,283** for 4 rooms across 3 nights, after 10% tax. | Family suite with 2 queens + futon is the cleaner 3-guys option. Free parking; breakfast may cost extra. |
-| **Portland (Oct 16-18)** | [**Residence Inn Portland Downtown/Pearl District**](https://www.marriott.com/en-us/hotels/pdxpd-residence-inn-portland-downtown-pearl-district/) | Approx. **$1,359-$1,384** for 3 rooms or about **$1,752** for 4 rooms after Expedia taxes/fees. | Strong suite layout; valet/covered parking around **$55-$59/night**. |
-| **Seattle (Oct 18-19 & 20-21)** | [**Residence Inn Seattle Downtown/Lake Union**](https://www.marriott.com/en-us/hotels/sealu-residence-inn-seattle-downtown-lake-union/) | Both Seattle nights combined: approx. **$2,520** for 3 rooms or **$3,048** for 4 rooms after room taxes/fees. | 3-room plan uses a shared 2BR suite for the guys. Parking approx. **$41 + tax/car/night**. |
-| **Vancouver (Oct 19-20)** | [**Delta Hotels Vancouver Downtown Suites**](https://www.marriott.com/en-us/hotels/yvrdv-delta-hotels-vancouver-downtown-suites/) | Approx. **CAD $1,623-$2,131 / USD $1,185-$1,556** for 3 rooms or **CAD $2,164-$2,841 / USD $1,580-$2,074** for 4 rooms after Vancouver lodging taxes. | 52k Marriott points/stay visible. Parking approx. **CAD $52/day**. |
+| **Santa Cruz (Oct 10-12)** | [**Hotel Paradox, Autograph Collection**](https://www.marriott.com/en-us/hotels/sjcak-hotel-paradox-autograph-collection/) | Approx. **$1,360-$1,640** for 3 rooms or **$1,780-$2,090** for 4 rooms across 2 nights, after taxes/fees. | Points inventory needs re-check across the updated dates. Parking approx. **$28/day**. |
+| **Crescent City (Oct 12-13)** | *Marriott Track Alternative:* [**Oceanfront Lodge**](https://www.oceanfrontlodge.com/) | Approx. **$452-$627** for 3 rooms or **$603-$761** for 4 rooms across 1 night, after 10% tax. | Family suite with 2 queens + futon is the cleaner 3-guys option. Free parking; breakfast may cost extra. |
+| **Portland (Oct 13-14)** | [**Residence Inn Portland Downtown/Pearl District**](https://www.marriott.com/en-us/hotels/pdxpd-residence-inn-portland-downtown-pearl-district/) | Approx. **$680-$692** for 3 rooms or about **$876** for 4 rooms after Expedia taxes/fees. | Strong suite layout; valet/covered parking around **$55-$59/night**. |
+| **Seattle (Oct 14-17 & 20-21)** | [**Residence Inn Seattle Downtown/Lake Union**](https://www.marriott.com/en-us/hotels/sealu-residence-inn-seattle-downtown-lake-union/) | All 4 Seattle nights combined: approx. **$5,040** for 3 rooms or **$6,096** for 4 rooms after room taxes/fees. | 3-room plan uses a shared 2BR suite for the guys. Parking approx. **$41 + tax/car/night**. |
+| **Vancouver (Oct 17-20)** | [**Delta Hotels Vancouver Downtown Suites**](https://www.marriott.com/en-us/hotels/yvrdv-delta-hotels-vancouver-downtown-suites/) | Approx. **CAD $4,869-$6,393 / USD $3,555-$4,668** for 3 rooms or **CAD $6,492-$8,523 / USD $4,740-$6,222** for 4 rooms after Vancouver lodging taxes. | Points inventory needs re-check across 3 nights. Parking approx. **CAD $52/day**. |
 
-**Track 3 planning total:** approx. **$10,850-$13,150** for the 3-room minimum plan, or **$14,950-$17,100** for the 4-room comfort plan, before parking.
+**Track 3 planning total:** approx. **$11,100-$12,700** for the 3-room minimum plan, or **$14,100-$16,000** for the 4-room comfort plan, before parking.

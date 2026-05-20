@@ -2,8 +2,6 @@
 
 **Travelers:** Brian, Kenny, Jhon, Julius, and Melanie.
 
-**Verified by Google Antigravity:** We have checked and verified all food spots, wineries, and hotel tracks. Every single listed option is confirmed active, open, highly reviewed as of May 2026, and aligned with Melanie's pescatarian needs and the group's budget. Detailed cost comparison, VRBO alternatives, and curated price ranges for all dining options are now fully integrated.
-
 **Dietary Restrictions:** Melanie is pescatarian. Keep seafood and vegetarian/pescatarian-friendly meals available throughout the route, and avoid assuming meat-heavy restaurants work unless there are strong non-meat options.
 
 **Mega Route Map:** [🗺️ Visualize the rough full road trip on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Hacienda+Heights,+CA&destination=Seattle-Tacoma+International+Airport,+WA&waypoints=Solvang,+CA%7CSanta+Cruz,+CA%7CSan+Francisco,+CA%7CNapa+Valley,+CA%7CFort+Bragg,+CA%7CCrescent+City,+CA%7CPortland,+OR%7CSeattle,+WA%7CVancouver,+BC,+Canada%7CSeattle,+WA&travelmode=driving)
@@ -317,4 +315,3 @@ Select one cohesive track below to simplify booking, keep travel styles consiste
 | **Vancouver (Oct 17-20)** | **4-Bedroom Modern Townhome / Character House** (e.g., Mount Pleasant, Kitsilano, or East Vancouver) | Approx. **450 – 850 CAD / night** (Total: **1,300 – 2,600 USD / 1,800 – 3,500 CAD** for 3 nights, including fees). | Fantastic neighborhood feels. Free residential parking is common. Check Canada-specific entry rules and host communications early. |
 
 **Track 5 planning total:** approx. **7,600 – 11,700 USD** for a full VRBO stay across all 11 road trip nights.
-

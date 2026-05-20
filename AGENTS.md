@@ -13,6 +13,8 @@ Keep a running change log in `JOURNAL.md`. When making meaningful changes, add a
 
 Before editing, check `git status` and preserve work from other agents or humans. Do not overwrite unrelated changes. If another agent's edit conflicts with yours, reconcile it in the files and note the decision in `JOURNAL.md`.
 
+When a user asks for a change and the agent completes it, verify the work, commit it, and push it to the remote as soon as practical unless the user explicitly says not to commit or push. Do not leave finished requested edits sitting only in the local working tree.
+
 ## Road Trip Planning Workspace
 
 This repository has been fully rebased as a planning workspace for the **2026 Coastal California & Pacific Northwest Road Trip** for five friends (Brian, Kenny, Jhon, Julius, and Melanie), traveling from October 10–21, 2026.

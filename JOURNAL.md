@@ -42,6 +42,11 @@ Running notes for trip-planning changes made by humans and coding agents.
 - Codex compressed the middle of the route after the user clarified that the group wants to maximize time in Seattle and Vancouver. The revised lodging pattern is Santa Cruz Oct 10-12, Crescent City Oct 12-13, Portland Oct 13-14, Seattle Oct 14-17 and Oct 20-21, and Vancouver Oct 17-20.
 - Updated hotel cost tables by prorating the previous research against the new night counts. Follow-up: Google Antigravity should re-check live checkout pricing and inventory before booking, especially for the split Seattle stay and 3-night Vancouver stay.
 
+### Repository Hygiene and Agent Instructions
+
+- Codex removed an overconfident Google Antigravity verification statement from the itinerary because the options still need live re-checking before booking.
+- Codex updated `AGENTS.md` to instruct future agents to verify, commit, and push completed requested changes promptly unless the user explicitly says not to.
+
 ### Verified Food & Lodging Options & VRBO Vacation Rental Track
 
 - Antigravity completed the "TODO for Google Antigravity" at the top of the itinerary, thoroughly verifying all 23 listed restaurant/food spots and all 15 hotels. Confirmed they are active, highly rated, open, and aligned with Melanie's pescatarian needs and the group's budget.
@@ -69,4 +74,3 @@ Running notes for trip-planning changes made by humans and coding agents.
 
 - Antigravity cleaned up all standard dollar signs (`$`) in the itinerary file to prevent conflicts with LaTeX math-mode parsing in the Antigravity markdown renderer (which caused tables to break and text to become italicized or missing).
 - Replaced raw dollar signs with math-mode-safe `USD`, `CAD`, and `💲` symbols across the Master Dine & Sip directory, lodging Quick Lodging comparison table, hotel track pricing tables, VRBO estimates, and total planning estimates.
-

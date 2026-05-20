@@ -1,5 +1,20 @@
 # AGENTS.md
 
+## Agent Coordination
+
+This repo is expected to be edited by coding agents. Codex is editing it, and Antigravity, Google's coding agent, may also edit it. Get along, bots.
+
+Keep a running change log in `JOURNAL.md`. When making meaningful changes, add a short dated entry with:
+
+- who/what made the change, if known
+- what changed
+- why it changed
+- any follow-up or uncertainty
+
+Before editing, check `git status` and preserve work from other agents or humans. Do not overwrite unrelated changes. If another agent's edit conflicts with yours, reconcile it in the files and note the decision in `JOURNAL.md`.
+
+All agents should be aware of the local JSON dumps in `data/celebrity-shorex/`. They are not throwaway cache files; they are the main captured data source for shore excursion analysis, copy analysis, price comparisons, stock checks, and future itinerary recommendations. Prefer reading these local JSON files before re-scraping or re-querying Celebrity.
+
 ## Celebrity Cruises API Notes
 
 The shore excursion data in `data/celebrity-shorex/` came from the authenticated Celebrity Cruises Cruise Planner web app for the July 24, 2026 Celebrity Edge sailing.

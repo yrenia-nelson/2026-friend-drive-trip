@@ -11,9 +11,9 @@
 ### **July 17 (Friday Morning): The Early Dawn Drive**
 
 * **4:00 AM:** Nelson and Yrenia depart from Yrenia's house (**9351 E Villa Vista Way, Villa Park, CA 92861**). (An early start lets you beat all LA traffic, clear the Grapevine before it gets hot, and catch a beautiful sunrise on the road).  
-* **Duration:** \~6 hours 15 mins (370 miles) to Union City.  
+* **Duration:** \~6 hours 15 mins (370 miles) pure driving time (approx. 6.5 to 7 hours total elapsed travel time including quick stretch and gas stops).  
   * [🗺️ View Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=9351+E+Villa+Vista+Way,+Villa+Park,+CA+92861&destination=353+Monaco+Ave,+Union+City,+CA+94587&travelmode=driving)  
-* **10:15 AM:** Arrive at Aunt's house with the whole day ahead of you to relax and visit.  
+* **10:45 AM – 11:00 AM:** Arrive at Aunt's house with the whole day ahead of you to relax and visit. (Calculated with quick stretch/gas stops; lunch will be after arrival).  
 * **🍴 Food Spotlight:**
   * *Lunch Idea:* Grab a casual bite nearby, like **Sizzling Lunch** (Union City) for fun, interactive hot-plate pepper rice/noodles, or **Senoia Tea House** (Fremont) for fresh, vegetarian-friendly Asian fusion.
   * *Dinner Idea:* Family dinner in the East Bay. Excellent group-friendly pescatarian options include **Dough Zone Dumpling House** (Fremont) for crab & pork xiao long bao, sweet & sour cucumber salad (avoiding wood-ear mushroom), and dan dan noodles, or **Grand Harbor** (Fremont) for dim sum and fresh Cantonese seafood.
@@ -22,13 +22,13 @@
 ### **July 18 (Saturday): Road to Crater Lake & A Relaxed Evening**
 
 * **10:00 AM:** Depart Union City for Crater Lake National Park. (Sleep in a bit and grab breakfast first\!).  
-* **Duration:** \~7.5 hours (425 miles) via I-5 N and US-97 N.  
+* **Duration:** \~7.5 hours (425 miles) pure driving time (approx. 8.5 hours total elapsed travel time including a 1-hour lunch break in Redding and quick gas stops).  
   * [🗺️ View Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=353+Monaco+Ave,+Union+City,+CA+94587&destination=Crater+Lake+National+Park&travelmode=driving)  
 * **🍴 Food Spotlight:**
   * *Lunch on the Road:* Stop in **Redding, CA** (\~4 hours from Union City). Excellent spots: **Wilda's Grill** (famous for their delicious vegetarian/vegan "Buddha Bowls" with peanut sauce, falafel wraps, and salads) or **Café Paradisio** for fresh seasonal salads, sandwiches, and seafood options.
   * *Dinner:* **Beckie's Cafe** at Union Creek Resort (famous for homemade pies; excellent classic wild-caught fish & chips, trout, and vegetarian options) or the historic **Crater Lake Lodge Dining Room** (overlooking the lake, reservations highly recommended; features steel-head trout, Oregon wild salmon, and creative vegetarian risottos).
-* **5:30 PM – 6:00 PM:** Arrive at Crater Lake. Check into your lodging and unpack.  
-* **6:30 PM:** Head up to the Crater Lake Rim for a relaxed evening drive to see the lake at golden hour, then grab a hearty dinner. No strenuous activities tonight—just rest up for hiking tomorrow.  
+* **6:30 PM:** Arrive at Crater Lake. Check into your lodging and unpack. (Calculated with a 1-hour lunch and stop buffer).  
+* **7:00 PM:** Head up to the Crater Lake Rim for a relaxed evening drive to see the lake at golden hour, then grab a hearty dinner. No strenuous activities tonight—just rest up for hiking tomorrow.  
 * **Accommodation:** ❓ *Unbooked* near Crater Lake (See hotel tracks below).
 
 ### **July 19 (Sunday): Morning Hikes & Drive to Portland**
@@ -48,9 +48,9 @@
   * *Lunch:* Grab a quick grab-and-go bite at the **Rim Village Cafe** (wraps, salads, and snacks) to picnic at one of the overlooks, or stop in **Eugene, OR** (via OR-58 W) for lunch at **Cafe Yumm!** (legendary Oregon-born warm grain and rice bowls with signature Yumm! Sauce—highly customizable and pescatarian/vegan-friendly) or **Fisherman's Market** (incredible casual, legendary local fish market and diner).
   * *Dinner (Portland Welcome Dinner):* **Jacqueline** (Southeast Portland) — A stunning, cozy neighborhood gem with a lovely retro-aesthetic, showcasing exceptionally fresh Pacific Northwest oysters, Dungeness crab, and creative seafood dishes. *Or* **Arden** (Pearl District) for a sophisticated, wine-focused chic dining experience with brilliant pescatarian-friendly small plates.
 * **2:00 PM:** Depart for Portland, OR.  
-* **Duration:** \~4.5 \- 5 hours (250 miles).  
+* **Duration:** \~4.5 \- 5 hours (250 miles) pure driving time (approx. 5.5 hours total elapsed travel time including a 30-minute stretch/snack stop).  
   * [🗺️ View Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Crater+Lake+National+Park&destination=Portland,+OR&travelmode=driving)  
-* **7:00 PM:** Check into hotel in Portland (3 Nights).  
+* **7:30 PM:** Check into hotel in Portland (3 Nights). (Calculated with a 30-minute stop buffer).  
 * **Accommodation:** ❓ *Unbooked* in Portland (See hotel tracks below).
 
 ### **July 20 (Monday): Portland Japanese Garden**
@@ -75,9 +75,9 @@
 ### **July 22 (Wednesday): Travel Day to Seattle (Near the Pier)**
 
 * **10:00 AM:** Depart Portland for your hotel in Seattle (Lower Queen Anne / Uptown).  
-* **Duration:** \~3 hours (175 miles) via I-5 N.  
+* **Duration:** \~3 hours (175 miles) pure driving time (approx. 4 hours total elapsed travel time including a 1-hour sit-down lunch break in Olympia).  
   * [🗺️ View Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Portland,+OR&destination=Queen+Anne,+Seattle,+WA&travelmode=driving)  
-* **1:30 PM:** Arrive in Seattle, check into your hotel, and enjoy having the Space Needle right in your backyard\!  
+* **2:00 PM:** Arrive in Seattle, check into your hotel, and enjoy having the Space Needle right in your backyard\! (Calculated with a 1-hour lunch break).  
 * **🍴 Food Spotlight:**
   * *Lunch on the Road:* Stop in **Olympia, WA** (\~2 hours from Portland). Grab fresh fish tacos, oysters, or comforting seafood chowder at **Chelsea Farms Oyster Bar** (beautifully chic oyster bar in downtown Olympia) or **Olympia Seafood Co.** for a quick, high-quality, casual bayfront seafood lunch.
   * *Dinner (Lower Queen Anne / Uptown):* **Taylor Shellfish Oyster Bar** (Queen Anne location right next to the Space Needle) — The ultimate "tide-to-table" Seattle experience, offering oysters, steamed mussels and clams, geoduck sashimi, and fresh Dungeness crab in a lively, modern space. *Or* **Toulouse Petit** (Lower Queen Anne) for a high-energy, beautiful Creole-French dinner featuring shrimp and grits, Dungeness crab beignets, and fresh shellfish.
@@ -148,8 +148,9 @@ These are **unbooked research notes** for Nelson and Yrenia. Sled dog activities
 ### **July 31 (Friday): Disembarkation & The Long Haul South**
 
 * **8:30 AM:** Disembark the *Celebrity Edge* in Seattle. Nelson and Yrenia pick up the car and start the drive south; confirm Mom and Brother's post-cruise flight / transfer plans separately.  
-* **Duration:** \~13.5 hours (815 miles) back to Union City, CA.  
+* **Duration:** \~13.5 hours (815 miles) pure driving time (approx. 15.5 hours total elapsed travel time including a 1-hour lunch break in Eugene, a 45-minute dinner break in Medford or Redding, and brief fuel/stretch stops).  
   * [🗺️ View Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Pier+91+Smith+Cove+Cruise+Terminal,+Seattle,+WA&destination=353+Monaco+Ave,+Union+City,+CA+94587&travelmode=driving)  
+* **12:00 AM (Midnight):** Arrive in Union City. (Calculated with lunch, dinner, and fuel stops).  
 * **🍴 Food Spotlight:**
   * *Lunch on the Road:* Stop in **Eugene, OR** (\~4.5 hours south of Seattle). Grab quick, healthy customizable bowls with Yumm! Sauce at **Cafe Yumm!** (perfect for road trips), or grab fresh local fish tacos/sandwiches at **Fisherman's Market**.
   * *Dinner on the Road:* If dinner lands in **Medford, OR**, stop at **4 Daughters Irish Pub** (hearty fish & chips or veggie burgers). If dinner lands in **Redding, CA** (\~2 hours south of Medford), head to **Mosaic** (located right next to the beautiful Sundial Bridge; modern Italian-American with excellent wood-fired salmon, fresh seasonal pastas, and gourmet pizzas).
@@ -158,7 +159,7 @@ These are **unbooked research notes** for Nelson and Yrenia. Sled dog activities
 ## **August 1 \- 2 (Sat/Sun): The Final Stretch Home**
 
 * **Activity:** Rest in Union City, then make the final drive back down south.  
-* **Duration:** \~6 hours (370 miles) back to Yrenia's house.  
+* **Duration:** \~6 hours (370 miles) pure driving time (approx. 7 hours total elapsed travel time including a 45-minute lunch break and quick stretch stops).  
   * [🗺️ View Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=353+Monaco+Ave,+Union+City,+CA+94587&destination=9351+E+Villa+Vista+Way,+Villa+Park,+CA+92861&travelmode=driving)  
 * **Accommodation:** Home sweet home at **9351 E Villa Vista Way, Villa Park, CA 92861**\!
 

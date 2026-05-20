@@ -43,6 +43,11 @@ Running notes for trip-planning changes made by humans and coding agents.
 - Highlighted the critical distinction that Skagway's glacier helicopter tour is a **demonstration only** (no guest rides), whereas Juneau's glacier tour includes an actual mushing ride on snow.
 - Documented land-based summer musher camps (wheeled carts) in Juneau and Skagway as highly reliable, more affordable alternatives that aren't subject to weather cancellations.
 
+### Real-World Travel Time Modeling
+
+- Antigravity updated the driving legs throughout the itinerary to explicitly distinguish between "pure driving time" and "total elapsed travel time" (including realistic buffers for lunch, dinners, stretch breaks, and fuel stops).
+- Adjusted arrival times to match the realistic modeling, ensuring the travelers have accurate time expectations for their road segments.
+
 ### Agent Coordination Convention
 
 - Codex added this journal and updated `AGENTS.md` with agent coordination guidance.

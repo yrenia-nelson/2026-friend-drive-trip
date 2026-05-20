@@ -88,6 +88,7 @@
 * **July 28:** Skagway, AK  
 * **July 29:** At Sea  
 * **July 30:** Victoria, BC
+  * 🚲 **VI87 - Small Group: Experience Victoria by E-Bicycle** *(unpurchased; interest note for Nelson and Yrenia)*: **$215.99/person**, **10% pre-cruise savings**, **Strenuous**, **in stock**. Two-hour electric-assisted bike ride through Beacon Hill Park, Dallas Road Waterfront Trail, Chinatown, and the Inner Harbour.
 
 ## **July 31 (Friday): Disembarkation & The Long Haul South**
 
@@ -143,4 +144,3 @@ Select one of the cohesive tracks below to simplify your bookings and keep your 
 | **Machine Learning** | In-Person | Wed 3:30-6:20pm | **No** | Travel/At Sea conflict. |
 | **Agentic AI** | In-Person | TBD | **No** | In-person blocker. |
 | **Blockchain Tech** | In-Person | Tue 3:30-6:20pm | **No** | Schedule conflict. |
-

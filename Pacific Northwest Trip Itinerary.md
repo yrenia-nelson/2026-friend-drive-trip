@@ -24,8 +24,8 @@
     *   [🗺️ Solvang to Santa Cruz](https://www.google.com/maps/dir/?api=1&origin=Solvang,+CA&destination=Santa+Cruz,+CA&travelmode=driving)
 *   **11:30 AM:** Arrive in the storybook Danish village of **Solvang, CA** for lunch only. Check out the windmills, walk the half-timbered streets, and soak in the wine country air before continuing north.
 *   **🍴 Food Spotlight:**
-    *   *Lunch:* Grab a table at **Paula's Pancake House** for their famous, paper-thin Danish pancakes served with warm berries, or head to **Solvang Restaurant** to try traditional *Aebleskiver* (sweet, spherical Danish puff pastries dusted with powdered sugar and raspberry jam).
-    *   *Dinner:* Treat yourselves to **Shadowbrook Restaurant** in Capitola (just next to Santa Cruz). This historic, multi-tiered restaurant is set in a steep, lush redwood forest canyon. You ride a red cable car funicular down to the riverside dining room, where they serve spectacular wild-caught salmon, prime rib, and an extensive local wine list.
+    *   *Lunch:* Grab a table at [**Paula's Pancake House**](https://www.paulaspancakehouse.com/) ([🗺️ Map](https://maps.google.com/?q=Paula's+Pancake+House+Solvang+CA) \| [📖 Menu](https://www.paulaspancakehouse.com/menu)) for their famous, paper-thin Danish pancakes served with warm berries, or head to [**Solvang Restaurant**](https://solvangrestaurant.com/) ([🗺️ Map](https://maps.google.com/?q=Solvang+Restaurant+Solvang+CA) \| [📖 Menu](https://solvangrestaurant.com/menu/)) to try traditional *Aebleskiver* (sweet, spherical Danish puff pastries dusted with powdered sugar and raspberry jam).
+    *   *Dinner:* Treat yourselves to [**Shadowbrook Restaurant**](https://shadowbrook-capitola.com/) ([🗺️ Map](https://maps.google.com/?q=Shadowbrook+Restaurant+Capitola+CA) \| [📖 Menu](https://shadowbrook-capitola.com/dinner-menu/)) in Capitola (just next to Santa Cruz). This historic, multi-tiered restaurant is set in a steep, lush redwood forest canyon. You ride a red cable car funicular down to the riverside dining room, where they serve spectacular wild-caught salmon, prime rib, and an extensive local wine list.
 *   **🍷 Winery Angle:** Keep Solvang wine tasting light unless there is a designated driver. If SLO / Edna Valley wineries matter more, skip a long Solvang linger and stop farther north in the afternoon.
 *   **Accommodation:** ❓ *Unbooked* in Santa Cruz, CA (See hotel tracks below).
 
@@ -41,8 +41,8 @@
 *   **Afternoon:** Drive across the Golden Gate Bridge, explore the Ferry Building, or keep the visit simple with one strong neighborhood stop before returning to Santa Cruz. No San Francisco hotel.
 *   **🍷 SLO / Paso Winery Detour Reality Check:** The main chance for **SLO / Edna Valley** or **Paso Robles** wineries is now on the October 10 drive north, not as a separate overnight. For a coastal SLO feel, consider [**Chamisal Vineyards**](https://chamisalvineyards.com/), [**Biddle Ranch Vineyard**](https://biddleranch.com/tasting-room/), or [**Edna Valley Vineyard**](https://www.ednavalleyvineyard.com/visit/tasting-room). For bigger reds, look at [**Robert Hall Winery**](https://www.roberthallwinery.com/visit/) or [**Vina Robles**](https://vinarobles.com/visit) in Paso Robles. Add approx. 1.5 to 2.5 hours to the Oct 10 elapsed travel day if the group actually does this.
 *   **🍴 Food Spotlight:**
-    *   *Lunch on the Road:* Stop at **Sam's Chowder House** in **Half Moon Bay**, perched high on a cliff overlooking the crashing waves. Enjoy their award-winning warm, buttered Maine lobster rolls, house-made New England clam chowder, and fish tacos.
-    *   *Dinner:* For the SF meal, choose **Greens Restaurant** (Fort Mason) for an especially Mel-friendly upscale vegetarian/pescatarian-compatible option with Golden Gate views, or **Hog Island Oyster Co.** in the Ferry Building for oysters, steamed clams, and seafood. Return to Santa Cruz afterward.
+    *   *Lunch on the Road:* Stop at [**Sam's Chowder House**](https://www.samschowderhouse.com/) ([🗺️ Map](https://maps.google.com/?q=Sam's+Chowder+House+Half+Moon+Bay+CA) \| [📖 Menu](https://www.samschowderhouse.com/menus)) in **Half Moon Bay**, perched high on a cliff overlooking the crashing waves. Enjoy their award-winning warm, buttered Maine lobster rolls, house-made New England clam chowder, and fish tacos.
+    *   *Dinner:* For the SF meal, choose [**Greens Restaurant**](https://greensrestaurant.com/) ([🗺️ Map](https://maps.google.com/?q=Greens+Restaurant+San+Francisco+CA) \| [📖 Menu](https://greensrestaurant.com/)) (Fort Mason) for an especially Mel-friendly upscale vegetarian/pescatarian-compatible option with Golden Gate views, or [**Hog Island Oyster Co.**](https://hogislandoysters.com/) ([🗺️ Map](https://maps.google.com/?q=Hog+Island+Oyster+Co+Ferry+Building+San+Francisco+CA) \| [📖 Menu](https://hogislandoysters.com/locations/san-francisco)) in the Ferry Building for oysters, steamed clams, and seafood. Return to Santa Cruz afterward.
 *   **Accommodation:** ❓ *Unbooked* in Santa Cruz, CA (See hotel tracks below).
 
 ---
@@ -59,8 +59,8 @@
     *   💬 *Kenny's Note / Friends Decision:* Kenny asked: *"how far up the park you all want to go? An hour and a half from the glass beach is the drive through tree."* The group needs to decide how far up into the redwood parks they want to explore or hike here, balancing daylight against the remaining 3-hour drive north to Crescent City.
 *   **🎣 Fishing Angle:** Fort Bragg's Noyo Harbor is one of the better fishing fits on the route, but without a Fort Bragg overnight it is more useful as a scouting/food stop than a charter base. [**Telstar Charters**](https://www.telstar-charters.com/) is worth saving only if the group later decides to add a Fort Bragg night.
 *   **🍴 Food Spotlight:**
-    *   *Lunch on the Road:* Stop in **Boonville** (Anderson Valley redwoods) at the **Boonville General Store** for organic local goat cheese paninis, hot soups, and fresh bakery treats.
-    *   *Early Dinner / Late Lunch:* Head to historic **Noyo Harbor** in Fort Bragg for **Princess Seafood Restaurant** if timing works. This highly rated, female-owned spot serves exceptionally fresh, dockside-casual catches including local dungeness crab rolls, grilled rockfish, and wild salmon plates on their harbor patio.
+    *   *Lunch on the Road:* Stop in **Boonville** (Anderson Valley redwoods) at the **Boonville General Store** ([🗺️ Map](https://maps.google.com/?q=Boonville+General+Store+Boonville+CA) \| 📞 (707) 895-9477) for organic local goat cheese paninis, hot soups, and fresh bakery treats.
+    *   *Early Dinner / Late Lunch:* Head to historic **Noyo Harbor** in Fort Bragg for [**Princess Seafood Restaurant**](https://www.princessseafoodmarket.com/) ([🗺️ Map](https://maps.google.com/?q=Princess+Seafood+Restaurant+Fort+Bragg+CA) \| [📖 Menu](https://www.princessseafoodmarket.com/restaurant-menu)) if timing works. This highly rated, female-owned spot serves exceptionally fresh, dockside-casual catches including local dungeness crab rolls, grilled rockfish, and wild salmon plates on their harbor patio.
 *   **Accommodation:** ❓ *Unbooked* in Crescent City, CA (See hotel tracks below).
 
 ---
@@ -73,8 +73,8 @@
     *   [🗺️ View Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Crescent+City,+CA&destination=Portland,+OR&travelmode=driving)
 *   **Evening:** Arrive in **Portland, OR**. Treat this as a staging night, not a deep Portland stay, because the group wants the extra time in Seattle and Vancouver.
 *   **🍴 Food Spotlight:**
-    *   *Lunch on the Road:* Stop in **Eugene, OR** (~3.5 hours from Crescent City). Grab fresh local catches at **Fisherman's Market** or head to **Cafe Yumm!** for their legendary, healthy customizable warm grain and rice bowls with signature, creamy Yumm! Sauce.
-    *   *Dinner:* Enjoy a welcome dinner at **Jacqueline** in Southeast Portland if timing and energy allow; otherwise keep it simple near the hotel and save stamina for Seattle.
+    *   *Lunch on the Road:* Stop in **Eugene, OR** (~3.5 hours from Crescent City). Grab fresh local catches at [**Fisherman's Market**](https://eugenefishmarket.com/) ([🗺️ Map](https://maps.google.com/?q=Fisherman's+Market+Eugene+OR) \| [📖 Menu](https://eugenefishmarket.com/)) or head to [**Cafe Yumm!**](https://www.cafeyumm.com/) ([🗺️ Map](https://maps.google.com/?q=Cafe+Yumm+Eugene+OR) \| [📖 Menu](https://www.cafeyumm.com/menu/)) for their legendary, healthy customizable warm grain and rice bowls with signature, creamy Yumm! Sauce.
+    *   *Dinner:* Enjoy a welcome dinner at [**Jacqueline**](https://www.jacquelinepdx.com/) ([🗺️ Map](https://maps.google.com/?q=Jacqueline+Portland+OR) \| [📖 Menu](https://www.jacquelinepdx.com/menu)) in Southeast Portland if timing and energy allow; otherwise keep it simple near the hotel and save stamina for Seattle.
 *   **Accommodation:** ❓ *Unbooked* in Portland, OR (See hotel tracks below).
 
 ---
@@ -86,8 +86,8 @@
     *   [🗺️ View Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Portland,+OR&destination=Seattle,+WA&travelmode=driving)
 *   **Early Afternoon:** Arrive in **Seattle, WA** and check in. This is the payoff for the compressed coastal route: the group gets a real Seattle block instead of a quick pass-through.
 *   **🍴 Food Spotlight:**
-    *   *Lunch on the Road:* Stop in **Olympia, WA** (~2 hours from Portland). Enjoy a fresh seafood lunch at **Chelsea Farms Oyster Bar**.
-    *   *Dinner:* Celebrate the first Seattle night at **Taylor Shellfish Oyster Bar** (Queen Anne location right next to the Space Needle) for oysters, steamed mussels, clams, and fresh Dungeness crab.
+    *   *Lunch on the Road:* Stop in **Olympia, WA** (~2 hours from Portland). Enjoy a fresh seafood lunch at [**Chelsea Farms Oyster Bar**](https://www.chelseafarms.net/) ([🗺️ Map](https://maps.google.com/?q=Chelsea+Farms+Oyster+Bar+Olympia+WA) \| [📖 Menu](https://www.chelseafarms.net/menu-2)).
+    *   *Dinner:* Celebrate the first Seattle night at [**Taylor Shellfish Oyster Bar**](https://www.taylorshellfishfarms.com/location/queen-anne-oyster-bar) ([🗺️ Map](https://maps.google.com/?q=Taylor+Shellfish+Oyster+Bar+Queen+Anne+Seattle+WA) \| [📖 Menu](https://www.taylorshellfishfarms.com/location/queen-anne-oyster-bar)) (Queen Anne location right next to the Space Needle) for oysters, steamed mussels, clams, and fresh Dungeness crab.
 *   **Accommodation:** ❓ *Unbooked* in Seattle, WA (See hotel tracks below).
 
 ---
@@ -99,7 +99,7 @@
 *   **🎣 Fishing Angle:** This is the first realistic Seattle fishing window if the group wants a guided Puget Sound morning. Check season rules and departure marina before booking.
 *   **🍴 Food Spotlight:**
     *   *Lunch:* Graze through Pike Place Market or grab chowder near the waterfront.
-    *   *Dinner:* Try **Toulouse Petit** for shrimp and grits, crab beignets, and a dramatic candlelit dining room.
+    *   *Dinner:* Try [**Toulouse Petit**](https://toulousepetit.com/) ([🗺️ Map](https://maps.google.com/?q=Toulouse+Petit+Seattle+WA) \| [📖 Menu](https://toulousepetit.com/menus/)) for shrimp and grits, crab beignets, and a dramatic candlelit dining room.
 *   **Accommodation:** ❓ *Unbooked* in Seattle, WA (See hotel tracks below).
 
 ---
@@ -126,8 +126,8 @@
     *   [🗺️ View Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Seattle,+WA&destination=Vancouver,+BC,+Canada&travelmode=driving)
 *   **1:00 PM:** Arrive in beautiful **Vancouver, BC, Canada**. Head to historic **Gastown** to see the famous steam clock, then explore the downtown peninsula.
 *   **🍴 Food Spotlight:**
-    *   *Lunch:* Stop at **Granville Island Public Market** (just inside Vancouver) to graze on fresh local cheese, artisan snacks, or famous gourmet pot pies from **A la Mode**.
-    *   *Dinner:* Treat yourselves to **Miku Vancouver** (Coal Harbour), an iconic waterfront destination famous for introducing aburi sushi to Canada.
+    *   *Lunch:* Stop at **Granville Island Public Market** (just inside Vancouver) to graze on fresh local cheese, artisan snacks, or famous gourmet pot pies from [**A la Mode Pie Cafe**](https://alamodepiecafe.com/) ([🗺️ Map](https://maps.google.com/?q=A+la+Mode+Pie+Cafe+Granville+Island+Vancouver+BC) \| [📖 Menu](https://alamodepiecafe.com/pages/our-menu)).
+    *   *Dinner:* Treat yourselves to [**Miku Vancouver**](https://mikurestaurant.com/) ([🗺️ Map](https://maps.google.com/?q=Miku+Vancouver+BC) \| [📖 Menu](https://mikurestaurant.com/menus/)) (Coal Harbour), an iconic waterfront destination famous for introducing aburi sushi to Canada.
 *   **Accommodation:** ❓ *Unbooked* in Vancouver, BC (See hotel tracks below).
 
 ---
@@ -139,7 +139,7 @@
 *   **Afternoon:** Granville Island, Gastown, or an easy coffee / food crawl downtown.
 *   **🍴 Food Spotlight:**
     *   *Lunch:* Graze at Granville Island Public Market or choose a sushi spot downtown.
-    *   *Dinner:* Visit **The Acorn** for a Michelin-recommended, exceptionally creative vegetarian menu that works well for Mel.
+    *   *Dinner:* Visit [**The Acorn**](https://theacornrestaurant.ca/) ([🗺️ Map](https://maps.google.com/?q=The+Acorn+Vancouver+BC) \| [📖 Menu](https://theacornrestaurant.ca)) for a Michelin-recommended, exceptionally creative vegetarian menu that works well for Mel.
 *   **Accommodation:** ❓ *Unbooked* in Vancouver, BC (See hotel tracks below).
 
 ---
@@ -164,14 +164,14 @@
     *   [🗺️ View Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Vancouver,+BC,+Canada&destination=Seattle,+WA&travelmode=driving)
 *   **6:00 PM:** Arrive in the Seattle / Redmond area.
 *   **🍴 Food Spotlight:**
-    *   *Dinner (Celebratory Final Dinner):* Have a fantastic, high-energy final road trip dinner at **Spark Pizza** in Redmond. Enjoy their heated patio, world-class wood-fired Neapolitan-style custom pizzas, fresh seasonal salads, and top-tier local Pacific Northwest craft beers on draft. Or enjoy elevated seasonal bistro dining at **Woodblock** in Redmond.
+    *   *Dinner (Celebratory Final Dinner):* Have a fantastic, high-energy final road trip dinner at [**Spark Pizza**](https://sparkpizzaredmond.com/) ([🗺️ Map](https://maps.google.com/?q=Spark+Pizza+Redmond+WA) \| [📖 Menu](https://sparkpizzaredmond.com/menu/)) in Redmond. Enjoy their heated patio (covered and heated, outdoor patio seating only!), world-class wood-fired Neapolitan-style custom pizzas, fresh seasonal salads, and top-tier local Pacific Northwest craft beers on draft. Or enjoy elevated seasonal bistro dining at [**Woodblock**](https://www.woodblockredmond.com/) ([🗺️ Map](https://maps.google.com/?q=Woodblock+Redmond+WA) \| [📖 Menu](https://www.woodblockredmond.com/menu)) in Redmond.
 *   **Accommodation:** ❓ *Unbooked* in Seattle, WA (See hotel tracks below).
 
 ---
 
 ### **October 21 (Wednesday): Rental Car Return & Flight Home**
 
-*   **Morning:** Enjoy a slow morning with a stellar cup of specialty coffee at **Caffe Vita** or **Slate Coffee Roasters**, pack up your bags, and head south to Seattle-Tacoma International Airport (SEA-TAC).
+*   **Morning:** Enjoy a slow morning with a stellar cup of specialty coffee at [**Caffe Vita**](https://www.caffevita.com/) ([🗺️ Map](https://maps.google.com/?q=Caffe+Vita+Seattle+WA)) or [**Victrola Coffee Roasters**](https://victrolacoffee.com/) ([🗺️ Map](https://maps.google.com/?q=Victrola+Coffee+Roasters+Seattle+WA) \| [📖 Menu](https://victrolacoffee.com/)), pack up your bags, and head south to Seattle-Tacoma International Airport (SEA-TAC).
 *   **Duration:** ~25 minutes (15 miles) driving from downtown Seattle to the airport.
     *   [🗺️ View Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Seattle,+WA&destination=Seattle-Tacoma+International+Airport,+WA&travelmode=driving)
 *   **12:00 PM:** Drop off your rental car at the SEA-TAC airport rental facility, clear security, and catch your one-way flight back to Southern California!
@@ -200,29 +200,29 @@ These are highly curated local restaurant recommendations, perfect for foodies w
 
 | Stop & Location | Restaurant & Website | Style / Vibe | Price Range | Culinary Highlights & Tips |
 | :--- | :--- | :--- | :---: | :--- |
-| **Solvang, CA** | [**Paula's Pancake House**](https://www.paulaspancakehouse.com/) | Classic Danish Diner | **💲** (Casual / 10–25 USD) | Paper-thin Danish pancakes with warm berries, Danish sausage, and scrambles. |
-| | [**Mad & Vin at The Landsby**](https://www.thelandsby.com/dining.html) | Chic Scandinavian-California | **💲💲💲** (Upscale / 40–75 USD) | Fresh local fish, duck breast, gourmet burgers, and Santa Ynez valley wines. |
-| **SLO / Road** | [**Firestone Grill**](https://www.firestonegrill.com/) | High-Energy Sports Grill | **💲** (Casual / 15–25 USD) | Legendary tri-tip steak sandwiches, seasoned fries, and giant salads. |
-| **Santa Cruz, CA** | [**Shadowbrook Restaurant**](https://www.shadowbrook-capitola.com/) | Historic Forest Riverside | **💲💲💲💲** (Luxury / 75–120+ USD) | Ride a red cable car funicular down a forest hill; spectacular wild salmon and prime rib. |
-| **Half Moon Bay** | [**Sam's Chowder House**](https://www.samschowderhouse.com/) | Cliffside Ocean-View Seafood | **💲💲💲** (Upscale / 35–65 USD) | Award-winning warm buttered lobster rolls, clam chowder, and oysters. |
-| **San Francisco** | [**Greens Restaurant**](https://www.greensrestaurant.com/) | Fine-Dining Vegetarian | **💲💲💲** (Upscale / 45–75 USD) | Creative, upscale vegetarian overlooking the Golden Gate Bridge through glass walls. |
-| | [**Hog Island Oyster Co.**](https://www.hogislandoysters.com/) | Waterfront Oyster Bar | **💲💲💲** (Upscale / 35–65 USD) | Incredibly fresh local oysters, clam chowder, and a famous gourmet grilled cheese. |
-| **Boonville / Road** | [**Boonville General Store**](https://www.boonvillegeneralstore.com/) | Organic Valley Bakery | **💲** (Casual / 10–25 USD) | Local goat cheese paninis, hot soups, and fresh organic pastries in the redwoods. |
-| **Fort Bragg, CA** | [**Princess Seafood Restaurant**](https://www.princessseafoodmarket.com/) | Casual Harbor Seafood | **💲💲** (Moderate / 20–40 USD) | Female-owned; fresh dungeness crab rolls, grilled rockfish, and wild salmon on the docks. |
-| **Eureka / Road** | [**Cafe Marina**](https://www.cafemarina.net/) | Waterfront Marina Diner | **💲💲** (Moderate / 20–35 USD) | Local seafood chowder, fish tacos, and crab cakes overlooking Humboldt Bay. |
-| **Crescent City** | [**Chart Room Restaurant**](https://www.chartroomcrescentcity.com/) | Harbor Dockside Seafood | **💲💲** (Moderate / 20–40 USD) | Local halibut and chips, clam chowder, while watching sea lions bark outside. |
-| | [**Fisherman's Restaurant**](https://www.fishermansrestaurant.info/) | Nautical Local Diner | **💲** (Casual / 15–30 USD) | Legendary beer-battered ling cod fish and chips, clam chowder, and shrimp bowls. |
-| **Eugene / Road** | [**Cafe Yumm!**](https://www.cafeyumm.com/) | Casual Oregon Bowls | **💲** (Casual / 10–20 USD) | Famous customizable warm grain and rice bowls with signature creamy Yumm! Sauce. |
-| **Portland, OR** | [**Jacqueline**](https://www.jacquelinepdx.com/) | Cozy Retro PNW Seafood | **💲💲💲** (Upscale / 45–75 USD) | Shucked-to-order PNW oysters, Dungeness crab, and seasonal fish. Cozy neighborhood vibe. |
-| | [**Shalom Y'all**](https://www.shalomyallpdx.com/) | Vibrant Mediterranean | **💲💲** (Moderate / 25–45 USD) | Fresh warm pita, wood-fired hummus, falafel, shakshuka, and grilled halloumi cheese. |
-| | [**Departure Restaurant**](https://www.departureportland.com/) | Rooftop Skyline Asian | **💲💲💲💲** (Luxury / 75–120 USD) | Futuristic rooftop setting; premium sushi, sashimi, and wok-fired crab. |
-| **Olympia / Road** | [**Chelsea Farms Oyster Bar**](https://www.chelseafarms.com/) | Modern Shellfish Bar | **💲💲💲** (Upscale / 30–60 USD) | Fresh local oysters, geoduck sashimi, clam chowder, and fish tacos in a market hall. |
-| **Seattle, WA** | [**Taylor Shellfish Oyster Bar**](https://www.taylorshellfishfarms.com/) | Tide-to-table Shellfish Bar | **💲💲💲** (Upscale / 35–65 USD) | Local Queen Anne oyster bar next to Space Needle; fresh oysters, geoduck, and Dungeness crab. |
-| | [**Toulouse Petit**](https://www.toulousepetit.com/) | Creole-French Bistro | **💲💲💲** (Upscale / 35–65 USD) | Breathtaking candlelit tiled interior; shrimp and grits, crab beignets, and gumbo. |
-| **Redmond / Road** | [**Woodblock**](https://www.woodblockredmond.com/) | Cozy Neighborhood Bistro | **💲💲💲** (Upscale / 30–60 USD) | Seared local salmon, fresh cod, seasonal grain bowls, and top-tier craft cocktails. |
-| | [**Spark Pizza**](https://www.sparkpizzaredmond.com/) | Wood-Fired Pizza Patio | **💲💲** (Moderate / 20–35 USD) | Award-winning Neapolitan wood-fired custom pizzas, craft beers, and heated patio. |
-| **Vancouver, BC** | [**Miku Vancouver**](https://mikurestaurant.com/) | Waterfront Aburi Sushi | **💲💲💲💲** (Luxury / 60–110 USD / 80–150+ CAD) | Flame-seared aburi sushi and exquisite sashimi overlooking Coal Harbour and mountains. |
-| | [**The Acorn**](https://www.theacornrestaurant.ca/) | Michelin-Starred Vegetarian | **💲💲💲** (Upscale / 35–65 USD / 50–90 CAD) | Breathtaking, award-winning upscale vegetable-forward dishes and cocktails. |
+| **Solvang, CA** | [**Paula's Pancake House**](https://www.paulaspancakehouse.com/)<br>([🗺️ Map](https://maps.google.com/?q=Paula's+Pancake+House+Solvang+CA) \| [📖 Menu](https://www.paulaspancakehouse.com/menu)) | Classic Danish Diner | **💲** (Casual / 10–25 USD) | Paper-thin Danish pancakes with warm berries, Danish sausage, and scrambles. |
+| | [**Mad & Vin at The Landsby**](https://www.thelandsby.com/dining)<br>([🗺️ Map](https://maps.google.com/?q=Mad+and+Vin+at+The+Landsby+Solvang+CA) \| [📖 Menu](https://www.thelandsby.com/dining)) | Chic Scandinavian-California | **💲💲💲** (Upscale / 40–75 USD) | Fresh local fish, duck breast, gourmet burgers, and Santa Ynez valley wines. |
+| **SLO / Road** | [**Firestone Grill**](http://www.firestonegrill.com/)<br>([🗺️ Map](https://maps.google.com/?q=Firestone+Grill+San+Luis+Obispo+CA) \| [📖 Menu](http://www.firestonegrill.com/menu/)) | High-Energy Sports Grill | **💲** (Casual / 15–25 USD) | Legendary tri-tip steak sandwiches, seasoned fries, and giant salads. |
+| **Santa Cruz, CA** | [**Shadowbrook Restaurant**](https://shadowbrook-capitola.com/)<br>([🗺️ Map](https://maps.google.com/?q=Shadowbrook+Restaurant+Capitola+CA) \| [📖 Menu](https://shadowbrook-capitola.com/dinner-menu/)) | Historic Forest Riverside | **💲💲💲💲** (Luxury / 75–120+ USD) | Ride a red cable car funicular down a forest hill; spectacular wild salmon and prime rib. |
+| **Half Moon Bay** | [**Sam's Chowder House**](https://www.samschowderhouse.com/)<br>([🗺️ Map](https://maps.google.com/?q=Sam's+Chowder+House+Half+Moon+Bay+CA) \| [📖 Menu](https://www.samschowderhouse.com/menus)) | Cliffside Ocean-View Seafood | **💲💲💲** (Upscale / 35–65 USD) | Award-winning warm buttered lobster rolls, clam chowder, and oysters. |
+| **San Francisco** | [**Greens Restaurant**](https://greensrestaurant.com/)<br>([🗺️ Map](https://maps.google.com/?q=Greens+Restaurant+San+Francisco+CA) \| [📖 Menu](https://greensrestaurant.com/)) | Fine-Dining Vegetarian | **💲💲💲** (Upscale / 45–75 USD) | Creative, upscale vegetarian overlooking the Golden Gate Bridge through glass walls. |
+| | [**Hog Island Oyster Co.**](https://hogislandoysters.com/)<br>([🗺️ Map](https://maps.google.com/?q=Hog+Island+Oyster+Co+Ferry+Building+San+Francisco+CA) \| [📖 Menu](https://hogislandoysters.com/locations/san-francisco)) | Waterfront Oyster Bar | **💲💲💲** (Upscale / 35–65 USD) | Incredibly fresh local oysters, clam chowder, and a famous gourmet grilled cheese. |
+| **Boonville / Road** | [**Boonville General Store**](https://maps.google.com/?q=Boonville+General+Store+Boonville+CA)<br>([🗺️ Map](https://maps.google.com/?q=Boonville+General+Store+Boonville+CA) \| 📞 (707) 895-9477) | Organic Valley Bakery | **💲** (Casual / 10–25 USD) | Local organic deli/bakery. No active website; call for fresh pastries & daily specials. |
+| **Fort Bragg, CA** | [**Princess Seafood Restaurant**](https://www.princessseafoodmarket.com/)<br>([🗺️ Map](https://maps.google.com/?q=Princess+Seafood+Restaurant+Fort+Bragg+CA) \| [📖 Menu](https://www.princessseafoodmarket.com/restaurant-menu)) | Casual Harbor Seafood | **💲💲** (Moderate / 20–40 USD) | Female-owned; fresh dungeness crab rolls, grilled rockfish, and wild salmon on the docks. |
+| **Eureka / Road** | [**Cafe Marina**](https://cafemarina.net/)<br>([🗺️ Map](https://maps.google.com/?q=Cafe+Marina+Eureka+CA) \| [📖 Menu](https://cafemarina.net/menus/)) | Waterfront Marina Diner | **💲💲** (Moderate / 20–35 USD) | Local seafood chowder, fish tacos, and crab cakes overlooking Humboldt Bay. |
+| **Crescent City** | [**Chart Room Restaurant**](https://maps.google.com/?q=Chart+Room+Restaurant+Crescent+City+CA)<br>([🗺️ Map](https://maps.google.com/?q=Chart+Room+Restaurant+Crescent+City+CA) \| 📞 (707) 464-5993) | Harbor Dockside Seafood | **💲💲** (Moderate / 20–40 USD) | Local halibut and chips, clam chowder, while watching sea lions bark outside. No active website. |
+| | [**Fisherman's Restaurant**](https://fishermansrestaurant.info/)<br>([🗺️ Map](https://maps.google.com/?q=Fisherman's+Restaurant+Crescent+City+CA) \| [📖 Menu](https://fishermansrestaurant.info/)) | Nautical Local Diner | **💲** (Casual / 15–30 USD) | Legendary beer-battered ling cod fish and chips, clam chowder, and shrimp bowls. |
+| **Eugene / Road** | [**Cafe Yumm!**](https://www.cafeyumm.com/)<br>([🗺️ Map](https://maps.google.com/?q=Cafe+Yumm+Eugene+OR) \| [📖 Menu](https://www.cafeyumm.com/menu/)) | Casual Oregon Bowls | **💲** (Casual / 10–20 USD) | Famous customizable warm grain and rice bowls with signature creamy Yumm! Sauce. |
+| **Portland, OR** | [**Jacqueline**](https://www.jacquelinepdx.com/)<br>([🗺️ Map](https://maps.google.com/?q=Jacqueline+Portland+OR) \| [📖 Menu](https://www.jacquelinepdx.com/menu)) | Cozy Retro PNW Seafood | **💲💲💲** (Upscale / 45–75 USD) | Shucked-to-order PNW oysters, Dungeness crab, and seasonal fish. Cozy neighborhood vibe. |
+| | [**Shalom Y'all**](https://sesamecollective.com/shalom-y-all/)<br>([🗺️ Map](https://maps.google.com/?q=Shalom+Y'all+Portland+OR) \| [📖 Menu](https://www.toasttab.com/shalom-y-all/v3)) | Vibrant Mediterranean | **💲💲** (Moderate / 25–45 USD) | Fresh warm pita, wood-fired hummus, falafel, shakshuka, and grilled halloumi cheese. |
+| | [**Departure Restaurant**](https://departureportland.com/)<br>([🗺️ Map](https://maps.google.com/?q=Departure+Restaurant+Portland+OR) \| [📖 Menu](https://departureportland.com/menus/)) | Rooftop Skyline Asian | **💲💲💲💲** (Luxury / 75–120 USD) | Futuristic rooftop setting; premium sushi, sashimi, and wok-fired crab. |
+| **Olympia / Road** | [**Chelsea Farms Oyster Bar**](https://www.chelseafarms.net/)<br>([🗺️ Map](https://maps.google.com/?q=Chelsea+Farms+Oyster+Bar+Olympia+WA) \| [📖 Menu](https://www.chelseafarms.net/menu-2)) | Modern Shellfish Bar | **💲💲💲** (Upscale / 30–60 USD) | Fresh local oysters, geoduck sashimi, clam chowder, and fish tacos in a market hall. |
+| **Seattle, WA** | [**Taylor Shellfish Oyster Bar**](https://www.taylorshellfishfarms.com/location/queen-anne-oyster-bar)<br>([🗺️ Map](https://maps.google.com/?q=Taylor+Shellfish+Oyster+Bar+Queen+Anne+Seattle+WA) \| [📖 Menu](https://www.taylorshellfishfarms.com/location/queen-anne-oyster-bar)) | Tide-to-table Shellfish Bar | **💲💲💲** (Upscale / 35–65 USD) | Local Queen Anne oyster bar next to Space Needle; fresh oysters, geoduck, and Dungeness crab. |
+| | [**Toulouse Petit**](https://toulousepetit.com/)<br>([🗺️ Map](https://maps.google.com/?q=Toulouse+Petit+Seattle+WA) \| [📖 Menu](https://toulousepetit.com/menus/)) | Creole-French Bistro | **💲💲💲** (Upscale / 35–65 USD) | Breathtaking candlelit tiled interior; shrimp and grits, crab beignets, and gumbo. |
+| **Redmond / Road** | [**Woodblock**](https://www.woodblockredmond.com/)<br>([🗺️ Map](https://maps.google.com/?q=Woodblock+Redmond+WA) \| [📖 Menu](https://www.woodblockredmond.com/menu)) | Cozy Neighborhood Bistro | **💲💲💲** (Upscale / 30–60 USD) | Seared local salmon, fresh cod, seasonal grain bowls, and top-tier craft cocktails. |
+| | [**Spark Pizza**](https://sparkpizzaredmond.com/)<br>([🗺️ Map](https://maps.google.com/?q=Spark+Pizza+Redmond+WA) \| [📖 Menu](https://sparkpizzaredmond.com/menu/)) | Wood-Fired Pizza Patio | **💲💲** (Moderate / 20–35 USD) | Award-winning Neapolitan wood-fired custom pizzas, craft beers. Covered, heated outdoor patio seating only. |
+| **Vancouver, BC** | [**Miku Vancouver**](https://mikurestaurant.com/)<br>([🗺️ Map](https://maps.google.com/?q=Miku+Vancouver+BC) \| [📖 Menu](https://mikurestaurant.com/menus/)) | Waterfront Aburi Sushi | **💲💲💲💲** (Luxury / 60–110 USD / 80–150+ CAD) | Flame-seared aburi sushi and exquisite sashimi overlooking Coal Harbour and mountains. |
+| | [**The Acorn**](https://theacornrestaurant.ca/)<br>([🗺️ Map](https://maps.google.com/?q=The+Acorn+Vancouver+BC) \| [📖 Menu](https://theacornrestaurant.ca)) | Michelin-Starred Vegetarian | **💲💲💲** (Upscale / 35–65 USD / 50–90 CAD) | Breathtaking, award-winning upscale vegetable-forward dishes and cocktails. |
 
 ---
 

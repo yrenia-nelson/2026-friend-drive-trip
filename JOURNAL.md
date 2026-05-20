@@ -81,3 +81,12 @@ Running notes for trip-planning changes made by humans and coding agents.
 - Added details about driving through a massive living redwood tree (about 1.5 hours north of Glass Beach / Fort Bragg along CA-1) and added a prompt for the group to decide how far up into the redwood parks they want to hike/explore.
 - Updated the daily route Google Maps links for October 12 to include Leggett as a waypoint.
 
+## 2026-05-20 (Later)
+
+### Food Navigation & Menu Link Enhancements
+
+- Antigravity researched and added direct Google Maps search links and official Menu links for all 23 main dining directory recommendations and 5 daily food/coffee spots (Paula's Pancake House, Solvang Restaurant, Fisherman's Market, A la Mode Pie Cafe, Caffe Vita) in the itinerary.
+- Swapped the permanently closed Slate Coffee Roasters in Seattle with a premium, active specialty coffee alternative: Victrola Coffee Roasters.
+- Supplied direct phone number fallbacks for Boonville General Store and Chart Room Restaurant, as they do not maintain active official websites.
+- Highlighted a critical operational constraint for Spark Pizza in Redmond (covered, heated outdoor patio seating only).
+- Formatted all directory entries compactly (using `<br>([🗺️ Map](...) | [📖 Menu](...))` under the name) to keep the table clean and readable while strictly avoiding ASCII dollar signs in URLs.

@@ -2,7 +2,7 @@
 
 **Travelers:** Nelson and Yrenia (Pescatarian) on the road trip to Seattle. Mom and Brother plan to fly into Seattle and join for the cruise.
 
-**Dietary Preferences:** Yrenia is **pescatarian** (vegetarian + seafood, no poultry/beef/pork). All selected lunch and dinner recommendations are highly pescatarian-friendly, showcasing vibrant Pacific Northwest seafood, creative vegetarian dishes, and handmade pastas.
+**Dietary Preferences:** Yrenia is **pescatarian** (vegetarian + seafood, no poultry/beef/pork). She is also highly selective with mushrooms: **she only likes shiitake mushrooms** (avoids button, cremini, portobello, wood-ear, wild/forest mushrooms, etc.). All selected food recommendations accommodate these preferences.
 
 **Final Destination:** Seattle, WA (Boarding *Celebrity Edge* on July 24\)
 
@@ -16,7 +16,7 @@
 * **10:15 AM:** Arrive at Aunt's house with the whole day ahead of you to relax and visit.  
 * **🍴 Food Spotlight:**
   * *Lunch Idea:* Grab a casual bite nearby, like **Sizzling Lunch** (Union City) for fun, interactive hot-plate pepper rice/noodles, or **Senoia Tea House** (Fremont) for fresh, vegetarian-friendly Asian fusion.
-  * *Dinner Idea:* Family dinner in the East Bay. Excellent group-friendly pescatarian options include **Dough Zone Dumpling House** (Fremont) for crab & pork xiao long bao, wood-ear mushroom salad, and dan dan noodles, or **Grand Harbor** (Fremont) for dim sum and fresh Cantonese seafood.
+  * *Dinner Idea:* Family dinner in the East Bay. Excellent group-friendly pescatarian options include **Dough Zone Dumpling House** (Fremont) for crab & pork xiao long bao, sweet & sour cucumber salad (avoiding wood-ear mushroom), and dan dan noodles, or **Grand Harbor** (Fremont) for dim sum and fresh Cantonese seafood.
 * **Accommodation:** Staying with family at **353 Monaco Ave, Union City, CA 94587** (1 Night).
 
 ### **July 18 (Saturday): Road to Crater Lake & A Relaxed Evening**
@@ -90,7 +90,7 @@
 * **Parking:** Public Market Parking Garage on Western Ave.  
 * **🍴 Food Spotlight:**
   * *Lunch (Pike Place Market):* **Matt's in the Market** — An iconic, cozy restaurant hidden on the second floor of the market, overlooking the famous Pike Place clock and Puget Sound. Excellent seasonal PNW seafood (like their legendary cornmeal-crusted catfish sandwich or fish stew). *Or* grab casual bites at **Pike Place Chowder** (internationally award-winning seafood chowders) and **Piroshky Piroshky** (famous Russian bakery; get the smoked salmon pâté or cheese-onion piroshky).
-  * *Dinner in Redmond with David:* **Spark Pizza** — Highly rated, vibrant, and extremely fun with a gorgeous heated covered patio. Outstanding wood-fired Neapolitan-style pizzas, local craft beers, and fantastic vegetarian/pescatarian options (Margherita, Fungi, or customizable pies). *Or* **Woodblock** — A stylish, cozy Redmond favorite serving elevated seasonal American cuisine, fantastic seafood (seared salmon, cod), and excellent craft cocktails.
+  * *Dinner in Redmond with David:* **Spark Pizza** — Highly rated, vibrant, and extremely fun with a gorgeous heated covered patio. Outstanding wood-fired Neapolitan-style pizzas, local craft beers, and fantastic vegetarian/pescatarian options (Margherita, custom shiitake-only pie if available, or customizable pies—making it easy to avoid other mushrooms). *Or* **Woodblock** — A stylish, cozy Redmond favorite serving elevated seasonal American cuisine, fantastic seafood (seared salmon, cod), and excellent craft cocktails.
 * **5:00 PM:** Head east across the bridge to Redmond to meet up with **David** for dinner.  
   * [🗺️ View Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Queen+Anne,+Seattle,+WA&destination=Redmond,+WA&travelmode=driving)  
 * **Accommodation:** ❓ Seattle hotel unbooked (Lower Queen Anne / Uptown target area).
@@ -162,7 +162,7 @@ These are **unbooked food recommendations**, not reservations. Recheck hours, re
 | **July 22 (Seattle)** | [**Taylor Shellfish Oyster Bar**](https://www.taylorshellfishfarms.com/) | Tide-to-table shellfish bar | Located in Queen Anne next to Seattle Center. Shucked-to-order oysters, geoduck sashimi, steamed mussels/clams, and whole Dungeness crab. |
 | | [**Toulouse Petit**](https://toulousepetit.com/) | High-energy Creole-French bistro | Stunning candlelit, tiled interior. Famous for Dungeness crab beignets, seafood gumbo, creole stews, and fresh seafood. |
 | **July 23 (Seattle)** | [**Matt's in the Market**](https://www.mattsinthemarket.com/) | High-end market bistro overlooking Pike Place | Tucked on the second floor with views of the market clock. Features top-tier local seafood, including cornmeal-crusted fish sandwiches. |
-| **July 23 (Redmond)** | [**Spark Pizza**](https://www.sparkpizzaredmond.com/) | Vibrant neighborhood wood-fired pizza | Heated covered patio, fantastic local beers, and amazing vegetarian/pescatarian pizzas (fungi, margherita, customizable). Great group vibe with David. |
+| **July 23 (Redmond)** | [**Spark Pizza**](https://www.sparkpizzaredmond.com/) | Vibrant neighborhood wood-fired pizza | Heated covered patio, fantastic local beers, and amazing vegetarian/pescatarian pizzas (Margherita, customizable to specify only shiitake/avoid other mushrooms). Great group vibe with David. |
 | | [**Woodblock**](https://www.woodblockredmond.com/) | Cozy elevated American bistro | Outstanding wild-caught salmon and seasonal seafood plates, great vegetarian sides, and top-tier craft cocktails. |
 | **July 31 (Medford/Road)**| [**4 Daughters Irish Pub**](https://4daughtersirishpub.com/) | Friendly local pub | Cozy stop for excellent fish & chips, house chowder, or veggie burgers on the drive home. |
 | **July 31 (Redding/Road)**| [**Mosaic**](https://www.mosaicredding.com/) | Modern Italian next to Sundial Bridge | Beautiful setting next to the bridge. Excellent wood-fired salmon, seasonal flatbreads, and artisanal pastas. |

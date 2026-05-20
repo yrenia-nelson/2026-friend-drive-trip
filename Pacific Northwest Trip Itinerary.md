@@ -234,18 +234,33 @@ Select one cohesive track below to simplify booking, keep travel styles consiste
 
 | Track Option | Researched Lodging Type | 3-Room / Minimum Plan | 4-Room / Comfort Plan | Key Trade-offs & Notes |
 | :--- | :--- | :--- | :--- | :--- |
-| **🌸 Track 1: Boutique Track** | Character-rich Independent Hotels | **$8,300 – $11,800** | **$10,700 – $15,200** | Unique stays, no standard points benefits, paid parking at major stops. |
-| **👑 Track 2: Hilton Track** | Reliable Chain with Free Breakfast | **$7,900 – $9,500** | **$10,400 – $12,300** | Point-friendly, free hot breakfasts, very consistent amenities. |
-| **🛡️ Track 3: Marriott Track** | Premium Comfort with Spacious Suites | **$11,100 – $12,700** | **$14,100 – $16,000** | Luxurious properties, spacious suite layouts, highest overall cost. |
-| **🏠 Track 4: VRBO Track** | Group Vacation Homes / Residences | **$6,800 – $10,600** (Hybrid*) | **$7,600 – $11,700** (Full VRBO) | Best layout (everyone gets private bedroom), kitchen, but higher friction. |
-
-*\*Hybrid VRBO Plan: Book multi-night hubs on VRBO (Santa Cruz, Seattle first stay, Vancouver); use Track 2/3 hotels for 1-night transit stops to avoid cleaning fees.*
+| **⭐ Track 1: Hybrid Track** | VRBO Hubs + Transit Hotels | **$6,300 – $9,700** | **$6,800 – $10,200** | **Highly Recommended.** Best balance of private rooms at hubs and zero cleaning fees for 1-night stops. |
+| **🌸 Track 2: Boutique Track** | Character-rich Independent Hotels | **$8,300 – $11,800** | **$10,700 – $15,200** | Unique stays, no standard points benefits, paid parking at major stops. |
+| **👑 Track 3: Hilton Track** | Reliable Chain with Free Breakfast | **$7,900 – $9,500** | **$10,400 – $12,300** | Point-friendly, free hot breakfasts, very consistent amenities. |
+| **🛡️ Track 4: Marriott Track** | Premium Comfort with Spacious Suites | **$11,100 – $12,700** | **$14,100 – $16,000** | Luxurious properties, spacious suite layouts, highest overall cost. |
+| **🏠 Track 5: VRBO Track** | Group Vacation Homes / Residences | **$7,600 – $11,700** | **$7,600 – $11,700** | Everyone gets a private bedroom, kitchen, but paying cleaning fees for single nights. |
 
 **Cost planning assumptions:** Rates were researched on May 20, 2026 using official hotel booking pages and major OTA references. Treat every number as a planning estimate until checkout, because October 2026 inventory, minimum-stay rules, taxes, exchange rates, and cancellability can move. Group estimates assume **Mel gets her own room**, **Kenny likely gets his own room**, and the other three guys either share one larger room (**3-room minimum plan**) or split into two rooms (**4-room comfort plan**). Totals below generally include researched hotel taxes/room fees where available, but **exclude parking unless noted**.
 
 ⚠️ **Friends Review Needed:** The cheapest 3-room plan often means three adult guys sharing two queens, a sofa bed, or a suite. Confirm who is actually okay with that before booking; otherwise use the 4-room comfort plan.
 
-### **🌸 Track 1: The Local Boutique Track (Independent & Character-Rich)**
+### **⭐ Track 1: The Recommended Hybrid Track (VRBO & Hotels)**
+*Best for: 5 friends seeking the ultimate travel setup. Book spacious VRBO multi-bedroom houses at multi-night hubs (where you unpack and hang out) and comfortable hotels for 1-night transit stays to completely avoid short-stay cleaning/service fees.*
+
+| Stop | Recommended Hybrid Option | Researched Cost Estimate | Why it Fits & Booking Tips |
+| :--- | :--- | :--- | :--- |
+| **Santa Cruz (Oct 10-12)** | **VRBO Beach/Redwood House** (4-5 Bedrooms) | Approx. **$1,450-$2,100** total for 2 nights. | Multi-night stay absorbs the cleaning fee. Gives everyone a private room to unpack and rest after the long drive. |
+| **Crescent City (Oct 12-13)** | **Curly Redwood Lodge** (Boutique) or **Best Western Plus Northwoods Inn** (Hilton-Equivalent) | Approx. **$310-$495** (3 rooms) or **$406-$660** (4 rooms) for 1 night. | Quick 1-night transit stop. Skip VRBO cleaning fees and enjoy a simple, hassle-free hotel check-in right on the coast. |
+| **Portland (Oct 13-14)** | **Inn at Northrup Station** or **Hampton Inn Pearl District** | Approx. **$580-$588** (3 rooms) or **$766-$815** (4 rooms) for 1 night. | Another 1-night transit. Hotels in the Pearl District offer easy walking access and free parking/breakfast. |
+| **Seattle First Stay (Oct 14-17)** | **VRBO 4-Bedroom Townhouse/View Home** (Queen Anne or Lake Union) | Approx. **$2,100-$3,200** total for 3 nights. | 3-night hub is perfect for a shared home. Gives the group a kitchen, laundry, and awesome common spaces for group hangouts. |
+| **Vancouver (Oct 17-20)** | **VRBO 4-Bedroom Modern Townhome** (Mount Pleasant or Kitsilano) | Approx. **$1,300-$2,600** (CAD $1,800-$3,500) total for 3 nights. | High-quality 3-night Vancouver stay. Shared home is much cheaper than booking 4 hotel rooms in downtown Vancouver. |
+| **Seattle Last Stay (Oct 20-21)** | **Mediterranean Inn** or **Hampton Inn & Suites Downtown** | Approx. **$594-$692** (3 rooms) or **$747-$872** (4 rooms) for 1 night. | 1-night transit before the flight home. Easy drop-off, packing, and quick departure to SEA-TAC in the morning. |
+
+**Track 1 planning total:** approx. **$6,300-$9,700** for the 3-room minimum plan, or **$6,800-$10,200** for the 4-room comfort plan, before parking.
+
+---
+
+### **🌸 Track 2: The Local Boutique Track (Independent & Character-Rich)**
 *Best for: Travelers seeking highly curated, distinct, and memorable stays with local architectural charm.*
 
 | Stop | Hotel | Researched Cost Estimate | Watch-Outs |
@@ -256,11 +271,11 @@ Select one cohesive track below to simplify booking, keep travel styles consiste
 | **Seattle (Oct 14-17 & 20-21)** | [**Mediterranean Inn**](https://www.mediterraneaninn.com/) | All 4 Seattle nights combined: approx. **$2,772-$3,958** for 3 rooms or **$3,486-$4,980** for 4 rooms, after observed room taxes/fees. | Parking approx. **$36 + tax/car/night**. Double Queen is the realistic 3-guys room. |
 | **Vancouver (Oct 17-20)** | [**The Burrard**](https://theburrard.com/) | Standard-rate estimate approx. **CAD $3,480-$3,648** for 3 rooms or **CAD $4,497-$4,584** for 4 rooms after lodging taxes. | 3-room plan may need extra-person/cot charges. Parking approx. **CAD $29.50 + tax/car/night**. |
 
-**Track 1 planning total:** approx. **$8,300-$11,800** for the 3-room minimum plan, or **$10,700-$15,200** for the 4-room comfort plan, before parking. Canadian-dollar rows are rough USD-equivalent in the total.
+**Track 2 planning total:** approx. **$8,300-$11,800** for the 3-room minimum plan, or **$10,700-$15,200** for the 4-room comfort plan, before parking. Canadian-dollar rows are rough USD-equivalent in the total.
 
 ---
 
-### **👑 Track 2: The Hilton Honors Track (Reliable & Free Hot Breakfast)**
+### **👑 Track 3: The Hilton Honors Track (Reliable & Free Hot Breakfast)**
 *Best for: Travelers stacking Hilton points/status, seeking highly rated properties, and wanting free hot breakfasts at almost every stop.*
 
 | Stop | Hotel | Researched Cost Estimate | Watch-Outs |
@@ -271,11 +286,11 @@ Select one cohesive track below to simplify booking, keep travel styles consiste
 | **Seattle (Oct 14-17 & 20-21)** | [**Hampton Inn & Suites Seattle-Downtown**](https://www.hilton.com/en/hotels/seadthx-hampton-suites-seattle-downtown/) | All 4 Seattle nights combined: approx. **$2,378-$2,960** for 3 rooms or **$3,172-$3,946** for 4 rooms after estimated taxes/charges. | Parking approx. **$40/car/day**. Points inventory needs re-check across the new split stay. |
 | **Vancouver (Oct 17-20)** | [**Hilton Vancouver Downtown**](https://www.hilton.com/en/hotels/yvrwghh-hilton-vancouver-downtown/) | Approx. **CAD $4,020 / USD $2,925** for 3 rooms or **CAD $5,235-$5,325 / USD $3,804-$3,870** for 4 rooms after taxes. | 80k Hilton points/night was visible in the original check; re-check across 3 nights. Parking approx. **CAD $46 self / CAD $53 valet**. |
 
-**Track 2 planning total:** approx. **$7,900-$9,500** for the 3-room minimum plan, or **$10,400-$12,300** for the 4-room comfort plan, before parking.
+**Track 3 planning total:** approx. **$7,900-$9,500** for the 3-room minimum plan, or **$10,400-$12,300** for the 4-room comfort plan, before parking.
 
 ---
 
-### **🛡️ Track 3: The Marriott Bonvoy Track (Spacious Suites & Premium Comfort)**
+### **🛡️ Track 4: The Marriott Bonvoy Track (Spacious Suites & Premium Comfort)**
 *Best for: Travelers stacking Marriott Bonvoy points, seeking premium amenities, and desiring spacious suite layouts (great for groups and road-trip gear).*
 
 | Stop | Hotel | Researched Cost Estimate | Watch-Outs |
@@ -286,11 +301,11 @@ Select one cohesive track below to simplify booking, keep travel styles consiste
 | **Seattle (Oct 14-17 & 20-21)** | [**Residence Inn Seattle Downtown/Lake Union**](https://www.marriott.com/en-us/hotels/sealu-residence-inn-seattle-downtown-lake-union/) | All 4 Seattle nights combined: approx. **$5,040** for 3 rooms or **$6,096** for 4 rooms after room taxes/fees. | 3-room plan uses a shared 2BR suite for the guys. Parking approx. **$41 + tax/car/night**. |
 | **Vancouver (Oct 17-20)** | [**Delta Hotels Vancouver Downtown Suites**](https://www.marriott.com/en-us/hotels/yvrdv-delta-hotels-vancouver-downtown-suites/) | Approx. **CAD $4,869-$6,393 / USD $3,555-$4,668** for 3 rooms or **CAD $6,492-$8,523 / USD $4,740-$6,222** for 4 rooms after Vancouver lodging taxes. | Points inventory needs re-check across 3 nights. Parking approx. **CAD $52/day**. |
 
-**Track 3 planning total:** approx. **$11,100-$12,700** for the 3-room minimum plan, or **$14,100-$16,000** for the 4-room comfort plan, before parking.
+**Track 4 planning total:** approx. **$11,100-$12,700** for the 3-room minimum plan, or **$14,100-$16,000** for the 4-room comfort plan, before parking.
 
 ---
 
-### **🏠 Track 4: The Shared Vacation Rental Track (VRBO & Group Homes)**
+### **🏠 Track 5: The Shared Vacation Rental Track (VRBO & Group Homes)**
 *Best for: 5 friends traveling together who want maximum space, private individual bedrooms so nobody has to share a bed, a full kitchen for group cooking, common areas for hanging out, and free residential/on-site parking.*
 
 | Stop | Recommended VRBO Type & Location | Researched Cost Estimate | Watch-Outs & Practical Tips |
@@ -301,5 +316,5 @@ Select one cohesive track below to simplify booking, keep travel styles consiste
 | **Seattle (Oct 14-17 & 20-21)** | **4-Bedroom View Home / Townhouse** (e.g., Queen Anne, Lake Union, or Capitol Hill) | All 4 Seattle nights combined (split 3-night and 1-night stays): Approx. **$2,850-$4,300** total after fees. | Look for homes with rooftop decks offering Space Needle views and dedicated garages/parking spaces. Split stays require paying cleaning fees twice; consider keeping Seattle transit nights in hotels. |
 | **Vancouver (Oct 17-20)** | **4-Bedroom Modern Townhome / Character House** (e.g., Mount Pleasant, Kitsilano, or East Vancouver) | Approx. **CAD $450-$850 / night** (Total: **USD $1,300-$2,600 / CAD $1,800-$3,500** for 3 nights, including fees). | Fantastic neighborhood feels. Free residential parking is common. Check Canada-specific entry rules and host communications early. |
 
-**Track 4 planning total:** approx. **$6,800-$10,600** total if combining VRBOs for multi-night hubs (Santa Cruz, Seattle 3-night, Vancouver 3-night) and using transit hotels for 1-night stops; or approx. **$7,600-$11,700** for a full VRBO stay across all 11 road trip nights.
+**Track 5 planning total:** approx. **$7,600-$11,700** for a full VRBO stay across all 11 road trip nights.
 

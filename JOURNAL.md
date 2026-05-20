@@ -53,3 +53,14 @@ Running notes for trip-planning changes made by humans and coding agents.
 - Antigravity added accurate cost tiers and per-person price ranges to all 23 restaurant recommendations in the Master Dine & Sip Ideas Directory.
 - Verified that all recommendations remain pescatarian-friendly (great seafood/vegetarian options) for Melanie.
 - Categories include: Casual ($ / under $25), Moderate ($$ / $20-$45), Upscale ($$$ / $30-$75), and Luxury Splurge ($$$$ / $75-$120+), with explicit local currency ranges where appropriate (USD vs. CAD).
+
+### Lodging Track Restructuring & Track 1 Hybrid Track
+
+- Antigravity added **Track 1: The Recommended Hybrid Track (VRBO & Hotels)** to the itinerary, combining multi-night VRBO vacation homes with single-night transit hotels to optimize comfort, cost, and private bedrooms.
+- Pushed the other tracks down to create a cohesive 5-track structure:
+  - Track 1: Recommended Hybrid Track (VRBO & Hotels)
+  - Track 2: The Local Boutique Track
+  - Track 3: The Hilton Honors Track
+  - Track 4: The Marriott Bonvoy Track
+  - Track 5: The Shared Vacation Rental Track (VRBO & Group Homes)
+- Updated the **Quick Lodging Track Cost Comparison** summary table to reflect this new 5-track organization and added a detailed breakdown of hybrid costs.

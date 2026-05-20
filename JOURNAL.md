@@ -83,6 +83,14 @@ Running notes for trip-planning changes made by humans and coding agents.
 - Disconnected the legacy `cruise-origin` remote pointing to `yrenia-nelson/2026-cruise-drive-trip` to eliminate any risk of accidentally overwriting or clobbering the parallel cruise repository.
 - Rebased `README.md` to cleanly align with the driving-only, 12-day friends' road trip workspace.
 
+### Winery, Fishing, Dietary, Mapping, and Hotel Cost Updates
+
+- Codex updated the main itinerary after user feedback that the group does not care about bike-focused activities and is instead interested in Napa/SLO wineries and fishing opportunities.
+- Replaced the active rental/bike-heavy guide with a wineries and fishing opportunities section covering Santa Ynez/SLO/Paso/Napa tasting options plus Fort Bragg, Crescent City, and Seattle fishing leads.
+- Added Melanie's pescatarian dietary restriction near the top of the itinerary and added a TODO for Google Antigravity to re-check all food and hotel options before booking.
+- Added a rough full-trip Google Maps route link and a warning-tagged friends-review note for major decision points such as hotel minimum stays, wine detours, fishing-season uncertainty, and room-sharing comfort.
+- Researched hotel costs across boutique, Hilton/points-friendly, and Marriott tracks using subagents and Chrome-backed rate checks where applicable. Updated the lodging section with 3-room minimum and 4-room comfort estimates that assume Mel has her own room and Kenny likely has his own room.
+- Corrected the Crescent City points-friendly recommendation to Best Western Plus Northwoods Inn and noted that all hotel numbers are planning estimates requiring checkout verification.
 
 
 

@@ -2,6 +2,14 @@
 
 **Travelers:** Brian, Kenny, Jhon, Julius, and Melanie.
 
+**TODO for Google Antigravity:** Re-check all food and hotel options before booking to confirm they are still open, still well-reviewed, and still aligned with the group's budget, rooming needs, and dietary restrictions.
+
+**Dietary Restrictions:** Melanie is pescatarian. Keep seafood and vegetarian/pescatarian-friendly meals available throughout the route, and avoid assuming meat-heavy restaurants work unless there are strong non-meat options.
+
+**Mega Route Map:** [🗺️ Visualize the rough full road trip on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Hacienda+Heights,+CA&destination=Seattle-Tacoma+International+Airport,+WA&waypoints=Solvang,+CA%7CSanta+Cruz,+CA%7CSan+Francisco,+CA%7CNapa+Valley,+CA%7CFort+Bragg,+CA%7CCrescent+City,+CA%7CPortland,+OR%7CVancouver,+BC,+Canada&travelmode=driving)
+
+⚠️ **Friends Review Needed:** The route has several “decide before booking” situations: Solvang hotels may require 2-night minimums or have limited Saturday inventory, Napa adds a meaningful detour on the San Francisco-to-Fort Bragg day, SLO/Paso wineries compete with the Santa Cruz arrival timing, fishing charters depend on season/weather/licensing, and room sharing only works if everyone is honest about bed comfort.
+
 **Trip Concept:** A legendary 12-day, one-way coastal road trip from Hacienda Heights, California all the way up the Pacific Coast to Seattle, Washington. No cruise, purely a driving adventure! The group plans to drive the entire route, drop off the rental car, and fly back home from Seattle on October 21.
 
 **Trip Dates:** October 10 – October 21, 2026 (12 Days).
@@ -19,6 +27,7 @@
 *   **🍴 Food Spotlight:**
     *   *Lunch:* Grab a table at **Paula's Pancake House** for their famous, paper-thin Danish pancakes served with warm berries, or head to **Solvang Restaurant** to try traditional *Aebleskiver* (sweet, spherical Danish puff pastries dusted with powdered sugar and raspberry jam).
     *   *Dinner:* Dine at **Mad & Vin** (located inside The Landsby). This chic, modern Scandinavian-inspired restaurant serves outstanding farm-to-table California cuisine, highlighting fresh local seafood, duck breast, and premier Santa Ynez Valley wines.
+*   **🍷 Winery Angle:** If the group wants the trip to start with wine instead of just sightseeing, book one relaxed Santa Ynez / Ballard Canyon tasting after arrival and keep dinner walking-distance in Solvang so nobody has to drive after a full tasting.
 *   **Accommodation:** ❓ *Unbooked* in Solvang, CA (See hotel tracks below).
 
 ---
@@ -29,6 +38,7 @@
 *   **Duration:** ~3.5 hours (195 miles) pure driving time (approx. 4.5 hours total elapsed travel time including a scenic lunch break along the way).
     *   [🗺️ View Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Solvang,+CA&destination=Santa+Cruz,+CA&travelmode=driving)
 *   **2:30 PM:** Arrive in **Santa Cruz, CA**. Walk the historic Santa Cruz Beach Boardwalk, explore the wharf, or watch surfers ride the legendary waves at Steamer Lane at golden hour.
+*   **🍷 SLO / Paso Winery Detour Option:** This driving day already passes close to San Luis Obispo and Paso Robles wine country. For a coastal SLO feel, detour into **Edna Valley** for a cool-climate Chardonnay / Pinot Noir tasting at spots like [**Chamisal Vineyards**](https://chamisalvineyards.com/), [**Biddle Ranch Vineyard**](https://biddleranch.com/tasting-room/), or [**Edna Valley Vineyard**](https://www.ednavalleyvineyard.com/visit/tasting-room). For bigger reds, stop farther inland in **Paso Robles** at a larger estate such as [**Robert Hall Winery**](https://www.roberthallwinery.com/visit/) or [**Vina Robles**](https://vinarobles.com/visit). Add approx. 1.5 to 2.5 hours total elapsed time depending on tasting length and lunch.
 *   **🍴 Food Spotlight:**
     *   *Lunch on the Road:* Stop in **San Luis Obispo** (~1 hour from Solvang) at the famous **Firestone Grill** for their legendary, high-piled tri-tip steak sandwiches and seasoned basket fries. Alternatively, stop in **Paso Robles** at **Thomas Hill Organics** for an upscale, creative organic farm-to-table bistro experience.
     *   *Dinner:* Treat yourselves to **Shadowbrook Restaurant** in Capitola (just next to Santa Cruz). This historic, multi-tiered restaurant is set in a steep, lush redwood forest canyon. You ride a red cable car funicular down to the riverside dining room, where they serve spectacular wild-caught salmon, prime rib, and an extensive local wine list.
@@ -56,7 +66,10 @@
 *   **9:00 AM:** Depart San Francisco. Cross the Golden Gate Bridge and head north on US-101 through Marin County, then cut west along scenic **CA-128** through the stunning Anderson Valley.
 *   **Duration:** ~3.5 hours (170 miles) pure driving time (approx. 4.5 hours total elapsed travel time including a walk under redwood canopies and stretch stops).
     *   [🗺️ View Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=San+Francisco,+CA&destination=Fort+Bragg,+CA&travelmode=driving)
+*   **🍷 Napa Detour Option:** If Napa is a priority, leave earlier and route through Napa Valley before cutting west to the Mendocino Coast. Use the [**Visit Napa Valley winery map**](https://www.visitnapavalley.com/wineries/winery-map/) to pick 1-2 reservation-friendly tastings and consider hiring a driver if more than one person wants to drink. This turns the day into roughly 5 hours pure driving time and approx. 6.5 to 7.5 hours total elapsed travel time.
+    *   [🗺️ Napa Detour Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=San+Francisco,+CA&destination=Fort+Bragg,+CA&waypoints=Napa+Valley,+CA&travelmode=driving)
 *   **1:30 PM:** Arrive on the Mendocino Coast. Visit the dramatic cliffs at **Mendocino Headlands State Park**, then head to **Fort Bragg** to walk the unique **Glass Beach**, famous for its colorful sea glass smoothed by decades of crashing waves.
+*   **🎣 Fishing Angle:** Fort Bragg's Noyo Harbor is one of the better fishing fits on the route. [**Telstar Charters**](https://www.telstar-charters.com/) lists ocean trips such as rockfish / crab combos; if the group wants this, treat Fort Bragg as a fishing-focused overnight and confirm season, sea conditions, licenses, and departure time before booking.
 *   **🍴 Food Spotlight:**
     *   *Lunch on the Road:* Stop in **Boonville** (Anderson Valley redwoods) at the **Boonville General Store** for organic local goat cheese paninis, hot soups, and fresh bakery treats.
     *   *Dinner:* Head to historic **Noyo Harbor** in Fort Bragg for dinner at **Princess Seafood Restaurant**. This highly rated, female-owned spot serves exceptionally fresh, dockside-casual catches including local dungeness crab rolls, grilled rockfish, and wild salmon plates on their harbor patio.
@@ -72,6 +85,7 @@
 *   **🚗 Route Highlight: Avenue of the Giants**
     *   Make sure to take the 31-mile bypass scenic drive on **Avenue of the Giants** (parallel to US-101 near Garberville). You will drive directly through cathedral-like tunnels of massive, towering redwoods. Stop at the **Founders Grove** to walk the short trail to the fallen **Dyerville Giant** (a colossal 362-foot redwood tree that fell in 1991).
 *   **2:00 PM:** Arrive in **Crescent City, CA**. Head to the shore to view the historic **Battery Point Lighthouse**, accessible on foot across a rocky causeway only at low tide!
+*   **🎣 Fishing Angle:** Crescent City is another strong fishing stop, especially for rockfish, lingcod, salmon, halibut, albacore, and crab when seasons are open. Check operators such as [**Crescent City Fishing**](https://crescentcityfishing.com/contact.html) or [**Crescent City Fishing Charters**](https://crescentcityfishingcharters.com/) before locking this day, since ocean conditions and California fishing seasons matter.
 *   **🍴 Food Spotlight:**
     *   *Lunch on the Road:* Stop in the historic waterfront old town of **Eureka, CA** (~2.5 hours from Fort Bragg). Grab fresh local chowder and wood-fired seafood at **Cafe Marina** overlooking Humboldt Bay, or a delicious organic lunch at the cozy **Woodrose Cafe** in Garberville.
     *   *Dinner:* Dine at the **Chart Room Restaurant** located directly on the Crescent City Harbor docks. Enjoy fresh, local beer-battered halibut and chips, local crab legs, and clam chowder while watching the local sea lions play and bark right outside the window.
@@ -149,7 +163,7 @@
 ### **October 20 (Tuesday): Vancouver Exploration & Scenic Drive to Seattle**
 
 *   **9:30 AM – 1:30 PM: 🌲 Giant Forest Bridges & Public Markets**
-    *   Explore Vancouver's finest: walk the jaw-dropping **Capilano Suspension Bridge** (hanging 230 feet above the Capilano River canyon surrounded by ancient coastal Douglas firs), or rent e-bikes to cruise the famous 5.5-mile **Stanley Park Seawall loop** overlooking the Pacific.
+    *   Explore Vancouver's finest: walk the jaw-dropping **Capilano Suspension Bridge** (hanging 230 feet above the Capilano River canyon surrounded by ancient coastal Douglas firs), or keep it easy with Granville Island, Coal Harbour, and Stanley Park viewpoints before the border drive back.
 *   **2:00 PM:** Depart Vancouver, driving south on Highway 99, crossing the border back into Washington, and joining I-5 S to Seattle.
 *   **Duration:** ~2.5 to 3 hours (140 miles) pure driving time (approx. 4 hours total elapsed travel time including the border queue).
     *   [🗺️ View Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Vancouver,+BC,+Canada&destination=Seattle,+WA&travelmode=driving)
@@ -169,20 +183,19 @@
 
 ---
 
-## **❓🌲 Outstanding Scenic Adventures & Local Rentals**
+## **❓🍷🎣 Outstanding Wineries & Fishing Opportunities**
 
-This active adventure guide outlines premier local outdoor activities and rental operators in your overnight hubs, perfect for keeping the trip active and scenic.
+This guide keeps the trip focused on what the group actually cares about: wine-country stops, coastal seafood energy, and realistic fishing chances. Any tasting-heavy day needs either a designated driver, a hired driver, or a very conservative tasting plan.
 
-| Location | Activity Highlight | Top Local Operator / Rental | Quick Details & Practical Tips |
+| Location | Interest | Top Option / Planning Link | Quick Details & Practical Tips |
 | :--- | :--- | :--- | :--- |
-| **Solvang** | Wine Country Cycling | [**Solvang Valley e-Bikes**](https://www.solvangebikes.com/) | Rent e-bikes to glide effortlessly through the rolling hills of Ballard Canyon and Santa Ynez Valley vineyards. |
-| **Santa Cruz** | West Cliff Coastal Cruise | Local Beach Rentals | Rent cruisers or e-bikes to ride along West Cliff Drive to Natural Bridges State Beach. Stop to watch surfers at Steamer Lane! |
-| **San Francisco** | Golden Gate Bridge Bike Tour | [**Blazing Saddles Bike Rentals**](https://www.blazingsaddles.com/) | Rent e-bikes at Fisherman's Wharf, ride across the Golden Gate Bridge to Sausalito, and take the scenic ferry back to SF. |
-| **Fort Bragg** | Redwood Forest Railbiking | [**The Skunk Train Railbikes**](https://www.skunktrain.com/) | **Highly Unique!** Ride custom, two-person electric-assisted rail track vehicles directly on historic train tracks through quiet towering redwood canyons. |
-| **Crescent City** | Jedediah Smith Redwoods Hike | Self-Guided / Redwood Parks Info | Walk the cathedral-like Boy Scout Tree Trail (5.3 miles) and Stout Grove (0.6 miles). Drive unpaved Howland Hill Road. Free entry! |
-| **Portland** | Willamette River Waterfront Loop | [**Kerr Bikes**](https://www.kerrbikes.org/) (Waterfront Park) | Rent cruisers or e-bikes right next to the river and ride the scenic 3-mile paved loop across Portland's famous bridges. |
-| **Seattle** | Lake Union Kayak & Paddleboarding | [**Agua Verde Paddle Club**](https://aguaverdepaddleclub.com/) | Rent single/double sea kayaks or stand-up paddleboards to explore Lake Union, watch seaplanes land, and grab fresh fish tacos after. |
-| **Vancouver** | Stanley Park Seawall Cycling | [**Yes Cycle Bike Rentals**](https://yescycle.com/) | Rent e-bikes or cruisers right next to Stanley Park and ride the spectacular 5.5-mile paved Seawall loop along the Pacific Ocean. |
+| **Solvang / Santa Ynez Valley** | Wine Tasting | Santa Ynez / Ballard Canyon wineries | Best fit for the first afternoon: scenic, close to the hotel, and lower-stress than trying to cram a long tasting day into the drive. |
+| **SLO / Edna Valley** | Cool-Climate Wineries | [**Chamisal Vineyards**](https://chamisalvineyards.com/), [**Biddle Ranch Vineyard**](https://biddleranch.com/tasting-room/), [**Edna Valley Vineyard**](https://www.ednavalleyvineyard.com/visit/tasting-room) | Strong stop on the Solvang-to-Santa Cruz drive for Chardonnay, Pinot Noir, and a polished tasting-room setting near San Luis Obispo. |
+| **Paso Robles** | Bigger Reds / Estate Tastings | [**Robert Hall Winery**](https://www.roberthallwinery.com/visit/), [**Vina Robles**](https://vinarobles.com/visit), [**Paso Robles Chamber Taste Guide**](https://www.pasorobleschamber.com/visit-paso/taste/) | Better for Cabernet, Rhone blends, and a more classic Central Coast wine-country feel; adds more drive time than Edna Valley. |
+| **Napa Valley** | Premium Wine Detour | [**Visit Napa Valley Winery Map**](https://www.visitnapavalley.com/wineries/winery-map/), [**NapaValley.com Winery Map**](https://www.napavalley.com/maps/) | Works best as a deliberate detour on the San Francisco-to-Fort Bragg day. Reservations are strongly recommended; hire a driver if doing multiple tastings. |
+| **Fort Bragg / Noyo Harbor** | Ocean Fishing | [**Telstar Charters**](https://www.telstar-charters.com/) | Best dedicated fishing candidate on the route. Look for rockfish, lingcod, crab, and seasonal trips; verify licenses, departure times, and weather cancellation terms. |
+| **Crescent City** | Ocean Fishing | [**Crescent City Fishing**](https://crescentcityfishing.com/contact.html), [**Crescent City Fishing Charters**](https://crescentcityfishingcharters.com/) | Strong backup fishing hub, especially with the two-night stay. Confirm open seasons for salmon, halibut, albacore, rockfish, lingcod, and crab. |
+| **Seattle / Puget Sound** | Salmon / Sound Fishing | [**All Star Fishing Charters**](https://seattlefishing.com/), [**Tengu Charters**](https://www.tengucharters.com/) | Good final fishing option if the group wants a guided Puget Sound morning. Salmon seasons vary, and Seattle charters may depart from Seattle, Edmonds, or nearby marinas. |
 
 ---
 
@@ -222,42 +235,58 @@ These are highly curated local restaurant recommendations, perfect for foodies w
 
 Select one cohesive track below to simplify booking, keep travel styles consistent, and leverage points/status along your route.
 
+**Cost planning assumptions:** Rates were researched on May 20, 2026 using official hotel booking pages and major OTA references. Treat every number as a planning estimate until checkout, because October 2026 inventory, minimum-stay rules, taxes, exchange rates, and cancellability can move. Group estimates assume **Mel gets her own room**, **Kenny likely gets his own room**, and the other three guys either share one larger room (**3-room minimum plan**) or split into two rooms (**4-room comfort plan**). Totals below generally include researched hotel taxes/room fees where available, but **exclude parking unless noted**.
+
+⚠️ **Friends Review Needed:** The cheapest 3-room plan often means three adult guys sharing two queens, a sofa bed, or a suite. Confirm who is actually okay with that before booking; otherwise use the 4-room comfort plan.
+
 ### **🌸 Track 1: The Local Boutique Track (Independent & Character-Rich)**
 *Best for: Travelers seeking highly curated, distinct, and memorable stays with local architectural charm.*
 
-*   **Solvang (Oct 10-11):** [**The Landsby**](https://www.thelandsby.com/) — High-style, Scandinavian-modern boutique hotel with clean lines, warm lighting, and a gorgeous central courtyard bar in the heart of town.
-*   **Santa Cruz (Oct 11-12):** [**Dream Inn Santa Cruz**](https://www.dreaminnsantacruz.com/) — Iconic, retro-chic beachfront hotel right next to the boardwalk. Every room features a private balcony looking directly out at Monterey Bay.
-*   **San Francisco (Oct 12-13):** [**Hotel Kabuki, JDV by Hyatt**](https://www.hyatt.com/en-US/hotel/california/hotel-kabuki/sfojd) — Industrial-chic design in Japantown featuring sleek Japanese soaking tubs, abstract art, and a top-tier lobby bar.
-*   **Fort Bragg (Oct 13-14):** [**Noyo Harbor Inn**](https://www.noyoharborinn.com/) — Richly detailed historic inn nestled in the trees above the active fishing harbor. Offers cozy fireplaces and elegant wood accents.
-*   **Crescent City (Oct 14-16):** [**Curly Redwood Lodge**](https://www.curlyredwoodlodge.com/) — Famous historic motel built entirely from a single giant curly redwood tree! Breathtaking retro-rustic wood detailing and immense local character.
-*   **Portland (Oct 16-18):** [**Inn at Northrup Station**](https://www.northrupstation.com/) — Funky, bright, mid-century retro suites in the highly walkable Alphabet District. Includes free streetcar tickets.
-*   **Vancouver (Oct 19-20):** [**The Burrard**](https://theburrard.com/) — Hip, retro-modern boutique motel conversion in downtown Vancouver. Colorful, fun courtyard, and free cruiser bike rentals.
-*   **Seattle (Oct 18-19 & 20-21):** [**Mediterranean Inn**](https://www.mediterraneaninn.com/) — Highly popular stay in Queen Anne featuring a spectacular rooftop terrace looking directly at the Space Needle and Puget Sound.
+| Stop | Hotel | Researched Cost Estimate | Watch-Outs |
+| :--- | :--- | :--- | :--- |
+| **Solvang (Oct 10-11)** | [**The Landsby**](https://www.thelandsby.com/) | If inventory opens: approx. **$883-$1,722** for 3 rooms or **$1,176-$2,296** for 4 rooms, after hotel taxes/fees. | ⚠️ Official booking showed **not available** for Oct 10 as a 1-night stay when checked. Parking approx. **$20/car/night**. |
+| **Santa Cruz (Oct 11-12)** | [**Dream Inn Santa Cruz**](https://www.dreaminnsantacruz.com/) | Approx. **$1,020-$2,030** for 3 rooms or **$1,360-$2,705** for 4 rooms, after Santa Cruz taxes/fees. | Oceanfront and pricier. Parking approx. **$35-$40 + tax/car/night**. Two-queen rooms can fit 3 guys but no guaranteed rollaway. |
+| **San Francisco (Oct 12-13)** | [**Hotel Kabuki, JDV by Hyatt**](https://www.hyatt.com/en-US/hotel/california/hotel-kabuki/sfojd) | Refundable setup approx. **$1,190-$1,205** for 3 rooms or **$1,570-$1,590** for 4 rooms, after estimated taxes/fees. | Destination fee approx. **$40.69/room/night**. Parking approx. **$49/car/night**. |
+| **Fort Bragg (Oct 13-14)** | [**Noyo Harbor Inn**](https://www.noyoharborinn.com/) | Approx. **$1,100-$1,485** for 3 rooms or **$1,470-$1,980** for 4 rooms, after estimated 15% taxes/assessment. | Beautiful but not a true 3-bed setup for the guys; sofa/trundle/bed sharing likely. Free parking. |
+| **Crescent City (Oct 14-16)** | [**Curly Redwood Lodge**](https://www.curlyredwoodlodge.com/) | Approx. **$620-$686** for 3 rooms or about **$812** for 4 rooms, after 10% lodging tax and service fee. | Best value and has 3-bed suite options. Possible cash deposit; parking appears free. |
+| **Portland (Oct 16-18)** | [**Inn at Northrup Station**](https://www.northrupstation.com/) | Approx. **$1,176-$1,629** for 3 rooms or **$1,531-$2,134** for 4 rooms, after estimated Portland/Oregon lodging taxes. | 3-room plan works via double-queen/sofa suite; free parking is a major plus. |
+| **Seattle (Oct 18-19 & 20-21)** | [**Mediterranean Inn**](https://www.mediterraneaninn.com/) | Both Seattle nights combined: approx. **$1,386-$1,979** for 3 rooms or **$1,743-$2,490** for 4 rooms, after observed room taxes/fees. | Parking approx. **$36 + tax/car/night**. Double Queen is the realistic 3-guys room. |
+| **Vancouver (Oct 19-20)** | [**The Burrard**](https://theburrard.com/) | Standard-rate estimate approx. **CAD $1,160-$1,216** for 3 rooms or **CAD $1,499-$1,528** for 4 rooms after lodging taxes. | 3-room plan may need extra-person/cot charges. Parking approx. **CAD $29.50 + tax/car/night**. |
+
+**Track 1 planning total:** approx. **$8,200-$11,600** for the 3-room minimum plan, or **$10,800-$15,900** for the 4-room comfort plan, before parking.
 
 ---
 
 ### **👑 Track 2: The Hilton Honors Track (Reliable & Free Hot Breakfast)**
 *Best for: Travelers stacking Hilton points/status, seeking highly rated properties, and wanting free hot breakfasts at almost every stop.*
 
-*   **Solvang (Oct 10-11):** [**The Hadsten Solvang, Tapestry Collection**](https://www.hilton.com/en/hotels/sbaxvup-the-hadsten-solvang/) — A gorgeously styled Hilton boutique property in the heart of Solvang's Danish village. Perfect blend of design and points!
-*   **Santa Cruz (Oct 11-12):** [**Hampton Inn Santa Cruz West**](https://www.hilton.com/en/hotels/szcswhx-hampton-santa-cruz-west/) — Located right on Mission St, minutes from West Cliff Drive and Natural Bridges. Modern rooms, free breakfast, and free parking.
-*   **San Francisco (Oct 12-13):** [**Hilton San Francisco Financial District**](https://www.hilton.com/en/hotels/sfofdhh-hilton-san-francisco-financial-district/) — Located right next to Chinatown and the Financial District, offering sweeping panoramic high-rise views of the SF Bay.
-*   **Fort Bragg (Oct 13-14):** *Points Track Alternative:* [**Holiday Inn Express Fort Bragg**](https://www.ihg.com/holidayinnexpress/hotels/us/en/fort-bragg/fbgca/hoteldetail) — No Hilton properties exist in Fort Bragg; this newly renovated IHG property is the premier points-friendly equivalent in town (with indoor pool & free breakfast). *Alternatively, stop 1 hour early in Ukiah at the Hampton Inn Ukiah.*
-*   **Crescent City (Oct 14-16):** *Points Track Alternative:* [**Best Western Plus Crescent City Inn**](https://www.bestwestern.com/) — No Hilton properties in Crescent City; this highly rated property offers a reliable, points-friendly stop with free hot breakfast. *Alternatively, stop 1 hour early in Arcata/Eureka at the Hampton Inn Arcata.*
-*   **Portland (Oct 16-18):** [**Hampton Inn & Suites Portland-Pearl District**](https://www.hilton.com/en/hotels/pdxpdhx-hampton-suites-portland-pearl-district/) — Premier Pearl District location. Features a stunning indoor pool, a beautiful rooftop patio, and free hot breakfast.
-*   **Vancouver (Oct 19-20):** [**Hilton Vancouver Downtown**](https://www.hilton.com/en/hotels/yvvrhhz-hilton-vancouver-downtown/) — Modern high-rise hotel in a premier central shopping district with a heated outdoor pool.
-*   **Seattle (Oct 18-19 & 20-21):** [**Hampton Inn & Suites Seattle-Downtown**](https://www.hilton.com/en/hotels/seadnhx-hampton-suites-seattle-downtown/) — Set right at the foot of the Space Needle. Massive, comfortable suites with free hot breakfast and secure covered parking.
+| Stop | Hotel | Researched Cost Estimate | Watch-Outs |
+| :--- | :--- | :--- | :--- |
+| **Solvang (Oct 10-11)** | [**The Hadsten Solvang, Tapestry Collection**](https://www.hilton.com/en/hotels/smxhaup-the-hadsten-solvang/) | If 1 night opens: approx. **$985-$1,156** for 3 rooms or **$1,311-$1,541** for 4 rooms after taxes/fees. | ⚠️ Hilton showed no 1-night availability; Hotels.com indicated a **2-night minimum**. If forced into Oct 10-12, 3 rooms may run **$1,967-$2,311** after taxes/fees. Free parking; breakfast may cost extra. |
+| **Santa Cruz (Oct 11-12)** | [**Hampton Inn Santa Cruz West**](https://www.hilton.com/en/hotels/sjcmshx-hampton-santa-cruz-west/) | Approx. **$770-$1,036** for 3 rooms or **$1,026-$1,381** for 4 rooms after taxes/fees. | Free self-parking. 2-queen rooms can fit 3 guys but still only two beds. |
+| **San Francisco (Oct 12-13)** | [**Hilton San Francisco Financial District**](https://www.hilton.com/en/hotels/sfofdhf-hilton-san-francisco-financial-district/) | Approx. **$1,642-$1,924** for 3 rooms or **$2,189-$2,566** for 4 rooms after estimated taxes. | ⚠️ One-night availability looked restricted; confirm direct. Parking approx. **$74.10/car/day**. |
+| **Fort Bragg (Oct 13-14)** | *Points Track Alternative:* [**Holiday Inn Express Fort Bragg**](https://www.ihg.com/holidayinnexpress/hotels/us/en/fort-bragg/fobca/hoteldetail) | Approx. **$725-$759** for 3 rooms or **$966-$1,012** for 4 rooms after estimated 15% tax. | No true Hilton in Fort Bragg. Free parking; 2-queen rooms can fit 3 guys. |
+| **Crescent City (Oct 14-16)** | *Points Track Alternative:* [**Best Western Plus Northwoods Inn**](https://www.bestwestern.com/en_US/book/hotel-rooms.05435.html) | Approx. **$990-$1,290** for 3 rooms or **$1,320-$1,500** for 4 standard rooms after estimated 11% tax. | Name corrected from earlier placeholder. Cancellability language looked inconsistent, so verify at checkout. Free parking; possible incidental hold. |
+| **Portland (Oct 16-18)** | [**Hampton Inn & Suites Portland-Pearl District**](https://www.hilton.com/en/hotels/pdxpdhx-hampton-suites-portland-pearl-district/) | Approx. **$1,160-$1,810** for 3 rooms or **$1,346-$1,995** for 4 rooms after estimated lodging taxes/TID. | Good room fit if booking a 2 Queen Studio Suite with sofa bed. Valet approx. **$50/car/night**. |
+| **Seattle (Oct 18-19 & 20-21)** | [**Hampton Inn & Suites Seattle-Downtown**](https://www.hilton.com/en/hotels/seadthx-hampton-suites-seattle-downtown/) | Both Seattle nights combined: approx. **$1,189-$1,480** for 3 rooms or **$1,586-$1,973** for 4 rooms after estimated taxes/charges. | Parking approx. **$40/car/day**. 57k Hilton points/night visible for Oct 18. |
+| **Vancouver (Oct 19-20)** | [**Hilton Vancouver Downtown**](https://www.hilton.com/en/hotels/yvrwghh-hilton-vancouver-downtown/) | Approx. **CAD $1,340 / USD $975** for 3 rooms or **CAD $1,745-$1,775 / USD $1,268-$1,290** for 4 rooms after taxes. | 80k Hilton points/night visible for standard rooms. Parking approx. **CAD $46 self / CAD $53 valet**. |
+
+**Track 2 planning total:** approx. **$8,400-$10,400** for the 3-room minimum plan, or **$11,000-$13,300** for the 4-room comfort plan, before parking.
 
 ---
 
 ### **🛡️ Track 3: The Marriott Bonvoy Track (Spacious Suites & Premium Comfort)**
 *Best for: Travelers stacking Marriott Bonvoy points, seeking premium amenities, and desiring spacious suite layouts (great for groups and road-trip gear).*
 
-*   **Solvang (Oct 10-11):** [**Santa Ynez Valley Marriott**](https://www.marriott.com/en-us/hotels/sbasy-santa-ynez-valley-marriott/) — Located just 5 minutes away in Buellton. Features a gorgeous outdoor heated pool, fire pits, and spacious modern rooms.
-*   **Santa Cruz (Oct 11-12):** [**Hotel Paradox, Autograph Collection**](https://www.marriott.com/en-us/hotels/sjctx-hotel-paradox-autograph-collection/) — A design-forward boutique Marriott hotel featuring a striking "urban forest" aesthetic, rain showers, and a lively pool deck with fire pits.
-*   **San Francisco (Oct 12-13):** [**Palace Hotel, a Luxury Collection Hotel**](https://www.marriott.com/en-us/hotels/sfolc-palace-hotel-a-luxury-collection-hotel-san-francisco/) — Legendary, grand SF historic hotel featuring opulent gold-leaf architecture and a breathtaking, glass-domed garden court atrium.
-*   **Fort Bragg (Oct 13-14):** *Marriott Track Alternative:* [**Harbor Lite Lodge**](https://www.harborlitelodge.com/) — No Marriott properties in Fort Bragg; this highly-rated local harbor partner is the perfect premium alternative, offering private balconies looking directly out over Noyo Harbor.
-*   **Crescent City (Oct 14-16):** *Marriott Track Alternative:* [**Oceanfront Lodge**](https://www.oceanfrontlodge.com/) — No Marriott properties in Crescent City; this local partner is the premier waterfront option in town, offering spacious ocean-view suites and an indoor heated pool.
-*   **Portland (Oct 16-18):** [**Residence Inn Portland Pearl District**](https://www.marriott.com/en-us/hotels/pdxri-residence-inn-portland-downtown-pearl-district/) — Beautifully situated in the highly walkable Pearl District. Massive apartment-style suites with full kitchens, central courtyard fire pits, and a free hot breakfast buffet.
-*   **Vancouver (Oct 19-20):** [**Delta Hotels Vancouver Downtown Suites**](https://www.marriott.com/en-us/hotels/yvrdv-delta-hotels-vancouver-downtown-suites/) — A highly rated, all-suite hotel featuring separate living areas and full kitchens, perfect for groups.
-*   **Seattle (Oct 18-19 & 20-21):** [**Residence Inn Seattle Downtown/Lake Union**](https://www.marriott.com/en-us/hotels/sealu-residence-inn-seattle-downtown-lake-union/) — Right on the Lake Union waterfront, close to Queen Anne. Features massive multi-room suites with full kitchens, hot breakfasts, and immediate access to the waterfront streetcar.
+| Stop | Hotel | Researched Cost Estimate | Watch-Outs |
+| :--- | :--- | :--- | :--- |
+| **Solvang (Oct 10-11)** | [**Santa Ynez Valley Marriott**](https://www.marriott.com/en-us/hotels/sbasy-santa-ynez-valley-marriott/) | Approx. **$1,238-$1,529** for 3 rooms or **$1,642-$2,027** for 4 rooms after taxes/fees. | 62k Marriott points/stay visible. Free parking. 2-queen room works for 3 guys if bed sharing is okay. |
+| **Santa Cruz (Oct 11-12)** | [**Hotel Paradox, Autograph Collection**](https://www.marriott.com/en-us/hotels/sjcak-hotel-paradox-autograph-collection/) | Approx. **$680-$820** for 3 rooms or **$890-$1,045** for 4 rooms after taxes/fees. | 46k Marriott points/stay visible. Parking approx. **$28/day**. |
+| **San Francisco (Oct 12-13)** | [**Palace Hotel, a Luxury Collection Hotel**](https://www.marriott.com/en-us/hotels/sfolc-palace-hotel-a-luxury-collection-hotel-san-francisco/) | Approx. **$2,841-$3,243** for 3 rooms or **$3,788-$4,324** for 4 rooms after taxes/fees. | ⚠️ Gorgeous but by far the splurge. Includes approx. **$40 daily destination fee/room**. Valet approx. **$89/day**. |
+| **Fort Bragg (Oct 13-14)** | *Marriott Track Alternative:* [**Harbor Lite Lodge**](https://www.harborlitelodge.com/) | Approx. **$431-$587** for typical 3-room setup, with upgraded inventory possibly pushing toward **$880**; **$575-$1,173** for 4 rooms after estimated tax. | No Marriott in Fort Bragg. Free parking. 2-queen rooms can fit 3 guys, but rollaway info conflicts by OTA. |
+| **Crescent City (Oct 14-16)** | *Marriott Track Alternative:* [**Oceanfront Lodge**](https://www.oceanfrontlodge.com/) | Approx. **$904-$1,254** for 3 rooms or **$1,206-$1,522** for 4 rooms after 10% tax. | Family suite with 2 queens + futon is the cleaner 3-guys option. Free parking; breakfast may cost extra. |
+| **Portland (Oct 16-18)** | [**Residence Inn Portland Downtown/Pearl District**](https://www.marriott.com/en-us/hotels/pdxpd-residence-inn-portland-downtown-pearl-district/) | Approx. **$1,359-$1,384** for 3 rooms or about **$1,752** for 4 rooms after Expedia taxes/fees. | Strong suite layout; valet/covered parking around **$55-$59/night**. |
+| **Seattle (Oct 18-19 & 20-21)** | [**Residence Inn Seattle Downtown/Lake Union**](https://www.marriott.com/en-us/hotels/sealu-residence-inn-seattle-downtown-lake-union/) | Both Seattle nights combined: approx. **$2,520** for 3 rooms or **$3,048** for 4 rooms after room taxes/fees. | 3-room plan uses a shared 2BR suite for the guys. Parking approx. **$41 + tax/car/night**. |
+| **Vancouver (Oct 19-20)** | [**Delta Hotels Vancouver Downtown Suites**](https://www.marriott.com/en-us/hotels/yvrdv-delta-hotels-vancouver-downtown-suites/) | Approx. **CAD $1,623-$2,131 / USD $1,185-$1,556** for 3 rooms or **CAD $2,164-$2,841 / USD $1,580-$2,074** for 4 rooms after Vancouver lodging taxes. | 52k Marriott points/stay visible. Parking approx. **CAD $52/day**. |
+
+**Track 3 planning total:** approx. **$11,200-$13,200** for the 3-room minimum plan, or **$14,500-$17,000** for the 4-room comfort plan, before parking.

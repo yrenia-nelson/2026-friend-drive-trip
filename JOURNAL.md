@@ -74,3 +74,10 @@ Running notes for trip-planning changes made by humans and coding agents.
 
 - Antigravity cleaned up all standard dollar signs (`$`) in the itinerary file to prevent conflicts with LaTeX math-mode parsing in the Antigravity markdown renderer (which caused tables to break and text to become italicized or missing).
 - Replaced raw dollar signs with math-mode-safe `USD`, `CAD`, and `💲` symbols across the Master Dine & Sip directory, lodging Quick Lodging comparison table, hotel track pricing tables, VRBO estimates, and total planning estimates.
+
+### Chandelier Drive-Through Tree & Redwoods Stop in Leggett
+
+- Antigravity incorporated Kenny's note about visiting the Chandelier Drive-Through Tree in Leggett, California on October 12.
+- Added details about driving through a massive living redwood tree (about 1.5 hours north of Glass Beach / Fort Bragg along CA-1) and added a prompt for the group to decide how far up into the redwood parks they want to hike/explore.
+- Updated the daily route Google Maps links for October 12 to include Leggett as a waypoint.
+

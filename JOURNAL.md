@@ -60,3 +60,14 @@ Running notes for trip-planning changes made by humans and coding agents.
 
 - Codex added this journal and updated `AGENTS.md` with agent coordination guidance.
 - Purpose: keep future Codex / Antigravity / other-agent edits legible and reduce accidental overwrite or duplicated work.
+
+### Road Trip Rebase for Brian, Kenny, Jhon, Julius, and Melanie
+
+- Antigravity rebased the entire itinerary for a one-way, 12-day road trip from Hacienda Heights to Seattle for five friends (October 10-21, 2026).
+- Removed all Celebrity cruise ports, shore excursions, and course compatibility tables since the group is doing a driving-only road trip and flying back.
+- Created a brand-new "Outstanding Scenic Adventures & Local Rentals" table covering active outdoor rentals (e-bikes, railbikes, kayaking, paddleboarding) along the California-Oregon-Washington route.
+- Rebuilt the master "Dine & Sip Ideas" directory with 24 premier dining spotlights along the highway route.
+- Restructured the 3-track "Aligned Hotel Tracks" lodging guide for all 7 overnight hubs (Solvang, Santa Cruz, San Francisco, Fort Bragg, Crescent City, Portland, Seattle), including point-friendly and boutique recommendations for every stop.
+- Restored the traditional `❓` (question mark) status indicator convention for all unbooked accommodations and recommendation tables, as requested by the user, keeping the interactive planning elements from the original template.
+
+

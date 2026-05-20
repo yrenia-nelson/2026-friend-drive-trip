@@ -1,228 +1,250 @@
-# **Pacific Northwest Road Trip & Cruise Itinerary**
+# **Coastal California & Pacific Northwest Road Trip Itinerary**
 
-**Travelers:** Nelson and Yrenia (Pescatarian) on the road trip to Seattle. Mom and Brother plan to fly into Seattle and join for the cruise.
+**Travelers:** Brian, Kenny, Jhon, Julius, and Melanie.
 
-**Dietary Preferences:** Yrenia is **pescatarian** (vegetarian + seafood, no poultry/beef/pork). She is also highly selective with mushrooms: **she only likes shiitake mushrooms** (avoids button, cremini, portobello, wood-ear, wild/forest mushrooms, etc.). All selected food recommendations accommodate these preferences.
+**Trip Concept:** A legendary 12-day, one-way coastal road trip from Hacienda Heights, California all the way up the Pacific Coast to Seattle, Washington. No cruise, purely a driving adventure! The group plans to drive the entire route, drop off the rental car, and fly back home from Seattle on October 21.
 
-**Final Destination:** Seattle, WA (Boarding *Celebrity Edge* on July 24\)
+**Trip Dates:** October 10 – October 21, 2026 (12 Days).
+
+---
 
 ## **🗓️ Day-by-Day Schedule**
 
-### **July 17 (Friday Morning): The Early Dawn Drive**
+### **October 10 (Saturday): Hacienda Heights to Solvang (The Journey Begins)**
 
-* **4:00 AM:** Nelson and Yrenia depart from Yrenia's house (**9351 E Villa Vista Way, Villa Park, CA 92861**). (An early start lets you beat all LA traffic, clear the Grapevine before it gets hot, and catch a beautiful sunrise on the road).  
-* **Duration:** \~6 hours 15 mins (370 miles) pure driving time (approx. 6.5 to 7 hours total elapsed travel time including quick stretch and gas stops).  
-  * [🗺️ View Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=9351+E+Villa+Vista+Way,+Villa+Park,+CA+92861&destination=353+Monaco+Ave,+Union+City,+CA+94587&travelmode=driving)  
-* **10:45 AM – 11:00 AM:** Arrive at Aunt's house with the whole day ahead of you to relax and visit. (Calculated with quick stretch/gas stops; lunch will be after arrival).  
-* **🍴 Food Spotlight:**
-  * *Lunch Idea:* Grab a casual bite nearby, like **Sizzling Lunch** (Union City) for fun, interactive hot-plate pepper rice/noodles, or **Senoia Tea House** (Fremont) for fresh, vegetarian-friendly Asian fusion.
-  * *Dinner Idea:* Family dinner in the East Bay. Excellent group-friendly pescatarian options include **Dough Zone Dumpling House** (Fremont) for crab & pork xiao long bao, sweet & sour cucumber salad (avoiding wood-ear mushroom), and dan dan noodles, or **Grand Harbor** (Fremont) for dim sum and fresh Cantonese seafood.
-* **Accommodation:** Staying with family at **353 Monaco Ave, Union City, CA 94587** (1 Night).
+*   **8:00 AM:** Depart from Hacienda Heights, CA. Beat the early morning weekend traffic as you head northwest toward the Central Coast.
+*   **Duration:** ~2.5 to 3 hours (145 miles) pure driving time (approx. 3.5 hours total elapsed travel time including a quick coffee and stretch stop).
+    *   [🗺️ View Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Hacienda+Heights,+CA&destination=Solvang,+CA&travelmode=driving)
+*   **11:30 AM:** Arrive in the storybook Danish village of **Solvang, CA**. Check out the windmills, walk the half-timbered streets, and soak in the wine country air.
+*   **🍴 Food Spotlight:**
+    *   *Lunch:* Grab a table at **Paula's Pancake House** for their famous, paper-thin Danish pancakes served with warm berries, or head to **Solvang Restaurant** to try traditional *Aebleskiver* (sweet, spherical Danish puff pastries dusted with powdered sugar and raspberry jam).
+    *   *Dinner:* Dine at **Mad & Vin** (located inside The Landsby). This chic, modern Scandinavian-inspired restaurant serves outstanding farm-to-table California cuisine, highlighting fresh local seafood, duck breast, and premier Santa Ynez Valley wines.
+*   **Accommodation:** ❓ *Unbooked* in Solvang, CA (See hotel tracks below).
 
-### **July 18 (Saturday): Road to Crater Lake & A Relaxed Evening**
+---
 
-* **10:00 AM:** Depart Union City for Crater Lake National Park. (Sleep in a bit and grab breakfast first\!).  
-* **Duration:** \~7.5 hours (425 miles) pure driving time (approx. 8.5 hours total elapsed travel time including a 1-hour lunch break in Redding and quick gas stops).  
-  * [🗺️ View Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=353+Monaco+Ave,+Union+City,+CA+94587&destination=Crater+Lake+National+Park&travelmode=driving)  
-* **🍴 Food Spotlight:**
-  * *Lunch on the Road:* Stop in **Redding, CA** (\~4 hours from Union City). Excellent spots: **Wilda's Grill** (famous for their delicious vegetarian/vegan "Buddha Bowls" with peanut sauce, falafel wraps, and salads) or **Café Paradisio** for fresh seasonal salads, sandwiches, and seafood options.
-  * *Dinner:* **Beckie's Cafe** at Union Creek Resort (famous for homemade pies; excellent classic wild-caught fish & chips, trout, and vegetarian options) or the historic **Crater Lake Lodge Dining Room** (overlooking the lake, reservations highly recommended; features steel-head trout, Oregon wild salmon, and creative vegetarian risottos).
-* **6:30 PM:** Arrive at Crater Lake. Check into your lodging and unpack. (Calculated with a 1-hour lunch and stop buffer).  
-* **7:00 PM:** Head up to the Crater Lake Rim for a relaxed evening drive to see the lake at golden hour, then grab a hearty dinner. No strenuous activities tonight—just rest up for hiking tomorrow.  
-* **Accommodation:** ❓ *Unbooked* near Crater Lake (See hotel tracks below).
+### **October 11 (Sunday): Solvang to Santa Cruz (Coastline and Boardwalks)**
 
-### **July 19 (Sunday): Morning Hikes & Drive to Portland**
+*   **10:00 AM:** Depart Solvang for the coastal town of Santa Cruz, driving north along US-101 through the rolling vineyards of Paso Robles and San Luis Obispo.
+*   **Duration:** ~3.5 hours (195 miles) pure driving time (approx. 4.5 hours total elapsed travel time including a scenic lunch break along the way).
+    *   [🗺️ View Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Solvang,+CA&destination=Santa+Cruz,+CA&travelmode=driving)
+*   **2:30 PM:** Arrive in **Santa Cruz, CA**. Walk the historic Santa Cruz Beach Boardwalk, explore the wharf, or watch surfers ride the legendary waves at Steamer Lane at golden hour.
+*   **🍴 Food Spotlight:**
+    *   *Lunch on the Road:* Stop in **San Luis Obispo** (~1 hour from Solvang) at the famous **Firestone Grill** for their legendary, high-piled tri-tip steak sandwiches and seasoned basket fries. Alternatively, stop in **Paso Robles** at **Thomas Hill Organics** for an upscale, creative organic farm-to-table bistro experience.
+    *   *Dinner:* Treat yourselves to **Shadowbrook Restaurant** in Capitola (just next to Santa Cruz). This historic, multi-tiered restaurant is set in a steep, lush redwood forest canyon. You ride a red cable car funicular down to the riverside dining room, where they serve spectacular wild-caught salmon, prime rib, and an extensive local wine list.
+*   **Accommodation:** ❓ *Unbooked* in Santa Cruz, CA (See hotel tracks below).
 
-* **8:00 AM – 11:30 AM: 🥾 Crater Lake Hike (Choose Your Adventure)**  
-  * *Option A (The Short Rim Summit):* **The Watchman Peak Trail**  
-    * **Distance:** 1.6 miles round-trip | **Elevation Gain:** 420 ft | **Difficulty:** Moderate.  
-    * **Why:** This is a steady climb to a historic fire lookout tower. It offers jaw-dropping, unobstructed panoramic views looking straight down at Wizard Island. Highly rewarding for a relatively short effort\!  
-  * *Option B (The Lakeshore Descent):* **Cleetwood Cove Trail**  
-    * **Distance:** 2.2 miles round-trip | **Elevation Gain:** 700 ft | **Difficulty:** Strenuous.  
-    * **Why:** The **only** trail that goes all the way down to the water. You can touch the freezing, incredibly pure volcanic water, skip rocks, or even do some cliff jumping. *Note: The trek back up is steep, so pace yourselves\!*  
-  * *Option C (The Classic Rim Ridge):* **Garfield Peak Trail**  
-    * **Distance:** 3.4 miles round-trip | **Elevation Gain:** 1,010 ft | **Difficulty:** Moderate-Strenuous.  
-    * **Why:** Starts right behind Crater Lake Lodge and climbs along the crater's edge. Offers continuous, dramatic sweeping views of the entire caldera without the steep descent to the water.  
-* **11:30 AM – 1:30 PM:** Pack up and complete the scenic **Rim Drive** to catch the drive-up overlooks (like Cloudcap or Phantom Ship) before leaving the park.  
-* **🍴 Food Spotlight:**
-  * *Lunch:* Grab a quick grab-and-go bite at the **Rim Village Cafe** (wraps, salads, and snacks) to picnic at one of the overlooks, or stop in **Eugene, OR** (via OR-58 W) for lunch at **Cafe Yumm!** (legendary Oregon-born warm grain and rice bowls with signature Yumm! Sauce—highly customizable and pescatarian/vegan-friendly) or **Fisherman's Market** (incredible casual, legendary local fish market and diner).
-  * *Dinner (Portland Welcome Dinner):* **Jacqueline** (Southeast Portland) — A stunning, cozy neighborhood gem with a lovely retro-aesthetic, showcasing exceptionally fresh Pacific Northwest oysters, Dungeness crab, and creative seafood dishes. *Or* **Arden** (Pearl District) for a sophisticated, wine-focused chic dining experience with brilliant pescatarian-friendly small plates.
-* **2:00 PM:** Depart for Portland, OR.  
-* **Duration:** \~4.5 \- 5 hours (250 miles) pure driving time (approx. 5.5 hours total elapsed travel time including a 30-minute stretch/snack stop).  
-  * [🗺️ View Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Crater+Lake+National+Park&destination=Portland,+OR&travelmode=driving)  
-* **7:30 PM:** Check into hotel in Portland (3 Nights). (Calculated with a 30-minute stop buffer).  
-* **Accommodation:** ❓ *Unbooked* in Portland (See hotel tracks below).
+---
 
-### **July 20 (Monday): Portland Japanese Garden**
+### **October 12 (Monday): Redwood Forests & Scenic Coastal Highway 1 to San Francisco**
 
-* **10:00 AM:** Head directly up to the **Portland Japanese Garden** to beat the midday heat and afternoon crowds.  
-  * **Transit Tip:** Since you're staying in the actual city now, you are right next to Washington Park\! You can take an incredibly fast 5-minute Uber, hop on the nearby MAX light rail, or use the Portland Streetcar (if staying at Northrup) straight to the park entrance.  
-* **1:00 PM:** Grab a late lunch at the local food trucks or head into Northwest Portland's Alphabet District for amazing local dining.  
-* **🍴 Food Spotlight:**
-  * *Lunch (Alphabet District):* **Grassa** (NW 23rd Ave) for incredible counter-service, high-quality handmade pasta (rock shrimp carbonara, garlic-parmesan campanelle, and delicious seasonal specials) or visit the **Nob Hill Food Carts** (NW 19th & Quimby) for diverse, high-quality local bites (including sushi burritos, vegan bowls, and falafel).
-  * *Dinner (Urban Skyline & Creative Asian Fusion):* **Departure Restaurant + Lounge** (Downtown / Pearl adjacent) — Head to the stunning rooftop of The Nines Hotel. Enjoy sweeping views of the city alongside a dedicated vegan/vegetarian menu, world-class sushi/sashimi, and spectacular seafood (crispy skin salmon, chili crab, and wok-fired noodles).
-* **Work/School Note:** Yrenia has a Monday night class (AI & Ethics) that is In-Person/Compatible? (No). Since you are done with the Garden early, she'll have the late afternoon to catch up on any asynchronous coursework\!  
-* **Accommodation:** ❓ Portland hotel unbooked.
+*   **9:00 AM – 11:00 AM: 🥾 Redwood Forest Walk at Henry Cowell Redwoods State Park**
+    *   Before heading to SF, take a short 10-minute drive north into the Santa Cruz Mountains to **Henry Cowell Redwoods State Park** (Felton, CA). Hike the flat, stunning **Redwood Grove Loop Trail** (0.8 miles). You will walk among awe-inspiring, ancient old-growth coast redwoods, including a tree over 1,500 years old and 277 feet tall!
+*   **11:15 AM:** Depart the redwoods for San Francisco. Take the incredibly scenic **Highway 1 coastal route** north, passing through Davenport, past the Pigeon Point Lighthouse, and winding through Half Moon Bay.
+*   **Duration:** ~1.5 hours (75 miles) pure driving time (approx. 2.5 hours total elapsed travel time including lookouts and lunch).
+    *   [🗺️ View Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Santa+Cruz,+CA&destination=San+Francisco,+CA&travelmode=driving)
+*   **1:45 PM:** Arrive in **San Francisco, CA**. Check into your hotel, then drive across the Golden Gate Bridge or explore the historic Ferry Building.
+*   **🍴 Food Spotlight:**
+    *   *Lunch on the Road:* Stop at **Sam's Chowder House** in **Half Moon Bay**, perched high on a cliff overlooking the crashing waves. Enjoy their award-winning warm, buttered Maine lobster rolls, house-made New England clam chowder, and fish tacos.
+    *   *Dinner:* Celebrate your arrival in SF at **Greens Restaurant** (Fort Mason), a legendary destination for upscale, creative vegetarian cuisine featuring dramatic, floor-to-ceiling glass windows looking directly out at the Golden Gate Bridge and SF Bay. Or visit **Hog Island Oyster Co.** in the Ferry Building for incredibly fresh local oysters, steamed clams, and their famous rustic grilled cheese.
+*   **Accommodation:** ❓ *Unbooked* in San Francisco, CA (See hotel tracks below).
 
-### **July 21 (Tuesday): Portland Chill & Walkable Exploration**
+---
 
-* **Activity:** Your dedicated city discovery day\! Walk straight out of your hotel door to explore the tree-lined local streets of NW 21st and 23rd Ave, browse boutique shops tax-free, grab local microbrews/coffee, or spend hours inside the legendary Powell’s City of Books.  
-* **🍴 Food Spotlight:**
-  * *Lunch (Near Powell's / Pearl District):* **Shalom Y'all** (Pearl District) for vibrant, outstanding Mediterranean street food (incredible hummus plates, freshly baked pita, falafel, shakshuka, and grilled halloumi—perfectly light and extremely flavorful).
-  * *Dinner (Vibrant Pearl District or Nob Hill):* **Southpark Seafood** (Downtown/Pearl border) — A premier destination for sustainable seafood, serving fresh oysters, Dungeness crab, and fantastic seasonal catches. *Or* **Papa Haydn** (NW 23rd Ave) for elegant NW bistro fare (pan-seared salmon, crab cakes) followed by their legendary, decadent dessert case.
-* **Accommodation:** ❓ Portland hotel unbooked (check-out tomorrow if booked on the July 19-22 track).
+### **October 13 (Tuesday): San Francisco to Fort Bragg (Wine Country & Mendocino Coast)**
 
-### **July 22 (Wednesday): Travel Day to Seattle (Near the Pier)**
+*   **9:00 AM:** Depart San Francisco. Cross the Golden Gate Bridge and head north on US-101 through Marin County, then cut west along scenic **CA-128** through the stunning Anderson Valley.
+*   **Duration:** ~3.5 hours (170 miles) pure driving time (approx. 4.5 hours total elapsed travel time including a walk under redwood canopies and stretch stops).
+    *   [🗺️ View Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=San+Francisco,+CA&destination=Fort+Bragg,+CA&travelmode=driving)
+*   **1:30 PM:** Arrive on the Mendocino Coast. Visit the dramatic cliffs at **Mendocino Headlands State Park**, then head to **Fort Bragg** to walk the unique **Glass Beach**, famous for its colorful sea glass smoothed by decades of crashing waves.
+*   **🍴 Food Spotlight:**
+    *   *Lunch on the Road:* Stop in **Boonville** (Anderson Valley redwoods) at the **Boonville General Store** for organic local goat cheese paninis, hot soups, and fresh bakery treats.
+    *   *Dinner:* Head to historic **Noyo Harbor** in Fort Bragg for dinner at **Princess Seafood Restaurant**. This highly rated, female-owned spot serves exceptionally fresh, dockside-casual catches including local dungeness crab rolls, grilled rockfish, and wild salmon plates on their harbor patio.
+*   **Accommodation:** ❓ *Unbooked* in Fort Bragg, CA (See hotel tracks below).
 
-* **10:00 AM:** Depart Portland for your hotel in Seattle (Lower Queen Anne / Uptown).  
-* **Duration:** \~3 hours (175 miles) pure driving time (approx. 4 hours total elapsed travel time including a 1-hour sit-down lunch break in Olympia).  
-  * [🗺️ View Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Portland,+OR&destination=Queen+Anne,+Seattle,+WA&travelmode=driving)  
-* **2:00 PM:** Arrive in Seattle, check into your hotel, and enjoy having the Space Needle right in your backyard\! (Calculated with a 1-hour lunch break).  
-* **🍴 Food Spotlight:**
-  * *Lunch on the Road:* Stop in **Olympia, WA** (\~2 hours from Portland). Grab fresh fish tacos, oysters, or comforting seafood chowder at **Chelsea Farms Oyster Bar** (beautifully chic oyster bar in downtown Olympia) or **Olympia Seafood Co.** for a quick, high-quality, casual bayfront seafood lunch.
-  * *Dinner (Lower Queen Anne / Uptown):* **Taylor Shellfish Oyster Bar** (Queen Anne location right next to the Space Needle) — The ultimate "tide-to-table" Seattle experience, offering oysters, steamed mussels and clams, geoduck sashimi, and fresh Dungeness crab in a lively, modern space. *Or* **Toulouse Petit** (Lower Queen Anne) for a high-energy, beautiful Creole-French dinner featuring shrimp and grits, Dungeness crab beignets, and fresh shellfish.
-* **Accommodation:** ❓ *Unbooked* in Lower Queen Anne, Seattle (Check-in July 22 \- 2 Nights).
+---
 
-### **July 23 (Thursday): Pike Place Market & Dinner with David**
+### **October 14 (Wednesday): Fort Bragg to Crescent City (The Giant Redwoods Highway)**
 
-* **10:00 AM:** Easy, short drive to **Pike Place Market** (only \~5-10 minutes away from your hotel\!).  
-  * [🗺️ View Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Queen+Anne,+Seattle,+WA&destination=Pike+Place+Market,+Seattle,+WA&travelmode=driving)  
-* **Parking:** Public Market Parking Garage on Western Ave.  
-* **🍴 Food Spotlight:**
-  * *Lunch (Pike Place Market):* **Matt's in the Market** — An iconic, cozy restaurant hidden on the second floor of the market, overlooking the famous Pike Place clock and Puget Sound. Excellent seasonal PNW seafood (like their legendary cornmeal-crusted catfish sandwich or fish stew). *Or* grab casual bites at **Pike Place Chowder** (internationally award-winning seafood chowders) and **Piroshky Piroshky** (famous Russian bakery; get the smoked salmon pâté or cheese-onion piroshky).
-  * *Dinner in Redmond with David:* **Spark Pizza** — Highly rated, vibrant, and extremely fun with a gorgeous heated covered patio. Outstanding wood-fired Neapolitan-style pizzas, local craft beers, and fantastic vegetarian/pescatarian options (Margherita, custom shiitake-only pie if available, or customizable pies—making it easy to avoid other mushrooms). *Or* **Woodblock** — A stylish, cozy Redmond favorite serving elevated seasonal American cuisine, fantastic seafood (seared salmon, cod), and excellent craft cocktails.
-* **5:00 PM:** Head east across the bridge to Redmond to meet up with **David** for dinner.  
-  * [🗺️ View Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Queen+Anne,+Seattle,+WA&destination=Redmond,+WA&travelmode=driving)  
-* **Accommodation:** ❓ Seattle hotel unbooked (Lower Queen Anne / Uptown target area).
+*   **9:00 AM:** Depart Fort Bragg, driving north along CA-1 and merging onto US-101 (The Redwood Highway). This drive takes you through the heart of northern California's ancient forests.
+*   **Duration:** ~3.5 hours (180 miles) pure driving time (approx. 4.5 to 5 hours total elapsed travel time including stops).
+    *   [🗺️ View Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Fort+Bragg,+CA&destination=Crescent+City,+CA&travelmode=driving)
+*   **🚗 Route Highlight: Avenue of the Giants**
+    *   Make sure to take the 31-mile bypass scenic drive on **Avenue of the Giants** (parallel to US-101 near Garberville). You will drive directly through cathedral-like tunnels of massive, towering redwoods. Stop at the **Founders Grove** to walk the short trail to the fallen **Dyerville Giant** (a colossal 362-foot redwood tree that fell in 1991).
+*   **2:00 PM:** Arrive in **Crescent City, CA**. Head to the shore to view the historic **Battery Point Lighthouse**, accessible on foot across a rocky causeway only at low tide!
+*   **🍴 Food Spotlight:**
+    *   *Lunch on the Road:* Stop in the historic waterfront old town of **Eureka, CA** (~2.5 hours from Fort Bragg). Grab fresh local chowder and wood-fired seafood at **Cafe Marina** overlooking Humboldt Bay, or a delicious organic lunch at the cozy **Woodrose Cafe** in Garberville.
+    *   *Dinner:* Dine at the **Chart Room Restaurant** located directly on the Crescent City Harbor docks. Enjoy fresh, local beer-battered halibut and chips, local crab legs, and clam chowder while watching the local sea lions play and bark right outside the window.
+*   **Accommodation:** ❓ *Unbooked* in Crescent City, CA (See hotel tracks below).
 
-### **July 24 (Friday): Cruise Departure (Breeze to the Pier\!)**
+---
 
-* **11:00 AM:** Depart your hotel. Pier 91 is a straightforward, traffic-free 5-minute hop away\!  
-  * [🗺️ View Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Queen+Anne,+Seattle,+WA&destination=Pier+91+Smith+Cove+Cruise+Terminal,+Seattle,+WA&travelmode=driving)  
-* **11:15 AM:** Park at Pier 91 terminal lot and walk right up to check-in.  
-* **12:00 PM:** Board *Celebrity Edge* after meeting up with Mom and Brother in Seattle.  
-* **4:00 PM:** Ship departs Seattle.
+### **October 15 (Thursday): Dedicated Redwood Exploration Day (Jedediah Smith Redwoods)**
 
-## **🚢 Cruise Stops (July 24 – July 31\)**
+*   **9:00 AM – 3:00 PM: 🌲 Hike the Best Redwood Trails on Earth**
+    *   Crescent City is the gateway to the magnificent **Jedediah Smith Redwoods State Park**—home to the densest, most spectacular old-growth redwood forest remaining on earth.
+    *   *🚗 Scenic Drive:* Drive **Howland Hill Road**, a narrow, winding, unpaved 6-mile dirt road that tunnels directly through the heart of the giant trees. It is completely passable for normal cars, but you will drive at 10-15 mph surrounded by massive trunks.
+    *   *🥾 Stout Grove Trail:* Walk the **Stout Grove Loop** (0.6 miles, flat). It is a highly-photogenic, cathedral-like grove of straight, towering giants set along the clear waters of the Smith River.
+    *   *🥾 Boy Scout Tree Trail:* Hike this premier trail (5.3 miles round-trip, moderate). It leads deep into a primeval forest canyon of enormous trees, ferns, and waterfalls, culminating at the double-trunked "Boy Scout Tree."
+*   **🍴 Food Spotlight:**
+    *   *Lunch:* Pack a hearty grab-and-go picnic sandwich from **Crescent Seafood** or **Port O' Pints** to enjoy at a wooden picnic table under the giant forest canopy.
+    *   *Dinner:* Treat yourselves to **Fisherman's Restaurant** in Crescent City. This highly popular nautical-themed local favorite is famous for serving massive portions of fresh, local ling cod fish and chips dipped in house-made beer batter, hot clam chowder, and grilled seafood plates.
+*   **Accommodation:** ❓ *Unbooked* in Crescent City, CA (See hotel tracks below).
 
-* **July 25:** At Sea  
-* **July 26:** Ketchikan, AK  
-* **July 27:** Endicott Arm & Dawes Glacier / Juneau, AK  
-  * ❓ **JUS7 - Destination Highlight: Alaska Sled Dogs and Musher's Camp** *(unpurchased interest)*: **$266.99/person**, **5% pre-cruise savings**, **Moderate**, **in stock**. Wheeled cart rainforest ride on Douglas Island, puppy cuddling, and suspension bridge. *(Save over $120/person by booking Alaska Sled Dog Tours independently!)*  
-  * ❓ **🍴 Gold Creek Salmon Bake** *(unpurchased food POI)*: **approx. $79/person**. A legendary all-you-can-eat rainforest cookout along Salmon Creek. Features fresh, wild-caught Alaskan salmon grilled over open alderwood fires, hot clam chowder, wild-rice pilaf, and blueberry cake. Includes heated clear-dome dining tents, live acoustic folk music, Wagner Mine relics, a waterfall trail, and marshmallow roasting. *Perfect pescatarian-friendly option for Yrenia! Shuttles run constantly to and from the cruise docks.*
-* **July 28:** Skagway, AK  
-  * ❓ **SKQI - Destination Highlight: Musher's Camp and Sled Dog Experience** *(unpurchased interest)*: **$394.99/person**, **5% pre-cruise savings**, **Moderate**, **in stock**. Wheeled dogcart ride at Dyea Adventure Camp, musher talk, gold panning, and saloon. *(Save over $210/person by booking Dyea Musher's Camp independently!)*  
-* **July 29:** At Sea  
-* **July 30:** Victoria, BC
-  * ❓ **VI87 - Small Group: Experience Victoria by E-Bicycle** *(unpurchased; interest note for Nelson and Yrenia)*: **$215.99/person**, **10% pre-cruise savings**, **Strenuous**, **in stock**. Two-hour electric-assisted bike ride through Beacon Hill Park, Dallas Road Waterfront Trail, Chinatown, and the Inner Harbour.
+---
 
-### **❓ Independent E-Bike Alternatives to Compare**
+### **October 16 (Friday): Crescent City to Portland (Smith River Canyon & Willamette Valley)**
 
-These are **unbooked research notes** for Nelson and Yrenia. The cruise excursions buy convenience and ship-managed logistics, but local operators may be much cheaper.
+*   **8:30 AM:** Depart Crescent City, taking US-199 N through the breathtaking, narrow emerald gorges of the **Smith River Canyon**, crossing into Oregon and joining Interstate 5 north at Grants Pass.
+*   **Duration:** ~5.5 hours (320 miles) pure driving time (approx. 7 hours total elapsed travel time including a sit-down lunch and a stretch break).
+    *   [🗺️ View Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Crescent+City,+CA&destination=Portland,+OR&travelmode=driving)
+*   **3:30 PM:** Arrive in **Portland, OR**. Check into your hotel and head out to explore the trendy Pearl District or Nob Hill.
+*   **🍴 Food Spotlight:**
+    *   *Lunch on the Road:* Stop in **Eugene, OR** (~3.5 hours from Crescent City). Grab fresh local catches at **Fisherman's Market** or head to **Cafe Yumm!** for their legendary, healthy customizable warm grain and rice bowls with signature, creamy Yumm! Sauce.
+    *   *Dinner:* Enjoy a welcome dinner at **Jacqueline** in Southeast Portland. This cozy, stylish neighborhood gem features a beautiful retro-aesthetic and showcases fresh Pacific Northwest oysters, Dungeness crab, and exceptionally creative seafood dishes.
+*   **Accommodation:** ❓ *Unbooked* in Portland, OR (See hotel tracks below).
 
-| Port | Cruise Planner Option | Local / DIY Alternative | Quick Take & Dock Alignment |
-| :---- | :---- | :---- | :---- |
-| **Ketchikan** | **Y513 - Rainforest Bike and Nature Walk**: $251.99/person (low stock). | [**Ketchikan Kayak Co. E-Bike & Hike**](https://ketchikankayakco.com/): **$149/person**.<br>• *Includes:* 4 hours, 10-mile e-bike ride, 1.25-mile rainforest hike, gear, and seaside smoked salmon/beverage snack.<br>• *Pickup:* Complimentary roundtrip from downtown docks AND the Ward Cove terminal. | **Active & Highly Recommended.** Saves $100+ per person! Highly cruise-aware and handles pickups at both Ward Cove (where Celebrity Edge sometimes docks) and downtown docks. |
-| **Juneau** | **JUN9 - Bike and Brew Mendenhall Glacier Tour**: $216.99/person. | • [**iRide Alaska E-Bike Adventure**](https://iridealaska.com/): **$169.95/person** (3-hour guided coastal ride, meets near Mt. Roberts Tramway).<br>• [**Cycle Alaska**](https://cycleak.com/): rentals from **$80–$100 for 4 hours**, **$90–$120 for 8 hours** (includes helmet, lock, tools, map, water, snacks). | **Active & Highly Flexible.** iRide is a great guided saver ($47/person cheaper). If you want a self-guided adventure to Mendenhall Glacier (about 26 miles round trip), Cycle Alaska's Dock Shop is located right across from the downtown docks at 255 Marine Way. |
-| **Skagway** | **SKQX - Klondike Bicycle Tour**: $303.99/person (very low stock). | [**Klondike Electric Bicycles**](https://klondikebikes.com/): rentals from **$50 for 2 hours**, **$75 for 4 hours**, **$90 all day**.<br>• *Self-Guided Dyea Tour:* **$109/person**.<br>• *Highlights Guided Tour:* **$125/person**. | **Active & Massive Savings.** This is your strongest DIY port. You can explore the historic gold rush town or the scenic Dyea area independently. The shop is in downtown Skagway (5th & State St), which is a short walk/shuttle from the cruise piers. |
-| **Victoria** | **VI87 - Small Group: Experience Victoria by E-Bicycle**: $215.99/person. | • [**The Pedaler**](https://thepedaler.ca/): rentals from **CA$47 for 2 hours**, **CA$72 for 4 hours**, **CA$87 all day**.<br>• *Guided Coastal E-Bike Tour:* **CA$110/person** (approx. 2.5 hours).<br>• [**Cycle BC**](https://cyclebc.ca/): rentals from **CA$25/hr** or **CA$70 for 4 hours** (requires a credit card hold). | **Active & Outstanding Value.** Renting or touring independently is a fraction of the cruise price (guided tour is approx. CA$110 vs $215.99 USD!). Both shops are located in downtown Victoria near the Inner Harbour (approx. 1.5 miles from the Ogden Point Cruise Terminal). |
+---
 
-### **❓ Independent Sled Dog Alternatives to Compare (Ground-Based Only)**
+### **October 17 (Saturday): Portland City Discovery & Autumn Colors**
 
-These are **unbooked research notes** for Nelson and Yrenia. Sled dog activities are the ultimate Alaskan sport. Following your preference, we have **completely excluded all helicopter-based glacier tours** due to flight safety/risk factors and high prices, focusing instead entirely on highly reliable, land-based **Summer Musher Camps** (via custom wheeled training carts on forest trails).
+*   **10:00 AM:** Visit the stunning **Portland Japanese Garden** in Washington Park, famous for its brilliant red and gold maples in mid-October.
+*   **1:00 PM:** Spend your afternoon exploring the tree-lined boutique streets of NW 23rd Ave (Alphabet District) or lose yourself inside the legendary **Powell’s City of Books** (occupying an entire city block with millions of books).
+*   **🍴 Food Spotlight:**
+    *   *Lunch:* Stop in the Pearl District at **Shalom Y'all** for outstanding, vibrant modern Mediterranean street food, serving freshly baked warm pita bread, wood-fired hummus plates, falafel, shakshuka, and grilled halloumi cheese.
+    *   *Dinner:* Head to the sleek **Departure Restaurant + Lounge** on the rooftop of The Nines Hotel. Enjoy sweeping panoramic views of the Portland skyline alongside a spectacular, modern Asian-fusion menu featuring premium sushi, sashimi, and fresh seafood.
+*   **Accommodation:** ❓ *Unbooked* in Portland, OR (See hotel tracks below).
 
-> [!NOTE]
-> **Summer Musher Camps** are land-based, extremely safe, highly weather-resistant (they are virtually never canceled, unlike helicopter flights which have a 20-30% cancellation rate due to cloud cover), and cost a small fraction of the price of glacier helicopter flights ($140–$180/person direct vs. $900+/person).
+---
 
-| Port | Cruise Planner Option | Local / DIY Alternative | Quick Take & Details |
+### **October 18 (Sunday): Portland to Seattle (Heading to the Sound)**
+
+*   **10:00 AM:** Depart Portland for Seattle, driving north along Interstate 5.
+*   **Duration:** ~3 hours (175 miles) pure driving time (approx. 4 hours total elapsed travel time including a sit-down harbor lunch).
+    *   [🗺️ View Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Portland,+OR&destination=Seattle,+WA&travelmode=driving)
+*   **2:00 PM:** Arrive in **Seattle, WA**. Check into your hotel and enjoy having the Space Needle or the Puget Sound right in your backyard.
+*   **🍴 Food Spotlight:**
+    *   *Lunch on the Road:* Stop in **Olympia, WA** (~2 hours from Portland). Enjoy a fresh seafood lunch at **Chelsea Farms Oyster Bar**—a chic, beautifully designed modern oyster bar in downtown Olympia serving fresh Puget Sound oysters, steamed clams, and fish tacos.
+    *   *Dinner:* Head to **Taylor Shellfish Oyster Bar** (Queen Anne location right next to the Space Needle) for the ultimate "tide-to-table" Seattle experience, offering fresh shucked-to-order oysters, steamed mussels, clams, and fresh whole Dungeness crab in a lively, modern space.
+*   **Accommodation:** ❓ *Unbooked* in Seattle, WA (See hotel tracks below).
+
+---
+
+### **October 19 (Monday): Seattle Waterfront & Pike Place Market**
+
+*   **10:00 AM:** Walk to the world-famous **Pike Place Market**. Watch the fishmongers throw giant salmon, explore the flower and artisan stalls, and sample local street food.
+*   **1:00 PM:** Stroll down to the waterfront piers, take a ferry ride to Bainbridge Island for a scenic panoramic view of the Seattle skyline, or visit the breathtaking **Chihuly Garden and Glass** museum.
+*   **🍴 Food Spotlight:**
+    *   *Lunch:* Grab a table on the second floor of the market at **Matt's in the Market** for top-tier seasonal PNW seafood overlooking the famous market clock. Alternatively, grab casual cups of award-winning clam chowder at **Pike Place Chowder** or fresh-baked salmon pastries at **Piroshky Piroshky**.
+    *   *Dinner:* Dine at **Toulouse Petit** in Lower Queen Anne. This beautifully tiled, high-energy Creole-French candlelit bistro is famous for its outstanding shrimp and grits, Dungeness crab beignets, fresh oysters, and local seafood stews.
+*   **Accommodation:** ❓ *Unbooked* in Seattle, WA (See hotel tracks below).
+
+---
+
+### **October 20 (Tuesday): Seattle Excursion Day (Cascades & Wood-Fired Pizza)**
+
+*   **Activity:** Take a scenic day excursion!
+    *   *Option A (Scenic Waterfall):* Take a short, beautiful 35-minute drive east to the majestic **Snoqualmie Falls**, a powerful 268-foot waterfall surrounded by lush forests (made famous by the TV show *Twin Peaks*).
+    *   *Option B (Bellevue & Redmond Stroll):* Head across the evergreen bridge to explore Bellevue's parks, then head north to Redmond for a relaxed afternoon with local friends.
+*   **🍴 Food Spotlight:**
+    *   *Lunch:* Stop in Redmond at **Woodblock**—a stylish, cozy neighborhood favorite serving elevated seasonal American cuisine, fantastic seafood (seared salmon, fresh cod), and artisan cocktails.
+    *   *Dinner:* Have a celebratory final dinner at **Spark Pizza** in Redmond. It features a fantastic, heated covered patio and serves outstanding, award-winning wood-fired Neapolitan-style custom pizzas, artisanal salads, and a rotating draft list of fresh local Pacific Northwest craft beers.
+*   **Accommodation:** ❓ *Unbooked* in Seattle, WA (See hotel tracks below).
+
+---
+
+### **October 21 (Wednesday): Rental Car Return & Flight Home**
+
+*   **Morning:** Enjoy a slow morning with a stellar cup of specialty coffee at **Caffe Vita** or **Slate Coffee Roasters**, pack up your bags, and head south to Seattle-Tacoma International Airport (SEA-TAC).
+*   **Duration:** ~25 minutes (15 miles) driving from downtown Seattle to the airport.
+    *   [🗺️ View Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Seattle,+WA&destination=Seattle-Tacoma+International+Airport,+WA&travelmode=driving)
+*   **12:00 PM:** Drop off your rental car at the SEA-TAC airport rental facility, clear security, and catch your one-way flight back to Southern California!
+
+---
+
+## **❓🌲 Outstanding Scenic Adventures & Local Rentals**
+
+This active adventure guide outlines premier local outdoor activities and rental operators in your overnight hubs, perfect for keeping the trip active and scenic.
+
+| Location | Activity Highlight | Top Local Operator / Rental | Quick Details & Practical Tips |
 | :--- | :--- | :--- | :--- |
-| **Juneau**<br>🌲 *Land-Based Camp* | • **JUS7 - Sled Dogs & Musher's Camp**: $266.99/person.<br>• **JUS6 - Dog Sled Summer Camp**: $289.99/person (low stock). | [**Alaska Sled Dog Tours**](https://alaskasleddogtours.com/): **$140 - $160/person** (approx. 1.5 - 2 hours, Sheep Creek camp near AJ Mine). | **Forest Mushing.** Sled dogs pull you on a custom wheeled training cart through rainforest trails. Includes camp tour, historical talks, and puppy cuddling. Booking directly saves over **$120 per person**! |
-| **Skagway**<br>🌲 *Land-Based Camp* | • **SKQI - Musher's Camp & Sled Dog Experience**: $394.99/person.<br>• **SKCM - Musher's Camp & Gold Panning**: $198.99/person (low stock). | • [**Dyea Musher's Camp / Skagway Tours**](https://skagway.tours/): **$150 - $180/person** (approx. 3 hours).<br>• [**Wild Adventure Yukon**](https://wildadventureyukon.com/): Sled dog and puppy camp in Carcross, YT. | **Dyea & Yukon alternatives.** The Cruise Planner's SKQI is double the price of local operators! Dyea camp includes a wheeled cart forest ride, musher talk, and puppy visits. Wild Adventure Yukon is an option on the drive but requires a **passport** to cross into Canada. |
+| **Solvang** | Wine Country Cycling | [**Solvang Valley e-Bikes**](https://www.solvangebikes.com/) | Rent e-bikes to glide effortlessly through the rolling hills of Ballard Canyon and Santa Ynez Valley vineyards. |
+| **Santa Cruz** | West Cliff Coastal Cruise | Local Beach Rentals | Rent cruisers or e-bikes to ride along West Cliff Drive to Natural Bridges State Beach. Stop to watch surfers at Steamer Lane! |
+| **San Francisco** | Golden Gate Bridge Bike Tour | [**Blazing Saddles Bike Rentals**](https://www.blazingsaddles.com/) | Rent e-bikes at Fisherman's Wharf, ride across the Golden Gate Bridge to Sausalito, and take the scenic ferry back to SF. |
+| **Fort Bragg** | Redwood Forest Railbiking | [**The Skunk Train Railbikes**](https://www.skunktrain.com/) | **Highly Unique!** Ride custom, two-person electric-assisted rail track vehicles directly on historic train tracks through quiet towering redwood canyons. |
+| **Crescent City** | Jedediah Smith Redwoods Hike | Self-Guided / Redwood Parks Info | Walk the cathedral-like Boy Scout Tree Trail (5.3 miles) and Stout Grove (0.6 miles). Drive unpaved Howland Hill Road. Free entry! |
+| **Portland** | Willamette River Waterfront Loop | [**Kerr Bikes**](https://www.kerrbikes.org/) (Waterfront Park) | Rent cruisers or e-bikes right next to the river and ride the scenic 3-mile paved loop across Portland's famous bridges. |
+| **Seattle** | Lake Union Kayak & Paddleboarding | [**Agua Verde Paddle Club**](https://aguaverdepaddleclub.com/) | Rent single/double sea kayaks or stand-up paddleboards to explore Lake Union, watch seaplanes land, and grab fresh fish tacos after. |
 
+---
 
+## **❓🍴 Master Dine & Sip Ideas Directory**
 
-### **July 31 (Friday): Disembarkation & The Long Haul South**
+These are highly curated local restaurant recommendations, perfect for foodies who love fresh coastal seafood, farm-to-table ingredients, and vibrant vegetarian options.
 
-* **8:30 AM:** Disembark the *Celebrity Edge* in Seattle. Nelson and Yrenia pick up the car and start the drive south; confirm Mom and Brother's post-cruise flight / transfer plans separately.  
-* **Duration:** \~13.5 hours (815 miles) pure driving time (approx. 15.5 hours total elapsed travel time including a 1-hour lunch break in Eugene, a 45-minute dinner break in Medford or Redding, and brief fuel/stretch stops).  
-  * [🗺️ View Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Pier+91+Smith+Cove+Cruise+Terminal,+Seattle,+WA&destination=353+Monaco+Ave,+Union+City,+CA+94587&travelmode=driving)  
-* **12:00 AM (Midnight):** Arrive in Union City. (Calculated with lunch, dinner, and fuel stops).  
-* **🍴 Food Spotlight:**
-  * *Lunch on the Road:* Stop in **Eugene, OR** (\~4.5 hours south of Seattle). Grab quick, healthy customizable bowls with Yumm! Sauce at **Cafe Yumm!** (perfect for road trips), or grab fresh local fish tacos/sandwiches at **Fisherman's Market**.
-  * *Dinner on the Road:* If dinner lands in **Medford, OR**, stop at **4 Daughters Irish Pub** (hearty fish & chips or veggie burgers). If dinner lands in **Redding, CA** (\~2 hours south of Medford), head to **Mosaic** (located right next to the beautiful Sundial Bridge; modern Italian-American with excellent wood-fired salmon, fresh seasonal pastas, and gourmet pizzas).
-* **Accommodation:** Staying with family at **353 Monaco Ave, Union City, CA 94587**.
-
-## **August 1 \- 2 (Sat/Sun): The Final Stretch Home**
-
-* **Activity:** Rest in Union City, then make the final drive back down south.  
-* **Duration:** \~6 hours (370 miles) pure driving time (approx. 7 hours total elapsed travel time including a 45-minute lunch break and quick stretch stops).  
-  * [🗺️ View Route on Google Maps](https://www.google.com/maps/dir/?api=1&origin=353+Monaco+Ave,+Union+City,+CA+94587&destination=9351+E+Villa+Vista+Way,+Villa+Park,+CA+92861&travelmode=driving)  
-* **Accommodation:** Home sweet home at **9351 E Villa Vista Way, Villa Park, CA 92861**\!
-
-## **❓ Dine & Sip Ideas (Unbooked & Pescatarian-Friendly)**
-
-These are **unbooked food recommendations**, not reservations. Recheck hours, reservation windows, and seasonal menus closer to departure. Since Yrenia is **pescatarian**, all recommended spots have been selected for their excellent seafood and vegetarian programs.
-
-| Date & Location | Restaurant & Link | Style / Vibe | Why It's Great (Pescatarian Highlights) |
+| Stop & Location | Restaurant & Website | Style / Vibe | Culinary Highlights & Tips |
 | :--- | :--- | :--- | :--- |
-| **July 17 (UC/Fremont)** | [**Dough Zone Dumpling House**](https://www.doughzone.co/) | Casual & modern Chinese dim sum | Incredible crab & pork xiao long bao, pan-fried vegetable buns, garlic broccoli, and dan dan noodles. Great for a fun family dinner. |
-| | [**Grand Harbor**](https://www.grandharborfremont.com/) | Upscale Cantonese seafood | Magnificent fresh seafood and dim sum; excellent group logistics with family. |
-| **July 18 (Crater Lake)** | [**Beckie's Cafe**](https://www.unioncreekoregon.com/dining/beckies-cafe/) | Rustic country comfort | Classic post-lake trout, fish & chips, veggie burgers, and world-famous homemade berry pies. |
-| | **Crater Lake Lodge Dining Room** | Historic lodge with crater views | Exceptional wild Oregon salmon and steelhead trout overlooking the lake. *Requires advanced reservations.* |
-| **July 19 (Eugene/Road)** | [**Cafe Yumm!**](https://www.cafeyumm.com/) | Casual Oregon grain-bowl legend | Famous customizable warm grain and rice bowls with signature Yumm! Sauce. Fast, healthy, and extremely satisfying. |
-| **July 19 (Portland)** | [**Jacqueline**](https://www.jacquelinepdx.com/) | Cozy retro-chic PNW seafood gem | Phenomenal shucked-to-order oysters, wild fish specials, and Dungeness crab in an ultra-stylish, intimate neighborhood setting. |
-| **July 20 (Portland)** | [**Grassa**](https://grassapasta.com/) | Hip counter-service handmade pasta | Fast, casual, and delicious. Rock shrimp carbonara, pork-free cacio e pepe, and creative seasonal pastas. |
-| | [**Departure Restaurant**](https://www.departureportland.com/) | Modern Asian rooftop lounge | Sleek, futuristic rooftop setting with panoramic city views. Features a dedicated vegan menu, premium sushi/sashimi, and creative seafood dishes. |
-| **July 21 (Portland)** | [**Shalom Y'all**](https://www.shalomyallpdx.com/) | Vibrant modern Mediterranean | Incredible hummus plates, freshly baked pita, falafel, shakshuka, and grilled halloumi. Incredibly flavorful and vegetarian-forward. |
-| | [**Southpark Seafood**](https://southparkseafood.com/) | Sustainable fine-dining seafood | Monterey Bay Aquarium Seafood Watch partner. Exquisite oysters, salmon, Dungeness crab, and custom fish options. |
-| | [**Papa Haydn**](https://www.papahaydn.com/) | Elegant NW bistro & dessert heaven | Excellent Dungeness crab cakes and salmon mains, followed by the most legendary, towering multi-layered dessert case in Portland. |
-| **July 22 (Seattle Road)** | [**Chelsea Farms Oyster Bar**](https://chelseafarms.com/oyster-bar/) | Chic modern shellfish bistro | Incredible local Olympia oysters, geoduck, steamed clams, and fish tacos in a gorgeously styled market hall. |
-| **July 22 (Seattle)** | [**Taylor Shellfish Oyster Bar**](https://www.taylorshellfishfarms.com/) | Tide-to-table shellfish bar | Located in Queen Anne next to Seattle Center. Shucked-to-order oysters, geoduck sashimi, steamed mussels/clams, and whole Dungeness crab. |
-| | [**Toulouse Petit**](https://toulousepetit.com/) | High-energy Creole-French bistro | Stunning candlelit, tiled interior. Famous for Dungeness crab beignets, seafood gumbo, creole stews, and fresh seafood. |
-| **July 23 (Seattle)** | [**Matt's in the Market**](https://www.mattsinthemarket.com/) | High-end market bistro overlooking Pike Place | Tucked on the second floor with views of the market clock. Features top-tier local seafood, including cornmeal-crusted fish sandwiches. |
-| **July 23 (Redmond)** | [**Spark Pizza**](https://www.sparkpizzaredmond.com/) | Vibrant neighborhood wood-fired pizza | Heated covered patio, fantastic local beers, and amazing vegetarian/pescatarian pizzas (Margherita, customizable to specify only shiitake/avoid other mushrooms). Great group vibe with David. |
-| | [**Woodblock**](https://www.woodblockredmond.com/) | Cozy elevated American bistro | Outstanding wild-caught salmon and seasonal seafood plates, great vegetarian sides, and top-tier craft cocktails. |
-| **July 27 (Juneau)** | [**Gold Creek Salmon Bake**](https://www.alaskashoreexcursions.com/juneau/gold-creek-salmon-bake) | Legendary rainforest open-air cookout | All-you-can-eat wild Alaskan salmon grilled over alderwood fires, clam chowder, wild rice, and warm blueberry cake. Set next to a waterfall with live music and s'mores! *Perfect pescatarian-friendly port meal.* |
-| **July 31 (Medford/Road)**| [**4 Daughters Irish Pub**](https://4daughtersirishpub.com/) | Friendly local pub | Cozy stop for excellent fish & chips, house chowder, or veggie burgers on the drive home. |
-| **July 31 (Redding/Road)**| [**Mosaic**](https://www.mosaicredding.com/) | Modern Italian next to Sundial Bridge | Beautiful setting next to the bridge. Excellent wood-fired salmon, seasonal flatbreads, and artisanal pastas. |
+| **Solvang, CA** | [**Paula's Pancake House**](https://www.paulaspancakehouse.com/) | Classic Danish Diner | Paper-thin Danish pancakes with warm berries, Danish sausage, and scrambles. |
+| | [**Mad & Vin at The Landsby**](https://www.thelandsby.com/dining.html) | Chic Scandinavian-California | Fresh local fish, duck breast, gourmet burgers, and Santa Ynez valley wines. |
+| **SLO / Road** | [**Firestone Grill**](https://www.firestonegrill.com/) | High-Energy Sports Grill | Legendary tri-tip steak sandwiches, seasoned fries, and giant salads. |
+| **Santa Cruz, CA** | [**Shadowbrook Restaurant**](https://www.shadowbrook-capitola.com/) | Historic Forest Riverside | Ride a red cable car funicular down a forest hill; spectacular wild salmon and prime rib. |
+| **Half Moon Bay** | [**Sam's Chowder House**](https://www.samschowderhouse.com/) | Cliffside Ocean-View Seafood | Award-winning warm buttered lobster rolls, clam chowder, and oysters. |
+| **San Francisco** | [**Greens Restaurant**](https://www.greensrestaurant.com/) | Fine-Dining Vegetarian | Creative, upscale vegetarian overlooking the Golden Gate Bridge through glass walls. |
+| | [**Hog Island Oyster Co.**](https://www.hogislandoysters.com/) | Waterfront Oyster Bar | Incredibly fresh local oysters, clam chowder, and a famous gourmet grilled cheese. |
+| **Boonville / Road** | [**Boonville General Store**](https://www.boonvillegeneralstore.com/) | Organic Valley Bakery | Local goat cheese paninis, hot soups, and fresh organic pastries in the redwoods. |
+| **Fort Bragg, CA** | [**Princess Seafood Restaurant**](https://www.princessseafoodmarket.com/) | Casual Harbor Seafood | Female-owned; fresh dungeness crab rolls, grilled rockfish, and wild salmon on the docks. |
+| **Eureka / Road** | [**Cafe Marina**](https://www.cafemarina.net/) | Waterfront Marina Diner | Local seafood chowder, fish tacos, and crab cakes overlooking Humboldt Bay. |
+| **Crescent City** | [**Chart Room Restaurant**](https://www.chartroomcrescentcity.com/) | Harbor Dockside Seafood | Local halibut and chips, clam chowder, while watching sea lions bark outside. |
+| | [**Fisherman's Restaurant**](https://www.fishermansrestaurant.info/) | Nautical Local Diner | Legendary beer-battered ling cod fish and chips, clam chowder, and shrimp bowls. |
+| **Eugene / Road** | [**Cafe Yumm!**](https://www.cafeyumm.com/) | Casual Oregon Bowls | Famous customizable warm grain and rice bowls with signature creamy Yumm! Sauce. |
+| **Portland, OR** | [**Jacqueline**](https://www.jacquelinepdx.com/) | Cozy Retro PNW Seafood | Shucked-to-order PNW oysters, Dungeness crab, and seasonal fish. Cozy neighborhood vibe. |
+| | [**Shalom Y'all**](https://www.shalomyallpdx.com/) | Vibrant Mediterranean | Fresh warm pita, wood-fired hummus, falafel, shakshuka, and grilled halloumi cheese. |
+| | [**Departure Restaurant**](https://www.departureportland.com/) | Rooftop Skyline Asian | Futuristic rooftop setting; premium sushi, sashimi, and wok-fired crab. |
+| **Olympia / Road** | [**Chelsea Farms Oyster Bar**](https://www.chelseafarms.com/) | Modern Shellfish Bar | Fresh local oysters, geoduck sashimi, clam chowder, and fish tacos in a market hall. |
+| **Seattle, WA** | [**Taylor Shellfish Oyster Bar**](https://www.taylorshellfishfarms.com/) | Tide-to-table Shellfish Bar | Local Queen Anne oyster bar next to Space Needle; fresh oysters, geoduck, and Dungeness crab. |
+| | [**Toulouse Petit**](https://www.toulousepetit.com/) | Creole-French Bistro | Breathtaking candlelit tiled interior; shrimp and grits, crab beignets, and gumbo. |
+| **Redmond / Road** | [**Woodblock**](https://www.woodblockredmond.com/) | Cozy Neighborhood Bistro | Seared local salmon, fresh cod, seasonal grain bowls, and top-tier craft cocktails. |
+| | [**Spark Pizza**](https://www.sparkpizzaredmond.com/) | Wood-Fired Pizza Patio | Award-winning Neapolitan wood-fired custom pizzas, craft beers, and heated patio. |
 
-## **❓🏨 Aligned Hotel Tracks (Unbooked Options)**
+---
 
-These hotel tracks are **unbooked options**, not reservations. Select one cohesive track below to simplify future booking and keep the trip streamlined under a single brand or style.
+## **❓🏨 Aligned Hotel Tracks (Loyalty & Style Guides)**
 
-### **🌸 Track 1: The Local PNW Boutique Track (Independent & Unique)**
+Select one cohesive track below to simplify booking, keep travel styles consistent, and leverage points/status along your route.
 
-*Best for: A highly curated, colorful, and distinct local Pacific Northwest vibe.*
+### **🌸 Track 1: The Local Boutique Track (Independent & Character-Rich)**
+*Best for: Travelers seeking highly curated, distinct, and memorable stays with local architectural charm.*
 
-* **Crater Lake (July 18-19):** [**Union Creek Resort**](https://www.google.com/maps/search/?api=1&query=Union+Creek+Resort+Oregon) — Authentic log cabins in the Rogue River National Forest dating to 1922\. Quiet, rustic, and cozy.  
-* **Portland (July 19-22):** [**Inn at Northrup Station**](https://www.google.com/maps/search/?api=1&query=Inn+at+Northrup+Station+Portland) — Funky, mid-century retro design in the walkable Alphabet District. Free streetcar tickets and spacious suites.  
-* **Seattle (July 22-24):** [**Mediterranean Inn**](https://www.google.com/maps/search/?api=1&query=Mediterranean+Inn+Seattle) — Famous for its dramatic rooftop terrace view of the Space Needle and Puget Sound. Highly walkable and close to the pier.
+*   **Solvang (Oct 10-11):** [**The Landsby**](https://www.thelandsby.com/) — High-style, Scandinavian-modern boutique hotel with clean lines, warm lighting, and a gorgeous central courtyard bar in the heart of town.
+*   **Santa Cruz (Oct 11-12):** [**Dream Inn Santa Cruz**](https://www.dreaminnsantacruz.com/) — Iconic, retro-chic beachfront hotel right next to the boardwalk. Every room features a private balcony looking directly out at Monterey Bay.
+*   **San Francisco (Oct 12-13):** [**Hotel Kabuki, JDV by Hyatt**](https://www.hyatt.com/en-US/hotel/california/hotel-kabuki/sfojd) — Industrial-chic design in Japantown featuring sleek Japanese soaking tubs, abstract art, and a top-tier lobby bar.
+*   **Fort Bragg (Oct 13-14):** [**Noyo Harbor Inn**](https://www.noyoharborinn.com/) — Richly detailed historic inn nestled in the trees above the active fishing harbor. Offers cozy fireplaces and elegant wood accents.
+*   **Crescent City (Oct 14-16):** [**Curly Redwood Lodge**](https://www.curlyredwoodlodge.com/) — Famous historic motel built entirely from a single giant curly redwood tree! Breathtaking retro-rustic wood detailing and immense local character.
+*   **Portland (Oct 16-18):** [**Inn at Northrup Station**](https://www.northrupstation.com/) — Funky, bright, mid-century retro suites in the highly walkable Alphabet District. Includes free streetcar tickets.
+*   **Seattle (Oct 18-21):** [**Mediterranean Inn**](https://www.mediterraneaninn.com/) — Highly popular stay in Queen Anne featuring a spectacular rooftop terrace looking directly at the Space Needle and Puget Sound.
 
-### **👑 Track 2: The Hilton Honors Track (Reliable & Family-Oriented)**
+---
 
-*Best for: Stacking Hilton points/status, consistent high ratings, and **FREE hot breakfast** for the family at every single stop.*
+### **👑 Track 2: The Hilton Honors Track (Reliable & Free Hot Breakfast)**
+*Best for: Travelers stacking Hilton points/status, seeking highly rated properties, and wanting free hot breakfasts at almost every stop.*
 
-* **Crater Lake (July 18-19):** [**Hampton Inn Klamath Falls**](https://www.google.com/maps/search/?api=1&query=Hampton+Inn+Klamath+Falls) — Right on the shore of Klamath Lake, about 45 mins south of the park. Includes indoor pool, lakefront paths, free breakfast, and free parking.  
-* **Portland (July 19-22):** [**Hampton Inn & Suites Portland-Pearl District**](https://www.google.com/maps/search/?api=1&query=Hampton+Inn+Suites+Portland+Pearl+District) — A premier downtown location right on the border of the walkable Nob Hill neighborhood. Features an indoor pool, rooftop patio, and free breakfast.  
-* **Seattle (July 22-24):** [**Hampton Inn & Suites Seattle-Downtown**](https://www.google.com/maps/search/?api=1&query=Hampton+Inn+Suites+Seattle+Downtown) — Right at the foot of the Space Needle, just 1.5 miles from the pier. Generous family suites, free breakfast, and secure covered parking.
+*   **Solvang (Oct 10-11):** [**The Hadsten Solvang, Tapestry Collection**](https://www.hilton.com/en/hotels/sbaxvup-the-hadsten-solvang/) — A gorgeously styled Hilton boutique property in the heart of Solvang's Danish village. Perfect blend of design and points!
+*   **Santa Cruz (Oct 11-12):** [**Hampton Inn Santa Cruz West**](https://www.hilton.com/en/hotels/szcswhx-hampton-santa-cruz-west/) — Located right on Mission St, minutes from West Cliff Drive and Natural Bridges. Modern rooms, free breakfast, and free parking.
+*   **San Francisco (Oct 12-13):** [**Hilton San Francisco Financial District**](https://www.hilton.com/en/hotels/sfofdhh-hilton-san-francisco-financial-district/) — Located right next to Chinatown and the Financial District, offering sweeping panoramic high-rise views of the SF Bay.
+*   **Fort Bragg (Oct 13-14):** *Points Track Alternative:* [**Holiday Inn Express Fort Bragg**](https://www.ihg.com/holidayinnexpress/hotels/us/en/fort-bragg/fbgca/hoteldetail) — No Hilton properties exist in Fort Bragg; this newly renovated IHG property is the premier points-friendly equivalent in town (with indoor pool & free breakfast). *Alternatively, stop 1 hour early in Ukiah at the Hampton Inn Ukiah.*
+*   **Crescent City (Oct 14-16):** *Points Track Alternative:* [**Best Western Plus Crescent City Inn**](https://www.bestwestern.com/) — No Hilton properties in Crescent City; this highly rated property offers a reliable, points-friendly stop with free hot breakfast. *Alternatively, stop 1 hour early in Arcata/Eureka at the Hampton Inn Arcata.*
+*   **Portland (Oct 16-18):** [**Hampton Inn & Suites Portland-Pearl District**](https://www.hilton.com/en/hotels/pdxpdhx-hampton-suites-portland-pearl-district/) — Premier Pearl District location. Features a stunning indoor pool, a beautiful rooftop patio, and free hot breakfast.
+*   **Seattle (Oct 18-21):** [**Hampton Inn & Suites Seattle-Downtown**](https://www.hilton.com/en/hotels/seadnhx-hampton-suites-seattle-downtown/) — Set right at the foot of the Space Needle. Massive, comfortable suites with free hot breakfast and secure covered parking.
 
-### **🛡️ Track 3: The Marriott Bonvoy Track (Spacious & Travel-Comfort)**
+---
 
-*Best for: Stacking Marriott Bonvoy points, and securing **large suite layouts with full kitchens** (great for keeping road-trip snacks cold and prep-ready).*
+### **🛡️ Track 3: The Marriott Bonvoy Track (Spacious Suites & Premium Comfort)**
+*Best for: Travelers stacking Marriott Bonvoy points, seeking premium amenities, and desiring spacious suite layouts (great for groups and road-trip gear).*
 
-* **Crater Lake (July 18-19):** [**Fairfield Inn & Suites Klamath Falls**](https://www.google.com/maps/search/?api=1&query=Fairfield+Inn+Suites+Klamath+Falls) — A super clean, modern Marriott property \~45 minutes south of the park. Comes with free hot breakfast, indoor pool, and free parking.  
-* **Portland (July 19-22):** [**Residence Inn Portland Downtown/Pearl District**](https://www.google.com/maps/search/?api=1&query=Residence+Inn+Portland+Downtown+Pearl+District) — Located in a gorgeous, walkable urban neighborhood. Massive suites with full kitchen setups, an open-air central courtyard with fire pits, an indoor pool, and a free hot breakfast buffet.  
-* **Seattle (July 22-24):** [**Residence Inn Seattle Downtown/Lake Union**](https://www.google.com/maps/search/?api=1&query=Residence+Inn+Seattle+Downtown+Lake+Union) — Beautifully situated on the Lake Union waterfront, steps away from Queen Anne. Features full family suites with full kitchens, hot breakfasts, and is a very easy drive straight to the pier.
-
-## **📚 Course Compatibility (July 17 – Aug 2\)**
-
-| Course Name | Modality | Day/Time | Compatible? | Notes |
-| :---- | :---- | :---- | :---- | :---- |
-| **Business Law** | Online | Sat 8:30-11:20am | **Yes** | 7/18 \- Handled (Car/Union City). |
-| **Performance Mgmt** | Online | Asynchronous | **Yes** | Work anytime during trip. |
-| **Global Risk Assessment** | Remote Opt | Sat 1-3:50pm | **Maybe** | 7/25 (At Sea). Needs Premium Wi-Fi. |
-| **Practice of Gen. Mgmt** | Remote Opt | Tue 7-10pm | **Maybe** | 7/21 (PDX) or 7/28 (After Skagway). |
-| **AI and Ethics** | In-Person | Mon 7-10pm | **No** | Driving/At Sea conflict. |
-| **Machine Learning** | In-Person | Wed 3:30-6:20pm | **No** | Travel/At Sea conflict. |
-| **Agentic AI** | In-Person | TBD | **No** | In-person blocker. |
-| **Blockchain Tech** | In-Person | Tue 3:30-6:20pm | **No** | Schedule conflict. |
+*   **Solvang (Oct 10-11):** [**Santa Ynez Valley Marriott**](https://www.marriott.com/en-us/hotels/sbasy-santa-ynez-valley-marriott/) — Located just 5 minutes away in Buellton. Features a gorgeous outdoor heated pool, fire pits, and spacious modern rooms.
+*   **Santa Cruz (Oct 11-12):** [**Hotel Paradox, Autograph Collection**](https://www.marriott.com/en-us/hotels/sjctx-hotel-paradox-autograph-collection/) — A design-forward boutique Marriott hotel featuring a striking "urban forest" aesthetic, rain showers, and a lively pool deck with fire pits.
+*   **San Francisco (Oct 12-13):** [**Palace Hotel, a Luxury Collection Hotel**](https://www.marriott.com/en-us/hotels/sfolc-palace-hotel-a-luxury-collection-hotel-san-francisco/) — Legendary, grand SF historic hotel featuring opulent gold-leaf architecture and a breathtaking, glass-domed garden court atrium.
+*   **Fort Bragg (Oct 13-14):** *Marriott Track Alternative:* [**Harbor Lite Lodge**](https://www.harborlitelodge.com/) — No Marriott properties in Fort Bragg; this highly-rated local harbor partner is the perfect premium alternative, offering private balconies looking directly out over Noyo Harbor.
+*   **Crescent City (Oct 14-16):** *Marriott Track Alternative:* [**Oceanfront Lodge**](https://www.oceanfrontlodge.com/) — No Marriott properties in Crescent City; this local partner is the premier waterfront option in town, offering spacious ocean-view suites and an indoor heated pool.
+*   **Portland (Oct 16-18):** [**Residence Inn Portland Pearl District**](https://www.marriott.com/en-us/hotels/pdxri-residence-inn-portland-downtown-pearl-district/) — Beautifully situated in the highly walkable Pearl District. Massive apartment-style suites with full kitchens, central courtyard fire pits, and a free hot breakfast buffet.
+*   **Seattle (Oct 18-21):** [**Residence Inn Seattle Downtown/Lake Union**](https://www.marriott.com/en-us/hotels/sealu-residence-inn-seattle-downtown-lake-union/) — Right on the Lake Union waterfront, close to Queen Anne. Features massive multi-room suites with full kitchens, hot breakfasts, and immediate access to the waterfront streetcar.

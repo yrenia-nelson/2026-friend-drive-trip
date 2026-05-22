@@ -90,3 +90,10 @@ Running notes for trip-planning changes made by humans and coding agents.
 - Supplied direct phone number fallbacks for Boonville General Store and Chart Room Restaurant, as they do not maintain active official websites.
 - Highlighted a critical operational constraint for Spark Pizza in Redmond (covered, heated outdoor patio seating only).
 - Formatted all directory entries compactly (using `<br>([🗺️ Map](...) | [📖 Menu](...))` under the name) to keep the table clean and readable while strictly avoiding ASCII dollar signs in URLs.
+
+## 2026-05-21
+
+### Top-Level Navigation
+
+- Codex added a compact trip snapshot and quick navigation block near the top of the itinerary.
+- Added stable internal anchors for the day-by-day schedule, wineries/fishing guide, dine-and-sip directory, hotel tracks, and lodging cost comparison so friends can jump around the long planning document more easily.

@@ -12,7 +12,19 @@
 
 **Trip Dates:** October 10 – October 21, 2026 (12 Days).
 
+**Trip Snapshot:** Hacienda Heights -> Solvang lunch -> Santa Cruz -> San Francisco day visit -> Fort Bragg / Leggett visit -> Crescent City -> Portland -> Seattle -> Vancouver -> Seattle / SEA-TAC.
+
+**Quick Navigation:**
+
+- [Day-by-Day Schedule](#day-by-day)
+- [Wineries & Fishing Opportunities](#wineries-fishing)
+- [Master Dine & Sip Ideas](#dine-sip)
+- [Hotel Tracks & Cost Estimates](#hotel-tracks)
+- [Quick Lodging Track Cost Comparison](#lodging-cost-comparison)
+
 ---
+
+<a id="day-by-day"></a>
 
 ## **🗓️ Day-by-Day Schedule**
 
@@ -178,6 +190,8 @@
 
 ---
 
+<a id="wineries-fishing"></a>
+
 ## **❓🍷🎣 Outstanding Wineries & Fishing Opportunities**
 
 This guide keeps the trip focused on what the group actually cares about: wine-country stops, coastal seafood energy, and realistic fishing chances. Any tasting-heavy day needs either a designated driver, a hired driver, or a very conservative tasting plan.
@@ -193,6 +207,8 @@ This guide keeps the trip focused on what the group actually cares about: wine-c
 | **Seattle / Puget Sound** | Salmon / Sound Fishing | [**All Star Fishing Charters**](https://seattlefishing.com/), [**Tengu Charters**](https://www.tengucharters.com/) | Best fishing fit under the new route because Seattle has multiple nights. Salmon seasons vary, and charters may depart from Seattle, Edmonds, or nearby marinas. |
 
 ---
+
+<a id="dine-sip"></a>
 
 ## **❓🍴 Master Dine & Sip Ideas Directory**
 
@@ -226,9 +242,13 @@ These are highly curated local restaurant recommendations, perfect for foodies w
 
 ---
 
+<a id="hotel-tracks"></a>
+
 ## **❓🏨 Aligned Hotel Tracks (Loyalty & Style Guides)**
 
 Select one cohesive track below to simplify booking, keep travel styles consistent, and leverage points/status along your route.
+
+<a id="lodging-cost-comparison"></a>
 
 ### **💰 Quick Lodging Track Cost Comparison (Rough Estimates)**
 

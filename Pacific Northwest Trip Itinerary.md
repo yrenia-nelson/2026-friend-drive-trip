@@ -22,6 +22,14 @@
 - [Hotel Tracks & Cost Estimates](#hotel-tracks)
 - [Quick Lodging Track Cost Comparison](#lodging-cost-comparison)
 
+**Trip Calendar:**
+
+| Sun | Mon | Tue | Wed | Thu | Fri | Sat |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+|  |  |  |  |  |  | **Oct 10**<br>Hacienda Heights -> Santa Cruz<br>Solvang lunch |
+| **Oct 11**<br>Santa Cruz<br>SF day trip | **Oct 12**<br>Crescent City<br>Fort Bragg / Leggett | **Oct 13**<br>Portland<br>Redwood morning + drive | **Oct 14**<br>Seattle<br>Arrive early | **Oct 15**<br>Seattle<br>Full day | **Oct 16**<br>Seattle<br>Fishing / ferry flex | **Oct 17**<br>Vancouver<br>Border crossing |
+| **Oct 18**<br>Vancouver<br>Full day | **Oct 19**<br>Vancouver<br>North Shore / city | **Oct 20**<br>Seattle<br>Return south | **Oct 21**<br>SEA-TAC<br>Fly home |  |  |  |
+
 ---
 
 <a id="day-by-day"></a>

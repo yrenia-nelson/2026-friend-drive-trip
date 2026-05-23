@@ -105,3 +105,14 @@ Running notes for trip-planning changes made by humans and coding agents.
 
 - Codex added Palace Games as an open friends-decision question on the San Francisco day-trip day.
 - It fits geographically at the Palace of Fine Arts, but the group should decide before booking because a structured 80-120 minute escape-room activity would compete with flexible SF sightseeing time.
+
+## 2026-05-23 (Later)
+
+### Transition October 10-12 Stay to San Francisco & Marin County
+
+- Antigravity transitioned the October 10-12 overnight stay from Santa Cruz to San Francisco / Marin County after the friends decided to bypass Santa Cruz.
+- Replaced the Santa Cruz overnights with a 2-night stay in SF/Marin, which eliminates the October 11 round-trip driving, provides a full day in San Francisco for sightseeing and Palace Games, and cuts about 1.5 hours and 70 miles off the massive October 12 drive north.
+- Researched and integrated premium San Francisco and Marin County lodging options across all 5 tracks: Inn at the Presidio (Boutique), Canopy by Hilton SOMA (Hilton), The Clancy, Autograph Collection (Marriott), and spacious 4-5 bedroom residential rentals (VRBO and Recommended Hybrid).
+- Updated all lodging track cost tables and total estimates to accurately reflect SF/Marin pricing.
+- Swapped Shadowbrook Restaurant in the Master Dining Directory with Scoma's Sausalito, a gorgeous waterfront seafood establishment that fits Melanie's pescatarian needs and the group's style.
+- Updated the Mega Route Map, calendar grid, warnings, snapshots, and daily route directions to ensure seamless itinerary consistency.

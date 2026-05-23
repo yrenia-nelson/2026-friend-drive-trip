@@ -116,3 +116,4 @@ Running notes for trip-planning changes made by humans and coding agents.
 - Updated all lodging track cost tables and total estimates to accurately reflect SF/Marin pricing.
 - Swapped Shadowbrook Restaurant in the Master Dining Directory with Scoma's Sausalito, a gorgeous waterfront seafood establishment that fits Melanie's pescatarian needs and the group's style.
 - Updated the Mega Route Map, calendar grid, warnings, snapshots, and daily route directions to ensure seamless itinerary consistency.
+- Converted all dates in the top calendar grid table into direct hyperlinks pointing to robust, custom HTML anchors inserted above each daily Day-by-Day schedule header, enabling immediate, smooth navigation.

@@ -26,9 +26,9 @@
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|  |  |  |  |  |  | **Oct 10**<br>Hacienda Heights -> San Francisco / Marin<br>Solvang lunch |
-| **Oct 11**<br>San Francisco / Marin<br>Full day | **Oct 12**<br>Crescent City<br>Fort Bragg / Leggett | **Oct 13**<br>Portland<br>Redwood morning + drive | **Oct 14**<br>Seattle<br>Arrive early | **Oct 15**<br>Seattle<br>Full day | **Oct 16**<br>Seattle<br>Fishing / ferry flex | **Oct 17**<br>Vancouver<br>Border crossing |
-| **Oct 18**<br>Vancouver<br>Full day | **Oct 19**<br>Vancouver<br>North Shore / city | **Oct 20**<br>Seattle<br>Return south | **Oct 21**<br>SEA-TAC<br>Fly home |  |  |  |
+|  |  |  |  |  |  | [**Oct 10**](#oct-10)<br>Hacienda Heights -> San Francisco / Marin<br>Solvang lunch |
+| [**Oct 11**](#oct-11)<br>San Francisco / Marin<br>Full day | [**Oct 12**](#oct-12)<br>Crescent City<br>Fort Bragg / Leggett | [**Oct 13**](#oct-13)<br>Portland<br>Redwood morning + drive | [**Oct 14**](#oct-14)<br>Seattle<br>Arrive early | [**Oct 15**](#oct-15)<br>Seattle<br>Full day | [**Oct 16**](#oct-16)<br>Seattle<br>Fishing / ferry flex | [**Oct 17**](#oct-17)<br>Vancouver<br>Border crossing |
+| [**Oct 18**](#oct-18)<br>Vancouver<br>Full day | [**Oct 19**](#oct-19)<br>Vancouver<br>North Shore / city | [**Oct 20**](#oct-20)<br>Seattle<br>Return south | [**Oct 21**](#oct-21)<br>SEA-TAC<br>Fly home |  |  |  |
 
 ---
 
@@ -36,6 +36,7 @@
 
 ## **🗓️ Day-by-Day Schedule**
 
+<a id="oct-10"></a>
 ### **October 10 (Saturday): Hacienda Heights to San Francisco / Sausalito via Solvang (Drive up the Coast)**
 
 *   **8:00 AM:** Depart from Hacienda Heights, CA. Beat the early morning weekend traffic as you head northwest toward the Central Coast.
@@ -51,6 +52,7 @@
 
 ---
 
+<a id="oct-11"></a>
 ### **October 11 (Sunday): San Francisco & Marin County Full Day (Palace Games & Sightseeing)**
 
 *   **Morning:** Sleep in and enjoy a slow morning. Choose either an urban exploration (walking the Ferry Building Marketplace, checking out the historic cable cars, or strolling through Golden Gate Park) or cross the bridge into Marin County to walk amongst the giant redwoods at **Muir Woods National Monument** (note: vehicle parking or shuttle reservations are strictly required in advance).
@@ -63,6 +65,7 @@
 
 ---
 
+<a id="oct-12"></a>
 ### **October 12 (Monday): San Francisco / Marin to Crescent City via Fort Bragg (Scenic Highway 1 & Redwoods)**
 
 *   **7:30 AM:** Depart San Francisco / Marin early. Heading north from the bay dramatically improves this drive, saving about 1.5 hours of transit and 70 miles compared to starting in Santa Cruz! You will head north on US-101 / CA-1 through the redwoods to the Mendocino / Fort Bragg coast, before continuing north to Crescent City.
@@ -81,6 +84,7 @@
 
 ---
 
+<a id="oct-13"></a>
 ### **October 13 (Tuesday): Crescent City to Portland (Redwood Morning + Northbound Push)**
 
 *   **8:00 AM:** If everyone has energy, do a short redwoods hit near Crescent City before leaving: **Stout Grove** or a quick scenic segment of **Howland Hill Road**. Keep this tight so the group reaches Portland at a humane hour.
@@ -95,6 +99,7 @@
 
 ---
 
+<a id="oct-14"></a>
 ### **October 14 (Wednesday): Portland to Seattle (Arrive Early in the PNW Hub)**
 
 *   **9:00 AM:** Depart Portland for Seattle, driving north along Interstate 5.
@@ -108,6 +113,7 @@
 
 ---
 
+<a id="oct-15"></a>
 ### **October 15 (Thursday): Seattle Full Day (Market, Waterfront & Neighborhoods)**
 
 *   **Morning:** Explore **Pike Place Market**, the Seattle Waterfront, and the downtown core at an unhurried pace.
@@ -120,6 +126,7 @@
 
 ---
 
+<a id="oct-16"></a>
 ### **October 16 (Friday): Seattle Full Day (Fishing, Ferries, or Rainy-Day Culture)**
 
 *   **Morning:** Keep this flexible for a Puget Sound fishing charter, a ferry ride, or a slower coffee-and-waterfront morning.
@@ -132,6 +139,7 @@
 
 ---
 
+<a id="oct-17"></a>
 ### **October 17 (Saturday): Seattle to Vancouver, BC (Cross the International Border!)**
 
 > [!IMPORTANT]
@@ -148,6 +156,7 @@
 
 ---
 
+<a id="oct-18"></a>
 ### **October 18 (Sunday): Vancouver Full Day (Stanley Park, Markets & Food)**
 
 *   **Morning:** Explore **Stanley Park**, Coal Harbour, and the seawall viewpoints without making the day feel like a border-crossing blur.
@@ -160,6 +169,7 @@
 
 ---
 
+<a id="oct-19"></a>
 ### **October 19 (Monday): Vancouver Full Day (North Shore or City Deep Dive)**
 
 *   **Morning:** Choose **Capilano Suspension Bridge** or a more relaxed North Shore / Lynn Canyon style day.
@@ -172,6 +182,7 @@
 
 ---
 
+<a id="oct-20"></a>
 ### **October 20 (Tuesday): Vancouver Morning + Scenic Drive to Seattle**
 
 *   **Morning:** Enjoy one final Vancouver breakfast or waterfront walk before returning to Seattle.
@@ -185,6 +196,7 @@
 
 ---
 
+<a id="oct-21"></a>
 ### **October 21 (Wednesday): Rental Car Return & Flight Home**
 
 *   **Morning:** Enjoy a slow morning with a stellar cup of specialty coffee at [**Caffe Vita**](https://www.caffevita.com/) ([🗺️ Map](https://maps.google.com/?q=Caffe+Vita+Seattle+WA)) or [**Victrola Coffee Roasters**](https://victrolacoffee.com/) ([🗺️ Map](https://maps.google.com/?q=Victrola+Coffee+Roasters+Seattle+WA) \| [📖 Menu](https://victrolacoffee.com/)), pack up your bags, and head south to Seattle-Tacoma International Airport (SEA-TAC).

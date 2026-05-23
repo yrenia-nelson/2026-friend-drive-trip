@@ -117,3 +117,11 @@ Running notes for trip-planning changes made by humans and coding agents.
 - Swapped Shadowbrook Restaurant in the Master Dining Directory with Scoma's Sausalito, a gorgeous waterfront seafood establishment that fits Melanie's pescatarian needs and the group's style.
 - Updated the Mega Route Map, calendar grid, warnings, snapshots, and daily route directions to ensure seamless itinerary consistency.
 - Converted all dates in the top calendar grid table into direct hyperlinks pointing to robust, custom HTML anchors inserted above each daily Day-by-Day schedule header, enabling immediate, smooth navigation.
+
+### Friday Departure & 13-Day Extension
+
+- Antigravity transitioned the road trip to start at 10:00 AM on Friday, October 9, extending the itinerary to a 13-day sequential trip.
+- Expanded the lodging hub stay in San Francisco / Marin County to a 3-night stay (Friday, October 9 to Monday, October 12).
+- Added a new Day 1 schedule for Friday, October 9 (departing at 10:00 AM, stopping in Solvang for lunch, and checking in) and revised Saturday/Sunday (October 10-11) as relaxed weekend days in SF/Marin.
+- Recalculated and updated all 5 lodging track cost tables and total estimates to include the 3rd night in San Francisco/Marin.
+- Updated the overall trip dates, snapshots, calendar grid cells, and links to ensure complete itinerary alignment.

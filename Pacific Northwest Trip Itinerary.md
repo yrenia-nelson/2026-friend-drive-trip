@@ -6,13 +6,13 @@
 
 **Mega Route Map:** [🗺️ Visualize the rough full road trip on Google Maps](https://www.google.com/maps/dir/?api=1&origin=Hacienda+Heights,+CA&destination=Seattle-Tacoma+International+Airport,+WA&waypoints=Solvang,+CA%7CSan+Francisco,+CA%7CNapa+Valley,+CA%7CFort+Bragg,+CA%7CCrescent+City,+CA%7CPortland,+OR%7CSeattle,+WA%7CVancouver,+BC,+Canada%7CSeattle,+WA&travelmode=driving)
 
-⚠️ **Friends Review Needed:** The route is now intentionally compressed through Northern California and Portland to maximize time in Seattle and Vancouver. Solvang and Fort Bragg are visit stops only, San Francisco / Marin County is the first overnight hub for October 10-12 (eliminating the Santa Cruz stay and SF day-trip driving), Palace Games may compete with open-ended SF sightseeing time, SLO/Paso wineries compete with the long push to San Francisco, Napa is an easy 1-hour detour from SF on the October 12 drive north, fishing charters depend on season/weather/licensing, and room sharing only works if everyone is honest about bed comfort.
+⚠️ **Friends Review Needed:** The route is now intentionally compressed through Northern California and Portland to maximize time in Seattle and Vancouver. Solvang and Fort Bragg are visit stops only, San Francisco / Marin County is the first overnight hub for October 9-12 (eliminating the Santa Cruz stay and SF day-trip driving), Palace Games may compete with open-ended SF sightseeing time, SLO/Paso wineries compete with the long push to San Francisco, Napa is an easy 1-hour detour from SF on the October 12 drive north, fishing charters depend on season/weather/licensing, and room sharing only works if everyone is honest about bed comfort.
 
-**Trip Concept:** A legendary 12-day, one-way coastal road trip from Hacienda Heights, California all the way up the Pacific Coast to Seattle, Washington. No cruise, purely a driving adventure! The group plans to drive the entire route, drop off the rental car, and fly back home from Seattle on October 21.
+**Trip Concept:** A legendary 13-day, one-way coastal road trip from Hacienda Heights, California all the way up the Pacific Coast to Seattle, Washington. No cruise, purely a driving adventure! The group plans to drive the entire route, drop off the rental car, and fly back home from Seattle on October 21.
 
-**Trip Dates:** October 10 – October 21, 2026 (12 Days).
+**Trip Dates:** October 9 – October 21, 2026 (13 Days).
 
-**Trip Snapshot:** Hacienda Heights -> Solvang lunch -> San Francisco / Sausalito -> Fort Bragg / Leggett visit -> Crescent City -> Portland -> Seattle -> Vancouver -> Seattle / SEA-TAC.
+**Trip Snapshot:** Hacienda Heights -> Friday Solvang lunch -> San Francisco / Sausalito (3 Nights) -> Fort Bragg / Leggett visit -> Crescent City -> Portland -> Seattle -> Vancouver -> Seattle / SEA-TAC.
 
 **Quick Navigation:**
 
@@ -26,8 +26,8 @@
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-|  |  |  |  |  |  | [**Oct 10**](#oct-10)<br>Hacienda Heights -> San Francisco / Marin<br>Solvang lunch |
-| [**Oct 11**](#oct-11)<br>San Francisco / Marin<br>Full day | [**Oct 12**](#oct-12)<br>Crescent City<br>Fort Bragg / Leggett | [**Oct 13**](#oct-13)<br>Portland<br>Redwood morning + drive | [**Oct 14**](#oct-14)<br>Seattle<br>Arrive early | [**Oct 15**](#oct-15)<br>Seattle<br>Full day | [**Oct 16**](#oct-16)<br>Seattle<br>Fishing / ferry flex | [**Oct 17**](#oct-17)<br>Vancouver<br>Border crossing |
+|  |  |  |  |  | [**Oct 9**](#oct-9)<br>Hacienda Heights -> San Francisco / Marin<br>Solvang lunch | [**Oct 10**](#oct-10)<br>San Francisco / Marin<br>Redwoods & Scoma's |
+| [**Oct 11**](#oct-11)<br>San Francisco / Marin<br>Palace Games | [**Oct 12**](#oct-12)<br>Crescent City<br>Fort Bragg / Leggett | [**Oct 13**](#oct-13)<br>Portland<br>Redwood morning + drive | [**Oct 14**](#oct-14)<br>Seattle<br>Arrive early | [**Oct 15**](#oct-15)<br>Seattle<br>Full day | [**Oct 16**](#oct-16)<br>Seattle<br>Fishing / ferry flex | [**Oct 17**](#oct-17)<br>Vancouver<br>Border crossing |
 | [**Oct 18**](#oct-18)<br>Vancouver<br>Full day | [**Oct 19**](#oct-19)<br>Vancouver<br>North Shore / city | [**Oct 20**](#oct-20)<br>Seattle<br>Return south | [**Oct 21**](#oct-21)<br>SEA-TAC<br>Fly home |  |  |  |
 
 ---
@@ -36,31 +36,42 @@
 
 ## **🗓️ Day-by-Day Schedule**
 
-<a id="oct-10"></a>
-### **October 10 (Saturday): Hacienda Heights to San Francisco / Sausalito via Solvang (Drive up the Coast)**
+<a id="oct-9"></a>
+### **October 9 (Friday): Hacienda Heights to San Francisco / Sausalito via Solvang (Drive up the Coast)**
 
-*   **8:00 AM:** Depart from Hacienda Heights, CA. Beat the early morning weekend traffic as you head northwest toward the Central Coast.
+*   **10:00 AM:** Depart from Hacienda Heights, CA. Beat the late morning weekday traffic as you head northwest toward the Central Coast.
 *   **Duration:** ~6.5 to 7 hours pure driving time to San Francisco/Marin with the Solvang stop built in (approx. 8.5 to 9.5 hours total elapsed travel time including lunch, fuel, and stretch breaks).
     *   [🗺️ Hacienda Heights to Solvang Lunch Stop](https://www.google.com/maps/dir/?api=1&origin=Hacienda+Heights,+CA&destination=Solvang,+CA&travelmode=driving)
     *   [🗺️ Solvang to San Francisco / Marin](https://www.google.com/maps/dir/?api=1&origin=Solvang,+CA&destination=San+Francisco,+CA&travelmode=driving)
-*   **11:30 AM:** Arrive in the storybook Danish village of **Solvang, CA** for lunch only. Check out the windmills, walk the half-timbered streets, and soak in the wine country air before continuing north.
+*   **1:30 PM:** Arrive in the storybook Danish village of **Solvang, CA** for lunch only. Check out the windmills, walk the half-timbered streets, and soak in the wine country air before continuing north.
 *   **🍴 Food Spotlight:**
     *   *Lunch:* Grab a table at [**Paula's Pancake House**](https://www.paulaspancakehouse.com/) ([🗺️ Map](https://maps.google.com/?q=Paula's+Pancake+House+Solvang+CA) \| [📖 Menu](https://www.paulaspancakehouse.com/menu)) for their famous, paper-thin Danish pancakes served with warm berries, or head to [**Solvang Restaurant**](https://solvangrestaurant.com/) ([🗺️ Map](https://maps.google.com/?q=Solvang+Restaurant+Solvang+CA) \| [📖 Menu](https://solvangrestaurant.com/menu/)) to try traditional *Aebleskiver* (sweet, spherical Danish puff pastries dusted with powdered sugar and raspberry jam).
     *   *Dinner:* Head to [**Hog Island Oyster Co.**](https://hogislandoysters.com/) ([🗺️ Map](https://maps.google.com/?q=Hog+Island+Oyster+Co+Ferry+Building+San+Francisco+CA) \| [📖 Menu](https://hogislandoysters.com/locations/san-francisco)) in the Ferry Building for incredibly fresh local oysters, seafood chowder, and a famous gourmet grilled cheese, or make reservations at [**Greens Restaurant**](https://greensrestaurant.com/) ([🗺️ Map](https://maps.google.com/?q=Greens+Restaurant+San+Francisco+CA) \| [📖 Menu](https://greensrestaurant.com/)) in Fort Mason for an upscale, Mel-friendly vegetarian feast with large glass windows overlooking the Golden Gate Bridge.
-*   **🍷 Winery Angle:** Keep Solvang wine tasting light unless there is a designated driver. If SLO / Edna Valley wineries matter more, skip a long Solvang linger and stop near San Luis Obispo (see details in the Wineries guide below) before continuing north to the bay.
+*   **🍷 Winery Angle:** Keep Solvang wine tasting light unless there is a designated driver. If SLO / Edna Valley wineries matter more, stop near San Luis Obispo (see details in the Wineries guide below) before continuing north to the bay.
+*   **Accommodation:** ❓ *Unbooked* in San Francisco or Marin County, CA (See hotel tracks below).
+
+---
+
+<a id="oct-10"></a>
+### **October 10 (Saturday): San Francisco & Marin County (Muir Woods & Coastal Scenic Loop)**
+
+*   **Morning:** Enjoy a relaxed weekend morning. Cross the Golden Gate Bridge into Marin County to walk amongst the giant redwoods at **Muir Woods National Monument** (note: vehicle parking or shuttle reservations are strictly required in advance).
+*   **Duration:** Local scenic day! No major driving required—enjoy short, localized scenic loops around the Presidio, Twin Peaks, or the Marin Headlands.
+*   **🍴 Food Spotlight:**
+    *   *Lunch:* Head to Sausalito's historic waterfront for [**Scoma's Sausalito**](https://www.scomassausalito.com/) ([🗺️ Map](https://maps.google.com/?q=Scomas+Sausalito+CA) \| [📖 Menu](https://www.scomassausalito.com/menus/)) for panoramic views of the San Francisco skyline and Angel Island, feasting on legendary clam chowder, Dungeness crab, and exceptionally fresh local catches.
+    *   *Dinner:* Treat yourselves to a beautiful dinner at [**Greens Restaurant**](https://greensrestaurant.com/) ([🗺️ Map](https://maps.google.com/?q=Greens+Restaurant+San+Francisco+CA) \| [📖 Menu](https://greensrestaurant.com/)) in Fort Mason for an upscale, Mel-friendly vegetarian feast with large glass windows overlooking the Golden Gate Bridge.
 *   **Accommodation:** ❓ *Unbooked* in San Francisco or Marin County, CA (See hotel tracks below).
 
 ---
 
 <a id="oct-11"></a>
-### **October 11 (Sunday): San Francisco & Marin County Full Day (Palace Games & Sightseeing)**
+### **October 11 (Sunday): San Francisco & Marin County (Palace Games & Sightseeing)**
 
-*   **Morning:** Sleep in and enjoy a slow morning. Choose either an urban exploration (walking the Ferry Building Marketplace, checking out the historic cable cars, or strolling through Golden Gate Park) or cross the bridge into Marin County to walk amongst the giant redwoods at **Muir Woods National Monument** (note: vehicle parking or shuttle reservations are strictly required in advance).
-*   **Duration:** No massive round-trip driving! Enjoy having the car parked or doing short, localized scenic loops around the Presidio, Twin Peaks, or the Marin Headlands.
-*   **Afternoon (Escape Room):** Head to the historic Palace of Fine Arts for your scheduled session at [**Palace Games**](https://palace-games.com/), a world-renowned escape-room venue. With a full day in the city, this fits perfectly without any rushed transit.
+*   **Morning:** Sleep in and explore SF neighborhoods (the Mission district, the Ferry Building Marketplace, or check out the historic cable cars).
+*   **Afternoon (Escape Room):** Head to the Palace of Fine Arts for your scheduled session at [**Palace Games**](https://palace-games.com/), a world-renowned escape-room venue. Since you are already in the city, this fits perfectly without any rushed transit!
 *   **🍴 Food Spotlight:**
-    *   *Lunch:* Head across the Golden Gate Bridge to Sausalito's historic waterfront for [**Scoma's Sausalito**](https://www.scomassausalito.com/) ([🗺️ Map](https://maps.google.com/?q=Scomas+Sausalito+CA) \| [📖 Menu](https://www.scomassausalito.com/menus/)) for panoramic views of the San Francisco skyline and Angel Island, feasting on legendary clam chowder, Dungeness crab, and exceptionally fresh local catches. Alternatively, grab warm lobster rolls at [**Sam's Chowder House**](https://www.samschowderhouse.com/) ([🗺️ Map](https://maps.google.com/?q=Sam's+Chowder+House+Half+Moon+Bay+CA) \| [📖 Menu](https://www.samschowderhouse.com/menus)) in Half Moon Bay if doing a scenic coastal loop.
-    *   *Dinner:* Choose whichever flagship SF restaurant you didn't visit last night: [**Greens Restaurant**](https://greensrestaurant.com/) ([🗺️ Map](https://maps.google.com/?q=Greens+Restaurant+San+Francisco+CA) \| [📖 Menu](https://greensrestaurant.com/)) in Fort Mason for refined, upscale vegetarian dishes overlooking the Golden Gate, or [**Hog Island Oyster Co.**](https://hogislandoysters.com/) ([🗺️ Map](https://maps.google.com/?q=Hog+Island+Oyster+Co+Ferry+Building+San+Francisco+CA) \| [📖 Menu](https://hogislandoysters.com/locations/san-francisco)) in the Ferry Building for world-class oysters and seafood.
+    *   *Lunch:* Grab warm lobster rolls at [**Sam's Chowder House**](https://www.samschowderhouse.com/) ([🗺️ Map](https://maps.google.com/?q=Sam's+Chowder+House+Half+Moon+Bay+CA) \| [📖 Menu](https://www.samschowderhouse.com/menus)) in Half Moon Bay if doing a scenic coastal loop, or graze through the Ferry Building.
+    *   *Dinner:* Repeat your favorite seafood spots or go casual with local SF neighborhood favorites.
 *   **Accommodation:** ❓ *Unbooked* in San Francisco or Marin County, CA (See hotel tracks below).
 
 ---
@@ -270,11 +281,11 @@ Select one cohesive track below to simplify booking, keep travel styles consiste
 
 | Track Option | Researched Lodging Type | 3-Room / Minimum Plan | 4-Room / Comfort Plan | Key Trade-offs & Notes |
 | :--- | :--- | :--- | :--- | :--- |
-| **⭐ Track 1: Hybrid Track** | VRBO Hubs + Transit Hotels | **6,500 – 10,400 USD** | **7,000 – 10,900 USD** | **Highly Recommended.** Best balance of private rooms at hubs and zero cleaning fees for 1-night stops. |
-| **🌸 Track 2: Boutique Track** | Character-rich Independent Hotels | **8,600 – 11,400 USD** | **11,200 – 14,600 USD** | Unique stays, no standard points benefits, paid parking at major stops. |
-| **👑 Track 3: Hilton Track** | Reliable Chain with Free Breakfast | **8,100 – 9,900 USD** | **10,600 – 12,900 USD** | Point-friendly, free hot breakfasts, very consistent amenities. |
-| **🛡️ Track 4: Marriott Track** | Premium Comfort with Spacious Suites | **11,500 – 13,800 USD** | **14,700 – 17,500 USD** | Luxurious properties, spacious suite layouts, highest overall cost. |
-| **🏠 Track 5: VRBO Track** | Group Vacation Homes / Residences | **7,800 – 12,400 USD** | **7,800 – 12,400 USD** | Everyone gets a private bedroom, kitchen, but paying cleaning fees for single nights. |
+| **⭐ Track 1: Hybrid Track** | VRBO Hubs + Transit Hotels | **7,050 – 11,350 USD** | **7,550 – 11,850 USD** | **Highly Recommended.** Best balance of private rooms at hubs and zero cleaning fees for 1-night stops. |
+| **🌸 Track 2: Boutique Track** | Character-rich Independent Hotels | **9,800 – 13,200 USD** | **12,800 – 17,000 USD** | Unique stays, no standard points benefits, paid parking at major stops. |
+| **👑 Track 3: Hilton Track** | Reliable Chain with Free Breakfast | **8,950 – 11,150 USD** | **11,725 – 14,575 USD** | Point-friendly, free hot breakfasts, very consistent amenities. |
+| **🛡️ Track 4: Marriott Track** | Premium Comfort with Spacious Suites | **12,400 – 15,150 USD** | **15,900 – 19,300 USD** | Luxurious properties, spacious suite layouts, highest overall cost. |
+| **🏠 Track 5: VRBO Track** | Group Vacation Homes / Residences | **8,350 – 13,350 USD** | **8,350 – 13,350 USD** | Everyone gets a private bedroom, kitchen, but paying cleaning fees for single nights. |
 
 **Cost planning assumptions:** Rates were researched on May 20, 2026 using official hotel booking pages and major OTA references. Treat every number as a planning estimate until checkout, because October 2026 inventory, minimum-stay rules, taxes, exchange rates, and cancellability can move. Group estimates assume **Mel gets her own room**, **Kenny likely gets his own room**, and the other three guys either share one larger room (**3-room minimum plan**) or split into two rooms (**4-room comfort plan**). Totals below generally include researched hotel taxes/room fees where available, but **exclude parking unless noted**.
 
@@ -285,14 +296,14 @@ Select one cohesive track below to simplify booking, keep travel styles consiste
 
 | Stop | Recommended Hybrid Option | Researched Cost Estimate | Why it Fits & Booking Tips |
 | :--- | :--- | :--- | :--- |
-| **San Francisco / Marin (Oct 10-12)** | **VRBO 4-5 Bedroom Marin View Home or Spacious SF Townhouse** | Approx. **1,700 – 2,800 USD** total for 2 nights. | Multi-night stay absorbs the cleaning fee. Staying in Marin County (Sausalito/Tiburon) offers stunning bay views, peaceful forest surroundings, and free driveway parking. |
+| **San Francisco / Marin (Oct 9-12)** | **VRBO 4-5 Bedroom Marin View Home or Spacious SF Townhouse** | Approx. **2,250 – 3,750 USD** total for 3 nights. | Multi-night stay absorbs the cleaning fee. Staying in Marin County (Sausalito/Tiburon) offers stunning bay views, peaceful forest surroundings, and free driveway parking. |
 | **Crescent City (Oct 12-13)** | **Curly Redwood Lodge** (Boutique) or **Best Western Plus Northwoods Inn** (Hilton-Equivalent) | Approx. **310 – 495 USD** (3 rooms) or **406 – 660 USD** (4 rooms) for 1 night. | Quick 1-night transit stop. Skip VRBO cleaning fees and enjoy a simple, hassle-free hotel check-in right on the coast. |
 | **Portland (Oct 13-14)** | **Inn at Northrup Station** or **Hampton Inn Pearl District** | Approx. **580 – 588 USD** (3 rooms) or **766 – 815 USD** (4 rooms) for 1 night. | Another 1-night transit. Hotels in the Pearl District offer easy walking access and free parking/breakfast. |
 | **Seattle First Stay (Oct 14-17)** | **VRBO 4-Bedroom Townhouse/View Home** (Queen Anne or Lake Union) | Approx. **2,100 – 3,200 USD** total for 3 nights. | 3-night hub is perfect for a shared home. Gives the group a kitchen, laundry, and awesome common spaces for group hangouts. |
 | **Vancouver (Oct 17-20)** | **VRBO 4-Bedroom Modern Townhome** (Mount Pleasant or Kitsilano) | Approx. **1,300 – 2,600 USD** (1,800 – 3,500 CAD) total for 3 nights. | High-quality 3-night Vancouver stay. Shared home is much cheaper than booking 4 hotel rooms in downtown Vancouver. |
 | **Seattle Last Stay (Oct 20-21)** | **Mediterranean Inn** or **Hampton Inn & Suites Downtown** | Approx. **594 – 692 USD** (3 rooms) or **747 – 872 USD** (4 rooms) for 1 night. | 1-night transit before the flight home. Easy drop-off, packing, and quick departure to SEA-TAC in the morning. |
 
-**Track 1 planning total:** approx. **6,500 – 10,400 USD** for the 3-room minimum plan, or **7,000 – 10,900 USD** for the 4-room comfort plan, before parking.
+**Track 1 planning total:** approx. **7,050 – 11,350 USD** for the 3-room minimum plan, or **7,550 – 11,850 USD** for the 4-room comfort plan, before parking.
 
 ---
 
@@ -301,13 +312,13 @@ Select one cohesive track below to simplify booking, keep travel styles consiste
 
 | Stop | Hotel | Researched Cost Estimate | Watch-Outs |
 | :--- | :--- | :--- | :--- |
-| **San Francisco / Marin (Oct 10-12)** | [**Inn at the Presidio**](https://www.presidiolodging.com/inn-at-the-presidio/) | Approx. **2,400 – 3,600 USD** for 3 rooms or **3,200 – 4,800 USD** for 4 rooms across 2 nights, after San Francisco hotel taxes. | Set inside the serene Presidio National Park, surrounded by eucalyptus and redwoods. Extremely peaceful, free breakfast, easy street parking (approx. **15 USD/day**). |
+| **San Francisco / Marin (Oct 9-12)** | [**Inn at the Presidio**](https://www.presidiolodging.com/inn-at-the-presidio/) | Approx. **3,600 – 5,400 USD** for 3 rooms or **4,800 – 7,200 USD** for 4 rooms across 3 nights, after San Francisco hotel taxes. | Set inside the serene Presidio National Park, surrounded by eucalyptus and redwoods. Extremely peaceful, free breakfast, easy street parking (approx. **15 USD/day**). |
 | **Crescent City (Oct 12-13)** | [**Curly Redwood Lodge**](https://www.curlyredwoodlodge.com/) | Approx. **310 – 343 USD** for 3 rooms or about **406 USD** for 4 rooms across 1 night, after 10% lodging tax and service fee. | Best value and has 3-bed suite options. Possible cash deposit; parking appears free. |
 | **Portland (Oct 13-14)** | [**Inn at Northrup Station**](https://www.northrupstation.com/) | Approx. **588 – 815 USD** for 3 rooms or **766 – 1,067 USD** for 4 rooms, after estimated Portland/Oregon lodging taxes. | 3-room plan works via double-queen/sofa suite; free parking is a major plus. |
 | **Seattle (Oct 14-17 & 20-21)** | [**Mediterranean Inn**](https://www.mediterraneaninn.com/) | All 4 Seattle nights combined: approx. **2,772 – 3,958 USD** for 3 rooms or **3,486 – 4,980 USD** for 4 rooms, after observed room taxes/fees. | Parking approx. **36 USD + tax/car/night**. Double Queen is the realistic 3-guys room. |
 | **Vancouver (Oct 17-20)** | [**The Burrard**](https://theburrard.com/) | Standard-rate estimate approx. **3,480 – 3,648 CAD** for 3 rooms or **4,497 – 4,584 CAD** for 4 rooms after lodging taxes. | 3-room plan may need extra-person/cot charges. Parking approx. **29.50 CAD + tax/car/night**. |
 
-**Track 2 planning total:** approx. **8,600 – 11,400 USD** for the 3-room minimum plan, or **11,200 – 14,600 USD** for the 4-room comfort plan, before parking. Canadian-dollar rows are rough USD-equivalent in the total.
+**Track 2 planning total:** approx. **9,800 – 13,200 USD** for the 3-room minimum plan, or **12,800 – 17,000 USD** for the 4-room comfort plan, before parking. Canadian-dollar rows are rough USD-equivalent in the total.
 
 ---
 
@@ -316,13 +327,13 @@ Select one cohesive track below to simplify booking, keep travel styles consiste
 
 | Stop | Hotel | Researched Cost Estimate | Watch-Outs |
 | :--- | :--- | :--- | :--- |
-| **San Francisco / Marin (Oct 10-12)** | [**Canopy by Hilton San Francisco SOMA**](https://www.hilton.com/en/hotels/sfoobpy-canopy-san-francisco-soma/) | Approx. **1,700 – 2,500 USD** for 3 rooms or **2,250 – 3,350 USD** for 4 rooms across 2 nights, after taxes. | Ultra-modern boutique-style Hilton in SOMA. Free breakfast for Gold/Diamond. Valet parking approx. **65 – 70 USD/night**. |
+| **San Francisco / Marin (Oct 9-12)** | [**Canopy by Hilton San Francisco SOMA**](https://www.hilton.com/en/hotels/sfoobpy-canopy-san-francisco-soma/) | Approx. **2,550 – 3,750 USD** for 3 rooms or **3,375 – 5,025 USD** for 4 rooms across 3 nights, after taxes. | Ultra-modern boutique-style Hilton in SOMA. Free breakfast for Gold/Diamond. Valet parking approx. **65 – 70 USD/night**. |
 | **Crescent City (Oct 12-13)** | *Points Track Alternative:* [**Best Western Plus Northwoods Inn**](https://www.bestwestern.com/en_US/book/hotel-rooms.05435.html) | Approx. **495 – 645 USD** for 3 rooms or **660 – 750 USD** for 4 standard rooms across 1 night, after estimated 11% tax. | Cancellability language looked inconsistent, so verify at checkout. Free parking; possible incidental hold. |
 | **Portland (Oct 13-14)** | [**Hampton Inn & Suites Portland-Pearl District**](https://www.hilton.com/en/hotels/pdxpdhx-hampton-suites-portland-pearl-district/) | Approx. **580 – 905 USD** for 3 rooms or **673 – 998 USD** for 4 rooms after estimated lodging taxes/TID. | Good room fit if booking a 2 Queen Studio Suite with sofa bed. Valet approx. **50 USD/car/night**. |
 | **Seattle (Oct 14-17 & 20-21)** | [**Hampton Inn & Suites Seattle-Downtown**](https://www.hilton.com/en/hotels/seadthx-hampton-suites-seattle-downtown/) | All 4 Seattle nights combined: approx. **2,378 – 2,960 USD** for 3 rooms or **3,172 – 3,946 USD** for 4 rooms after estimated taxes/charges. | Parking approx. **40 USD/car/day**. Points inventory needs re-check across the new split stay. |
 | **Vancouver (Oct 17-20)** | [**Hilton Vancouver Downtown**](https://www.hilton.com/en/hotels/yvrwghh-hilton-vancouver-downtown/) | Approx. **4,020 CAD / 2,925 USD** for 3 rooms or **5,235 – 5,325 CAD / 3,804 – 3,870 USD** for 4 rooms after taxes. | 80k Hilton points/night was visible in the original check; re-check across 3 nights. Parking approx. **46 CAD self / 53 CAD valet**. |
 
-**Track 3 planning total:** approx. **8,100 – 9,900 USD** for the 3-room minimum plan, or **10,600 – 12,900 USD** for the 4-room comfort plan, before parking.
+**Track 3 planning total:** approx. **8,950 – 11,150 USD** for the 3-room minimum plan, or **11,725 – 14,575 USD** for the 4-room comfort plan, before parking.
 
 ---
 
@@ -331,13 +342,13 @@ Select one cohesive track below to simplify booking, keep travel styles consiste
 
 | Stop | Hotel | Researched Cost Estimate | Watch-Outs |
 | :--- | :--- | :--- | :--- |
-| **San Francisco / Marin (Oct 10-12)** | [**The Clancy, Autograph Collection**](https://www.marriott.com/en-us/hotels/sfoak-the-clancy-autograph-collection/) | Approx. **1,800 – 2,700 USD** for 3 rooms or **2,400 – 3,600 USD** for 4 rooms across 2 nights, after taxes. | Stylish, art-filled premium Autograph Collection property in South Beach/SOMA. Fantastic lobby & common areas. Valet parking approx. **70 USD/night**. |
+| **San Francisco / Marin (Oct 9-12)** | [**The Clancy, Autograph Collection**](https://www.marriott.com/en-us/hotels/sfoak-the-clancy-autograph-collection/) | Approx. **2,700 – 4,050 USD** for 3 rooms or **3,600 – 5,400 USD** for 4 rooms across 3 nights, after taxes. | Stylish, art-filled premium Autograph Collection property in South Beach/SOMA. Fantastic lobby & common areas. Valet parking approx. **70 USD/night**. |
 | **Crescent City (Oct 12-13)** | *Marriott Track Alternative:* [**Oceanfront Lodge**](https://www.oceanfrontlodge.com/) | Approx. **452 – 627 USD** for 3 rooms or **603 – 761 USD** for 4 rooms across 1 night, after 10% tax. | Family suite with 2 queens + futon is the cleaner 3-guys option. Free parking; breakfast may cost extra. |
 | **Portland (Oct 13-14)** | [**Residence Inn Portland Downtown/Pearl District**](https://www.marriott.com/en-us/hotels/pdxpd-residence-inn-portland-downtown-pearl-district/) | Approx. **680 – 692 USD** for 3 rooms or about **876 USD** for 4 rooms after Expedia taxes/fees. | Strong suite layout; valet/covered parking around **55 – 59 USD/night**. |
 | **Seattle (Oct 14-17 & 20-21)** | [**Residence Inn Seattle Downtown/Lake Union**](https://www.marriott.com/en-us/hotels/sealu-residence-inn-seattle-downtown-lake-union/) | All 4 Seattle nights combined: approx. **5,040 USD** for 3 rooms or **6,096 USD** for 4 rooms after room taxes/fees. | 3-room plan uses a shared 2BR suite for the guys. Parking approx. **41 USD + tax/car/night**. |
 | **Vancouver (Oct 17-20)** | [**Delta Hotels Vancouver Downtown Suites**](https://www.marriott.com/en-us/hotels/yvrdv-delta-hotels-vancouver-downtown-suites/) | Approx. **4,869 – 6,393 CAD / 3,555 – 4,668 USD** for 3 rooms or **6,492 – 8,523 CAD / 4,740 – 6,222 USD** for 4 rooms after Vancouver lodging taxes. | Points inventory needs re-check across 3 nights. Parking approx. **52 CAD/day**. |
 
-**Track 4 planning total:** approx. **11,500 – 13,800 USD** for the 3-room minimum plan, or **14,700 – 17,500 USD** for the 4-room comfort plan, before parking.
+**Track 4 planning total:** approx. **12,400 – 15,150 USD** for the 3-room minimum plan, or **15,900 – 19,300 USD** for the 4-room comfort plan, before parking.
 
 ---
 
@@ -346,10 +357,10 @@ Select one cohesive track below to simplify booking, keep travel styles consiste
 
 | Stop | Recommended VRBO Type & Location | Researched Cost Estimate | Watch-Outs & Practical Tips |
 | :--- | :--- | :--- | :--- |
-| **San Francisco / Marin (Oct 10-12)** | **4-5 Bedroom Marin County View House (Sausalito/Tiburon) or Spacious SF Neighborhood Home** | Approx. **550 – 950 USD / night** (Total: **1,700 – 2,800 USD** for 2 nights, including cleaning/service fees & local taxes). | Outstanding value for 5 friends. Homes in Marin County frequently include decks overlooking the Golden Gate/bay, private hot tubs, and free driveway parking. |
+| **San Francisco / Marin (Oct 9-12)** | **4-5 Bedroom Marin County View House (Sausalito/Tiburon) or Spacious SF Neighborhood Home** | Approx. **550 – 950 USD / night** (Total: **2,250 – 3,750 USD** for 3 nights, including cleaning/service fees & local taxes). | Outstanding value for 5 friends. Homes in Marin County frequently include decks overlooking the Golden Gate/bay, private hot tubs, and free driveway parking. |
 | **Crescent City (Oct 12-13)** | **4-Bedroom Oceanfront Cabin or Redwood Cottage** (e.g., near Redwood National Park or beachfront) | Approx. **300 – 450 USD / night** (Total: **550 – 750 USD** for 1 night, including fees). | High cleaning fees make 1-night VRBOs less cost-effective. *Alternative: Curly Redwood Lodge (406 USD for 4 rooms) is a simpler, cheaper transit choice.* |
 | **Portland (Oct 13-14)** | **4-Bedroom Central Townhouse** (e.g., Southeast Portland, Pearl District, or Mount Tabor) | Approx. **350 – 500 USD / night** (Total: **650 – 850 USD** for 1 night, including fees). | Very spacious with full kitchens and quiet residential vibes. But 1-night stays are high-friction; *Alternative: Hampton Inn (673 USD for 4 rooms).* |
 | **Seattle (Oct 14-17 & 20-21)** | **4-Bedroom View Home / Townhouse** (e.g., Queen Anne, Lake Union, or Capitol Hill) | All 4 Seattle nights combined (split 3-night and 1-night stays): Approx. **2,850 – 4,300 USD** total after fees. | Look for homes with rooftop decks offering Space Needle views and dedicated garages/parking spaces. Split stays require paying cleaning fees twice; consider keeping Seattle transit nights in hotels. |
 | **Vancouver (Oct 17-20)** | **4-Bedroom Modern Townhome / Character House** (e.g., Mount Pleasant, Kitsilano, or East Vancouver) | Approx. **450 – 850 CAD / night** (Total: **1,300 – 2,600 USD / 1,800 – 3,500 CAD** for 3 nights, including fees). | Fantastic neighborhood feels. Free residential parking is common. Check Canada-specific entry rules and host communications early. |
 
-**Track 5 planning total:** approx. **7,800 – 12,400 USD** for a full VRBO stay across all 11 road trip nights.
+**Track 5 planning total:** approx. **8,350 – 13,350 USD** for a full VRBO stay across all 11 road trip nights.

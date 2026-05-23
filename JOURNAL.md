@@ -98,3 +98,10 @@ Running notes for trip-planning changes made by humans and coding agents.
 - Codex added a compact trip snapshot and quick navigation block near the top of the itinerary.
 - Added stable internal anchors for the day-by-day schedule, wineries/fishing guide, dine-and-sip directory, hotel tracks, and lodging cost comparison so friends can jump around the long planning document more easily.
 - Codex added a compact GitHub-friendly trip calendar grid near the top of the itinerary so the group can quickly visualize the October 10-21 date pattern and overnight locations.
+
+## 2026-05-23
+
+### San Francisco Activity Question
+
+- Codex added Palace Games as an open friends-decision question on the San Francisco day-trip day.
+- It fits geographically at the Palace of Fine Arts, but the group should decide before booking because a structured 80-120 minute escape-room activity would compete with flexible SF sightseeing time.

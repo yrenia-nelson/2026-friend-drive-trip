@@ -125,3 +125,14 @@ Running notes for trip-planning changes made by humans and coding agents.
 - Added a new Day 1 schedule for Friday, October 9 (departing at 10:00 AM, stopping in Solvang for lunch, and checking in) and revised Saturday/Sunday (October 10-11) as relaxed weekend days in SF/Marin.
 - Recalculated and updated all 5 lodging track cost tables and total estimates to include the 3rd night in San Francisco/Marin.
 - Updated the overall trip dates, snapshots, calendar grid cells, and links to ensure complete itinerary alignment.
+
+### Food Options Quality Pass & Master Directory Expansion
+
+- Antigravity completed a thorough quality pass on all daily food, snack, and coffee spots mentioned in the itinerary to ensure geographical accuracy and zero misplacements.
+- Expanded the **❓🍴 Master Dine & Sip Ideas Directory** by integrating the 5 daily spots that were previously omitted:
+  - *Solvang Restaurant* (Solvang, CA)
+  - *Fisherman's Market* (Eugene, OR)
+  - *A la Mode Pie Cafe* (Granville Island, Vancouver, BC)
+  - *Caffe Vita* (Seattle, WA)
+  - *Victrola Coffee Roasters* (Seattle, WA)
+- Verified all website, menu, and Google Maps query links for the new directory entries, utilizing math-safe currency and emoji formatting (e.g. `💲`, `USD`, `CAD`) to prevent any LaTeX rendering issues.
